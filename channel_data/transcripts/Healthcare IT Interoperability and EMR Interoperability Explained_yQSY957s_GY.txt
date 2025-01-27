@@ -1,0 +1,142 @@
+Title: Healthcare IT Interoperability and EMR Interoperability Explained
+URL: https://www.youtube.com/watch?v=yQSY957s_GY
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic is EMR interoperability. In other words, sharing healthcare data. So EMR stands for electronic medical record or sometimes it's referred to as an EHR or an electronic health record. But the point is, is that the vast majority of health information today is stored electronically on electronic medical record. We used to have paper charts that we write in. Now it's done on the computer. Now it's done in the computer at the hospital. It's done at the computer at the doctor's office as well. And all the other places that you go to too, like an ambulatory surgery center, what have you. Now there have been a variety of regulations. I will not go into it. Where as to say that, look, that medical records for hospitals and doctor practice that historically have been siloed, right? Because they each had their own computer system, but those computer systems wouldn't talk to each other. So all that information that a patient would have about themselves, both information from their history of their diseases, information from like findings from like physical exams, whether it be like a mass was palpated in their abdomen or even their lab results, like their hemoglobin A1C level, or even their imaging results for MRIs or CT scans or plain x-rays. They were all siloed in all these different electronic medical record systems that didn't talk to each other. So if a patient went to like a different hospital or a different doctor and doctor would be like, okay, well, you know, what, what, what's going on with you? I had this scan. They took some blood. Yeah, I've got diabetes. What's your hemoglobin A1C? I don't know. They just took it like two weeks ago. Can't you look it up? And historically the answer would be like, no, we can't look it up because I'm not in the same healthcare or hospital system or physician practice that you had that done in. So it was hugely uncoordinated in terms of the information. And so patients want their medical information to be shared. The government, both federal and state governments want health information to be shared. Insurance company wants health information to be shared. Employers want health information to be shared because it allows for better healthcare coordination. And the American Hospital Association, the trade association for hospitals in America, guess what? They want health information to be shared as well. I mean, it's like mom and apple pie. Everybody wants health information to be shared, right? Now, why, why does the AHA favor the sharing of health information? Interoperability, fancy word for it, is because they say it increases patient safety. It improves care quality. It allows for the tracking of things like pandemics and it decreases cost. Sounds like a wonderful thing to do. Now, let's look at the reality. Where do we stand today in terms of actual sharing of information among hospital systems in America? So this is information from the government itself. I will leave a link in the show notes to the document, federal government says, look, cities, urban metropolitan areas is where 80% of the U S population lives. And it's where 90% of the doctors in America practice. So they specifically looked at the integration of health systems in major metropolitan urban areas. And this is what they found. They, and they ranked them. Okay. The number one city for the highest degree of health information integration, interoper, interoperability among hospitals was Cleveland at 78%. 78% of the hospitals in Cleveland had integrated electronic health information. Wonderful. Okay. Dallas, 60%. Okay. We're getting a little lower here. Boston, 50%. Boston, the city with like some of the most famous hospital systems in the world. Only half of them share any data with each other. We're starting to get kind of low here. Philadelphia is at the bottom of the barrel for major U S cities. Only 35%, only a third of the hospitals in Philadelphia share the information. Okay. Now the major cities of New York and Los Angeles, um, other major cities are kind of in between Cleveland and Philadelphia. So outside of the 15 largest cities in America, the rest of the major cities in America are sitting at 42% of their hospital share healthcare information. Now look at this. I will even tell you that maybe Cleveland sounds pretty good at almost 80%, four out of five hospitals, but even six out of 10, you know, four out of five hospitals in Dallas, like I would argue that's pretty pathetic. Like you mean to tell me that in this day and age that we all in major cities in America, you have somewhere between a third and if you're lucky, you know, four out of, you know, four out of five or, um, or three out of five that actually like share data. Like that seems unacceptably low. Now, of course, all the hospitals and the doctors come back with all of these reasons for why, and we're not going to get into those today. Those might be very legitimate reasons for why, but all I'm saying is somehow the people in Cleveland have been able to figure this out much better than the people in Philadelphia. And the people in Boston have only been able to figure it out half the time. So that just seems a little odd that it, no, don't get me wrong. I think the people of Cleveland are wonderful. I worked there for almost a year now, but the point is, is that if the people of Cleveland could do it, I think everybody else could probably do it as well. Now, let me give you a specific true story that just came to me. And it was from a doctor friend of mine, and he said, look, sometimes it's not an issue of the technological challenges of sharing data and interoperability. There are literally hospital systems and physician groups that are removing interoperability. In other words, they already got it. They already shared data, and they're getting rid of it. Let me give you an example. So this was a 500 plus multi-specialty physician practice in a major U.S. city that, guess what they did? They shared the images of their EMR because they had a whole bunch of imaging facilities and clinics. So they were doing CTs and MRIs and ultrasound. They had tons of different types of centers. Now, they didn't own hospitals, but they had all these different ambulatory centers and imaging centers, labs, et cetera, all over this metropolitan area, right? And they would share that information, including the images with the hospital systems. Now, they would give access to the images specifically for CT. So my friend happens to be an interventional radiologist. What do interventional radiologists use? They use imaging to biopsy. They do a whole bunch of stuff. But one of the things they do is they biopsy things that might be like little cancerous nodules, whether they be in the lung or the liver. And oftentimes that interventional radiologist needs the CT scan that initially found the nodule or the mass or whatever so that they can, when they go in, they know where to go to do the biopsy. So it was very helpful because they could just go into the multi-specialty practices, EMR, and they could see the CT scan and be like, ah, okay. And they wouldn't need to repeat the CT scan. You have to do the CT scan first because you kind of need to map it out and get a lay of the land of how you're going to do this biopsy. Okay. Now you still use imaging to actually guide the biopsy, but you got to get the CT scan first. No problem. They would see it from when they had it at the outpatient imaging center at the multi-specialty practice. Guess what happened? They stopped. This multi-specialty practice stopped providing access. They just turned it off. And they said, look, if the patient wants to go to the hospital to get their biopsy done, then we're going to charge the patient and then we will burn it onto a CD and they'll take the CD to the hospital. You got to be kidding me. Here we had a seamless, cost-free interoperability of sensitive healthcare information identifying cancer potentially. And this physician practice stopped doing it and instead made it more difficult by recharging the patient and then burning it on a CD. Anyone who's ever tried to move images or any doctors watching this that has tried to view images on a burnt-in CD, I mean, that is a clunky wonky, like 1998 sort of process. I mean, come on now. This is 24 years later. We don't burn CDs anymore. That's nuts. Okay. So they, why, why would they do this? Because they didn't want to lose the patients to the hospitals. Okay. If you want to go to the hospital, then it's on you to figure out how you're going to get the information over there. Okay. So in other words, interoperability, the hospital systems and the physician practices don't always want it because they use patient data as leverage. Oh, you want something done? Great. Keep doing it at our hospital. Keep doing it in our health system. Keep doing it in our physician practice because we have all your data. It increases the stickiness of the patients so that they don't have to compete on what price and quality, because maybe their prices are higher. Maybe their quality is lower, but they've got your data. So it makes it harder for you to use one of those other places. Maybe there's a physician who's like the world's expert in XYZ condition that a patient has, but they're in an unaffiliated hospital system. You mean to tell me you're going to make it more difficult for that person to . And here's the punchline to the story. Why would this multi-specialty practice all of a sudden do this? Why? Why would they start trying to leverage the patient data? Aha. They had recently been purchased by a private equity firm. They had new private equity ownership. And ultimately who was calling the shots? Well, I can't tell you who was ultimately calling the shots, but I can tell you that the ownership of that multi-specialty practice changed. And then this policy changed. I can't say that it was causational, but I can say that it correlated, it's not a good thing. So this same practice to this day, you go onto their website, they talk about being patient centered. And I will tell you that what they did here is the exact opposite of being patient centered. So it's super important. I've said this before in healthcare Z. Do not listen to what people say or what organizations say. Do not necessarily believe what they say on their websites or in their marketing material. Instead, watch what they do. Watch what they do, because that will tell you where their priorities really are. And that's my point for today. Thank you for watching a healthcareülltC Freunde for the last episode of C安IC Region Workspace. Bye. No, no, no, no. No, no, no, no, no. You're just like, I also like to give to what level of coffee is what you need to make a portfolio measure. Do not expect that. If it一樣, many people will express that in aüngstering quality set,omy 00مكن theen gallows form, 19 ただ. In a community of art pocket, 25 years of yoga, 22 00 jsem calm, 25 years of it and 24 years of it goes back into 063. Josh Filmson Coz that 986 audit Zach Triospического 2 An misunderstanding 1 073 Lies 063
+
+Detailed segments with timestamps:
+
+[0:01 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic
+[0:05 - 0:14]  is EMR interoperability. In other words, sharing healthcare data. So EMR stands for electronic
+[0:14 - 0:19]  medical record or sometimes it's referred to as an EHR or an electronic health record.
+[0:19 - 0:25]  But the point is, is that the vast majority of health information today is stored electronically
+[0:25 - 0:29]  on electronic medical record. We used to have paper charts that we write in. Now it's done
+[0:29 - 0:33]  on the computer. Now it's done in the computer at the hospital. It's done at the computer
+[0:33 - 0:38]  at the doctor's office as well. And all the other places that you go to too, like an ambulatory
+[0:38 - 0:44]  surgery center, what have you. Now there have been a variety of regulations. I will not go
+[0:44 - 0:49]  into it. Where as to say that, look, that medical records for hospitals and doctor practice that
+[0:49 - 0:53]  historically have been siloed, right? Because they each had their own computer system, but
+[0:53 - 0:58]  those computer systems wouldn't talk to each other. So all that information that a patient
+[0:58 - 1:02]  would have about themselves, both information from their history of their diseases, information
+[1:02 - 1:08]  from like findings from like physical exams, whether it be like a mass was palpated in their
+[1:08 - 1:15]  abdomen or even their lab results, like their hemoglobin A1C level, or even their imaging results
+[1:15 - 1:20]  for MRIs or CT scans or plain x-rays. They were all siloed in all these different electronic
+[1:20 - 1:24]  medical record systems that didn't talk to each other. So if a patient went to like a different
+[1:24 - 1:29]  hospital or a different doctor and doctor would be like, okay, well, you know, what, what,
+[1:29 - 1:35]  what's going on with you? I had this scan. They took some blood. Yeah, I've got diabetes.
+[1:36 - 1:40]  What's your hemoglobin A1C? I don't know. They just took it like two weeks ago. Can't you look
+[1:40 - 1:45]  it up? And historically the answer would be like, no, we can't look it up because I'm not in the same
+[1:45 - 1:52]  healthcare or hospital system or physician practice that you had that done in. So it was hugely
+[1:52 - 1:59]  uncoordinated in terms of the information. And so patients want their medical information to be
+[1:59 - 2:04]  shared. The government, both federal and state governments want health information to be shared.
+[2:04 - 2:09]  Insurance company wants health information to be shared. Employers want health information to be
+[2:09 - 2:16]  shared because it allows for better healthcare coordination. And the American Hospital Association,
+[2:16 - 2:22]  the trade association for hospitals in America, guess what? They want health information to be
+[2:22 - 2:28]  shared as well. I mean, it's like mom and apple pie. Everybody wants health information to be shared,
+[2:28 - 2:35]  right? Now, why, why does the AHA favor the sharing of health information? Interoperability,
+[2:36 - 2:41]  fancy word for it, is because they say it increases patient safety. It improves care quality.
+[2:41 - 2:49]  It allows for the tracking of things like pandemics and it decreases cost. Sounds like a wonderful thing
+[2:49 - 2:56]  to do. Now, let's look at the reality. Where do we stand today in terms of actual sharing of
+[2:56 - 3:02]  information among hospital systems in America? So this is information from the government itself.
+[3:02 - 3:07]  I will leave a link in the show notes to the document, federal government says, look, cities,
+[3:07 - 3:13]  urban metropolitan areas is where 80% of the U S population lives. And it's where 90% of the doctors
+[3:13 - 3:17]  in America practice. So they specifically looked at the integration of health systems in major
+[3:17 - 3:23]  metropolitan urban areas. And this is what they found. They, and they ranked them. Okay. The number
+[3:23 - 3:30]  one city for the highest degree of health information integration, interoper, interoperability among
+[3:30 - 3:39]  hospitals was Cleveland at 78%. 78% of the hospitals in Cleveland had integrated electronic health
+[3:39 - 3:48]  information. Wonderful. Okay. Dallas, 60%. Okay. We're getting a little lower here. Boston, 50%. Boston,
+[3:49 - 3:55]  the city with like some of the most famous hospital systems in the world. Only half of them share any data
+[3:55 - 4:01]  with each other. We're starting to get kind of low here. Philadelphia is at the bottom of the barrel
+[4:01 - 4:08]  for major U S cities. Only 35%, only a third of the hospitals in Philadelphia share the information.
+[4:08 - 4:16]  Okay. Now the major cities of New York and Los Angeles, um, other major cities are kind of in between
+[4:16 - 4:23]  Cleveland and Philadelphia. So outside of the 15 largest cities in America, the rest of the major cities in
+[4:23 - 4:29]  America are sitting at 42% of their hospital share healthcare information. Now look at this. I will
+[4:29 - 4:36]  even tell you that maybe Cleveland sounds pretty good at almost 80%, four out of five hospitals, but even
+[4:36 - 4:42]  six out of 10, you know, four out of five hospitals in Dallas, like I would argue that's pretty pathetic.
+[4:42 - 4:50]  Like you mean to tell me that in this day and age that we all in major cities in America, you have
+[4:50 - 4:57]  somewhere between a third and if you're lucky, you know, four out of, you know, four out of five or,
+[4:57 - 5:06]  um, or three out of five that actually like share data. Like that seems unacceptably low. Now,
+[5:06 - 5:10]  of course, all the hospitals and the doctors come back with all of these reasons for why,
+[5:10 - 5:15]  and we're not going to get into those today. Those might be very legitimate reasons for why,
+[5:15 - 5:20]  but all I'm saying is somehow the people in Cleveland have been able to figure this out
+[5:20 - 5:25]  much better than the people in Philadelphia. And the people in Boston have only been able to figure
+[5:25 - 5:29]  it out half the time. So that just seems a little odd that it, no, don't get me wrong. I think the
+[5:29 - 5:34]  people of Cleveland are wonderful. I worked there for almost a year now, but the point is, is that if
+[5:34 - 5:37]  the people of Cleveland could do it, I think everybody else could probably do it as well. Now,
+[5:37 - 5:46]  let me give you a specific true story that just came to me. And it was from a doctor friend of mine,
+[5:46 - 5:53]  and he said, look, sometimes it's not an issue of the technological challenges of sharing data and
+[5:53 - 6:00]  interoperability. There are literally hospital systems and physician groups that are removing
+[6:00 - 6:07]  interoperability. In other words, they already got it. They already shared data, and they're getting rid of it.
+[6:07 - 6:15]  Let me give you an example. So this was a 500 plus multi-specialty physician practice in a major U.S.
+[6:15 - 6:23]  city that, guess what they did? They shared the images of their EMR because they had a whole bunch of
+[6:23 - 6:28]  imaging facilities and clinics. So they were doing CTs and MRIs and ultrasound. They had tons of
+[6:30 - 6:33]  different types of centers. Now, they didn't own hospitals, but they had all these different
+[6:33 - 6:37]  ambulatory centers and imaging centers, labs, et cetera, all over this metropolitan area, right?
+[6:37 - 6:43]  And they would share that information, including the images with the hospital systems. Now,
+[6:45 - 6:49]  they would give access to the images specifically for CT. So my friend happens to be an interventional
+[6:49 - 6:55]  radiologist. What do interventional radiologists use? They use imaging to biopsy. They do a whole bunch
+[6:55 - 7:00]  of stuff. But one of the things they do is they biopsy things that might be like little cancerous
+[7:00 - 7:05]  nodules, whether they be in the lung or the liver. And oftentimes that interventional radiologist needs
+[7:05 - 7:11]  the CT scan that initially found the nodule or the mass or whatever so that they can, when they go in,
+[7:11 - 7:18]  they know where to go to do the biopsy. So it was very helpful because they could just go into the
+[7:18 - 7:23]  multi-specialty practices, EMR, and they could see the CT scan and be like, ah, okay. And they wouldn't need to
+[7:23 - 7:28]  repeat the CT scan. You have to do the CT scan first because you kind of need to map it out and get a lay of the land
+[7:28 - 7:35]  of how you're going to do this biopsy. Okay. Now you still use imaging to actually guide the biopsy, but you got to get the CT scan first.
+[7:35 - 7:41]  No problem. They would see it from when they had it at the outpatient imaging center at the multi-specialty practice.
+[7:41 - 7:50]  Guess what happened? They stopped. This multi-specialty practice stopped providing access. They just turned it off.
+[7:50 - 7:56]  And they said, look, if the patient wants to go to the hospital to get their biopsy done,
+[7:57 - 8:06]  then we're going to charge the patient and then we will burn it onto a CD and they'll take the CD to the hospital.
+[8:07 - 8:16]  You got to be kidding me. Here we had a seamless, cost-free interoperability of sensitive healthcare
+[8:16 - 8:24]  information identifying cancer potentially. And this physician practice stopped doing it and instead
+[8:24 - 8:32]  made it more difficult by recharging the patient and then burning it on a CD. Anyone who's ever tried to
+[8:32 - 8:37]  move images or any doctors watching this that has tried to view images on a burnt-in CD, I mean, that is a
+[8:37 - 8:46]  clunky wonky, like 1998 sort of process. I mean, come on now. This is 24 years later. We don't burn CDs
+[8:46 - 8:53]  anymore. That's nuts. Okay. So they, why, why would they do this? Because they didn't want to lose the
+[8:53 - 8:58]  patients to the hospitals. Okay. If you want to go to the hospital, then it's on you to figure out how
+[8:58 - 9:04]  you're going to get the information over there. Okay. So in other words, interoperability, the hospital
+[9:04 - 9:10]  systems and the physician practices don't always want it because they use patient data as leverage.
+[9:10 - 9:16]  Oh, you want something done? Great. Keep doing it at our hospital. Keep doing it in our health system.
+[9:16 - 9:21]  Keep doing it in our physician practice because we have all your data. It increases the stickiness of
+[9:21 - 9:29]  the patients so that they don't have to compete on what price and quality, because maybe their prices
+[9:29 - 9:34]  are higher. Maybe their quality is lower, but they've got your data. So it makes it harder for you to
+[9:34 - 9:39]  use one of those other places. Maybe there's a physician who's like the world's expert in XYZ
+[9:39 - 9:43]  condition that a patient has, but they're in an unaffiliated hospital system. You mean to tell
+[9:43 - 9:49]  me you're going to make it more difficult for that person to . And here's the punchline to the story.
+[9:49 - 9:57]  Why would this multi-specialty practice all of a sudden do this? Why? Why would they start trying to
+[9:57 - 10:05]  leverage the patient data? Aha. They had recently been purchased by a private equity firm. They had
+[10:05 - 10:14]  new private equity ownership. And ultimately who was calling the shots? Well, I can't tell you who was
+[10:14 - 10:18]  ultimately calling the shots, but I can tell you that the ownership of that multi-specialty practice
+[10:18 - 10:27]  changed. And then this policy changed. I can't say that it was causational, but I can say that it correlated,
+[10:27 - 10:31]  it's not a good thing. So this same practice to this day, you go onto their website, they talk about
+[10:31 - 10:36]  being patient centered. And I will tell you that what they did here is the exact opposite of being
+[10:36 - 10:42]  patient centered. So it's super important. I've said this before in healthcare Z. Do not listen to
+[10:42 - 10:48]  what people say or what organizations say. Do not necessarily believe what they say on their websites
+[10:48 - 10:55]  or in their marketing material. Instead, watch what they do. Watch what they do, because that will tell you
+[10:55 - 10:59]  where their priorities really are. And that's my point for today. Thank you for watching a healthcare
+[10:59 - 11:01] ülltC Freunde for the last episode of C安IC Region Workspace.
+[11:01 - 11:03]  Bye.
+[11:03 - 11:03]  No,
+[11:03 - 11:04]  no, no, no.
+[11:04 - 11:04]  No, no, no, no, no.
+[11:04 - 11:05]  You're just like, I also like to give to what level of coffee is what you need to make a
+[11:05 - 11:06]  portfolio measure.
+[11:06 - 11:07]  Do not expect that.
+[11:07 - 11:08]  If it一樣,
+[11:08 - 11:09]  many people will express that in aüngstering quality set,
+[11:09 - 11:10] omy 00مكن theen gallows form,
+[11:10 - 11:10]  19 ただ.
+[11:10 - 11:11]  In a community of art pocket,
+[11:11 - 11:12]  25 years of yoga,
+[11:12 - 11:13]  22 00 jsem calm,
+[11:13 - 11:14]  25 years of it and 24 years of it goes back into
+[11:14 - 11:14]  063.
+[11:14 - 11:15]  Josh Filmson Coz that 986
+[11:15 - 11:16]  audit Zach Triospического
+[11:16 - 11:17]  2
+[11:17 - 11:18]  An misunderstanding
+[11:18 - 11:19]  1
+[11:19 - 11:20]  073
+[11:20 - 11:22]  Lies
+[11:22 - 11:24]  063

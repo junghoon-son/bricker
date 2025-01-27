@@ -1,0 +1,255 @@
+Title: Prescription Medication Prior Authorization Explained
+URL: https://www.youtube.com/watch?v=efqMMtmc7os
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic is prescription prior authorization. Now, I've made a previous video about prior authorizations that I will leave a link to in the show notes, but this one specifically talks about prior authorizations for prescription medications because what's one of the most common things that we get at the doctor's office is a prescription for a medication and a lot of times it requires prior authorization. So we're going to go through the steps that it takes to actually obtain a prior authorization for a medication. So, obviously it starts off with the prescriber. Now, I specifically use the word prescriber here because in the world of pharmacy, that's what they call people who prescribe things, prescribers. It could be a doctor. It could be a nurse practitioner. It could be a physician's assistant. Shoot, it could even be a podiatrist or a dentist. Sometimes they prescribe antibiotics, etc. So they call them prescribers. They all kind of lump them together. Okay, so then, obviously, there's medications that require prior authorizations and there are medications that don't require prior authorizations. How do you know? Well, that first step is actually pretty difficult and it depends upon who the insurance carrier slash PBM is. And I'll leave a link in the show notes to describe what a PBM is. We are not going to go over that in detail. That is a whole other topic in and of itself. Okay, so you can just go online and you can look up CVS's formulary and you can actually see they list the medications that require prior authorizations. Guess how many medications it is? It's about 495 medications. Now, I started counting them and it was so many. I'm like, I'm just going to count how many are on a page. And there was about 45 per page. And then I counted, okay, well, how many pages are there? There's 11 pages of prior authorization medications. So for CVS, there's about 495 medications that require prior authorization. But that could be different for Express Scripts, Evernorth. That could be different for Prime Therapeutics. That could be different for OptumRx. So just the first step of figuring out if the medication does or does not require prior authorization, it's a little challenging if you wanted to be proactive. I mean, you could just order the, you know, write a prescription for the medication and just get the denial from the pharmacy. You could just find out that way. But if you wanted to be proactive, it's actually kind of difficult to do that. Okay, next. There's a couple of ways to do it. Shoot, of course, in health care, we use fax machines. And so in certain states, I looked up in the state of Illinois, they actually have a standardized prescription prior authorization form that has to be used across the entire state of Illinois. But the problem is that it has 40 fields that you have to fill out for this fax. Or you can do it the way that this gives us the 21st century. We're trying to move towards electronic prior authorizations. But believe me, there are many doctors, hospitals, ambulatory surgery centers, you name it, that still use the fax machine. I know for a fact my kid's pediatrician's office still uses the fax machine. And they've got like six pediatricians. This is not some like, you know, small hocus pocus pediatric practice. I mean, it's like a huge practice. Okay. Now, if you do it electronically, interestingly, there's actually another vendor in between the prescriber and the PBM that is the electronic go-between. Now, who are those companies? One of them is called Cover My Meds, which is a subsidiary of McKesson. Another one is called SureScripts that I've also talked about in a previous video. I'll leave a link to it in the show notes, which is actually co-founded and co-owned by CVS and ExpressScripts. And then each individual PBM also has their own sort of direct electronic means of submitting a prior authorization as well. So there's sort of a handful of ways you could do it. So it brings up this sort of like permutations and combinations where it's like, okay, for some, you might do fax machine. But for other, you might go through Cover My Meds. And for other folks that don't use Cover My Meds or SureScripts, they might have to go to the individual ones, electronic sites for some, but then fax others. And in fact, I'll leave a link to a fantastic summary of the sort of the state of electronic prescribing in America in the show notes. And it actually says that the majority of physicians use a combination of these routes for doing their medication prior authorizations. So it's not just one route. It's not like people just do the fax machine or they just do e-prescribing, that most physicians actually use some sort of combination when they're doing prior authorizations. Okay, so then it goes over to the prior authorization sort of department within the PBM. And the prior authorization tech, especially if it comes in via fax, has to abstract the information from that fax and actually hand type it into the system within the PBM. Now, you can imagine there could be some recording errors if you're taking it off of a fax and putting it into a system, whether it be maybe putting too many zeros or too few or what have you or misspelling something. Okay, so the PA tech enters into the system and then it goes over through that system to a prior authorization pharmacist at the PBM. Now, there's a fantastic video by a prior authorization pharmacist on YouTube that I got this information from. And she kind of describes her workday. Now, this is just her experience, but it kind of pulls back the curtain a little bit to give you more information about what she does as a prior authorization pharmacist. So she says that she is expected to do 60 cases per day, which for an eight-hour day, which means that she would need to review a case every eight minutes. Now, a case could be like one person and that person could just have one prescription or it could be multiple prescriptions. So there's probably varying degrees of complexity there. She specifically is new to being a prior authorization pharmacist. And she says that she has a really hard time doing 60 a day. She says that if she's like going like really fast, she can do like 50, but she has a really hard time doing 60. That's just her experience. Maybe there's other prior authorization pharmacists who can easily do one review every eight minutes. I don't know. I'm just sharing what she shared. Okay, now, then they review the information inputted by the prior authorization criteria. And some of the criteria are based on things like age. So there's certain medications that just will not be authorized if you're either, let's say, below 18 or over 18. Example of that is retinol for a retinoic acid for acne. So a lot of times a plan will require prior authorization for retinol for treating acne. And they'll do it for people under the age of 18, but they won't cover it if you're over 18. So that's why they need the age. Sometimes it's on lab value. So believe it or not, there's, and I'm just giving you certain examples. There's many other examples. There's actually certain psychiatric medications. So risperidone or risperidol that actually can have problems with having high blood glucose levels. It can cause you to gain a lot of weight, and it can even predispose you to potentially getting diabetes and having high blood sugar. So there, they actually need lab values. They need to know what the patient's blood glucose level is and make sure that it's not too high in order to approve the risperidol. Likewise, they need to make sure that you're not overly obese, so they need your BMI as well. And even if the lab values and the BMI are fine, again, you don't necessarily know up front what information. Like, there's no place on that fax to put in BMI and glucose levels. Like, you don't know. It's a standard form for all medications. So there are certain requirements that even if, like, the patient, like, fits it, if it wasn't submitted with the prior authorization, it's going to get denied. Okay, we need to know what their glucose is. Is it less than 120? Well, shoot, it might be less than 120, but if they haven't submitted it, then they're going to deny it. Okay, next up. Interestingly, she says that certain medications are denied because the prior authorization requires that the physician be of a specific specialty. Specifically, like for the retinol, for the retinoic acid, you've got to be a dermatologist. Oh, that was interesting. That's the first time I ever had heard that a denial would actually be done just solely based upon the specialty of the physician. The clinical criteria for the patient might be totally fine. BMI's fine. Glucose is fine. You don't need that for retinol, but you get my point. But just the fact that the doctor was or was not a certain specialty? Denial. And I thought to myself, well, that's kind of hard, especially if you're, like, in a rural area or, like, an inner city. Like, you might not have access to a dermatologist. And I think it's, this is my clinical opinion, I think it's perfectly reasonable for, like, a pediatrician or for a family practice doc to prescribe retinol. I mean, it's a cream, and you've got to be careful with it that you don't put too much on and you can, you know, potentially have adverse side effects with your skin with it, like with many creams. But to say that only a dermatologist can prescribe retinol just seemed a little odd to me. Okay. Now, interestingly, too, she said many times it requires her independent clinical judgment as a pharmacist as to decide whether or not to approve or deny a prior authorization request. And I thought that was very interesting because she herself was saying, look, a lot of it was very subjective and just to paste upon her own clinical opinion. Now, obviously, in between doctors, you've got different clinical opinions. So I would imagine in between pharmacists, you have different clinical opinions as well. So there's some degree of subjectivity. Now, let's say you get through all that. Great. It's approved. You've got to put the pharmacy on here so they approve it for that pharmacy. Great. But if they deny it, they send that back to the doctor's office with the denial. Now, interestingly, in the state of Illinois, it has to be done within 72 hours. Or you can check a box that says, look, this is clinically urgent, in which case it needs to be done within 24 hours. But if you're prescribing something, let's say in the morning, like the patient is not necessarily going to be able to pick it up the same day or that afternoon. Like they may have to wait overnight, even if it's quote unquote urgent. And I can tell you, like there are absolutely situations where like, let's say I'm prescribing a blood pressure medication. I'm like, dude, I see you in the office. You come in for a blood pressure check. Your blood pressure is elevated. But I want to get you on something like now. And I could probably keep you out of the ER and I could probably keep you out of the urgent care center or what have you if I can kind of get you on that. We used to use nifedipine XL a lot, 30 milligrams for people that had pretty high blood pressure. But the nifedipine actually works pretty well, pretty fast. So you could get them the nifedipine, maybe have them come in the next day for a blood pressure check, make sure they were doing okay. And you could keep them out of the hospital or keep them out of the ER for doing that. Okay. So now they do put their rationale for the denial on there. Oftentimes she says they do use templates. Now it goes back to the doc. As you can imagine, the doc can then just change the medication and either do a medication that doesn't require prior authorization at all or go through a medication that requires a different type of prior authorization. So you go through this whole process again. Or they could add additional clinical information. They could be like, oh, well, I've got their blood sugar and I've got their BMI for the Risperdal. So we can just put that on there and do it. And then, okay, additional clinical information is on there. Great. I didn't know you needed it. Now I gave it to you. Now they can approve it. Or, you know, let's say the person's, you know, BMI was too high or the glucose was, you know, let's say it was 121 and it had to be less than 120 or whatever the amount was. And then they would deny it again. And at that point, the physician's office can be like, well, look, you know, I don't agree with your clinical assessment for why I can't prescribe this medication. At which point it's escalated to the medical director. And then the medical director would interact with the doctor's office and the medical director could trump it and they could just approve it. Or it would just be a denial and be like, look, the medical director's like, look, this is the way it is. We're not going to change our decision around the authorization denial. Okay. So as you can imagine, when you've got the prescriber, you've got an intermediary for submitting the information. You've got the actual PBM that has multiple parties within it. You've got the tech. You've got the pharmacist. And then you would potentially have the medical director. That just from a process, like the point of this video is not to go into the detail around like the clinical appropriateness of whether you should do this or should not do this. I mean, believe me, that is a legitimate conversation, but it's just not the point of this article today. The point is, is that it takes time. It slows things down. It's cumbersome. It's prone to error. What are the implications of that? What are some of the results of that? So, again, from a fantastic article I'll leave a link to in the show notes, a survey of physicians said that 64% of the surveyed physicians say that they have to wait one business day to hear back anything regarding a prior authorization, denial or approval. 29%, so we're going on almost a third of doctors, say that they have to wait three business days for the approval or the denial. So that kind of fits within the 24 to 72 hours for the state of Illinois. That kind of goes along with the general understanding here as well. Now, interestingly, the surveyed physicians also said that half the time, for like half those prior authorization requests that they made, that this one business day or three business day caused a delay in care. Okay, so you could wait a business day and you're like, oh, you know, it's kind of annoying, but it doesn't really, you know, delay care per se because, you know, let's say they already had enough pills at home. They hadn't run out yet. You were getting a prior authorization on a refill or a new prescription, etc. So, like, it didn't delay care because they still had some pills left at home. Okay, this is the opposite of that. This is saying half the time it actually delays care. It delays the treatment of the behavior disorder or the depression. It delays the treatment of the acne. It could delay much more, you know, serious conditions as well. Now, 24% of the surveyed physicians say that the prior authorization process and just the time that it takes causes and have caused adverse events in their patients. And 16% say that they've actually resulted in hospitalization. So, just the process. So, one of the things that we talk about on A Healthcare C is how the healthcare system itself is actually a public health threat. So, the point is, let's say you had, you know, something in the water. Or let's say you had a bug that was transmitting a germ, right? They would, those, you know, those things in the water or those germs that are transmitted by a bug, they might have, like, a 24% rate of adverse events in patients. Or that, you know, that particular germ in the bug might cause 16% hospitalization. So, the point is, the healthcare delivery system and payment mechanism itself is a public health threat akin to dirty water and germs from insects. Okay. So, the argument against that is, well, this is just payment. The doctor needs to do the right thing independent of payment. Listen, I'm just saying that regardless of whether or not you think this process actually should impact clinical care, the point is, with these surveyed physicians, it does. Again, that's up for discussion. But that's essentially what these doctors who are surveyed are saying. And many would agree with them. Okay. So, at this time, it takes a lot of time. Fine. What does it take in terms of the prescriber's time? They say that they do, the surveyed physicians say they do 33 prior authorizations per week. And that it takes them about 14 hours of their week to do it. Now, keep in mind that there is an opportunity cost. So, that is 14 hours that they are not spending thinking about other things with their patients. So, there has been an effort to do e-prescribing to improve this process. And just going into the details, excuse me, not e-prescribing, the e-prior authorization. Now, e-prior authorizations, they have their pros, they have their cons. It is the effort that is being made now to try to streamline this process. We're not there 100%. So, just know that in the meantime, for you as an individual patient, for you as an HR leader, for you as a broker benefits consultant, just know that your health plan members right now are being subjected to a process that 24% of the time can result in adverse events, and 16% of the time has resulted in hospitalizations. So, that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z.
+[0:04 - 0:08]  Today's topic is prescription prior authorization.
+[0:09 - 0:14]  Now, I've made a previous video about prior authorizations that I will leave a link to in the show notes,
+[0:14 - 0:18]  but this one specifically talks about prior authorizations for prescription medications
+[0:18 - 0:23]  because what's one of the most common things that we get at the doctor's office is a prescription for a medication
+[0:23 - 0:25]  and a lot of times it requires prior authorization.
+[0:25 - 0:34]  So we're going to go through the steps that it takes to actually obtain a prior authorization for a medication.
+[0:34 - 0:36]  So, obviously it starts off with the prescriber.
+[0:37 - 0:41]  Now, I specifically use the word prescriber here because in the world of pharmacy,
+[0:41 - 0:46]  that's what they call people who prescribe things, prescribers.
+[0:46 - 0:50]  It could be a doctor. It could be a nurse practitioner. It could be a physician's assistant.
+[0:51 - 0:54]  Shoot, it could even be a podiatrist or a dentist.
+[0:54 - 0:57]  Sometimes they prescribe antibiotics, etc.
+[0:57 - 1:00]  So they call them prescribers. They all kind of lump them together.
+[1:01 - 1:06]  Okay, so then, obviously, there's medications that require prior authorizations
+[1:06 - 1:09]  and there are medications that don't require prior authorizations.
+[1:09 - 1:10]  How do you know?
+[1:10 - 1:13]  Well, that first step is actually pretty difficult
+[1:13 - 1:18]  and it depends upon who the insurance carrier slash PBM is.
+[1:18 - 1:22]  And I'll leave a link in the show notes to describe what a PBM is.
+[1:22 - 1:23]  We are not going to go over that in detail.
+[1:24 - 1:26]  That is a whole other topic in and of itself.
+[1:26 - 1:33]  Okay, so you can just go online and you can look up CVS's formulary
+[1:33 - 1:38]  and you can actually see they list the medications that require prior authorizations.
+[1:38 - 1:39]  Guess how many medications it is?
+[1:39 - 1:42]  It's about 495 medications.
+[1:42 - 1:45]  Now, I started counting them and it was so many.
+[1:45 - 1:47]  I'm like, I'm just going to count how many are on a page.
+[1:47 - 1:49]  And there was about 45 per page.
+[1:50 - 1:52]  And then I counted, okay, well, how many pages are there?
+[1:52 - 1:55]  There's 11 pages of prior authorization medications.
+[1:56 - 2:01]  So for CVS, there's about 495 medications that require prior authorization.
+[2:01 - 2:06]  But that could be different for Express Scripts, Evernorth.
+[2:06 - 2:09]  That could be different for Prime Therapeutics.
+[2:09 - 2:11]  That could be different for OptumRx.
+[2:12 - 2:18]  So just the first step of figuring out if the medication does or does not require prior authorization,
+[2:19 - 2:21]  it's a little challenging if you wanted to be proactive.
+[2:21 - 2:25]  I mean, you could just order the, you know, write a prescription for the medication
+[2:25 - 2:26]  and just get the denial from the pharmacy.
+[2:26 - 2:28]  You could just find out that way.
+[2:28 - 2:31]  But if you wanted to be proactive, it's actually kind of difficult to do that.
+[2:31 - 2:32]  Okay, next.
+[2:32 - 2:33]  There's a couple of ways to do it.
+[2:34 - 2:38]  Shoot, of course, in health care, we use fax machines.
+[2:38 - 2:41]  And so in certain states, I looked up in the state of Illinois,
+[2:42 - 2:46]  they actually have a standardized prescription prior authorization form
+[2:46 - 2:48]  that has to be used across the entire state of Illinois.
+[2:49 - 2:56]  But the problem is that it has 40 fields that you have to fill out for this fax.
+[2:56 - 3:01]  Or you can do it the way that this gives us the 21st century.
+[3:01 - 3:05]  We're trying to move towards electronic prior authorizations.
+[3:06 - 3:14]  But believe me, there are many doctors, hospitals, ambulatory surgery centers, you name it,
+[3:14 - 3:17]  that still use the fax machine.
+[3:17 - 3:23]  I know for a fact my kid's pediatrician's office still uses the fax machine.
+[3:23 - 3:25]  And they've got like six pediatricians.
+[3:25 - 3:29]  This is not some like, you know, small hocus pocus pediatric practice.
+[3:29 - 3:30]  I mean, it's like a huge practice.
+[3:31 - 3:31]  Okay.
+[3:31 - 3:36]  Now, if you do it electronically, interestingly, there's actually another vendor
+[3:36 - 3:48]  in between the prescriber and the PBM that is the electronic go-between.
+[3:48 - 3:49]  Now, who are those companies?
+[3:49 - 3:53]  One of them is called Cover My Meds, which is a subsidiary of McKesson.
+[3:54 - 3:58]  Another one is called SureScripts that I've also talked about in a previous video.
+[3:58 - 4:06]  I'll leave a link to it in the show notes, which is actually co-founded and co-owned by CVS and ExpressScripts.
+[4:07 - 4:20]  And then each individual PBM also has their own sort of direct electronic means of submitting a prior authorization as well.
+[4:20 - 4:22]  So there's sort of a handful of ways you could do it.
+[4:22 - 4:28]  So it brings up this sort of like permutations and combinations where it's like, okay, for some, you might do fax machine.
+[4:29 - 4:32]  But for other, you might go through Cover My Meds.
+[4:32 - 4:40]  And for other folks that don't use Cover My Meds or SureScripts, they might have to go to the individual ones, electronic sites for some, but then fax others.
+[4:40 - 4:49]  And in fact, I'll leave a link to a fantastic summary of the sort of the state of electronic prescribing in America in the show notes.
+[4:49 - 4:58]  And it actually says that the majority of physicians use a combination of these routes for doing their medication prior authorizations.
+[4:58 - 4:59]  So it's not just one route.
+[4:59 - 5:07]  It's not like people just do the fax machine or they just do e-prescribing, that most physicians actually use some sort of combination when they're doing prior authorizations.
+[5:07 - 5:16]  Okay, so then it goes over to the prior authorization sort of department within the PBM.
+[5:17 - 5:29]  And the prior authorization tech, especially if it comes in via fax, has to abstract the information from that fax and actually hand type it into the system within the PBM.
+[5:29 - 5:41]  Now, you can imagine there could be some recording errors if you're taking it off of a fax and putting it into a system, whether it be maybe putting too many zeros or too few or what have you or misspelling something.
+[5:41 - 5:51]  Okay, so the PA tech enters into the system and then it goes over through that system to a prior authorization pharmacist at the PBM.
+[5:51 - 5:58]  Now, there's a fantastic video by a prior authorization pharmacist on YouTube that I got this information from.
+[5:58 - 6:00]  And she kind of describes her workday.
+[6:00 - 6:08]  Now, this is just her experience, but it kind of pulls back the curtain a little bit to give you more information about what she does as a prior authorization pharmacist.
+[6:08 - 6:20]  So she says that she is expected to do 60 cases per day, which for an eight-hour day, which means that she would need to review a case every eight minutes.
+[6:20 - 6:25]  Now, a case could be like one person and that person could just have one prescription or it could be multiple prescriptions.
+[6:25 - 6:28]  So there's probably varying degrees of complexity there.
+[6:28 - 6:33]  She specifically is new to being a prior authorization pharmacist.
+[6:33 - 6:37]  And she says that she has a really hard time doing 60 a day.
+[6:37 - 6:43]  She says that if she's like going like really fast, she can do like 50, but she has a really hard time doing 60.
+[6:43 - 6:44]  That's just her experience.
+[6:45 - 6:51]  Maybe there's other prior authorization pharmacists who can easily do one review every eight minutes.
+[6:51 - 6:51]  I don't know.
+[6:52 - 6:53]  I'm just sharing what she shared.
+[6:53 - 6:58]  Okay, now, then they review the information inputted by the prior authorization criteria.
+[6:58 - 7:01]  And some of the criteria are based on things like age.
+[7:01 - 7:08]  So there's certain medications that just will not be authorized if you're either, let's say, below 18 or over 18.
+[7:09 - 7:16]  Example of that is retinol for a retinoic acid for acne.
+[7:16 - 7:23]  So a lot of times a plan will require prior authorization for retinol for treating acne.
+[7:23 - 7:27]  And they'll do it for people under the age of 18, but they won't cover it if you're over 18.
+[7:27 - 7:28]  So that's why they need the age.
+[7:28 - 7:29]  Sometimes it's on lab value.
+[7:30 - 7:32]  So believe it or not, there's, and I'm just giving you certain examples.
+[7:32 - 7:33]  There's many other examples.
+[7:33 - 7:38]  There's actually certain psychiatric medications.
+[7:38 - 7:45]  So risperidone or risperidol that actually can have problems with having high blood glucose levels.
+[7:45 - 7:51]  It can cause you to gain a lot of weight, and it can even predispose you to potentially getting diabetes and having high blood sugar.
+[7:51 - 7:54]  So there, they actually need lab values.
+[7:54 - 8:01]  They need to know what the patient's blood glucose level is and make sure that it's not too high in order to approve the risperidol.
+[8:01 - 8:06]  Likewise, they need to make sure that you're not overly obese, so they need your BMI as well.
+[8:06 - 8:13]  And even if the lab values and the BMI are fine, again, you don't necessarily know up front what information.
+[8:13 - 8:18]  Like, there's no place on that fax to put in BMI and glucose levels.
+[8:18 - 8:19]  Like, you don't know.
+[8:19 - 8:20]  It's a standard form for all medications.
+[8:21 - 8:31]  So there are certain requirements that even if, like, the patient, like, fits it, if it wasn't submitted with the prior authorization, it's going to get denied.
+[8:31 - 8:32]  Okay, we need to know what their glucose is.
+[8:32 - 8:33]  Is it less than 120?
+[8:33 - 8:37]  Well, shoot, it might be less than 120, but if they haven't submitted it, then they're going to deny it.
+[8:37 - 8:38]  Okay, next up.
+[8:38 - 8:48]  Interestingly, she says that certain medications are denied because the prior authorization requires that the physician be of a specific specialty.
+[8:49 - 8:53]  Specifically, like for the retinol, for the retinoic acid, you've got to be a dermatologist.
+[8:53 - 8:54]  Oh, that was interesting.
+[8:54 - 9:02]  That's the first time I ever had heard that a denial would actually be done just solely based upon the specialty of the physician.
+[9:02 - 9:06]  The clinical criteria for the patient might be totally fine.
+[9:06 - 9:07]  BMI's fine.
+[9:08 - 9:09]  Glucose is fine.
+[9:09 - 9:11]  You don't need that for retinol, but you get my point.
+[9:11 - 9:14]  But just the fact that the doctor was or was not a certain specialty?
+[9:15 - 9:16]  Denial.
+[9:16 - 9:21]  And I thought to myself, well, that's kind of hard, especially if you're, like, in a rural area or, like, an inner city.
+[9:21 - 9:23]  Like, you might not have access to a dermatologist.
+[9:23 - 9:33]  And I think it's, this is my clinical opinion, I think it's perfectly reasonable for, like, a pediatrician or for a family practice doc to prescribe retinol.
+[9:33 - 9:45]  I mean, it's a cream, and you've got to be careful with it that you don't put too much on and you can, you know, potentially have adverse side effects with your skin with it, like with many creams.
+[9:45 - 9:51]  But to say that only a dermatologist can prescribe retinol just seemed a little odd to me.
+[9:52 - 9:52]  Okay.
+[9:52 - 10:06]  Now, interestingly, too, she said many times it requires her independent clinical judgment as a pharmacist as to decide whether or not to approve or deny a prior authorization request.
+[10:06 - 10:14]  And I thought that was very interesting because she herself was saying, look, a lot of it was very subjective and just to paste upon her own clinical opinion.
+[10:14 - 10:18]  Now, obviously, in between doctors, you've got different clinical opinions.
+[10:18 - 10:21]  So I would imagine in between pharmacists, you have different clinical opinions as well.
+[10:21 - 10:23]  So there's some degree of subjectivity.
+[10:24 - 10:26]  Now, let's say you get through all that.
+[10:27 - 10:27]  Great.
+[10:27 - 10:28]  It's approved.
+[10:28 - 10:32]  You've got to put the pharmacy on here so they approve it for that pharmacy.
+[10:32 - 10:32]  Great.
+[10:32 - 10:36]  But if they deny it, they send that back to the doctor's office with the denial.
+[10:36 - 10:43]  Now, interestingly, in the state of Illinois, it has to be done within 72 hours.
+[10:43 - 10:50]  Or you can check a box that says, look, this is clinically urgent, in which case it needs to be done within 24 hours.
+[10:50 - 10:57]  But if you're prescribing something, let's say in the morning, like the patient is not necessarily going to be able to pick it up the same day or that afternoon.
+[10:58 - 11:02]  Like they may have to wait overnight, even if it's quote unquote urgent.
+[11:02 - 11:08]  And I can tell you, like there are absolutely situations where like, let's say I'm prescribing a blood pressure medication.
+[11:08 - 11:10]  I'm like, dude, I see you in the office.
+[11:10 - 11:11]  You come in for a blood pressure check.
+[11:11 - 11:12]  Your blood pressure is elevated.
+[11:12 - 11:14]  But I want to get you on something like now.
+[11:14 - 11:22]  And I could probably keep you out of the ER and I could probably keep you out of the urgent care center or what have you if I can kind of get you on that.
+[11:23 - 11:30]  We used to use nifedipine XL a lot, 30 milligrams for people that had pretty high blood pressure.
+[11:30 - 11:32]  But the nifedipine actually works pretty well, pretty fast.
+[11:33 - 11:37]  So you could get them the nifedipine, maybe have them come in the next day for a blood pressure check, make sure they were doing okay.
+[11:37 - 11:40]  And you could keep them out of the hospital or keep them out of the ER for doing that.
+[11:40 - 11:41]  Okay.
+[11:41 - 11:45]  So now they do put their rationale for the denial on there.
+[11:45 - 11:47]  Oftentimes she says they do use templates.
+[11:47 - 11:48]  Now it goes back to the doc.
+[11:48 - 11:58]  As you can imagine, the doc can then just change the medication and either do a medication that doesn't require prior authorization at all or go through a medication that requires a different type of prior authorization.
+[11:58 - 12:00]  So you go through this whole process again.
+[12:00 - 12:02]  Or they could add additional clinical information.
+[12:02 - 12:06]  They could be like, oh, well, I've got their blood sugar and I've got their BMI for the Risperdal.
+[12:06 - 12:09]  So we can just put that on there and do it.
+[12:09 - 12:12]  And then, okay, additional clinical information is on there.
+[12:12 - 12:12]  Great.
+[12:12 - 12:13]  I didn't know you needed it.
+[12:13 - 12:14]  Now I gave it to you.
+[12:14 - 12:15]  Now they can approve it.
+[12:15 - 12:24]  Or, you know, let's say the person's, you know, BMI was too high or the glucose was, you know, let's say it was 121 and it had to be less than 120 or whatever the amount was.
+[12:24 - 12:26]  And then they would deny it again.
+[12:26 - 12:33]  And at that point, the physician's office can be like, well, look, you know, I don't agree with your clinical assessment for why I can't prescribe this medication.
+[12:33 - 12:36]  At which point it's escalated to the medical director.
+[12:36 - 12:42]  And then the medical director would interact with the doctor's office and the medical director could trump it and they could just approve it.
+[12:42 - 12:47]  Or it would just be a denial and be like, look, the medical director's like, look, this is the way it is.
+[12:47 - 12:51]  We're not going to change our decision around the authorization denial.
+[12:51 - 12:51]  Okay.
+[12:51 - 13:01]  So as you can imagine, when you've got the prescriber, you've got an intermediary for submitting the information.
+[13:02 - 13:06]  You've got the actual PBM that has multiple parties within it.
+[13:06 - 13:07]  You've got the tech.
+[13:07 - 13:08]  You've got the pharmacist.
+[13:08 - 13:10]  And then you would potentially have the medical director.
+[13:11 - 13:20]  That just from a process, like the point of this video is not to go into the detail around like the clinical appropriateness of whether you should do this or should not do this.
+[13:20 - 13:24]  I mean, believe me, that is a legitimate conversation, but it's just not the point of this article today.
+[13:24 - 13:27]  The point is, is that it takes time.
+[13:27 - 13:29]  It slows things down.
+[13:29 - 13:30]  It's cumbersome.
+[13:30 - 13:32]  It's prone to error.
+[13:33 - 13:34]  What are the implications of that?
+[13:34 - 13:35]  What are some of the results of that?
+[13:35 - 13:49]  So, again, from a fantastic article I'll leave a link to in the show notes, a survey of physicians said that 64% of the surveyed physicians say that they have to wait one business day to hear back anything
+[13:49 - 13:54]  regarding a prior authorization, denial or approval.
+[13:55 - 14:07]  29%, so we're going on almost a third of doctors, say that they have to wait three business days for the approval or the denial.
+[14:07 - 14:11]  So that kind of fits within the 24 to 72 hours for the state of Illinois.
+[14:11 - 14:14]  That kind of goes along with the general understanding here as well.
+[14:14 - 14:24]  Now, interestingly, the surveyed physicians also said that half the time, for like half those prior authorization requests that they made,
+[14:24 - 14:30]  that this one business day or three business day caused a delay in care.
+[14:30 - 14:34]  Okay, so you could wait a business day and you're like, oh, you know, it's kind of annoying,
+[14:34 - 14:41]  but it doesn't really, you know, delay care per se because, you know, let's say they already had enough pills at home.
+[14:41 - 14:42]  They hadn't run out yet.
+[14:42 - 14:46]  You were getting a prior authorization on a refill or a new prescription, etc.
+[14:46 - 14:50]  So, like, it didn't delay care because they still had some pills left at home.
+[14:50 - 14:52]  Okay, this is the opposite of that.
+[14:52 - 14:55]  This is saying half the time it actually delays care.
+[14:56 - 14:59]  It delays the treatment of the behavior disorder or the depression.
+[14:59 - 15:02]  It delays the treatment of the acne.
+[15:03 - 15:07]  It could delay much more, you know, serious conditions as well.
+[15:07 - 15:16]  Now, 24% of the surveyed physicians say that the prior authorization process and just the time that it takes
+[15:16 - 15:22]  causes and have caused adverse events in their patients.
+[15:23 - 15:28]  And 16% say that they've actually resulted in hospitalization.
+[15:28 - 15:29]  So, just the process.
+[15:29 - 15:36]  So, one of the things that we talk about on A Healthcare C is how the healthcare system itself is actually a public health threat.
+[15:36 - 15:41]  So, the point is, let's say you had, you know, something in the water.
+[15:41 - 15:45]  Or let's say you had a bug that was transmitting a germ, right?
+[15:46 - 15:50]  They would, those, you know, those things in the water or those germs that are transmitted by a bug,
+[15:50 - 15:56]  they might have, like, a 24% rate of adverse events in patients.
+[15:56 - 16:01]  Or that, you know, that particular germ in the bug might cause 16% hospitalization.
+[16:02 - 16:15]  So, the point is, the healthcare delivery system and payment mechanism itself is a public health threat akin to dirty water and germs from insects.
+[16:15 - 16:15]  Okay.
+[16:15 - 16:18]  So, the argument against that is, well, this is just payment.
+[16:18 - 16:20]  The doctor needs to do the right thing independent of payment.
+[16:20 - 16:30]  Listen, I'm just saying that regardless of whether or not you think this process actually should impact clinical care,
+[16:30 - 16:34]  the point is, with these surveyed physicians, it does.
+[16:34 - 16:36]  Again, that's up for discussion.
+[16:36 - 16:40]  But that's essentially what these doctors who are surveyed are saying.
+[16:41 - 16:42]  And many would agree with them.
+[16:42 - 16:42]  Okay.
+[16:42 - 16:45]  So, at this time, it takes a lot of time.
+[16:46 - 16:46]  Fine.
+[16:46 - 16:49]  What does it take in terms of the prescriber's time?
+[16:50 - 16:57]  They say that they do, the surveyed physicians say they do 33 prior authorizations per week.
+[16:57 - 17:03]  And that it takes them about 14 hours of their week to do it.
+[17:03 - 17:07]  Now, keep in mind that there is an opportunity cost.
+[17:07 - 17:16]  So, that is 14 hours that they are not spending thinking about other things with their patients.
+[17:16 - 17:23]  So, there has been an effort to do e-prescribing to improve this process.
+[17:23 - 17:30]  And just going into the details, excuse me, not e-prescribing, the e-prior authorization.
+[17:31 - 17:34]  Now, e-prior authorizations, they have their pros, they have their cons.
+[17:34 - 17:40]  It is the effort that is being made now to try to streamline this process.
+[17:40 - 17:44]  We're not there 100%.
+[17:44 - 17:52]  So, just know that in the meantime, for you as an individual patient, for you as an HR leader,
+[17:52 - 17:58]  for you as a broker benefits consultant, just know that your health plan members right now
+[17:58 - 18:07]  are being subjected to a process that 24% of the time can result in adverse events,
+[18:07 - 18:11]  and 16% of the time has resulted in hospitalizations.
+[18:11 - 18:13]  So, that's my point for today.
+[18:14 - 18:15]  Thank you for watching A Healthcare Z.

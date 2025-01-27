@@ -1,0 +1,73 @@
+Title: PBM Spread Pricing for Generic Prescriptions Explained
+URL: https://www.youtube.com/watch?v=0XFk1m3yGuY
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing PBM spread pricing. So PBM is a pharmacy benefit manager and spread pricing is one of the ways that a PBM makes money. Now it's been in the news a lot because it is under investigation and so I thought it would be useful to actually examine in detail how spread pricing works. Okay, so it involves a number of acronyms. So let's start off here with number one, the AWP, which is the average wholesale price. Then we have the MAC or the maximum allowable cost. And then thirdly we have the NADAC, which is the national average drug cost or just what's referred to as the acquisition cost sometime. Now in order to understand how these three acronyms relate to each other, I feel like it's helpful to use a chart. And so here we have an employee health plan. It could be employer sponsored, it could be a Medicaid plan, etc. And here they have the PBM that they work with. That PBM then interacts with various pharmacies. And then you have the employees or the plan members who are getting their medications at the pharmacy. Now what the plan pays the PBM per pill is the AWP. But it's not the AWP, it's really 20% of the AWP. Because one of the values that the PBM brings to the plan is that they give them an 80% discount off of AWP. Okay, so the plan pays 20% of the AWP to the PBM. So that's the PBM's revenue. And then the PBM pays out the MAC plus the dispensing fee. So that's the PBM's cost. Now, the pharmacy's revenue in turn is the MAC plus the dispensing fee. And then the pharmacy's cost is the acquisition cost from WS as the wholesaler. Okay, so let's get down to profit. So the PBM's profit is just the AWP minus the MAC plus the dispensing fee. And then the pharmacy's profit is the MAC plus the dispensing fee minus the acquisition cost. Now, there is a fantastic article from Health Affairs that this information is based on. There's also a not-for-profit pharmacy research institute in the state of Ohio that I will also leave a link to in the show notes. And let's look at a specific example from that research institute. So they said for amlodipine, which is a very common blood pressure medication, it's generic, it's the generic form of Norvask, that the AWP is $2.38. So if you take the 80% discount off of that, you get the $2.38 times .2, that gets you $0.48. So that means that the plan is paying $0.48 per pill of amlodipine to the PBM. And then the PBM is paying out. Some sort of unknown MAC. The MAC is unknown. It is not published. It is quote-unquote proprietary to the PBM. Now, let's just say, for example's sake, that the MAC plus the dispensing fee's total is $0.25. That means that the PBM is holding on to $0.23. And the pharmacy's taking in the full $0.25, but then the pharmacy has to pay out $1.9 to buy the drug. So that's their cost, right? So then that, if you basically take $0.02 off of $0.25, that gives you $0.23. So in this particular example, the PBM's getting $0.23, and the pharmacy's getting $0.23 in profit each. Oh, by the way, that doesn't sound like I'm not, because we're talking about pennies. But keep in mind, this drug cost about $0.02, and the plan paid $0.48 for it. So that's almost exactly 25 times more. Now, this specific situation is exactly what happened to the state of Ohio Medicaid program. And that spread pricing cost them $208 million just on their generic pharmacy spend. Not on their brand, not on their specialty pharmacy. Just their generic pharmacy spend alone cost them $208 million. And it was in the Columbus newspaper a lot. I mean, the articles are fantastic, and I encourage you to read them. And so my point today is that if this is happening in Ohio Medicaid, and oh, by the way, it was happening in Kentucky Medicaid as well, then what's going on at the municipality level? What's going on at the school system level? What's going on at the private employer level? And I just ask you to think about that. And that's my point for today. Thank you for watching A Healthcare Z. Thank you.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:07]  Today we're going to be discussing PBM spread pricing.
+[0:07 - 0:13]  So PBM is a pharmacy benefit manager and spread pricing is one of the ways that a PBM makes money.
+[0:13 - 0:16]  Now it's been in the news a lot because it is under investigation
+[0:16 - 0:22]  and so I thought it would be useful to actually examine in detail how spread pricing works.
+[0:22 - 0:24]  Okay, so it involves a number of acronyms.
+[0:24 - 0:28]  So let's start off here with number one, the AWP, which is the average wholesale price.
+[0:28 - 0:32]  Then we have the MAC or the maximum allowable cost.
+[0:32 - 0:37]  And then thirdly we have the NADAC, which is the national average drug cost
+[0:37 - 0:39]  or just what's referred to as the acquisition cost sometime.
+[0:40 - 0:43]  Now in order to understand how these three acronyms relate to each other,
+[0:43 - 0:45]  I feel like it's helpful to use a chart.
+[0:46 - 0:48]  And so here we have an employee health plan.
+[0:48 - 0:52]  It could be employer sponsored, it could be a Medicaid plan, etc.
+[0:52 - 0:54]  And here they have the PBM that they work with.
+[0:55 - 0:57]  That PBM then interacts with various pharmacies.
+[0:57 - 1:01]  And then you have the employees or the plan members who are getting their medications at the pharmacy.
+[1:01 - 1:08]  Now what the plan pays the PBM per pill is the AWP.
+[1:08 - 1:12]  But it's not the AWP, it's really 20% of the AWP.
+[1:12 - 1:19]  Because one of the values that the PBM brings to the plan is that they give them an 80% discount off of AWP.
+[1:19 - 1:23]  Okay, so the plan pays 20% of the AWP to the PBM.
+[1:23 - 1:24]  So that's the PBM's revenue.
+[1:24 - 1:28]  And then the PBM pays out the MAC plus the dispensing fee.
+[1:28 - 1:30]  So that's the PBM's cost.
+[1:30 - 1:34]  Now, the pharmacy's revenue in turn is the MAC plus the dispensing fee.
+[1:34 - 1:39]  And then the pharmacy's cost is the acquisition cost from WS as the wholesaler.
+[1:40 - 1:41]  Okay, so let's get down to profit.
+[1:41 - 1:48]  So the PBM's profit is just the AWP minus the MAC plus the dispensing fee.
+[1:48 - 1:55]  And then the pharmacy's profit is the MAC plus the dispensing fee minus the acquisition cost.
+[1:56 - 2:03]  Now, there is a fantastic article from Health Affairs that this information is based on.
+[2:03 - 2:10]  There's also a not-for-profit pharmacy research institute in the state of Ohio that I will also leave a link to in the show notes.
+[2:11 - 2:14]  And let's look at a specific example from that research institute.
+[2:14 - 2:23]  So they said for amlodipine, which is a very common blood pressure medication, it's generic, it's the generic form of Norvask, that the AWP is $2.38.
+[2:23 - 2:29]  So if you take the 80% discount off of that, you get the $2.38 times .2, that gets you $0.48.
+[2:29 - 2:35]  So that means that the plan is paying $0.48 per pill of amlodipine to the PBM.
+[2:35 - 2:37]  And then the PBM is paying out.
+[2:38 - 2:39]  Some sort of unknown MAC.
+[2:39 - 2:41]  The MAC is unknown.
+[2:41 - 2:42]  It is not published.
+[2:42 - 2:45]  It is quote-unquote proprietary to the PBM.
+[2:45 - 2:52]  Now, let's just say, for example's sake, that the MAC plus the dispensing fee's total is $0.25.
+[2:52 - 2:55]  That means that the PBM is holding on to $0.23.
+[2:55 - 3:04]  And the pharmacy's taking in the full $0.25, but then the pharmacy has to pay out $1.9 to buy the drug.
+[3:04 - 3:05]  So that's their cost, right?
+[3:05 - 3:08]  So then that, if you basically take $0.02 off of $0.25, that gives you $0.23.
+[3:08 - 3:14]  So in this particular example, the PBM's getting $0.23, and the pharmacy's getting $0.23 in profit each.
+[3:15 - 3:19]  Oh, by the way, that doesn't sound like I'm not, because we're talking about pennies.
+[3:19 - 3:27]  But keep in mind, this drug cost about $0.02, and the plan paid $0.48 for it.
+[3:27 - 3:30]  So that's almost exactly 25 times more.
+[3:31 - 3:38]  Now, this specific situation is exactly what happened to the state of Ohio Medicaid program.
+[3:38 - 3:45]  And that spread pricing cost them $208 million just on their generic pharmacy spend.
+[3:45 - 3:47]  Not on their brand, not on their specialty pharmacy.
+[3:47 - 3:51]  Just their generic pharmacy spend alone cost them $208 million.
+[3:52 - 3:55]  And it was in the Columbus newspaper a lot.
+[3:56 - 3:59]  I mean, the articles are fantastic, and I encourage you to read them.
+[3:59 - 4:05]  And so my point today is that if this is happening in Ohio Medicaid, and oh, by the way, it was happening in Kentucky Medicaid as well,
+[4:06 - 4:08]  then what's going on at the municipality level?
+[4:08 - 4:10]  What's going on at the school system level?
+[4:10 - 4:13]  What's going on at the private employer level?
+[4:13 - 4:15]  And I just ask you to think about that.
+[4:15 - 4:16]  And that's my point for today.
+[4:16 - 4:18]  Thank you for watching A Healthcare Z.
+[4:18 - 4:48]  Thank you.

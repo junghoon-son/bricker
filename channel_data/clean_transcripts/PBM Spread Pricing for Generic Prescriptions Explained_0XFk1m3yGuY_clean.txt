@@ -1,0 +1,24 @@
+Title: PBM Spread Pricing for Generic Prescriptions Explained_0XFk1m3yGuY
+URL: https://www.youtube.com/watch?v=0XFk1m3yGuY
+Language: en
+Duration: 4:48
+Upload Date: Unknown
+
+Transcription:
+
+Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing PBM spread pricing. So PBM is a pharmacy benefit manager and spread pricing is one of the ways that a PBM makes money. Now it's been in the news a lot because it is under investigation and so I thought it would be useful to actually examine in detail how spread pricing works. Okay, so it involves a number of acronyms. So let's start off here with number one, the AWP, which is the average wholesale price.
+
+Then we have the MAC or the maximum allowable cost. And then thirdly we have the NADAC, which is the national average drug cost or just what's referred to as the acquisition cost sometime. Now in order to understand how these three acronyms relate to each other, I feel like it's helpful to use a chart. And so here we have an employee health plan. It could be employer sponsored, it could be a Medicaid plan, etc. And here they have the PBM that they work with. That PBM then interacts with various pharmacies. And then you have the employees or the plan members who are getting their medications at the pharmacy.
+
+Now what the plan pays the PBM per pill is the AWP. But it's not the AWP, it's really 20% of the AWP. Because one of the values that the PBM brings to the plan is that they give them an 80% discount off of AWP. Okay, so the plan pays 20% of the AWP to the PBM. So that's the PBM's revenue. And then the PBM pays out the MAC plus the dispensing fee. So that's the PBM's cost. Now, the pharmacy's revenue in turn is the MAC plus the dispensing fee. And then the pharmacy's cost is the acquisition cost from WS as the wholesaler.
+
+Okay, so let's get down to profit. So the PBM's profit is just the AWP minus the MAC plus the dispensing fee. And then the pharmacy's profit is the MAC plus the dispensing fee minus the acquisition cost. Now, there is a fantastic article from Health Affairs that this information is based on. There's also a not-for-profit pharmacy research institute in the state of Ohio that I will also leave a link to in the show notes. And let's look at a specific example from that research institute. So they said for amlodipine, which is a very common blood pressure medication, it's generic, it's the generic form of Norvask, that the AWP is $2.38.
+
+So if you take the 80% discount off of that, you get the $2.38 times .2, that gets you $0.48. So that means that the plan is paying $0.48 per pill of amlodipine to the PBM. And then the PBM is paying out. Some sort of unknown MAC. The MAC is unknown. It is not published. It is quote-unquote proprietary to the PBM. Now, let's just say, for example's sake, that the MAC plus the dispensing fee's total is $0.25. That means that the PBM is holding on to $0.23. And the pharmacy's taking in the full $0.25, but then the pharmacy has to pay out $1.9 to buy the drug.
+
+So that's their cost, right? So then that, if you basically take $0.02 off of $0.25, that gives you $0.23. So in this particular example, the PBM's getting $0.23, and the pharmacy's getting $0.23 in profit each. Oh, by the way, that doesn't sound like I'm not, because we're talking about pennies. But keep in mind, this drug cost about $0.02, and the plan paid $0.48 for it. So that's almost exactly 25 times more. Now, this specific situation is exactly what happened to the state of Ohio Medicaid program. And that spread pricing cost them $208 million just on their generic pharmacy spend.
+
+Not on their brand, not on their specialty pharmacy. Just their generic pharmacy spend alone cost them $208 million. And it was in the Columbus newspaper a lot. I mean, the articles are fantastic, and I encourage you to read them. And so my point today is that if this is happening in Ohio Medicaid, and oh, by the way, it was happening in Kentucky Medicaid as well, then what's going on at the municipality level? What's going on at the school system level? What's going on at the private employer level? And I just ask you to think about that.
+
+And that's my point for today. Thank you for watching A Healthcare Z. Thank you..
+

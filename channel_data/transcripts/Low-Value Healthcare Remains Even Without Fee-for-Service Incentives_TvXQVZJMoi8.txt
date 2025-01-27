@@ -1,0 +1,80 @@
+Title: Low-Value Healthcare Remains Even Without Fee-for-Service Incentives
+URL: https://www.youtube.com/watch?v=TvXQVZJMoi8
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Fixed Fee for Service and Decrease Low Value Care. Is that going to work? I always assume so. I might be wrong. Now, this comes from a recently released editorial from the Journal of the American Medical Association by two health services researchers. One's a PhD, one's an MD. This is an awesome paper. I'm going to leave a link to it in the show notes. And it examines, okay, well, if Fee for Service incentivizes increased care, as we've talked about many times here on A Healthcare Z, and that increase in care, in other words, the Fee for Service, what you get is you don't get quality, you don't get health, what you get is service, right? Is that harmful or is that wasteful? And of course, the answer is that it's projected that about 30% of all US healthcare is unnecessary and is wasteful, at least, and it's actually harmful. Iatrogenesis, which is conditions or disease or illness that's caused by the medical profession and intervention itself. Okay, so these researchers say, okay, well, let's look at environments where we don't have Fee for Service, where the physicians are on salary, the hospitals are getting global budgets or capitation or whatever you want to call it. Let's see if they have low value care. And guess what? The answer is yes. So in Canada, they don't have Fee for Service, right? And they found that 30% of seniors in Alberta over the age of 75, where this study was done, had one or more out of 10 low value services. So even people in Canada where they don't have Fee for Service, they get low value services. Believe it or not, here in America, in Maryland, they have global budgets for the hospital. It's essentially akin to capitation. In other words, it's not totally getting rid of Fee for Service, but again, it's global budgeting. So it's moving away from Fee for Service. There's more value-based care, right? Guess what? They found that there was still high levels of over-utilization of 19 different services. Not nine, 19. Okay. Now, another example here in America is, of course, the VA, the Veterans Administration. All those doctors are on salary. There's just a global VA budget. You don't make more. Shoot, I did my medical training in medical school at the Westside VA in Chicago. There's no fee for service. You get a salary. On top of that, the physicians are shielded from malpractice. So you can't even use the defensive medicine argument potentially within the VA because they can't get sued. Okay? And they still found that 5% to 21% of the veterans were still receiving low value testing of no value and potentially harmful. Because if you get an abnormal test, let's say like a stress test, then you got to go downstream and do more interventions like a cardiac catheterization. And you can totally have complications from a cardiac catheterization. I've literally seen a woman in the ICU with a stroke because of a cardiac catheterization. Where maybe they shouldn't have done the stress test in the first place because it was unnecessary. Okay. So we have this more is better thinking in America and potentially in Canada as well. But what these researchers also cited was that the way wasteful and harmful or low value services were performed was highly local. It didn't vary. It wasn't the same across the country. It varied by state. And it didn't just vary by state. It varied by the physician groups and the hospitals within the state. So in other words, one group might have been having low value imaging. Another group might have been having low value certain types of surgeries. So it was highly unique to the micro environment. Okay. So they offer four antidotes or solutions to this problem. Let's examine them now. Solution A. Obviously, you got to measure. You got to measure to improve. And the authors of the site didn't say this, but that's where, look, that's where you can use cost accounting, activity-based cost accounting, to find out by specific physician. And when UPMC did this, they found that they could actually translate and benchmark physicians against each other so they could speak their language, not RVUs, but in terms of actual resource utilization, they could go doctor by doctor and provide feedback around that. And that was incredibly useful. And guess what? When you talk to the physicians and the metrics that they could understand, they changed their behavior. Okay. Next up, they said you need to have the changes be local. In other words, they said that these big value-based payment reforms by CMS and even by the carriers themselves, because they're spread the same across the country, and because the problem is so local and it's so different locally, that these big nationwide top-down approaches to low value care are actually counterproductive. That the right way to do it is to do it at the local level, because the problems that one hospital has in town might be totally different from the problems that another hospital has in the town in terms of low value care. Likewise, you might have a physician with one low value problem within a hospital and another physician with a completely different low value problem within that hospital. Okay. Third, C. Focus on harm and not dollars, right? So immediately, they know that people are going to push back and be like, look, this is rationing care. This is cutting corners for the sake of saving money. So instead of focusing on saving money, focus on reducing harm. Like I said in that cardiac catheterization example, I have literally seen a woman get a stroke because she had a stress test prior to a minor thyroid surgery. She never needed the stress test in the first place before the thyroid surgery and she had a stroke and was in the ICU. It was awful. Okay. So like, and that's obviously an extreme example, but the immediate harm from the test and also the downstream effect of the future tests that need to be done after an abnormal test, like that can be avoided if they actually followed the evidence. Harm can be avoided. Forget the money. Harm can be avoided. Final, D. Incorporating decision to support into the EMRs. Now this is a challenging one because doctors hate EMRs. And so the EMR just doesn't have a lot of credibility with the physician community. So if we're going to put decision support tools that steer people in the direction of higher value care, then I'm not sure that the EMR is the right place to do it. So I, you know, this video is not about solving that problem, but their particular solution around the EMR, eh, it may or may not work. But this is really interesting. This challenged an assumption that I had myself, which was, hey, if you fix the reimbursement, if you fix the fee for service, you'll get rid of the lower value care. And the answer is, it might not be that simple. And that's my point for today. Thank you for watching a Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic
+[0:04 - 0:13]  is Fixed Fee for Service and Decrease Low Value Care. Is that going to work? I always
+[0:13 - 0:21]  assume so. I might be wrong. Now, this comes from a recently released editorial from the
+[0:21 - 0:26]  Journal of the American Medical Association by two health services researchers. One's
+[0:26 - 0:31]  a PhD, one's an MD. This is an awesome paper. I'm going to leave a link to it in the show
+[0:31 - 0:41]  notes. And it examines, okay, well, if Fee for Service incentivizes increased care, as we've
+[0:41 - 0:47]  talked about many times here on A Healthcare Z, and that increase in care, in other words,
+[0:47 - 0:51]  the Fee for Service, what you get is you don't get quality, you don't get health, what you
+[0:51 - 0:56]  get is service, right? Is that harmful or is that wasteful? And of course, the answer is
+[0:56 - 1:03]  that it's projected that about 30% of all US healthcare is unnecessary and is wasteful,
+[1:03 - 1:10]  at least, and it's actually harmful. Iatrogenesis, which is conditions or disease or illness that's
+[1:10 - 1:15]  caused by the medical profession and intervention itself. Okay, so these researchers say, okay,
+[1:15 - 1:20]  well, let's look at environments where we don't have Fee for Service, where the physicians are
+[1:20 - 1:24]  on salary, the hospitals are getting global budgets or capitation or whatever you want to
+[1:24 - 1:31]  call it. Let's see if they have low value care. And guess what? The answer is yes. So in Canada,
+[1:31 - 1:39]  they don't have Fee for Service, right? And they found that 30% of seniors in Alberta over the age
+[1:39 - 1:47]  of 75, where this study was done, had one or more out of 10 low value services. So even people in Canada
+[1:47 - 1:52]  where they don't have Fee for Service, they get low value services. Believe it or not, here in America,
+[1:52 - 2:00]  in Maryland, they have global budgets for the hospital. It's essentially akin to capitation. In
+[2:00 - 2:05]  other words, it's not totally getting rid of Fee for Service, but again, it's global budgeting. So it's
+[2:05 - 2:12]  moving away from Fee for Service. There's more value-based care, right? Guess what? They found that there was
+[2:12 - 2:23]  still high levels of over-utilization of 19 different services. Not nine, 19. Okay. Now, another example here in
+[2:23 - 2:28]  America is, of course, the VA, the Veterans Administration. All those doctors are on salary.
+[2:28 - 2:33]  There's just a global VA budget. You don't make more. Shoot, I did my medical training in medical school
+[2:33 - 2:39]  at the Westside VA in Chicago. There's no fee for service. You get a salary. On top of that,
+[2:39 - 2:45]  the physicians are shielded from malpractice. So you can't even use the defensive medicine argument
+[2:45 - 2:55]  potentially within the VA because they can't get sued. Okay? And they still found that 5% to 21%
+[2:55 - 3:03]  of the veterans were still receiving low value testing of no value and potentially harmful.
+[3:03 - 3:07]  Because if you get an abnormal test, let's say like a stress test, then you got to go downstream and do
+[3:07 - 3:14]  more interventions like a cardiac catheterization. And you can totally have complications from a cardiac
+[3:14 - 3:19]  catheterization. I've literally seen a woman in the ICU with a stroke because of a cardiac catheterization.
+[3:19 - 3:23]  Where maybe they shouldn't have done the stress test in the first place because it was unnecessary.
+[3:23 - 3:32]  Okay. So we have this more is better thinking in America and potentially in Canada as well. But what these
+[3:32 - 3:40]  researchers also cited was that the way wasteful and harmful or low value services were performed
+[3:40 - 3:47]  was highly local. It didn't vary. It wasn't the same across the country. It varied by state. And it
+[3:47 - 3:55]  didn't just vary by state. It varied by the physician groups and the hospitals within the state. So in other
+[3:55 - 4:00]  words, one group might have been having low value imaging. Another group might have been having low value
+[4:00 - 4:09]  certain types of surgeries. So it was highly unique to the micro environment. Okay. So they offer
+[4:09 - 4:16]  four antidotes or solutions to this problem. Let's examine them now. Solution A. Obviously,
+[4:16 - 4:21]  you got to measure. You got to measure to improve. And the authors of the site didn't say this,
+[4:21 - 4:25]  but that's where, look, that's where you can use cost accounting, activity-based cost accounting,
+[4:25 - 4:32]  to find out by specific physician. And when UPMC did this, they found that they could actually
+[4:32 - 4:39]  translate and benchmark physicians against each other so they could speak their language, not RVUs,
+[4:39 - 4:45]  but in terms of actual resource utilization, they could go doctor by doctor and provide feedback
+[4:45 - 4:50]  around that. And that was incredibly useful. And guess what? When you talk to the physicians and the
+[4:50 - 4:57]  metrics that they could understand, they changed their behavior. Okay. Next up, they said you need
+[4:57 - 5:04]  to have the changes be local. In other words, they said that these big value-based payment reforms by CMS
+[5:04 - 5:12]  and even by the carriers themselves, because they're spread the same across the country, and because the
+[5:12 - 5:20]  problem is so local and it's so different locally, that these big nationwide top-down approaches to low
+[5:20 - 5:25]  value care are actually counterproductive. That the right way to do it is to do it at the local level,
+[5:26 - 5:30]  because the problems that one hospital has in town might be totally different from the problems
+[5:30 - 5:36]  that another hospital has in the town in terms of low value care. Likewise, you might have a physician
+[5:36 - 5:41]  with one low value problem within a hospital and another physician with a completely different low
+[5:41 - 5:49]  value problem within that hospital. Okay. Third, C. Focus on harm and not dollars, right? So immediately,
+[5:49 - 5:54]  they know that people are going to push back and be like, look, this is rationing care. This is cutting
+[5:54 - 6:01]  corners for the sake of saving money. So instead of focusing on saving money, focus on reducing harm.
+[6:01 - 6:07]  Like I said in that cardiac catheterization example, I have literally seen a woman get a stroke because she
+[6:07 - 6:15]  had a stress test prior to a minor thyroid surgery. She never needed the stress test in the first place
+[6:15 - 6:23]  before the thyroid surgery and she had a stroke and was in the ICU. It was awful. Okay. So like, and that's
+[6:23 - 6:31]  obviously an extreme example, but the immediate harm from the test and also the downstream effect of the future
+[6:31 - 6:38]  tests that need to be done after an abnormal test, like that can be avoided if they actually followed the evidence.
+[6:38 - 6:47]  Harm can be avoided. Forget the money. Harm can be avoided. Final, D. Incorporating decision to support into the EMRs.
+[6:47 - 6:54]  Now this is a challenging one because doctors hate EMRs. And so the EMR just doesn't have a lot of credibility
+[6:54 - 6:59]  with the physician community. So if we're going to put decision support tools that steer people in the
+[6:59 - 7:06]  direction of higher value care, then I'm not sure that the EMR is the right place to do it. So I, you know,
+[7:06 - 7:13]  this video is not about solving that problem, but their particular solution around the EMR, eh, it may or may not work.
+[7:13 - 7:17]  But this is really interesting. This challenged an assumption that I had myself, which was, hey,
+[7:17 - 7:21]  if you fix the reimbursement, if you fix the fee for service, you'll get rid of the lower value care.
+[7:21 - 7:25]  And the answer is, it might not be that simple. And that's my point for today.
+[7:25 - 7:27]  Thank you for watching a Healthcare Z.

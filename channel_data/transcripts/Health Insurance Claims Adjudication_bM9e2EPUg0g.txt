@@ -1,0 +1,83 @@
+Title: Health Insurance Claims Adjudication
+URL: https://www.youtube.com/watch?v=bM9e2EPUg0g
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is health insurance claims adjudication. Now we've covered many boring topics here on A Healthcare Z and this is among the most boring as well. So please stick with me. I promise it will be worth it. Everybody that works in healthcare, employee benefits and health insurance has to understand claims adjudication. Now, a claim is originally submitted by a provider, doctor, hospital, etc. And then it gets paid by the insurance company back out to them. Now, the process in between the claim submission and the claim being paid is referred to as adjudication, what we're going to talk about. Now, auto adjudication is where no human being touches the claim between submission and payment and like 85% of claims are auto adjudicated. So the vast majority of stuff is handled by software, not by people. Now, if a person does handle the claim, it costs about $20 to process that claim. So given the hundreds of millions or billions of claims that have to be processed every year, you can understand why a health insurance company would not want to manually adjudicate many claims because it's so expensive if you've got to spend like $20 a claim to work through it. Okay, so the process of auto adjudication has several parts that we're going to go over. There's a fantastic slide presentation by Aetna to doctors and hospitals themselves that I'll leave a link to in the show notes because they're explaining how the adjudication process works. So you start with mass adjudication where the software looks for things like eligibility of the patient, they look for if any prior authorization was needed to process the claim, they look to see if it's for a covered service or not, they look to see the plan design to see if it's going to be deductible or copay or coinsurance, etc. Next, it goes through a claim check, which is where the actual codes on the claim, in other words, the ICD-10, if it's an inpatient code, then it's the DRG, it's looking at the CPT codes, it's looking at the HCPCS codes, that's when the actual codes get examined, it's then during this claim check. And then it moves to either pay or deny status. And if it's in pay status, then it's going to get a secondary audit. Now as you can understand, the entire adjudication process is proprietary to the insurance company. So there's only so much that they're going to tell about this. But in the quote unquote secondary auditing process, they're going to check for timely filing requirements. In other words, oftentimes, you can't just submit a claim two years after you saw the patient, which begs the question, why in the world would they save timely filing requirements to the end? Why don't they put it at the beginning? That doesn't make any sense. Next up, again, they look at the coding again. Well, what in the world are they going to look at in the coding, in the secondary audit, that they could have just looked at on the coding up front? That doesn't really make a lot of sense. And then they're going to look at the place of service. What? To determine, like, the provider tax ID to see if it needs to be processed in or out of network? Or to see if something is being done inpatient that could have been done outpatient? Again, it seems kind of odd that they're putting it here and not earlier on. And then if it gets through that process, then they pay out weekly, typically by electronic transfer to the bank account, to the doctor or the hospital. Okay, fine. Here are some problems with auto adjudication. It's that it's written in very old software. I was speaking to a former executive from a, and a lot of insurance carriers actually outsource claims adjudication to third party companies where all they do is adjudicate claims. And a lot of that software is still in COBOL, which is a software language that was originally created in 1959. COBOL is an acronym. The software was created in 1959. The problem with COBOL is, is that the number of programming, because it's so old, the number of programmers who actually have expertise in COBOL is small. And it's getting smaller because they're retiring. So there's just not as many people around who actually understand the COBOL language very well. And then typically, because this process is so expensive if you do it manually, oftentimes the carriers will set dollar thresholds on the claims where they just let it pass through and they're not going to have any manual review for claims of less than $10,000 to $15,000. Okay. So what are the consequences of this? What are the real world consequences of this for individual patients and the plan? So there was just a story in ProPublica that I was quoted in where there was a $10,984 claim for a coronavirus, for a COVID test, right? A COVID test, which in the article, and it was a COVID test for a pathologist himself. So it was a doctor himself who's familiar with the lab work itself. He's like, it costs like $6 to do this test. And they billed $10,984. And guess what happened? The insurance company paid it. So in other words, it made it through this entire process, auto-adjudicated, and it got paid. Now, and obviously that might be a problem if the out of network provider is billing $10,984 and he's just getting paid. That makes you wonder, well, what else is getting through? Okay. Next up, Quest Diagnostics for their own employee health plan had a physician running that health plan. And I made a previous video about the Quest physician plan, and it went from running eight to 10% to being flat or even negative after they went through a whole bunch of reforms with their plan internally. One of the reforms that they did was they screened their own claims internally, Quest themselves screened their own claims internally for their own employee health plan for fraud, waste, and abuse. And they would catch errors that they would then send back to their big major insurance carrier and be like, look, you guys adjudicated this and you paid this and maybe you shouldn't have. So they were catching things that their own insurance carrier with this process didn't catch. And they were able to do that because they got the detailed claims data. Now, not all employers can do that, but just know for employers where you're getting the detailed claims data that you might be able to find fraud, waste, and abuse that's making its way through the adjudication system of your carrier and be able to catch it like Quest did. So what's my point for today? My point for today is that there's a big black box here in adjudication between claims being submitted and claims being paid. And it's very important for us who work in benefits and healthcare and health insurance to know how that works. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic
+[0:05 - 0:11]  is health insurance claims adjudication. Now we've covered many boring topics here on A
+[0:11 - 0:18]  Healthcare Z and this is among the most boring as well. So please stick with me. I promise
+[0:18 - 0:22]  it will be worth it. Everybody that works in healthcare, employee benefits and health
+[0:22 - 0:29]  insurance has to understand claims adjudication. Now, a claim is originally submitted by a
+[0:29 - 0:34]  provider, doctor, hospital, etc. And then it gets paid by the insurance company back out
+[0:34 - 0:38]  to them. Now, the process in between the claim submission and the claim being paid
+[0:38 - 0:44]  is referred to as adjudication, what we're going to talk about. Now, auto adjudication
+[0:44 - 0:49]  is where no human being touches the claim between submission and payment and like
+[0:49 - 0:55]  85% of claims are auto adjudicated. So the vast majority of stuff is handled by
+[0:55 - 1:03]  software, not by people. Now, if a person does handle the claim, it costs about $20 to
+[1:03 - 1:09]  process that claim. So given the hundreds of millions or billions of claims that have
+[1:09 - 1:13]  to be processed every year, you can understand why a health insurance company would not want
+[1:13 - 1:17]  to manually adjudicate many claims because it's so expensive if you've got to spend like
+[1:17 - 1:23]  $20 a claim to work through it. Okay, so the process of auto adjudication has several parts
+[1:23 - 1:28]  that we're going to go over. There's a fantastic slide presentation by Aetna to doctors and hospitals
+[1:28 - 1:32]  themselves that I'll leave a link to in the show notes because they're explaining how the
+[1:32 - 1:36]  adjudication process works. So you start with mass adjudication where the software looks for
+[1:36 - 1:41]  things like eligibility of the patient, they look for if any prior authorization was needed
+[1:41 - 1:45]  to process the claim, they look to see if it's for a covered service or not, they look to see
+[1:45 - 1:51]  the plan design to see if it's going to be deductible or copay or coinsurance, etc. Next,
+[1:51 - 1:57]  it goes through a claim check, which is where the actual codes on the claim, in other words,
+[1:57 - 2:02]  the ICD-10, if it's an inpatient code, then it's the DRG, it's looking at the CPT codes,
+[2:02 - 2:07]  it's looking at the HCPCS codes, that's when the actual codes get examined, it's then during
+[2:07 - 2:13]  this claim check. And then it moves to either pay or deny status. And if it's in pay status,
+[2:13 - 2:19]  then it's going to get a secondary audit. Now as you can understand, the entire adjudication
+[2:19 - 2:23]  process is proprietary to the insurance company. So there's only so much that they're going to tell
+[2:23 - 2:28]  about this. But in the quote unquote secondary auditing process, they're going to check for
+[2:28 - 2:31]  timely filing requirements. In other words, oftentimes, you can't just submit a claim
+[2:31 - 2:36]  two years after you saw the patient, which begs the question, why in the world would they
+[2:36 - 2:39]  save timely filing requirements to the end? Why don't they put it at the beginning? That
+[2:39 - 2:44]  doesn't make any sense. Next up, again, they look at the coding again. Well, what in the world
+[2:44 - 2:48]  are they going to look at in the coding, in the secondary audit, that they could have just
+[2:48 - 2:52]  looked at on the coding up front? That doesn't really make a lot of sense. And then they're
+[2:52 - 2:57]  going to look at the place of service. What? To determine, like, the provider tax ID to see
+[2:57 - 3:01]  if it needs to be processed in or out of network? Or to see if something is being done inpatient
+[3:01 - 3:04]  that could have been done outpatient? Again, it seems kind of odd that they're putting it
+[3:04 - 3:10]  here and not earlier on. And then if it gets through that process, then they pay out weekly,
+[3:10 - 3:14]  typically by electronic transfer to the bank account, to the doctor or the hospital. Okay,
+[3:14 - 3:21]  fine. Here are some problems with auto adjudication. It's that it's written in very old software.
+[3:21 - 3:27]  I was speaking to a former executive from a, and a lot of insurance carriers actually outsource
+[3:27 - 3:31]  claims adjudication to third party companies where all they do is adjudicate claims. And a
+[3:31 - 3:36]  lot of that software is still in COBOL, which is a software language that was originally created
+[3:36 - 3:43]  in 1959. COBOL is an acronym. The software was created in 1959. The problem with COBOL is,
+[3:43 - 3:47]  is that the number of programming, because it's so old, the number of programmers who actually
+[3:47 - 3:51]  have expertise in COBOL is small. And it's getting smaller because they're retiring. So there's just
+[3:51 - 3:57]  not as many people around who actually understand the COBOL language very well. And then typically,
+[3:57 - 4:03]  because this process is so expensive if you do it manually, oftentimes the carriers will set
+[4:03 - 4:07]  dollar thresholds on the claims where they just let it pass through and they're not going to have
+[4:07 - 4:15]  any manual review for claims of less than $10,000 to $15,000. Okay. So what are the consequences
+[4:15 - 4:19]  of this? What are the real world consequences of this for individual patients and the plan? So there
+[4:19 - 4:28]  was just a story in ProPublica that I was quoted in where there was a $10,984 claim for a coronavirus,
+[4:28 - 4:34]  for a COVID test, right? A COVID test, which in the article, and it was a COVID test for a pathologist
+[4:34 - 4:39]  himself. So it was a doctor himself who's familiar with the lab work itself. He's like, it costs like
+[4:39 - 4:47]  $6 to do this test. And they billed $10,984. And guess what happened? The insurance company paid it.
+[4:47 - 4:53]  So in other words, it made it through this entire process, auto-adjudicated, and it got paid. Now,
+[4:53 - 5:03]  and obviously that might be a problem if the out of network provider is billing $10,984 and he's just
+[5:03 - 5:10]  getting paid. That makes you wonder, well, what else is getting through? Okay. Next up, Quest Diagnostics
+[5:10 - 5:14]  for their own employee health plan had a physician running that health plan. And I made a previous
+[5:14 - 5:20]  video about the Quest physician plan, and it went from running eight to 10% to being flat or even negative
+[5:20 - 5:24]  after they went through a whole bunch of reforms with their plan internally. One of the reforms that
+[5:24 - 5:30]  they did was they screened their own claims internally, Quest themselves screened their own
+[5:30 - 5:34]  claims internally for their own employee health plan for fraud, waste, and abuse. And they would
+[5:34 - 5:39]  catch errors that they would then send back to their big major insurance carrier and be like, look,
+[5:39 - 5:45]  you guys adjudicated this and you paid this and maybe you shouldn't have. So they were catching things
+[5:45 - 5:50]  that their own insurance carrier with this process didn't catch. And they were able to do that because
+[5:50 - 5:54]  they got the detailed claims data. Now, not all employers can do that, but just know for employers
+[5:54 - 5:59]  where you're getting the detailed claims data that you might be able to find fraud, waste, and abuse
+[5:59 - 6:05]  that's making its way through the adjudication system of your carrier and be able to catch it
+[6:05 - 6:12]  like Quest did. So what's my point for today? My point for today is that there's a big black box here
+[6:12 - 6:17]  in adjudication between claims being submitted and claims being paid. And it's very important for us
+[6:17 - 6:21]  who work in benefits and healthcare and health insurance to know how that works. And thank you
+[6:21 - 6:23]  for watching A Healthcare Z.

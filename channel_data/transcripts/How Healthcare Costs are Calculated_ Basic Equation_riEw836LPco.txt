@@ -1,0 +1,30 @@
+Title: How Healthcare Costs are Calculated: Basic Equation
+URL: https://www.youtube.com/watch?v=riEw836LPco
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be talking about the healthcare cost equation. Now healthcare costs are actually not that complicated. They follow a very simple equation, which is the unit price times the use equals total healthcare costs. So in other words, the price of each individual unit of healthcare for each individual scan, each individual lab test, each individual doctor's office visit times the use, or in other words, the number of units. So how many scans, how many lab tests, how many doctor's office visits equals the total cost. So some examples of changes in the unit price are for a group, the average cost per MRI could be $2,000 per MRI or it could be $400 per MRI. And we've literally seen that large of a difference. Secondly, for something like a total knee arthroplasty or a knee replacement, the average cost per unit for a particular group might be $80,000, whereas the cost for another group on average might be only $30,000. So that unit price can be dramatically different. Additionally, the number of units or the use could also be very different across a group. So a certain group could have 500 MRIs, whereas another group of comparable size might only have 50 MRIs. Likewise, again, two groups of similar size, one group might have 40 total knee arthroplasties or knee replacements, and another group might have four. So to get the total cost of one group versus another, you just have to multiply the unit price times the number of units or the use to get the total cost. And that's the healthcare cost equation. So if you want your healthcare cost to go down, you either need your unit price to go down, you need your use to go down, or you need both to go down. And thank you so much for watching.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're
+[0:05 - 0:10]  going to be talking about the healthcare cost equation. Now healthcare costs are actually
+[0:10 - 0:18]  not that complicated. They follow a very simple equation, which is the unit price times the
+[0:18 - 0:24]  use equals total healthcare costs. So in other words, the price of each individual unit of
+[0:24 - 0:28]  healthcare for each individual scan, each individual lab test, each individual doctor's
+[0:28 - 0:33]  office visit times the use, or in other words, the number of units. So how many scans, how
+[0:33 - 0:40]  many lab tests, how many doctor's office visits equals the total cost. So some examples of
+[0:40 - 0:49]  changes in the unit price are for a group, the average cost per MRI could be $2,000 per MRI
+[0:49 - 0:57]  or it could be $400 per MRI. And we've literally seen that large of a difference. Secondly, for
+[0:57 - 1:02]  something like a total knee arthroplasty or a knee replacement, the average cost per unit
+[1:02 - 1:08]  for a particular group might be $80,000, whereas the cost for another group on average might
+[1:08 - 1:15]  be only $30,000. So that unit price can be dramatically different. Additionally, the number of units
+[1:15 - 1:21]  or the use could also be very different across a group. So a certain group could have 500 MRIs,
+[1:21 - 1:27]  whereas another group of comparable size might only have 50 MRIs. Likewise, again, two groups
+[1:27 - 1:32]  of similar size, one group might have 40 total knee arthroplasties or knee replacements, and
+[1:32 - 1:37]  another group might have four. So to get the total cost of one group versus another, you
+[1:37 - 1:41]  just have to multiply the unit price times the number of units or the use to get the total
+[1:41 - 1:46]  cost. And that's the healthcare cost equation. So if you want your healthcare cost to go down,
+[1:46 - 1:51]  you either need your unit price to go down, you need your use to go down, or you need both
+[1:51 - 1:53]  to go down. And thank you so much for watching.

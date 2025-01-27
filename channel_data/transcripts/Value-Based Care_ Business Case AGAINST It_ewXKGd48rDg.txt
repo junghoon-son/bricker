@@ -1,0 +1,179 @@
+Title: Value-Based Care: Business Case AGAINST It
+URL: https://www.youtube.com/watch?v=ewXKGd48rDg
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is the business case against value-based care. That's right, one of the biggest buzzwords in healthcare today, value-based care. I'm going to tell you why there is an excellent business case against it. Now, this comes from a video and an article by Marshall Allen who's a journalist from Popublica and in full disclosure, Marshall and I know each other and he's used me as a source in previous news articles that he has written, but he has an excellent video on YouTube from before he and I ever knew each other where he talks about how eye drops are intentionally created to be too big for our eyes and as a result, everyone has experienced this. Now, I guess the eye drop rolls down our cheeks and the reason for that is because the volume of the drop is larger than the capacity of our eye to hold it. Okay, so believe it or not, an ophthalmologist from Johns Hopkins actually created an eye dropper that could produce micro drops, smaller drops that had a volume of liquid that the eye could actually hold. Now, you would think, oh, eye drops, that's not a big deal, but eye drops for dry eyes and glaucoma is a $3.4 billion a year industry in the United States. So this ingenious ophthalmologist from Johns Hopkins goes to Alcon, one of the largest makers of eye drops in the world, and says, I've had this fantastic idea where you don't have to put as much medication in a bottle and you can reduce your waste. And Alcon says, are you kidding me? There is no way we're going to do that because that would mean we would, like, charge less for our drops and we don't want to do that. Okay, next up, Marshall Island uses another example for breast cancer, specifically the chemotherapy drug Herceptin. And in a similar fashion, Genentech, the makers of Herceptin, used to have multi-use bottles for the chemotherapy Herceptin. And, I mean, it's a monoclonal antibody, it's not like traditional chemo, it doesn't make your hair fall out, etc. But the point is, is that you would draw out the Herceptin with a syringe and you would administer it to the patient. And if there was more left in the bottle, you could use another syringe to draw out more to give to another patient. But then, Genentech changed the size of the bottles and the design of the bottles such that you could only draw out for one patient. And then whatever volume was left, you had to throw away. But you would still charge the patient for the entire bottle. So, just for example, let's say you used 100 milliliters and there was 150 milliliters in the bottle. You would have to throw away the extra 50 milliliters, but you would charge the patient for the full 150 milliliters as opposed to the 100 milliliters that they actually used. So, there's an estimate that there's about $1,000 of waste per Herceptin infusion as a result of that change. Oh, by the way, that is additional money that Genentech is making. That's $1,000 that could have been saved and distributed in the form of medication to other women with breast cancer. And it's estimated that about 10% of all cancer medications, chemotherapy, is wasted as a result of the same thing that's happening with the Herceptin and the bottle sizes here. And it costs about $1.8 billion a year. Now, we're talking about, you know, $3, $4 trillion of healthcare spend in America and just about $3.4 billion or $1.8 billion. Well, that's not very much. But we can then apply that same business rationale that is being used for, excuse me, against micro drops or against multi-use bottles. And we can apply that to value-based care. Because essentially, what is a micro drop? It is value-based care. It's improving the amount of value per the amount of money. What is a multi-use bottle? It's a form of value-based care. It's improving the amount of care delivered for a certain amount of money. Likewise, you could put bundled payments in the exact same category where you are improving the amount of value that is delivered for a lower amount or a set amount of money. Now, let's look at this in graphic or chart form. So what I have here is a spectrum. Because, of course, value is not binary. It's not value or no value. It's on a spectrum. And so what we have here is on one end we have charity. And on the other end we have theft. Okay? And then we have these two triangles here, which are value creation. That's why it's the plus sign. And then you have value extraction. And essentially all businesses are a combination of value creation and value extraction. So if you have, and these are relative value creation vis-a-vis value extraction. So if you have 100% value creation and 0% value extraction, that's charity. Right? You're creating all this value and you're giving it away. You're not charging anything for it. On the flip side, if you are creating no value but you are then extracting value, that's the same thing as theft. Right? You know, if you steal somebody's wallet, you certainly have created no value for them. And you have extracted value from them. The money that's in their wallet. Okay. So, as you can imagine, most businesses are somewhere along this continuum. The business is not 100% charity and the business is not 100% theft. So let's just talk about things that are in the middle. Like 50-50 value creation and value extraction. Well, they could be high value creation and high value extraction. That's high VC and high VE. And that might be a luxury car. I'm not a car person, but you might be a car person. And so the value creation is super high because you have so much joy from driving that luxury car. But the value extraction is also high because it's a very high price for that luxury car. Likewise, there's probably 50-50 value creation, value extraction products as well that are low value creation and low value extraction. And that's like a paper towel. Right? Like it's useful, but they don't charge a lot for it. Okay. Now, let's go over here to situations that have very high value creation and very low value extraction. Okay. I would argue like gasoline is a great example of that. Like at the end of the day, gasoline is super useful. You get so much value out of being able to drive your car around. And at the end of the day, it's like highly affordable. Certainly anybody who's ever been to Canada or Europe and you see how much money they charge for gasoline, you're like, whoa, at the end of the day, gasoline in America is pretty cheap. Okay. Next up, food. At the end of the day, food is incredibly affordable. Now, it depends upon what you buy. Okay. But I would argue that there's huge value. I mean, you need it to live. There's huge value creation. And at the end of the day, it's highly affordable. You can watch these YouTube videos about like how to feed a family of five for like $10. Right? I mean, it's doable. Okay. So let's go here to the other end of the spectrum. That is closer to theft, where there is very low value creation and very high value extraction. One might argue that health insurance and PBMs and all the other middlemen in healthcare, where they're extracting premium, but they're not actually delivering any care or relieving any suffering or preventing any death, that arguably, that is high value extraction and low value creation. Likewise, a brand name drug where there's a generic alternative might be another example, where at the end of the day, the value creation versus value extraction of that brand name drug is totally out of whack because you could easily just take the generic and it's way over on this side. Okay. Now, what do all of the things over here on the high value, low extraction side, how are they different than things here on the high extraction, low creation side? And there's two things. There's competition and regulation. Right? Because at the end of the day, it's the competition for the gas and the food. Right? I mean, the switching costs are super easy. It's something that you do over and over again. Like the gasoline, like going to a different gas station, that's highly competitive and they're selling a commodity. Food, going to a grocery store is like, shoot, Walmart will even match your price. Right? So there's competition. Or in cases where there's not competition, there specifically is regulation around that issue. And shoot, here in Texas, we've seen that happen with what happened to energy prices and electricity prices after our snowpocalypse. Right? If you don't have price regulation, then there's a ton of value extraction without the value creation. And then likewise, in places that do have price regulation on their utilities, like there's a lot more value creation than there is value extraction. Okay. That's fine. So over here, if you are a business, you actually want to be as close to the theft side as possible. Especially if you're a publicly traded business. Like your investors expect, you have a fiduciary responsibility to extract as much value as possible vis-a-vis the value that you are creating. You have a responsibility to your investors and your shareholders to do that. If you don't do that, you should be fired. That's not your job. Your job as a CEO and as a board member is not to be here. Your job is here. And how do you do that? By creating differentiation. By creating monopolies. By a lot of ways. Okay. So, listen. Peter Thiel is an excellent businessman. Right? So, you know. Silicon Valley. I'm sure many are familiar with him. Okay. You know. He has written about how competition is for losers. Competition is for losers, according to Peter Thiel. Right? That's a business case against, okay, value-based care is for losers. Okay? I have MBAs from the most prestigious business schools in America. And they'll call me up and we'll talk and they'll be like interested in value-based care. And I'm like, look, there's no money in it. Like professionally for you, for your career. If you want to get into value-based care, like, you know, good luck. Because it's frankly from a career perspective, not a great career for you. So, my point for today is, is we need to call a spade a spade. That's my point for today. Is that let's not fool ourselves. That if you are involved in the healthcare industry from a business perspective, you want to be here. Okay? You do not want to be here. Okay? Value-based care is here. Not here. So, if there's any business that says that it's interested in value-based care, then you need to be highly skeptical of that statement. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:17]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is the business case against value-based care. That's right, one of the biggest buzzwords in healthcare today, value-based care. I'm going to tell you why there is an excellent business case against it.
+[0:17 - 0:47]  Now, this comes from a video and an article by Marshall Allen who's a journalist from Popublica and in full disclosure, Marshall and I know each other and he's used me as a source in previous news articles that he has written, but he has an excellent video on YouTube from before he and I ever knew each other where he talks about how eye drops are intentionally created to be too big for our eyes and as a result, everyone has experienced this.
+[0:47 - 0:56]  Now, I guess the eye drop rolls down our cheeks and the reason for that is because the volume of the drop is larger than the capacity of our eye to hold it.
+[0:56 - 1:10]  Okay, so believe it or not, an ophthalmologist from Johns Hopkins actually created an eye dropper that could produce micro drops, smaller drops that had a volume of liquid that the eye could actually hold.
+[1:10 - 1:18]  Now, you would think, oh, eye drops, that's not a big deal, but eye drops for dry eyes and glaucoma is a $3.4 billion a year industry in the United States.
+[1:18 - 1:33]  So this ingenious ophthalmologist from Johns Hopkins goes to Alcon, one of the largest makers of eye drops in the world, and says, I've had this fantastic idea where you don't have to put as much medication in a bottle and you can reduce your waste.
+[1:33 - 1:44]  And Alcon says, are you kidding me? There is no way we're going to do that because that would mean we would, like, charge less for our drops and we don't want to do that.
+[1:45 - 1:51]  Okay, next up, Marshall Island uses another example for breast cancer, specifically the chemotherapy drug Herceptin.
+[1:51 - 1:59]  And in a similar fashion, Genentech, the makers of Herceptin, used to have multi-use bottles for the chemotherapy Herceptin.
+[2:00 - 2:05]  And, I mean, it's a monoclonal antibody, it's not like traditional chemo, it doesn't make your hair fall out, etc.
+[2:05 - 2:12]  But the point is, is that you would draw out the Herceptin with a syringe and you would administer it to the patient.
+[2:12 - 2:17]  And if there was more left in the bottle, you could use another syringe to draw out more to give to another patient.
+[2:17 - 2:26]  But then, Genentech changed the size of the bottles and the design of the bottles such that you could only draw out for one patient.
+[2:26 - 2:30]  And then whatever volume was left, you had to throw away.
+[2:30 - 2:33]  But you would still charge the patient for the entire bottle.
+[2:33 - 2:40]  So, just for example, let's say you used 100 milliliters and there was 150 milliliters in the bottle.
+[2:40 - 2:49]  You would have to throw away the extra 50 milliliters, but you would charge the patient for the full 150 milliliters as opposed to the 100 milliliters that they actually used.
+[2:50 - 2:57]  So, there's an estimate that there's about $1,000 of waste per Herceptin infusion as a result of that change.
+[2:57 - 3:01]  Oh, by the way, that is additional money that Genentech is making.
+[3:02 - 3:08]  That's $1,000 that could have been saved and distributed in the form of medication to other women with breast cancer.
+[3:08 - 3:19]  And it's estimated that about 10% of all cancer medications, chemotherapy, is wasted as a result of the same thing that's happening with the Herceptin and the bottle sizes here.
+[3:19 - 3:22]  And it costs about $1.8 billion a year.
+[3:22 - 3:32]  Now, we're talking about, you know, $3, $4 trillion of healthcare spend in America and just about $3.4 billion or $1.8 billion.
+[3:32 - 3:33]  Well, that's not very much.
+[3:34 - 3:46]  But we can then apply that same business rationale that is being used for, excuse me, against micro drops or against multi-use bottles.
+[3:46 - 3:48]  And we can apply that to value-based care.
+[3:48 - 3:51]  Because essentially, what is a micro drop?
+[3:52 - 3:54]  It is value-based care.
+[3:54 - 3:57]  It's improving the amount of value per the amount of money.
+[3:57 - 3:59]  What is a multi-use bottle?
+[3:59 - 4:01]  It's a form of value-based care.
+[4:02 - 4:07]  It's improving the amount of care delivered for a certain amount of money.
+[4:07 - 4:12]  Likewise, you could put bundled payments in the exact same category
+[4:12 - 4:20]  where you are improving the amount of value that is delivered for a lower amount or a set amount of money.
+[4:20 - 4:24]  Now, let's look at this in graphic or chart form.
+[4:25 - 4:26]  So what I have here is a spectrum.
+[4:27 - 4:29]  Because, of course, value is not binary.
+[4:29 - 4:30]  It's not value or no value.
+[4:31 - 4:32]  It's on a spectrum.
+[4:32 - 4:36]  And so what we have here is on one end we have charity.
+[4:36 - 4:38]  And on the other end we have theft.
+[4:38 - 4:39]  Okay?
+[4:39 - 4:45]  And then we have these two triangles here, which are value creation.
+[4:45 - 4:47]  That's why it's the plus sign.
+[4:47 - 4:49]  And then you have value extraction.
+[4:50 - 4:55]  And essentially all businesses are a combination of value creation and value extraction.
+[4:56 - 5:03]  So if you have, and these are relative value creation vis-a-vis value extraction.
+[5:03 - 5:10]  So if you have 100% value creation and 0% value extraction, that's charity.
+[5:11 - 5:11]  Right?
+[5:11 - 5:13]  You're creating all this value and you're giving it away.
+[5:14 - 5:15]  You're not charging anything for it.
+[5:16 - 5:22]  On the flip side, if you are creating no value but you are then extracting value,
+[5:22 - 5:24]  that's the same thing as theft.
+[5:24 - 5:24]  Right?
+[5:24 - 5:29]  You know, if you steal somebody's wallet, you certainly have created no value for them.
+[5:30 - 5:31]  And you have extracted value from them.
+[5:32 - 5:33]  The money that's in their wallet.
+[5:33 - 5:33]  Okay.
+[5:34 - 5:38]  So, as you can imagine, most businesses are somewhere along this continuum.
+[5:38 - 5:42]  The business is not 100% charity and the business is not 100% theft.
+[5:42 - 5:44]  So let's just talk about things that are in the middle.
+[5:44 - 5:46]  Like 50-50 value creation and value extraction.
+[5:46 - 5:52]  Well, they could be high value creation and high value extraction.
+[5:52 - 5:54]  That's high VC and high VE.
+[5:54 - 5:55]  And that might be a luxury car.
+[5:56 - 5:58]  I'm not a car person, but you might be a car person.
+[5:59 - 6:03]  And so the value creation is super high because you have so much joy from driving that luxury car.
+[6:03 - 6:08]  But the value extraction is also high because it's a very high price for that luxury car.
+[6:08 - 6:17]  Likewise, there's probably 50-50 value creation, value extraction products as well that are low value creation and low value extraction.
+[6:18 - 6:20]  And that's like a paper towel.
+[6:20 - 6:20]  Right?
+[6:20 - 6:24]  Like it's useful, but they don't charge a lot for it.
+[6:24 - 6:24]  Okay.
+[6:24 - 6:32]  Now, let's go over here to situations that have very high value creation and very low value extraction.
+[6:32 - 6:32]  Okay.
+[6:33 - 6:36]  I would argue like gasoline is a great example of that.
+[6:36 - 6:39]  Like at the end of the day, gasoline is super useful.
+[6:39 - 6:42]  You get so much value out of being able to drive your car around.
+[6:43 - 6:45]  And at the end of the day, it's like highly affordable.
+[6:45 - 6:51]  Certainly anybody who's ever been to Canada or Europe and you see how much money they charge for gasoline,
+[6:51 - 6:54]  you're like, whoa, at the end of the day, gasoline in America is pretty cheap.
+[6:55 - 6:55]  Okay.
+[6:55 - 6:56]  Next up, food.
+[6:57 - 7:00]  At the end of the day, food is incredibly affordable.
+[7:01 - 7:02]  Now, it depends upon what you buy.
+[7:02 - 7:02]  Okay.
+[7:03 - 7:07]  But I would argue that there's huge value.
+[7:07 - 7:08]  I mean, you need it to live.
+[7:09 - 7:10]  There's huge value creation.
+[7:10 - 7:12]  And at the end of the day, it's highly affordable.
+[7:12 - 7:15]  You can watch these YouTube videos about like how to feed a family of five for like $10.
+[7:15 - 7:15]  Right?
+[7:16 - 7:17]  I mean, it's doable.
+[7:18 - 7:18]  Okay.
+[7:18 - 7:21]  So let's go here to the other end of the spectrum.
+[7:21 - 7:27]  That is closer to theft, where there is very low value creation and very high value extraction.
+[7:27 - 7:34]  One might argue that health insurance and PBMs and all the other middlemen in healthcare,
+[7:34 - 7:39]  where they're extracting premium, but they're not actually delivering any care or relieving any suffering
+[7:39 - 7:47]  or preventing any death, that arguably, that is high value extraction and low value creation.
+[7:47 - 7:54]  Likewise, a brand name drug where there's a generic alternative might be another example,
+[7:54 - 7:59]  where at the end of the day, the value creation versus value extraction of that brand name drug
+[7:59 - 8:04]  is totally out of whack because you could easily just take the generic and it's way over on this side.
+[8:04 - 8:04]  Okay.
+[8:05 - 8:12]  Now, what do all of the things over here on the high value, low extraction side,
+[8:12 - 8:18]  how are they different than things here on the high extraction, low creation side?
+[8:19 - 8:20]  And there's two things.
+[8:20 - 8:22]  There's competition and regulation.
+[8:22 - 8:22]  Right?
+[8:23 - 8:26]  Because at the end of the day, it's the competition for the gas and the food.
+[8:26 - 8:26]  Right?
+[8:27 - 8:29]  I mean, the switching costs are super easy.
+[8:29 - 8:30]  It's something that you do over and over again.
+[8:31 - 8:35]  Like the gasoline, like going to a different gas station, that's highly competitive and they're selling a commodity.
+[8:36 - 8:40]  Food, going to a grocery store is like, shoot, Walmart will even match your price.
+[8:40 - 8:41]  Right?
+[8:41 - 8:42]  So there's competition.
+[8:42 - 8:49]  Or in cases where there's not competition, there specifically is regulation around that issue.
+[8:49 - 8:55]  And shoot, here in Texas, we've seen that happen with what happened to energy prices and electricity prices
+[8:55 - 8:56]  after our snowpocalypse.
+[8:57 - 8:57]  Right?
+[8:57 - 9:02]  If you don't have price regulation, then there's a ton of value extraction without the value creation.
+[9:03 - 9:09]  And then likewise, in places that do have price regulation on their utilities, like there's a lot more value creation than there is value extraction.
+[9:10 - 9:10]  Okay.
+[9:11 - 9:11]  That's fine.
+[9:11 - 9:21]  So over here, if you are a business, you actually want to be as close to the theft side as possible.
+[9:21 - 9:24]  Especially if you're a publicly traded business.
+[9:24 - 9:35]  Like your investors expect, you have a fiduciary responsibility to extract as much value as possible vis-a-vis the value that you are creating.
+[9:35 - 9:39]  You have a responsibility to your investors and your shareholders to do that.
+[9:40 - 9:43]  If you don't do that, you should be fired.
+[9:43 - 9:44]  That's not your job.
+[9:45 - 9:48]  Your job as a CEO and as a board member is not to be here.
+[9:49 - 9:50]  Your job is here.
+[9:50 - 9:51]  And how do you do that?
+[9:51 - 9:53]  By creating differentiation.
+[9:53 - 9:55]  By creating monopolies.
+[9:56 - 9:58]  By a lot of ways.
+[9:58 - 9:58]  Okay.
+[9:59 - 10:00]  So, listen.
+[10:00 - 10:02]  Peter Thiel is an excellent businessman.
+[10:03 - 10:03]  Right?
+[10:03 - 10:04]  So, you know.
+[10:05 - 10:06]  Silicon Valley.
+[10:06 - 10:07]  I'm sure many are familiar with him.
+[10:07 - 10:07]  Okay.
+[10:08 - 10:08]  You know.
+[10:08 - 10:12]  He has written about how competition is for losers.
+[10:13 - 10:16]  Competition is for losers, according to Peter Thiel.
+[10:16 - 10:16]  Right?
+[10:17 - 10:20]  That's a business case against, okay, value-based care is for losers.
+[10:20 - 10:20]  Okay?
+[10:21 - 10:27]  I have MBAs from the most prestigious business schools in America.
+[10:27 - 10:29]  And they'll call me up and we'll talk and they'll be like interested in value-based care.
+[10:29 - 10:30]  And I'm like, look, there's no money in it.
+[10:31 - 10:33]  Like professionally for you, for your career.
+[10:33 - 10:37]  If you want to get into value-based care, like, you know, good luck.
+[10:37 - 10:39]  Because it's frankly from a career perspective, not a great career for you.
+[10:40 - 10:44]  So, my point for today is, is we need to call a spade a spade.
+[10:45 - 10:46]  That's my point for today.
+[10:46 - 10:48]  Is that let's not fool ourselves.
+[10:48 - 10:55]  That if you are involved in the healthcare industry from a business perspective, you want to be here.
+[10:55 - 10:55]  Okay?
+[10:55 - 10:57]  You do not want to be here.
+[10:57 - 10:57]  Okay?
+[10:57 - 10:59]  Value-based care is here.
+[10:59 - 11:00]  Not here.
+[11:00 - 11:05]  So, if there's any business that says that it's interested in value-based care,
+[11:05 - 11:08]  then you need to be highly skeptical of that statement.
+[11:09 - 11:10]  And that's my point for today.
+[11:10 - 11:11]  Thank you for watching A Healthcare Z.

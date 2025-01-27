@@ -1,0 +1,139 @@
+Title: Radiology and Miscommunication in Healthcare
+URL: https://www.youtube.com/watch?v=nWh-y7WcRaQ
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is radiology and lessons in miscommunication. Now, we've talked a lot about imaging here on A Healthcare Z, but I want to do a little bit of a deep dive here on the intersection of imaging and communication because both are hugely important when it comes to healthcare. So, in America, we do about $128 billion a year worth of imaging, MRIs, CT scans, x-rays, PET scans. Okay, that was in 2019. That was the most recent data I could find. Now, we do... I did a previous video where I said, hey, utilization in America is actually not that much higher than other developed countries, but there is one exception, and that exception is imaging and radiology, where the utilization of imaging and radiology in America is super high compared to the rest of the world. So, we do 118 MRIs per thousand people here in America, whereas the other organized countries only do 82. There's only one other country that does more MRIs than the United States does, the States does, and that's Japan. For CT scans, it's even greater. We do 245 CT scans for every thousand people here in America. The average for the rest of the industrialized world is only 151. Again, Japan is the only country that does more CT scans than the United States does. So, when it comes to imaging, we do a lot. Hey, I'm not judging that. Maybe the rest of the world does too little. That's a different video for a different day, but we do a lot. So, we need to examine the communication around all of these x-rays and CT scans and MRIs. So, let's look at the workflow here. Okay, so there's an ordering physician. It might be the ER physician. Me as an internal medicine doctor, I would order these as outpatients. You might have a variety of gastroenterologists ordering these. You have all sorts of pulmonologists. All sorts of doctors order these scans, right? So, there's a reason why I have to give an indication for it. Shortness of breath, right upper quadrant pain, etc. Now, the scan is performed and the image is created. And then one of two things happen. If there's a surgeon that is ordering it, whether it be an orthopedic surgeon or a neurosurgeon or a general surgeon, they generally read their own scans. Now, the radiologist will read the scan too, but generally the surgeon will look at their own scan and they'll make their own assessment of that scan. Now, for the rest of the doctors like internal medicine doctor, family practice, ER physicians, we rely on the radiology report. So, the radiologist is typically dictating a report. They're saying, okay, this is what I see, this is what I see, this is what I don't see, this is abnormal, this is normal, etc. Okay, and then that report then goes back to the ordering physician. So, really the end product of the scan is actually the report. The end product of the scan is not the scan. The end product of the scan is the professionally interpreted report. So, let's take a look at those reports. So, they did some studies, one of which was on chest x-rays, where they found that the language used in analyzing that chest x-ray, there were 14 different terms that were used for the same thing, which was interstitial edema, which is just a fancy way of saying fluid in the lungs. So, there was no standardized term for interstitial edema. The radiologist was using 14 different words for it. Okay, now, 39% of the time, the ordering physician was confused about the report. So, you want to talk about a breakdown in communication, almost 40% of the time, the ordering doctor like didn't understand it? Well, okay, like that's like, to a certain extent that's kind of like a failure rate of the report, right? Because the report should be deemed successful if the ordering physician can like understand it. Because it's the ordering physician that needs to then do something based upon the report. Whether it be call up the surgeon and you know, maybe they need to go to the OR for appendicitis. Or increase a diuretic dose, or decrease a diuretic dose, etc. Okay, now, 51% of the ordering physicians said that the radiology report did not answer the clinical question. Aha! I cannot totally blame my radiology colleagues on this one. Because there's a big problem, not only in the radiology reports, but in the reason for the imaging study. So, in the hospital, it's all done through the electronic ordering system or the electronic medical record. And often times, the reason is like one word. It's like pain. And there'll be an entire CT scan of the abdomen and pelvis. And the radiologist is like, okay, pain where? Right upper quadrant pain? Lower left quadrant pain? Peri-umbilical pain around the belly button? Like, where's the pain? You can't just say pain. And it's even worse on spines. They can do a whole lumbar spine. Sometimes they'll do a whole cervical spine. Sometimes they'll do cervical, thoracic, and lumbar spine. And there's no specific indication of like, the pain is at, you know, appears to be at about the L3 level. Or it appears to be at approximately the C7, C8 level. I mean, that is hugely helpful to the radiologist when they're trying to make sense of what is normal and abnormal on that radiology scan. CT, MRI, etc. So, a big part of this too is there's not standardization protocols around, okay, well, what's the terminology and the extent of the information that's given for the reason? It's like one word, pain. Which at the end of the day is like, really not helpful. Okay, so, now let's look at another, so, let's look at another study, okay. So, let's look at a study here of an MRI that was done on one patient. Now, this was kind of done after the fact because this one patient obviously was having all sorts of problems and was doing something frankly that was not clinically indicated. And that is, they got the exact same MRI done at 10 different medical centers over the course of three weeks. Okay, that's obviously crazy, right? So, obviously this was totally uncoordinated care, but it gave the researchers an opportunity to assess, okay, for the exact same person, with the exact same spine, like their spine probably didn't change that much within a three-week period of time, was there any difference among the reading, among the radiology report across those 10 centers? Let's see what they found. They found that there were actually 49 unique findings in the radiology reports across those 10 centers. And, zero of those 49 findings were found on every single one of the 10. Like, I don't know, let's say it was something stupid, like their L1 vertebrae was missing, right? Well, there was nothing as obvious and as concrete as that that was on all 10 scans or all 10 reports. Okay, likewise, 33% of the 49 findings were only reported on once. So, there was a huge degree of what is referred to as inter-observer variability. So, those 10 different radiologists at those 10 different hospitals were highly variable in terms of how they interpreted that same person's MRI within a very short period of time. So, what's my point? What am I getting at here? This goes back to the Atul Gawande checklist manifesto video where we really have no procedural standards within radiology when it comes to the protocol for the terminology that's used by the radiologist to say, Hey, we as radiologists, we all agree to use these words to mean these things. That hasn't been done. There's no protocol or standardization in regards to the communication from the ordering physician. Maybe something, I guarantee you that if you polled radiologists, they would say, In no situation is a single word of pain an appropriate reason for a scan. You gotta give me more than that. Okay. Well, there should be some standardization around protocols to say that, hey, the reason for the scan can never save one word pain. Something as simple as that. Obviously, it could involve, you know, much more. It has to be a minimum of ten words. It has to describe left side versus right side, etc. etc. Like, that doesn't exist. Okay. And then finally, there's no feedback mechanism or measurement mechanism for consistency across radiologists. So, what does that mean? That means that, to a certain extent, image radiology reports are highly interpretive. They're highly variable. They're not, I mean, it depends upon which radiologist you get, which day of the week, for what the findings are gonna be. It's all over the map. So, what is that inconsistency, that lack of standardized communication, and that lack of protocol for terminology? What is that just screaming for that I talked about in the Atul Gawande video? It's screaming for industrial engineering. Atul Gawande calls it a checklist. What, I mean, like I said, there's an entire discipline of industrial engineering that is applied to aviation, it's applied to construction, it's applied to the military. I mean, there's all these areas where you're trying to coordinate people and resources and communication and technology and software, a la imaging and radiology. What a great place to use it. Maybe we should use industrial engineering and radiology. And that's my point for today. Thank you for watching A Healthcare Z. A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:05 - 0:11]  Today's topic is radiology and lessons in miscommunication.
+[0:11 - 0:15]  Now, we've talked a lot about imaging here on A Healthcare Z,
+[0:15 - 0:20]  but I want to do a little bit of a deep dive here on the intersection of imaging and communication
+[0:20 - 0:23]  because both are hugely important when it comes to healthcare.
+[0:23 - 0:32]  So, in America, we do about $128 billion a year worth of imaging, MRIs, CT scans, x-rays, PET scans.
+[0:32 - 0:35]  Okay, that was in 2019. That was the most recent data I could find.
+[0:35 - 0:38]  Now, we do... I did a previous video where I said,
+[0:38 - 0:43]  hey, utilization in America is actually not that much higher than other developed countries,
+[0:43 - 0:48]  but there is one exception, and that exception is imaging and radiology,
+[0:48 - 0:52]  where the utilization of imaging and radiology in America is super high
+[0:52 - 0:54]  compared to the rest of the world.
+[0:54 - 1:01]  So, we do 118 MRIs per thousand people here in America,
+[1:01 - 1:06]  whereas the other organized countries only do 82.
+[1:06 - 1:10]  There's only one other country that does more MRIs than the United States does,
+[1:10 - 1:12]  the States does, and that's Japan.
+[1:12 - 1:14]  For CT scans, it's even greater.
+[1:14 - 1:20]  We do 245 CT scans for every thousand people here in America.
+[1:20 - 1:25]  The average for the rest of the industrialized world is only 151.
+[1:25 - 1:31]  Again, Japan is the only country that does more CT scans than the United States does.
+[1:31 - 1:33]  So, when it comes to imaging, we do a lot.
+[1:33 - 1:35]  Hey, I'm not judging that.
+[1:35 - 1:38]  Maybe the rest of the world does too little.
+[1:38 - 1:42]  That's a different video for a different day, but we do a lot.
+[1:42 - 1:49]  So, we need to examine the communication around all of these x-rays and CT scans and MRIs.
+[1:49 - 1:51]  So, let's look at the workflow here.
+[1:51 - 1:53]  Okay, so there's an ordering physician.
+[1:53 - 1:54]  It might be the ER physician.
+[1:54 - 1:57]  Me as an internal medicine doctor, I would order these as outpatients.
+[1:57 - 2:00]  You might have a variety of gastroenterologists ordering these.
+[2:00 - 2:02]  You have all sorts of pulmonologists.
+[2:02 - 2:04]  All sorts of doctors order these scans, right?
+[2:04 - 2:07]  So, there's a reason why I have to give an indication for it.
+[2:07 - 2:11]  Shortness of breath, right upper quadrant pain, etc.
+[2:11 - 2:14]  Now, the scan is performed and the image is created.
+[2:14 - 2:15]  And then one of two things happen.
+[2:15 - 2:19]  If there's a surgeon that is ordering it, whether it be an orthopedic surgeon or a neurosurgeon
+[2:19 - 2:22]  or a general surgeon, they generally read their own scans.
+[2:22 - 2:27]  Now, the radiologist will read the scan too, but generally the surgeon will look at their own scan
+[2:27 - 2:29]  and they'll make their own assessment of that scan.
+[2:29 - 2:33]  Now, for the rest of the doctors like internal medicine doctor, family practice, ER physicians,
+[2:33 - 2:35]  we rely on the radiology report.
+[2:35 - 2:38]  So, the radiologist is typically dictating a report.
+[2:38 - 2:42]  They're saying, okay, this is what I see, this is what I see, this is what I don't see, this is abnormal, this is normal, etc.
+[2:42 - 2:46]  Okay, and then that report then goes back to the ordering physician.
+[2:46 - 2:51]  So, really the end product of the scan is actually the report.
+[2:51 - 2:53]  The end product of the scan is not the scan.
+[2:53 - 2:57]  The end product of the scan is the professionally interpreted report.
+[2:57 - 2:59]  So, let's take a look at those reports.
+[2:59 - 3:08]  So, they did some studies, one of which was on chest x-rays, where they found that the language used in analyzing that chest x-ray,
+[3:08 - 3:16]  there were 14 different terms that were used for the same thing, which was interstitial edema,
+[3:16 - 3:20]  which is just a fancy way of saying fluid in the lungs.
+[3:20 - 3:24]  So, there was no standardized term for interstitial edema.
+[3:24 - 3:27]  The radiologist was using 14 different words for it.
+[3:27 - 3:37]  Okay, now, 39% of the time, the ordering physician was confused about the report.
+[3:37 - 3:45]  So, you want to talk about a breakdown in communication, almost 40% of the time, the ordering doctor like didn't understand it?
+[3:45 - 3:52]  Well, okay, like that's like, to a certain extent that's kind of like a failure rate of the report, right?
+[3:52 - 3:58]  Because the report should be deemed successful if the ordering physician can like understand it.
+[3:58 - 4:02]  Because it's the ordering physician that needs to then do something based upon the report.
+[4:02 - 4:06]  Whether it be call up the surgeon and you know, maybe they need to go to the OR for appendicitis.
+[4:06 - 4:11]  Or increase a diuretic dose, or decrease a diuretic dose, etc.
+[4:11 - 4:19]  Okay, now, 51% of the ordering physicians said that the radiology report did not answer the clinical question.
+[4:19 - 4:23]  Aha! I cannot totally blame my radiology colleagues on this one.
+[4:23 - 4:30]  Because there's a big problem, not only in the radiology reports, but in the reason for the imaging study.
+[4:30 - 4:34]  So, in the hospital, it's all done through the electronic ordering system or the electronic medical record.
+[4:34 - 4:39]  And often times, the reason is like one word. It's like pain.
+[4:39 - 4:43]  And there'll be an entire CT scan of the abdomen and pelvis.
+[4:43 - 4:46]  And the radiologist is like, okay, pain where?
+[4:46 - 4:49]  Right upper quadrant pain? Lower left quadrant pain?
+[4:49 - 4:54]  Peri-umbilical pain around the belly button? Like, where's the pain?
+[4:54 - 4:57]  You can't just say pain. And it's even worse on spines.
+[4:57 - 5:01]  They can do a whole lumbar spine. Sometimes they'll do a whole cervical spine.
+[5:01 - 5:04]  Sometimes they'll do cervical, thoracic, and lumbar spine.
+[5:04 - 5:12]  And there's no specific indication of like, the pain is at, you know, appears to be at about the L3 level.
+[5:12 - 5:16]  Or it appears to be at approximately the C7, C8 level.
+[5:16 - 5:26]  I mean, that is hugely helpful to the radiologist when they're trying to make sense of what is normal and abnormal on that radiology scan.
+[5:26 - 5:28]  CT, MRI, etc.
+[5:28 - 5:39]  So, a big part of this too is there's not standardization protocols around, okay, well, what's the terminology and the extent of the information that's given for the reason?
+[5:39 - 5:43]  It's like one word, pain. Which at the end of the day is like, really not helpful.
+[5:43 - 5:48]  Okay, so, now let's look at another, so, let's look at another study, okay.
+[5:48 - 5:54]  So, let's look at a study here of an MRI that was done on one patient.
+[5:54 - 6:03]  Now, this was kind of done after the fact because this one patient obviously was having all sorts of problems and was doing something frankly that was not clinically indicated.
+[6:03 - 6:11]  And that is, they got the exact same MRI done at 10 different medical centers over the course of three weeks.
+[6:11 - 6:13]  Okay, that's obviously crazy, right?
+[6:13 - 6:22]  So, obviously this was totally uncoordinated care, but it gave the researchers an opportunity to assess, okay, for the exact same person,
+[6:22 - 6:28]  with the exact same spine, like their spine probably didn't change that much within a three-week period of time,
+[6:28 - 6:35]  was there any difference among the reading, among the radiology report across those 10 centers?
+[6:35 - 6:36]  Let's see what they found.
+[6:36 - 6:44]  They found that there were actually 49 unique findings in the radiology reports across those 10 centers.
+[6:44 - 6:51]  And, zero of those 49 findings were found on every single one of the 10.
+[6:51 - 6:57]  Like, I don't know, let's say it was something stupid, like their L1 vertebrae was missing, right?
+[6:57 - 7:07]  Well, there was nothing as obvious and as concrete as that that was on all 10 scans or all 10 reports.
+[7:07 - 7:14]  Okay, likewise, 33% of the 49 findings were only reported on once.
+[7:14 - 7:22]  So, there was a huge degree of what is referred to as inter-observer variability.
+[7:22 - 7:36]  So, those 10 different radiologists at those 10 different hospitals were highly variable in terms of how they interpreted that same person's MRI within a very short period of time.
+[7:36 - 7:37]  So, what's my point?
+[7:37 - 7:38]  What am I getting at here?
+[7:38 - 7:57]  This goes back to the Atul Gawande checklist manifesto video where we really have no procedural standards within radiology when it comes to the protocol for the terminology that's used by the radiologist to say,
+[7:57 - 8:01]  Hey, we as radiologists, we all agree to use these words to mean these things.
+[8:01 - 8:03]  That hasn't been done.
+[8:03 - 8:10]  There's no protocol or standardization in regards to the communication from the ordering physician.
+[8:10 - 8:13]  Maybe something, I guarantee you that if you polled radiologists, they would say,
+[8:13 - 8:20]  In no situation is a single word of pain an appropriate reason for a scan.
+[8:20 - 8:21]  You gotta give me more than that.
+[8:21 - 8:22]  Okay.
+[8:22 - 8:28]  Well, there should be some standardization around protocols to say that, hey, the reason for the scan can never save one word pain.
+[8:28 - 8:29]  Something as simple as that.
+[8:29 - 8:32]  Obviously, it could involve, you know, much more.
+[8:32 - 8:34]  It has to be a minimum of ten words.
+[8:34 - 8:37]  It has to describe left side versus right side, etc. etc.
+[8:37 - 8:38]  Like, that doesn't exist.
+[8:38 - 8:39]  Okay.
+[8:39 - 8:48]  And then finally, there's no feedback mechanism or measurement mechanism for consistency across radiologists.
+[8:48 - 8:50]  So, what does that mean?
+[8:50 - 8:56]  That means that, to a certain extent, image radiology reports are highly interpretive.
+[8:56 - 8:58]  They're highly variable.
+[8:58 - 9:03]  They're not, I mean, it depends upon which radiologist you get, which day of the week, for what the findings are gonna be.
+[9:03 - 9:04]  It's all over the map.
+[9:04 - 9:10]  So, what is that inconsistency, that lack of standardized communication, and that lack of protocol for terminology?
+[9:10 - 9:13]  What is that just screaming for that I talked about in the Atul Gawande video?
+[9:13 - 9:17]  It's screaming for industrial engineering.
+[9:17 - 9:20]  Atul Gawande calls it a checklist.
+[9:20 - 9:30]  What, I mean, like I said, there's an entire discipline of industrial engineering that is applied to aviation, it's applied to construction, it's applied to the military.
+[9:30 - 9:39]  I mean, there's all these areas where you're trying to coordinate people and resources and communication and technology and software, a la imaging and radiology.
+[9:39 - 9:41]  What a great place to use it.
+[9:41 - 9:44]  Maybe we should use industrial engineering and radiology.
+[9:44 - 9:45]  And that's my point for today.
+[9:45 - 9:47]  Thank you for watching A Healthcare Z.
+[9:47 - 9:48]  A Healthcare Z.

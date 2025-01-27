@@ -1,0 +1,58 @@
+Title: Health Insurance Claim Repricing
+URL: https://www.youtube.com/watch?v=u8upoDe0nwI
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is health insurance claim repricing. And today's video is a continuation of the claims adjudication video that I made yesterday. And I'll leave a link to that in the show notes. Now, what is claims repricing? It is the application of the contract terms to the bill charges. Contract terms for whom? Between the hospital or the physician practice and the insurance network. And then the bill charges are from, again, the hospital system or the physician group. Now, let me show you this pictorially. That may help. So, here you have a claim. And believe it or not, when I got started in the late 90s, they were still using paper claims. You used to look at 8.5 by 11 sheet of paper. Okay. It is then sent to the health insurance company. It is then adjudicated. Right? In the previous video, we talked about, okay, is the person eligible? Is the service eligible? Is it a covered service? Is it too late for timely filing? Does it require prioritization? Et cetera, et cetera. Okay. It gets through that whole process. Then it needs to be repriced. Because the original claim has the billed charges on it. And then it is repriced to the allowed amount. And then that allowed amount is then divided between the patient responsibility and the plan responsibility. So, then the patient responsibility, the patient then needs to pay that back to the provider. Or maybe they already paid it if it was a copay. And then the plan responsibility then needs to be paid back to the provider. And it comes directly from the insurance carrier if it's a fully insured group. Or it gets wired from the self-funded employer to the provider. Okay. Now, here's the key. Contract terms. Right? So, the repricing is based on the contract terms. Or what is oftentimes referred to as the discount. Now, those contract terms are very complicated. There's a lot of them. There are things called a case rate. There are things called a percent of charge discount. There are things called a per diem where the hospital will just reimburse, excuse me, where the insurance company will just reimburse like a set amount per day. It might be like $1,900 per day of hospitalization. Let's say for like a pneumonia. Then there's a carve-out, which is a specific line item payment for something like a pacemaker. And there's more on top of that. And believe it or not, I made seven videos that distinctly describe all the different contract terms. And I will leave a link to all seven of those videos in the show notes for this video. They're some of the earliest videos I ever made here on A Healthcare Z. And they're super important for you to watch. So, you run the claims through all the variety of contract terms depending upon the different service. In other words, like the imaging might run through case rates. The outpatient surgeries might run through percent of charge. So, it's certain types of services are run through different parts of the contract. Okay. That gets you to the allowed amount. And the allowed amount is the true cost of healthcare. It's that whole deal with price transparency that has been in the news, talked about by the White House, etc., etc. When they're talking about transparency, they're talking about the allowed amount. Because that's the true cost. In other words, if let's say the allowed amount is $800 and the person has a $1,000 deductible, that $800 is completely the patient responsibility. That allowed amount is completely the patient responsibility. And unless that allowed amount is made transparent, the person doesn't know in advance what that allowed amount is going to be. Okay. Then, we have the bill charges. Okay. So, if the allowed amount is the true cost, what is the bill? What are the bill charges? What is the original dollar amount that's on the claim? What is that? That is a fictional amount nobody pays. I also call that the F-A-N-P or the FAN-P. Okay. So, the bill charges are the FAN-P. Now, where does the FAN-P come from? It comes from the charge master, which is the list of all of the prices of every single service at the hospital. Right? So, 30 minutes of OR time, $1,000. A day, or an aspirin, $1.50. Hang in a bag of IV fluid, $115. Right? So, all that adds up. It's like the menu with all the prices that then get added up to form the bill charges. Now, the charge master and the prices on the charge master are created through a process called strategic pricing. And guess what? I have made videos about the charge master and strategic pricing as well. So, repricing is a very important term that everybody in healthcare and employee benefits and health insurance needs to understand. It's repricing. And this cycle that repricing and adjudication are a part of is what is referred to as the revenue cycle. Or if you want to sound super cool in the provider world, it's just referred to as the rev cycle. So, if you want to sound hip with all the hospital finance people, just talk about rev cycle. Right? It's incredibly important for you to understand the revenue cycle of the healthcare system as well. So, I'm trying to put it together with adjudication and repricing. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:29]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is health insurance claim repricing. And today's video is a continuation of the claims adjudication video that I made yesterday. And I'll leave a link to that in the show notes. Now, what is claims repricing? It is the application of the contract terms to the bill charges. Contract terms for whom? Between the hospital or the physician practice and the insurance network.
+[0:29 - 0:59]  And then the bill charges are from, again, the hospital system or the physician group. Now, let me show you this pictorially. That may help. So, here you have a claim. And believe it or not, when I got started in the late 90s, they were still using paper claims. You used to look at 8.5 by 11 sheet of paper. Okay. It is then sent to the health insurance company. It is then adjudicated. Right? In the previous video, we talked about, okay, is the person eligible? Is the service eligible? Is it a covered service?
+[0:59 - 1:14]  Is it too late for timely filing? Does it require prioritization? Et cetera, et cetera. Okay. It gets through that whole process. Then it needs to be repriced. Because the original claim has the billed charges on it. And then it is repriced to the allowed amount.
+[1:14 - 1:28]  And then that allowed amount is then divided between the patient responsibility and the plan responsibility. So, then the patient responsibility, the patient then needs to pay that back to the provider. Or maybe they already paid it if it was a copay.
+[1:28 - 1:46]  And then the plan responsibility then needs to be paid back to the provider. And it comes directly from the insurance carrier if it's a fully insured group. Or it gets wired from the self-funded employer to the provider. Okay. Now, here's the key. Contract terms. Right?
+[1:46 - 1:56]  So, the repricing is based on the contract terms. Or what is oftentimes referred to as the discount. Now, those contract terms are very complicated. There's a lot of them.
+[1:56 - 2:09]  There are things called a case rate. There are things called a percent of charge discount. There are things called a per diem where the hospital will just reimburse, excuse me, where the insurance company will just reimburse like a set amount per day.
+[2:09 - 2:20]  It might be like $1,900 per day of hospitalization. Let's say for like a pneumonia. Then there's a carve-out, which is a specific line item payment for something like a pacemaker.
+[2:20 - 2:29]  And there's more on top of that. And believe it or not, I made seven videos that distinctly describe all the different contract terms.
+[2:29 - 2:35]  And I will leave a link to all seven of those videos in the show notes for this video.
+[2:35 - 2:41]  They're some of the earliest videos I ever made here on A Healthcare Z. And they're super important for you to watch.
+[2:42 - 2:48]  So, you run the claims through all the variety of contract terms depending upon the different service.
+[2:48 - 2:53]  In other words, like the imaging might run through case rates. The outpatient surgeries might run through percent of charge.
+[2:54 - 2:58]  So, it's certain types of services are run through different parts of the contract.
+[2:58 - 3:05]  Okay. That gets you to the allowed amount. And the allowed amount is the true cost of healthcare.
+[3:05 - 3:12]  It's that whole deal with price transparency that has been in the news, talked about by the White House, etc., etc.
+[3:12 - 3:17]  When they're talking about transparency, they're talking about the allowed amount.
+[3:17 - 3:18]  Because that's the true cost.
+[3:18 - 3:25]  In other words, if let's say the allowed amount is $800 and the person has a $1,000 deductible, that $800 is completely the patient responsibility.
+[3:26 - 3:28]  That allowed amount is completely the patient responsibility.
+[3:29 - 3:34]  And unless that allowed amount is made transparent, the person doesn't know in advance what that allowed amount is going to be.
+[3:34 - 3:34]  Okay.
+[3:35 - 3:36]  Then, we have the bill charges.
+[3:36 - 3:40]  Okay. So, if the allowed amount is the true cost, what is the bill? What are the bill charges?
+[3:41 - 3:43]  What is the original dollar amount that's on the claim?
+[3:43 - 3:44]  What is that?
+[3:45 - 3:48]  That is a fictional amount nobody pays.
+[3:48 - 3:51]  I also call that the F-A-N-P or the FAN-P.
+[3:52 - 3:54]  Okay. So, the bill charges are the FAN-P.
+[3:54 - 3:56]  Now, where does the FAN-P come from?
+[3:57 - 4:03]  It comes from the charge master, which is the list of all of the prices of every single service at the hospital.
+[4:04 - 4:07]  Right? So, 30 minutes of OR time, $1,000.
+[4:09 - 4:14]  A day, or an aspirin, $1.50.
+[4:14 - 4:18]  Hang in a bag of IV fluid, $115.
+[4:18 - 4:20]  Right? So, all that adds up.
+[4:20 - 4:25]  It's like the menu with all the prices that then get added up to form the bill charges.
+[4:25 - 4:31]  Now, the charge master and the prices on the charge master are created through a process called strategic pricing.
+[4:32 - 4:37]  And guess what? I have made videos about the charge master and strategic pricing as well.
+[4:37 - 4:47]  So, repricing is a very important term that everybody in healthcare and employee benefits and health insurance needs to understand.
+[4:47 - 4:48]  It's repricing.
+[4:48 - 4:57]  And this cycle that repricing and adjudication are a part of is what is referred to as the revenue cycle.
+[4:57 - 5:02]  Or if you want to sound super cool in the provider world, it's just referred to as the rev cycle.
+[5:02 - 5:07]  So, if you want to sound hip with all the hospital finance people, just talk about rev cycle.
+[5:08 - 5:08]  Right?
+[5:08 - 5:15]  It's incredibly important for you to understand the revenue cycle of the healthcare system as well.
+[5:15 - 5:18]  So, I'm trying to put it together with adjudication and repricing.
+[5:19 - 5:20]  And that's my point for today.
+[5:20 - 5:22]  Thank you for watching A Healthcare Z.

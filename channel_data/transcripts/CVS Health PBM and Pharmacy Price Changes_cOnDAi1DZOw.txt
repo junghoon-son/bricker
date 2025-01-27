@@ -1,0 +1,182 @@
+Title: CVS Health PBM and Pharmacy Price Changes
+URL: https://www.youtube.com/watch?v=cOnDAi1DZOw
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Health Care. Today's topic is CVS to change PBM and pharmacy pricing. Now today's information comes from a gentleman by the name of Adam Fine, who's a fantastic writer on drugchannels.net. He was actually quoted in the original Wall Street Journal article that wrote up this CVS price change. So I think it's important for us to sort of translate what he said and put it into actual numbers. Right so as you can imagine with pharmacy pricing, it's complicated and it involves a ton of pricing. So we're going to go through that today. Now, the CVS price changes have two names. They're called Cost, Vantage, and True Cost. And what they do is they take the acquisition cost, which is what it costs the pharmacy to get the medication itself, whether it be the Lipitor, the Metformin, you name it, what have you, from the wholesaler. And let's say we have three different pharmacies, Pharmacy A, Pharmacy B, and Pharmacy C. And so the different pharmacies have different acquisition costs. So Pharmacy A can get the drug for $8, let's say for a 30-day supply. Pharmacy B can get it for $10, and Pharmacy C can get it for $12. Now, the maximum allowable cost is what the PBM then pays the pharmacy for the medication. So in the old world, in sort of the mysterious pricing of PBMs and pharmacies, this is how it works today. So the maximum allowable cost can be all over the place, and it's negotiated between the pharmacy and the PBM. So what the PBM pays the pharmacy at Pharmacy A might be $40, at Pharmacy B it might be $8, and at Pharmacy C it might be $23. So it's all over the bank. Now, the PBM then goes back and it charges the plan a different amount than the MAC. So let's just keep it easy, because there's so many numbers up here. Let's just say that the PBM charges the plan the same amount, regardless of which pharmacy they fill it at. So it charges the plan $50. 50, 50, and 50. Now, let's say the person's got a PPO plan designed, so they've got a copay for this medication. So let's say it's a $30 copay, so the patient's going to be paying $30, $30, and $30. Now, the employer is going to pay the difference between what the plan needs to pay in total, minus what the actual copay amount was. So the plan itself pays $20, $20, and $20. So here's where it gets interesting. In the sort of the confusing world of today of PBM and Pharmacy pricing, then the pharmacy spread, in other words, what the pharmacy makes, is the difference between the MAC minus the acquisition cost. So in this case, the pharmacy made $40 minus $8, they made $32. Pharmacy B, look at this. They only made $8. It cost them $10. The pharmacy lost $2 to fill this prescription. And this is what a lot of pharmacies, especially independent pharmacies, complain of. So Pharmacy A, let's just call that CVS. Just be like, look, the Caremark PBM is being super generous to the CVS pharmacy. And so the pharmacy is getting a super high MAC. It's getting $40 instead of $8. And as a result, the pharmacy spread is $32 at CVS. And it's negative $2 at the independent pharmacy. And then Pharmacy C, let's say it's like a grocery store chain pharmacy like Kroger. So there, the pharmacy spread is going to be $11. It's going to be the $23 minus the $12. And then the PBM spread is going to be $27. The $50 minus the $23. So what you have here is for medications that cost a total of, let's just say if you filled one prescription at each of these pharmacies, it would cost you $20, right? 8 plus 10 plus 12 is $20. Now, all of the markup for the pharmacy and the PBM combined, if you add up the $32 plus the negative 2 plus the 11 plus the 10 plus the 42 plus the 27, if you add all that up together, it comes up to $120. That goes to the middleman of the pharmacy and the PBM for medications that only cost $20. Now, that's the old world. Now, let's go to the new world that was just announced. Let's go to the cost advantage world where now, instead of the MAC being this independently negotiated amount that's really separate from the acquisition cost, now there is going to be a dispensing fee regardless of that it's just going to be added to the acquisition cost. And that dispensing fee, now this is important, that dispensing fee is not standard across all pharmacies. So, CVS is going to negotiate a different dispensing fee at each pharmacy chain. So, let's say they have a $12 dispensing fee at their own pharmacy, CVS, and they only have a $4 dispensing fee at the independent pharmacy, and let's say they have a $4 dispensing fee at the grocery store, Kroger pharmacy. Again, all these numbers are fictional. They're just for illustrative purposes only, okay? That means that the new maximum allowable cost, in other words, the new amount that the PBM is going to pay the pharmacy is the $8 acquisition cost plus the $12 dispensing fee, or $20 at A. Now, at B, it's going to be the $10 acquisition cost plus the $4 dispensing fee, or $14. And at pharmacy C, it's going to be the $12 acquisition cost plus the $4 dispensing fee, or $16. Now, note, in this new world, the plan cost, the copay amount, and the employer cost may not change at all. So, that's why I left it at $50, $30, and $20, right? $50, $30, and $20. $50, $30, and $20. $50, $30, and $20. So, that can, like, not change, right? $50, $30, and $20. $50, $30, and $20. $50, $30, and $20. So, for all you employers out there, I would argue that it would be helpful for you to sit down and go through a specific example for a specific drug that goes through every single one of these fields and say, hey, Mr. or Mrs. PBM, what are you willing to actually tell me are the numbers to fill in here, okay? Because that's going to give you your actual answer for how this is going to affect your plan, okay? So, again, for simplicity's sake, let's just say the plan is still paying $50, the copay is still at $30. And so, then the, what the plan sponsor is going to be playing, what the employer is going to be playing is going to be $20. Okay, now let's take a look at the pharmacy spread and the PBM spread in this new world. Okay, so now, look at this. The pharmacy spread is now only $12, where it used to be $32, and the, because the pharmacy spread is just the dispensing fee, right? $12 and $12. Now, same thing here at Pharmacy B. The dispensing fee is $4, therefore the pharmacy spread is $4. Again, at Pharmacy C, the dispensing fee is $4, and therefore the pharmacy spread is $4. Now, let's look at the PBM spread. So, now the PBM spread is $30, right? It's going to be the plan payment of $50 minus the $20 at Pharmacy A. It's going to be $36 at Pharmacy B. So, it's going to be the plan payment of $50 minus the $14. And at Pharmacy C, it's going to be $34. It's going to be the plan payment of $50 minus $16, which gives you $34. Again, if you run the math on it, if you add up the Pharmacy spread and the PBM spread pricing here, the $12 plus the $4 plus the $4 plus the $30 plus the $36 plus the $34, again, that adds up to $120. So, the amount that the middlemen have taken hasn't changed at all, okay? In this new world of cost vantage, what the middlemen are taking hasn't changed at all in total. However, you will notice that. I have this area boxed in, okay? That is what CVS controls, right? CVS controls their Caremark Pharmacy. They control their CVS pharmacies because we're saying Pharmacy A is CVS. They still control the PBM at Pharmacy B and they still control the PBM at Pharmacy C in this example, okay? That means that what CVS is capturing is what they have at their own pharmacy plus their PBM at each of the three locations. So, what CVS in the old world is capturing is $32 plus $10 plus $42 plus $27, which adds up to $111. Whereas the outside pharmacies, in other words, what CVS is not making as middlemen, they're getting $9, right? And the $9 plus the $111 equals the $120. Now, let's go to the new world. Let's go to the cost vantage world, okay? In the cost vantage world, CVS is getting $12 at their own pharmacy plus $30 from Caremark at their own CVS pharmacies plus $36 for Pharmacy B plus $34 for Pharmacy C. If you add up to $12 plus the $30 plus the $36 plus the $34, that adds up to $112. So, look, it's only $1 more, whereas the outside pharmacies are getting $8 instead of $9. So, not much has changed. That's my point. CVS is getting $1 more, which, oh, by the way, when this was announced, CVS's stock went up that day and the next day and the next day, which is unusual for CVS stock because CVS stock has been going down and down and down for months. CVS has been under pressure from the pharmaceutical industry, from Congress, from Mark Cuban's cost drug program, from transparent PBM's like Capital RX and Med One and other ones. Okay? So, CVS didn't want to change. They basically, through a variety of outside forces, were sort of forced to change. However, this change to a dispensing fee results in very little change in terms of how much they take home. Now, what does this specifically mean for things like the Mark Cuban cost plus drug program? Okay. So, let's just say for this particular drug that Mark Cuban gets it for $20 for a 30-day supply. This is where, historically, if you had, let's say, like a consumer-directed health plan where your actual cost was pretty close to the MAC plus a little bit more, look, you can see that the cost at the pharmacy was $40.08.23. So, if you use Mark Cuban's cost plus program, then you would be much better off at pharmacy A at CVS to not fill it at CVS and to fill it at Mark Cuban. Okay. Likewise, you'd be better off at pharmacy C to fill it at Mark Cuban. But, look at pharmacy B. It'd be better to fill it off there than at Mark Cuban. Okay. Now, note in this new world, the MAC is now $20, $14, and $16. In other words, even at CVS, the most expensive MAC out there, it is comparable to Mark Cuban. And the other two places are less. Why is that? Because more money was shifted away from the pharmacy, right? The pharmacy's only getting $20, and more money is staying with the PBM, right? The PBM spread in this situation went from $10 to $30. So, and oh, by the way, the same thing applies to GoodRx. Let's say the GoodRx amount, instead of being $20, it was $23. The math is the exact same, which is why when this was announced, GoodRx's stock price went down. Because this change is not good for Mark Cuban or for GoodRx. Now, so what they've done is they basically changed where the dollars go from the pharmacy to more towards the PBM, whereas the total amount that actually CVS gets in its combined pharmacy and PBM is almost the same. So, as an employer, as a plan sponsor, as a broker, as a consultant, what I would say to you is, is that if you want to find out specifically how these changes in cost vantage and true cost relate to your plan, my suggestion is, I made up these numbers as an illustration, is to go to your PBM, to go to CVS and say, hey, let's fill in pharmacy A, B, and C. Let's fill in the acquisition cost, the MAC, the plan cost, the copay, the employer cost, the pharmacy spread, and the PBM spread in today's world versus the future state of cost vantage. And then let's go through the exercise of filling in all these boxes. And I think if you sit down with your CVS representative and fill in these boxes together, you'll get a better understanding of how it's truly going to impact your plan and your plan members. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Health Care.
+[0:04 - 0:09]  Today's topic is CVS to change PBM and pharmacy pricing.
+[0:09 - 0:13]  Now today's information comes from a gentleman by the name of Adam Fine,
+[0:13 - 0:17]  who's a fantastic writer on drugchannels.net.
+[0:17 - 0:22]  He was actually quoted in the original Wall Street Journal article that wrote up this CVS price change.
+[0:22 - 0:28]  So I think it's important for us to sort of translate what he said and put it into actual numbers.
+[0:28 - 0:32]  Right so as you can imagine with pharmacy pricing, it's complicated and it involves a ton of pricing.
+[0:32 - 0:34]  So we're going to go through that today.
+[0:34 - 0:39]  Now, the CVS price changes have two names. They're called Cost, Vantage, and True Cost.
+[0:39 - 0:48]  And what they do is they take the acquisition cost, which is what it costs the pharmacy to get the medication itself,
+[0:48 - 0:53]  whether it be the Lipitor, the Metformin, you name it, what have you, from the wholesaler.
+[0:53 - 0:57]  And let's say we have three different pharmacies, Pharmacy A, Pharmacy B, and Pharmacy C.
+[0:57 - 1:00]  And so the different pharmacies have different acquisition costs.
+[1:00 - 1:05]  So Pharmacy A can get the drug for $8, let's say for a 30-day supply.
+[1:05 - 1:09]  Pharmacy B can get it for $10, and Pharmacy C can get it for $12.
+[1:09 - 1:17]  Now, the maximum allowable cost is what the PBM then pays the pharmacy for the medication.
+[1:17 - 1:25]  So in the old world, in sort of the mysterious pricing of PBMs and pharmacies, this is how it works today.
+[1:25 - 1:31]  So the maximum allowable cost can be all over the place, and it's negotiated between the pharmacy and the PBM.
+[1:31 - 1:39]  So what the PBM pays the pharmacy at Pharmacy A might be $40, at Pharmacy B it might be $8, and at Pharmacy C it might be $23.
+[1:39 - 1:40]  So it's all over the bank.
+[1:40 - 1:46]  Now, the PBM then goes back and it charges the plan a different amount than the MAC.
+[1:46 - 1:50]  So let's just keep it easy, because there's so many numbers up here.
+[1:50 - 1:55]  Let's just say that the PBM charges the plan the same amount, regardless of which pharmacy they fill it at.
+[1:55 - 1:57]  So it charges the plan $50.
+[1:57 - 1:58]  50, 50, and 50.
+[1:58 - 2:02]  Now, let's say the person's got a PPO plan designed, so they've got a copay for this medication.
+[2:02 - 2:07]  So let's say it's a $30 copay, so the patient's going to be paying $30, $30, and $30.
+[2:07 - 2:13]  Now, the employer is going to pay the difference between what the plan needs to pay in total, minus what the actual copay amount was.
+[2:13 - 2:16]  So the plan itself pays $20, $20, and $20.
+[2:16 - 2:18]  So here's where it gets interesting.
+[2:18 - 2:30]  In the sort of the confusing world of today of PBM and Pharmacy pricing, then the pharmacy spread, in other words, what the pharmacy makes, is the difference between the MAC minus the acquisition cost.
+[2:30 - 2:33]  So in this case, the pharmacy made $40 minus $8, they made $32.
+[2:34 - 2:35]  Pharmacy B, look at this.
+[2:36 - 2:37]  They only made $8.
+[2:37 - 2:38]  It cost them $10.
+[2:38 - 2:43]  The pharmacy lost $2 to fill this prescription.
+[2:43 - 2:46]  And this is what a lot of pharmacies, especially independent pharmacies, complain of.
+[2:47 - 2:50]  So Pharmacy A, let's just call that CVS.
+[2:50 - 2:56]  Just be like, look, the Caremark PBM is being super generous to the CVS pharmacy.
+[2:57 - 2:59]  And so the pharmacy is getting a super high MAC.
+[2:59 - 3:00]  It's getting $40 instead of $8.
+[3:00 - 3:04]  And as a result, the pharmacy spread is $32 at CVS.
+[3:04 - 3:07]  And it's negative $2 at the independent pharmacy.
+[3:07 - 3:11]  And then Pharmacy C, let's say it's like a grocery store chain pharmacy like Kroger.
+[3:12 - 3:17]  So there, the pharmacy spread is going to be $11.
+[3:17 - 3:21]  It's going to be the $23 minus the $12.
+[3:21 - 3:24]  And then the PBM spread is going to be $27.
+[3:25 - 3:27]  The $50 minus the $23.
+[3:27 - 3:34]  So what you have here is for medications that cost a total of, let's just say if you filled
+[3:34 - 3:37]  one prescription at each of these pharmacies, it would cost you $20, right?
+[3:37 - 3:39]  8 plus 10 plus 12 is $20.
+[3:39 - 3:46]  Now, all of the markup for the pharmacy and the PBM combined, if you add up the $32 plus
+[3:46 - 3:51]  the negative 2 plus the 11 plus the 10 plus the 42 plus the 27, if you add all that up
+[3:51 - 3:53]  together, it comes up to $120.
+[3:54 - 3:59]  That goes to the middleman of the pharmacy and the PBM for medications that only cost $20.
+[4:00 - 4:01]  Now, that's the old world.
+[4:01 - 4:04]  Now, let's go to the new world that was just announced.
+[4:04 - 4:11]  Let's go to the cost advantage world where now, instead of the MAC being this independently
+[4:11 - 4:16]  negotiated amount that's really separate from the acquisition cost, now there is going to
+[4:16 - 4:22]  be a dispensing fee regardless of that it's just going to be added to the acquisition cost.
+[4:22 - 4:26]  And that dispensing fee, now this is important, that dispensing fee is not standard across all
+[4:26 - 4:27]  pharmacies.
+[4:27 - 4:34]  So, CVS is going to negotiate a different dispensing fee at each pharmacy chain.
+[4:34 - 4:39]  So, let's say they have a $12 dispensing fee at their own pharmacy, CVS, and they only
+[4:39 - 4:43]  have a $4 dispensing fee at the independent pharmacy, and let's say they have a $4 dispensing
+[4:43 - 4:45]  fee at the grocery store, Kroger pharmacy.
+[4:45 - 4:46]  Again, all these numbers are fictional.
+[4:46 - 4:49]  They're just for illustrative purposes only, okay?
+[4:49 - 4:54]  That means that the new maximum allowable cost, in other words, the new amount that the PBM
+[4:54 - 5:01]  is going to pay the pharmacy is the $8 acquisition cost plus the $12 dispensing fee, or $20 at
+[5:01 - 5:01]  A.
+[5:02 - 5:07]  Now, at B, it's going to be the $10 acquisition cost plus the $4 dispensing fee, or $14.
+[5:08 - 5:13]  And at pharmacy C, it's going to be the $12 acquisition cost plus the $4 dispensing fee,
+[5:13 - 5:14]  or $16.
+[5:14 - 5:24]  Now, note, in this new world, the plan cost, the copay amount, and the employer cost may
+[5:24 - 5:25]  not change at all.
+[5:25 - 5:28]  So, that's why I left it at $50, $30, and $20, right?
+[5:28 - 5:28]  $50, $30, and $20.
+[5:29 - 5:29]  $50, $30, and $20.
+[5:29 - 5:30]  $50, $30, and $20.
+[5:30 - 5:32]  So, that can, like, not change, right?
+[5:32 - 5:33]  $50, $30, and $20.
+[5:33 - 5:34]  $50, $30, and $20.
+[5:34 - 5:35]  $50, $30, and $20.
+[5:35 - 5:41]  So, for all you employers out there, I would argue that it would be helpful for you to
+[5:41 - 5:46]  sit down and go through a specific example for a specific drug that goes through every
+[5:46 - 5:52]  single one of these fields and say, hey, Mr. or Mrs. PBM, what are you willing to actually
+[5:52 - 5:55]  tell me are the numbers to fill in here, okay?
+[5:55 - 6:00]  Because that's going to give you your actual answer for how this is going to affect your
+[6:00 - 6:00]  plan, okay?
+[6:00 - 6:04]  So, again, for simplicity's sake, let's just say the plan is still paying $50, the copay is
+[6:04 - 6:05]  still at $30.
+[6:05 - 6:09]  And so, then the, what the plan sponsor is going to be playing, what the employer is
+[6:09 - 6:10]  going to be playing is going to be $20.
+[6:10 - 6:17]  Okay, now let's take a look at the pharmacy spread and the PBM spread in this new world.
+[6:17 - 6:18]  Okay, so now, look at this.
+[6:19 - 6:28]  The pharmacy spread is now only $12, where it used to be $32, and the, because the pharmacy
+[6:28 - 6:29]  spread is just the dispensing fee, right?
+[6:29 - 6:30]  $12 and $12.
+[6:30 - 6:31]  Now, same thing here at Pharmacy B.
+[6:32 - 6:34]  The dispensing fee is $4, therefore the pharmacy spread is $4.
+[6:34 - 6:38]  Again, at Pharmacy C, the dispensing fee is $4, and therefore the pharmacy spread is $4.
+[6:38 - 6:41]  Now, let's look at the PBM spread.
+[6:41 - 6:46]  So, now the PBM spread is $30, right?
+[6:46 - 6:50]  It's going to be the plan payment of $50 minus the $20 at Pharmacy A.
+[6:50 - 6:55]  It's going to be $36 at Pharmacy B.
+[6:55 - 6:58]  So, it's going to be the plan payment of $50 minus the $14.
+[6:58 - 7:01]  And at Pharmacy C, it's going to be $34.
+[7:02 - 7:07]  It's going to be the plan payment of $50 minus $16, which gives you $34.
+[7:07 - 7:19]  Again, if you run the math on it, if you add up the Pharmacy spread and the PBM spread pricing here, the $12 plus the $4 plus the $4 plus the $30 plus the $36 plus the $34, again, that adds up to $120.
+[7:19 - 7:25]  So, the amount that the middlemen have taken hasn't changed at all, okay?
+[7:25 - 7:32]  In this new world of cost vantage, what the middlemen are taking hasn't changed at all in total.
+[7:32 - 7:34]  However, you will notice that.
+[7:34 - 7:37]  I have this area boxed in, okay?
+[7:38 - 7:40]  That is what CVS controls, right?
+[7:41 - 7:42]  CVS controls their Caremark Pharmacy.
+[7:42 - 7:47]  They control their CVS pharmacies because we're saying Pharmacy A is CVS.
+[7:47 - 7:53]  They still control the PBM at Pharmacy B and they still control the PBM at Pharmacy C in this example, okay?
+[7:53 - 7:59]  That means that what CVS is capturing is what they have at their own pharmacy plus their PBM at each of the three locations.
+[8:00 - 8:08]  So, what CVS in the old world is capturing is $32 plus $10 plus $42 plus $27, which adds up to $111.
+[8:08 - 8:15]  Whereas the outside pharmacies, in other words, what CVS is not making as middlemen, they're getting $9, right?
+[8:15 - 8:17]  And the $9 plus the $111 equals the $120.
+[8:17 - 8:19]  Now, let's go to the new world.
+[8:19 - 8:21]  Let's go to the cost vantage world, okay?
+[8:21 - 8:33]  In the cost vantage world, CVS is getting $12 at their own pharmacy plus $30 from Caremark at their own CVS pharmacies plus $36 for Pharmacy B plus $34 for Pharmacy C.
+[8:33 - 8:37]  If you add up to $12 plus the $30 plus the $36 plus the $34, that adds up to $112.
+[8:37 - 8:44]  So, look, it's only $1 more, whereas the outside pharmacies are getting $8 instead of $9.
+[8:45 - 8:48]  So, not much has changed.
+[8:48 - 8:49]  That's my point.
+[8:50 - 8:59]  CVS is getting $1 more, which, oh, by the way, when this was announced, CVS's stock went up that day and the next day and the next day,
+[8:59 - 9:07]  which is unusual for CVS stock because CVS stock has been going down and down and down for months.
+[9:08 - 9:16]  CVS has been under pressure from the pharmaceutical industry, from Congress, from Mark Cuban's cost drug program,
+[9:16 - 9:23]  from transparent PBM's like Capital RX and Med One and other ones.
+[9:23 - 9:24]  Okay?
+[9:24 - 9:28]  So, CVS didn't want to change.
+[9:28 - 9:33]  They basically, through a variety of outside forces, were sort of forced to change.
+[9:33 - 9:41]  However, this change to a dispensing fee results in very little change in terms of how much they take home.
+[9:42 - 9:46]  Now, what does this specifically mean for things like the Mark Cuban cost plus drug program?
+[9:46 - 9:47]  Okay.
+[9:47 - 9:52]  So, let's just say for this particular drug that Mark Cuban gets it for $20 for a 30-day supply.
+[9:52 - 10:03]  This is where, historically, if you had, let's say, like a consumer-directed health plan where your actual cost was pretty close to the MAC plus a little bit more,
+[10:03 - 10:08]  look, you can see that the cost at the pharmacy was $40.08.23.
+[10:09 - 10:18]  So, if you use Mark Cuban's cost plus program, then you would be much better off at pharmacy A at CVS to not fill it at CVS and to fill it at Mark Cuban.
+[10:18 - 10:19]  Okay.
+[10:19 - 10:21]  Likewise, you'd be better off at pharmacy C to fill it at Mark Cuban.
+[10:21 - 10:24]  But, look at pharmacy B. It'd be better to fill it off there than at Mark Cuban.
+[10:24 - 10:25]  Okay.
+[10:25 - 10:33]  Now, note in this new world, the MAC is now $20, $14, and $16.
+[10:33 - 10:40]  In other words, even at CVS, the most expensive MAC out there, it is comparable to Mark Cuban.
+[10:40 - 10:41]  And the other two places are less.
+[10:41 - 10:42]  Why is that?
+[10:42 - 10:47]  Because more money was shifted away from the pharmacy, right?
+[10:47 - 10:52]  The pharmacy's only getting $20, and more money is staying with the PBM, right?
+[10:52 - 10:54]  The PBM spread in this situation went from $10 to $30.
+[10:55 - 10:58]  So, and oh, by the way, the same thing applies to GoodRx.
+[10:58 - 11:00]  Let's say the GoodRx amount, instead of being $20, it was $23.
+[11:01 - 11:07]  The math is the exact same, which is why when this was announced, GoodRx's stock price went down.
+[11:07 - 11:14]  Because this change is not good for Mark Cuban or for GoodRx.
+[11:14 - 11:22]  Now, so what they've done is they basically changed where the dollars go from the pharmacy to more towards the PBM,
+[11:23 - 11:30]  whereas the total amount that actually CVS gets in its combined pharmacy and PBM is almost the same.
+[11:30 - 11:40]  So, as an employer, as a plan sponsor, as a broker, as a consultant, what I would say to you is,
+[11:41 - 11:50]  is that if you want to find out specifically how these changes in cost vantage and true cost relate to your plan,
+[11:50 - 11:54]  my suggestion is, I made up these numbers as an illustration,
+[11:54 - 11:58]  is to go to your PBM, to go to CVS and say,
+[11:59 - 12:02]  hey, let's fill in pharmacy A, B, and C.
+[12:02 - 12:06]  Let's fill in the acquisition cost, the MAC, the plan cost, the copay, the employer cost,
+[12:06 - 12:12]  the pharmacy spread, and the PBM spread in today's world versus the future state of cost vantage.
+[12:13 - 12:17]  And then let's go through the exercise of filling in all these boxes.
+[12:18 - 12:23]  And I think if you sit down with your CVS representative and fill in these boxes together,
+[12:23 - 12:28]  you'll get a better understanding of how it's truly going to impact your plan and your plan members.
+[12:29 - 12:30]  And that's my point for today.
+[12:30 - 12:31]  Thank you for watching A Healthcare Z.

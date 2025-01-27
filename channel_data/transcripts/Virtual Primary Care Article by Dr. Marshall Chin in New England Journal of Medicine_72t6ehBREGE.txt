@@ -1,0 +1,161 @@
+Title: Virtual Primary Care Article by Dr. Marshall Chin in New England Journal of Medicine
+URL: https://www.youtube.com/watch?v=72t6ehBREGE
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic is a New England Journal of Medicine article on virtual primary care. Now this article just came out and I want to thank the LinkedIn community for bringing it to my attention. I was just made aware of this so thank you so much. Now, it is by a Dr. Marshall Chin who is a full professor in internal medicine at the University of Chicago. Now, this article just came out in the New England Journal of Medicine on October 23rd of 2021 so it's brand spanking new. And Dr. Chin is hugely reputable in the field of chronic disease care and in academic medicine. So, he went to Harvard for undergrad, UCSF for medical school, residency at Brigham and Women's which is one of the Harvard hospitals back in Buckmore. He is also, not only on faculty and a full professor at the University of Chicago, but he also does research in conjunction with the Robert Wood Foundation and he helps support the CDC. I mean, there's even more letters that I can put after here like NQF, etc, etc, HRQ. So, he is hugely involved in chronic care. He's an expert in chronic care. He is no slouch. Now, in this article, he writes that COVID has really exposed to the medical profession itself just how horrible in-person only care is for chronic care, right? Because we had this entire situation historically where if you needed care for chronic care, diabetes, hypertension, asthma, COPD, etc, you almost invariably, you had to go in. And there are a gazillion reasons why that didn't work. And what it ended up doing is it ended up excluding people. It excluded the very people that needed to see the physician the most for their diabetes, hypertension, high cholesterol, asthma, COPD. Why did it exclude these people? Because it excluded people based upon who are lower income, who didn't have the money to necessarily get to the doctor's office, right? What does it take? I don't know. A car? There's a lot of people that can't afford that. It takes gas. Shoot, the way gas is these days, a lot of people aren't going to be able to afford that either. Two, the job. A lot of people are hourly workers. They don't get paid time off. They don't get PTO. So if they're going to go and take half a day to go to the doctor's office, wait there like an hour and a half for your seven-minute appointment, travel there, travel back, battle traffic, have childcare to take care of your kids, like people with hourly jobs were totally excluded. Okay. Your location. Like a lot of people didn't live anywhere close to the doctor's office because they lived in a poor neighborhood or they lived in a rural area. They weren't anywhere close. So it was super hard for them to get there because they had to go a long distance. And it gets me to the issue of transportation. I mean, literally. And I saw this in medical school in Chicago, in residency in Baltimore, and people were taking like multiple buses. I mean, it was like planes, trains, and automobiles to try to get to the doctor. It took them hours. And then they had to wait hours in the waiting room for a seven-minute visit with me. I mean, it was horrible. So the entire structure for chronic disease care, preventive care, keeping people out of the hospital, keeping people sick, keeping people's diabetes under control so that they didn't become blind or lose a limb or have a heart attack or a stroke, the entire setup was horrible. And COVID showed us that so much in telemedicine could be used to address these issues. And that's Dr. Chin's point in this article. He's like, look, and yes, I'm the chief medical officer of a telemedicine company. And believe me, that's why I'm the chief medical officer of a telemedicine company. Because I'm so excited about how it can address this exclusion and how much better it can address primary care than good old-fashioned in-person care. It's so much better. So look, Dr. Chin says, look, telemedicine in the form of virtual primary care, in addition to a capitated per-member, per-month payment, in other words, not fee-for-service, if you combine the virtual primary care plus the per-member, per-month reimbursement, it is so much better. It's better because it provides both a mix of virtual care and in-person care. He's not saying 100% virtual. Look, obviously, there's going to be times where you need to get your blood drawn or you need to go to a dermatologist and get a biopsy of an abnormal mole. Of course, there's still going to be some in-person care, but it needs to be a mix. And what does that mix allow you to do with the virtual primary care? Increased access. The best doctors, the best decision-making, the best diagnosis, the best treatment in the world does not matter unless you can access it. Increased convenience. Think about what you can do for those hourly workers who can't take off the job, but they only need like 10, 15 minutes to have their virtual visit. Without child care, eight buses to get there, how awesome is that? Okay, it's just faster. You can book people in. You can see people faster. You don't have the physical problem of spending all that time and scheduling, etc. So it's just faster. You get timelier appointments. And it's more cost-effective. Think about all the hospital and medical system infrastructure. That's not necessary. It's redundant. You don't need it. And so what do you have when you have virtual visits? You don't need all that infrastructure. So it's so much more cost-effective. Now, so coincidentally, it's not coincidentally at all. Okay. Insurance carriers, all the major insurance carriers have announced that they are introducing virtual primary care in 2021 and 2022. If you go to the earnings calls of UnitedHealthcare, UnitedHealth Group, they're like front and center in that earnings call. Virtual primary care. Aetna offering virtual primary care. Anthem offering virtual primary care. Okay. Virtual primary care is great. Virtual primary care from an insurance carrier will not work. And I'm going to give you five reasons why. Reason number one, low trust. People don't trust insurance companies. I talked about this in a previous AFPC video. Only 33% of people trust insurance companies. So you mean to tell me that you're going to get, like, good engagement with employees or their family members when, like, two-thirds of them don't trust them? Like, are you really going to get them to, like, use the virtual primary care doc? And even if they do use the virtual primary care doc, are they actually going to follow their advice if only 33% of people actually trust them? And then only 19% of doctors trust them. So that primary care doc has to act like the quarterback. They've got to talk with other doctors to coordinate the care for people. You only have one in five doctors actually trusting insurance companies. Are they going to trust the doctor from the insurance company? Maybe one in five will if you're lucky. Okay. Reason number two. There is a PBM. Every one of these insurance companies owns a PBM. The PBM has incentive. It gives the doctor at the insurance company the incentive to overprescribe. Again, if you listen to the earnings calls of all these insurance carriers and they talk about their PBMs, what's the A number of thing they talk about? Script count, script count, and script count. The investors want more prescriptions. So you mean to tell me that that doctor for the insurance company is not going to prescribe more? I mean, that insurance company has a fiduciary responsibility to its shareholders to increase script count. So you have a huge conflict of interest between the PBM and the primary care physician. They might overprescribe. Next up, prior authorization. Okay. Not a lot. But occasionally, that primary care doctor is like, you know, we're going to have to get prior authorization for CT scans or MRIs or maybe some other diagnostic testing that we want to do. So you mean to tell me that the primary care physician is going to fight on behalf of the patient with his or her own employer? Does that sound like a good idea? I mean, I'm sorry. It's not funny. Like, the conflict there is so obvious. It's laughable. That's why I was chuckling. It's like, you know, what's their boss going to do? Dr. Jones, you're calling in too many prior authorizations. That's going to be in your performance review. How in the world? I mean, this is why we have corporate practice of medicine list. How in the world are you going to resolve the conflict of prior authorization where the doctor should be fighting on behalf of the patient to get that prior authorization and the doctor's own employer doesn't want the prior authorization to happen? Okay. Number four. This one's a little more nuanced. Many major hospital systems and insurance networks, insurance carriers, have clauses in their PPO contract that says that the insurance carrier cannot steer, within that PPO network. It's one of the reasons why Sutter Health got in trouble in California. But it still happens across America today. So the insurance carrier can't, like, steer to one particular doctor or one particular hospital over another. Well, shoot. When that primary care physician who works for the insurance carrier makes a referral, that's exactly what they're going to be doing. They're going to be steering. And what do you, as a patient, as a family member, as an employer want, you want that primary care doctor to steer to the highest quality doctor that is possible. And guess what? The insurance carrier's hands are tied by their own PPO contracts. So how are you going to get around that? How are you going to ensure that the primary care doc is going to refer the patient to the highest quality physician possible, when they can't steer within the PPO network at all? It's in violation of their PPO contracts. Okay. Then finally, and this is a little bit more of a benefit strategy point. Okay. What if the employer wants to change insurance companies? And their employees are seeing all the primary care docs through the insurance company they have today. They're going to have to, they're going to be forced to go to their employees and tell them, look, you all have to change your primary care doctor. What? Now listen, to a certain extent, the insurance company wants this, right? They want to have as many tentacles into the employers as possible to increase the switching costs so that the employer doesn't leave. But you, the employer, and the broker benefit consultant, like, you want the opposite of that. You want the freedom to be like, look, if I'm getting bad service from the insurance carrier, or if they're charging me either more for my ASO fee or more for my premiums on my fully insured business, then, like, I want to switch carriers. I want to RFP it. I want to shop. Whatever. Like, it makes it so much harder to do that when your employees are actually seeing the doctors through the insurance carrier. So, now, again, I work as the chief medical officer for a virtual primary care company, or I should say for a telemedicine company, and we're developing virtual primary care. We are. So, of course, I'm going to have a particular view about this. But, so does Dr. Chin, and I wanted to share it with you today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:19]  Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic is a New England Journal of Medicine article on virtual primary care. Now this article just came out and I want to thank the LinkedIn community for bringing it to my attention. I was just made aware of this so thank you so much.
+[0:19 - 0:39]  Now, it is by a Dr. Marshall Chin who is a full professor in internal medicine at the University of Chicago. Now, this article just came out in the New England Journal of Medicine on October 23rd of 2021 so it's brand spanking new.
+[0:39 - 0:59]  And Dr. Chin is hugely reputable in the field of chronic disease care and in academic medicine. So, he went to Harvard for undergrad, UCSF for medical school, residency at Brigham and Women's which is one of the Harvard hospitals back in Buckmore.
+[0:59 - 1:16]  He is also, not only on faculty and a full professor at the University of Chicago, but he also does research in conjunction with the Robert Wood Foundation and he helps support the CDC. I mean, there's even more letters that I can put after here like NQF, etc, etc, HRQ.
+[1:16 - 1:40]  So, he is hugely involved in chronic care. He's an expert in chronic care. He is no slouch. Now, in this article, he writes that COVID has really exposed to the medical profession itself just how horrible in-person only care is for chronic care, right?
+[1:40 - 1:53]  Because we had this entire situation historically where if you needed care for chronic care, diabetes, hypertension, asthma, COPD, etc, you almost invariably, you had to go in.
+[1:54 - 2:03]  And there are a gazillion reasons why that didn't work. And what it ended up doing is it ended up excluding people.
+[2:03 - 2:28]  It excluded the very people that needed to see the physician the most for their diabetes, hypertension, high cholesterol, asthma, COPD. Why did it exclude these people? Because it excluded people based upon who are lower income, who didn't have the money to necessarily get to the doctor's office, right?
+[2:28 - 2:39]  What does it take? I don't know. A car? There's a lot of people that can't afford that. It takes gas. Shoot, the way gas is these days, a lot of people aren't going to be able to afford that either.
+[2:40 - 2:45]  Two, the job. A lot of people are hourly workers. They don't get paid time off. They don't get PTO.
+[2:45 - 3:05]  So if they're going to go and take half a day to go to the doctor's office, wait there like an hour and a half for your seven-minute appointment, travel there, travel back, battle traffic, have childcare to take care of your kids, like people with hourly jobs were totally excluded.
+[3:05 - 3:17]  Okay. Your location. Like a lot of people didn't live anywhere close to the doctor's office because they lived in a poor neighborhood or they lived in a rural area.
+[3:17 - 3:22]  They weren't anywhere close. So it was super hard for them to get there because they had to go a long distance.
+[3:23 - 3:33]  And it gets me to the issue of transportation. I mean, literally. And I saw this in medical school in Chicago, in residency in Baltimore, and people were taking like multiple buses.
+[3:33 - 3:38]  I mean, it was like planes, trains, and automobiles to try to get to the doctor. It took them hours.
+[3:39 - 3:42]  And then they had to wait hours in the waiting room for a seven-minute visit with me.
+[3:43 - 3:53]  I mean, it was horrible. So the entire structure for chronic disease care, preventive care, keeping people out of the hospital, keeping people sick,
+[3:54 - 4:00]  keeping people's diabetes under control so that they didn't become blind or lose a limb or have a heart attack or a stroke,
+[4:00 - 4:09]  the entire setup was horrible. And COVID showed us that so much in telemedicine could be used to address these issues.
+[4:09 - 4:15]  And that's Dr. Chin's point in this article. He's like, look, and yes, I'm the chief medical officer of a telemedicine company.
+[4:15 - 4:19]  And believe me, that's why I'm the chief medical officer of a telemedicine company.
+[4:19 - 4:31]  Because I'm so excited about how it can address this exclusion and how much better it can address primary care than good old-fashioned in-person care.
+[4:32 - 4:33]  It's so much better.
+[4:33 - 4:37]  So look, Dr. Chin says, look, telemedicine in the form of virtual primary care,
+[4:38 - 4:43]  in addition to a capitated per-member, per-month payment, in other words, not fee-for-service,
+[4:43 - 4:49]  if you combine the virtual primary care plus the per-member, per-month reimbursement, it is so much better.
+[4:50 - 4:55]  It's better because it provides both a mix of virtual care and in-person care.
+[4:55 - 4:57]  He's not saying 100% virtual.
+[4:57 - 5:01]  Look, obviously, there's going to be times where you need to get your blood drawn or you need to go to a dermatologist
+[5:01 - 5:03]  and get a biopsy of an abnormal mole.
+[5:03 - 5:07]  Of course, there's still going to be some in-person care, but it needs to be a mix.
+[5:08 - 5:11]  And what does that mix allow you to do with the virtual primary care?
+[5:12 - 5:13]  Increased access.
+[5:13 - 5:18]  The best doctors, the best decision-making, the best diagnosis, the best treatment in the world does not matter
+[5:18 - 5:20]  unless you can access it.
+[5:21 - 5:22]  Increased convenience.
+[5:22 - 5:27]  Think about what you can do for those hourly workers who can't take off the job,
+[5:27 - 5:31]  but they only need like 10, 15 minutes to have their virtual visit.
+[5:31 - 5:35]  Without child care, eight buses to get there, how awesome is that?
+[5:35 - 5:37]  Okay, it's just faster.
+[5:37 - 5:39]  You can book people in.
+[5:39 - 5:41]  You can see people faster.
+[5:41 - 5:46]  You don't have the physical problem of spending all that time and scheduling, etc.
+[5:46 - 5:47]  So it's just faster.
+[5:47 - 5:49]  You get timelier appointments.
+[5:49 - 5:51]  And it's more cost-effective.
+[5:51 - 5:55]  Think about all the hospital and medical system infrastructure.
+[5:56 - 5:57]  That's not necessary.
+[5:58 - 5:59]  It's redundant.
+[5:59 - 6:00]  You don't need it.
+[6:00 - 6:04]  And so what do you have when you have virtual visits?
+[6:04 - 6:06]  You don't need all that infrastructure.
+[6:06 - 6:08]  So it's so much more cost-effective.
+[6:08 - 6:12]  Now, so coincidentally, it's not coincidentally at all.
+[6:12 - 6:12]  Okay.
+[6:13 - 6:22]  Insurance carriers, all the major insurance carriers have announced that they are introducing virtual primary care in 2021 and 2022.
+[6:22 - 6:31]  If you go to the earnings calls of UnitedHealthcare, UnitedHealth Group, they're like front and center in that earnings call.
+[6:31 - 6:32]  Virtual primary care.
+[6:33 - 6:35]  Aetna offering virtual primary care.
+[6:35 - 6:37]  Anthem offering virtual primary care.
+[6:38 - 6:38]  Okay.
+[6:39 - 6:40]  Virtual primary care is great.
+[6:40 - 6:44]  Virtual primary care from an insurance carrier will not work.
+[6:44 - 6:47]  And I'm going to give you five reasons why.
+[6:47 - 6:49]  Reason number one, low trust.
+[6:49 - 6:51]  People don't trust insurance companies.
+[6:51 - 6:53]  I talked about this in a previous AFPC video.
+[6:53 - 6:57]  Only 33% of people trust insurance companies.
+[6:57 - 7:03]  So you mean to tell me that you're going to get, like, good engagement with employees or their family members
+[7:03 - 7:06]  when, like, two-thirds of them don't trust them?
+[7:06 - 7:10]  Like, are you really going to get them to, like, use the virtual primary care doc?
+[7:10 - 7:16]  And even if they do use the virtual primary care doc, are they actually going to follow their advice if only 33% of people actually trust them?
+[7:17 - 7:20]  And then only 19% of doctors trust them.
+[7:20 - 7:23]  So that primary care doc has to act like the quarterback.
+[7:23 - 7:26]  They've got to talk with other doctors to coordinate the care for people.
+[7:27 - 7:29]  You only have one in five doctors actually trusting insurance companies.
+[7:29 - 7:31]  Are they going to trust the doctor from the insurance company?
+[7:32 - 7:34]  Maybe one in five will if you're lucky.
+[7:34 - 7:35]  Okay.
+[7:35 - 7:35]  Reason number two.
+[7:35 - 7:38]  There is a PBM.
+[7:38 - 7:40]  Every one of these insurance companies owns a PBM.
+[7:41 - 7:43]  The PBM has incentive.
+[7:44 - 7:46]  It gives the doctor at the insurance company the incentive to overprescribe.
+[7:47 - 7:52]  Again, if you listen to the earnings calls of all these insurance carriers and they talk about their PBMs,
+[7:52 - 7:53]  what's the A number of thing they talk about?
+[7:54 - 7:56]  Script count, script count, and script count.
+[7:57 - 7:59]  The investors want more prescriptions.
+[7:59 - 8:07]  So you mean to tell me that that doctor for the insurance company is not going to prescribe more?
+[8:07 - 8:12]  I mean, that insurance company has a fiduciary responsibility to its shareholders to increase script count.
+[8:12 - 8:16]  So you have a huge conflict of interest between the PBM and the primary care physician.
+[8:16 - 8:18]  They might overprescribe.
+[8:18 - 8:20]  Next up, prior authorization.
+[8:20 - 8:20]  Okay.
+[8:21 - 8:21]  Not a lot.
+[8:22 - 8:31]  But occasionally, that primary care doctor is like, you know, we're going to have to get prior authorization for CT scans or MRIs or maybe some other diagnostic testing that we want to do.
+[8:31 - 8:39]  So you mean to tell me that the primary care physician is going to fight on behalf of the patient with his or her own employer?
+[8:40 - 8:42]  Does that sound like a good idea?
+[8:42 - 8:43]  I mean, I'm sorry.
+[8:43 - 8:44]  It's not funny.
+[8:44 - 8:47]  Like, the conflict there is so obvious.
+[8:47 - 8:48]  It's laughable.
+[8:48 - 8:49]  That's why I was chuckling.
+[8:49 - 8:51]  It's like, you know, what's their boss going to do?
+[8:52 - 8:55]  Dr. Jones, you're calling in too many prior authorizations.
+[8:55 - 8:56]  That's going to be in your performance review.
+[8:57 - 8:58]  How in the world?
+[8:58 - 8:59]  I mean, this is why we have corporate practice of medicine list.
+[8:59 - 9:12]  How in the world are you going to resolve the conflict of prior authorization where the doctor should be fighting on behalf of the patient to get that prior authorization and the doctor's own employer doesn't want the prior authorization to happen?
+[9:12 - 9:13]  Okay.
+[9:13 - 9:14]  Number four.
+[9:14 - 9:15]  This one's a little more nuanced.
+[9:17 - 9:29]  Many major hospital systems and insurance networks, insurance carriers, have clauses in their PPO contract that says that the insurance carrier cannot steer,
+[9:29 - 9:32]  within that PPO network.
+[9:32 - 9:34]  It's one of the reasons why Sutter Health got in trouble in California.
+[9:35 - 9:37]  But it still happens across America today.
+[9:38 - 9:43]  So the insurance carrier can't, like, steer to one particular doctor or one particular hospital over another.
+[9:43 - 9:44]  Well, shoot.
+[9:44 - 9:49]  When that primary care physician who works for the insurance carrier makes a referral, that's exactly what they're going to be doing.
+[9:49 - 9:51]  They're going to be steering.
+[9:51 - 10:02]  And what do you, as a patient, as a family member, as an employer want, you want that primary care doctor to steer to the highest quality doctor that is possible.
+[10:02 - 10:03]  And guess what?
+[10:04 - 10:07]  The insurance carrier's hands are tied by their own PPO contracts.
+[10:07 - 10:08]  So how are you going to get around that?
+[10:08 - 10:15]  How are you going to ensure that the primary care doc is going to refer the patient to the highest quality physician possible,
+[10:15 - 10:18]  when they can't steer within the PPO network at all?
+[10:18 - 10:20]  It's in violation of their PPO contracts.
+[10:21 - 10:21]  Okay.
+[10:21 - 10:24]  Then finally, and this is a little bit more of a benefit strategy point.
+[10:25 - 10:25]  Okay.
+[10:26 - 10:28]  What if the employer wants to change insurance companies?
+[10:29 - 10:34]  And their employees are seeing all the primary care docs through the insurance company they have today.
+[10:35 - 10:39]  They're going to have to, they're going to be forced to go to their employees and tell them,
+[10:39 - 10:43]  look, you all have to change your primary care doctor.
+[10:43 - 10:44]  What?
+[10:45 - 10:48]  Now listen, to a certain extent, the insurance company wants this, right?
+[10:48 - 10:55]  They want to have as many tentacles into the employers as possible to increase the switching costs so that the employer doesn't leave.
+[10:55 - 10:59]  But you, the employer, and the broker benefit consultant, like, you want the opposite of that.
+[10:59 - 11:03]  You want the freedom to be like, look, if I'm getting bad service from the insurance carrier,
+[11:03 - 11:09]  or if they're charging me either more for my ASO fee or more for my premiums on my fully insured business,
+[11:10 - 11:11]  then, like, I want to switch carriers.
+[11:11 - 11:12]  I want to RFP it.
+[11:12 - 11:13]  I want to shop.
+[11:13 - 11:13]  Whatever.
+[11:14 - 11:19]  Like, it makes it so much harder to do that when your employees are actually seeing the doctors through the insurance carrier.
+[11:19 - 11:26]  So, now, again, I work as the chief medical officer for a virtual primary care company,
+[11:27 - 11:30]  or I should say for a telemedicine company, and we're developing virtual primary care.
+[11:30 - 11:31]  We are.
+[11:31 - 11:35]  So, of course, I'm going to have a particular view about this.
+[11:35 - 11:39]  But, so does Dr. Chin, and I wanted to share it with you today.
+[11:39 - 11:40]  Thank you for watching A Healthcare Z.

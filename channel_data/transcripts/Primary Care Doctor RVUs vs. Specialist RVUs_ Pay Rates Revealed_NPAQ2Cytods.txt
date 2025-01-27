@@ -1,0 +1,49 @@
+Title: Primary Care Doctor RVUs vs. Specialist RVUs: Pay Rates Revealed
+URL: https://www.youtube.com/watch?v=NPAQ2Cytods
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ If you are a primary care physician or non-procedure doctor, you will want to pay close attention to today's episode where we are looking at how RVUs are set and what you need to do to make sure you are maximizing your revenue. I'm Dr. Eric Bricker and I'm also a healthcare finance expert. I know how doctors get taken advantage of financially and that's why I've partnered with Nomi Health to share with you what I know. This is Healthcare Uncovered. We all know what work RVUs or relative value units are. It's how Medicare and commercial insurance companies determine how much to pay physicians. But how RVUs and the whole CPT code system work is something of a black box. And for many primary care and non-procedure physicians, not understanding this process can cost you money. A lot of money. Here's how it works. When doctors bill for services, they use a CPT or current procedural terminology code. It's a five-digit code for everything that doctors do. That's why, although in the real world, 90210 is the zip code for Beverly Hills, California and the name of a popular 1990s TV show, in medical jargon, 90210 is the CPT code referring to an injury to the inferior vena cava. An office visit for a new patient lasting about 20 minutes is CPT code 99202 and a heart catheterization with stenting code 92928 and so on. But here's what's important. Each CPT code has a corresponding number of work RVUs. Here's an example. The CPT code for an office visit is worth 1.73 work RVUs. A heart catheterization, in contrast, is assigned a lot more. 11.21 work RVUs. All this is important because Medicare and commercial insurance pay a certain dollar amount per work RVU. For 2023, the Medicare payout is $33.06 per work RVU, which means that 20-minute office visit is worth $57.19. The heart catheterization comes out to $370.60. But pay attention. Commercial insurance generally pays out a lot more than Medicare, as much as $70 per work RVU. So that same 20-minute office visit that Medicare would pay $57 for $57 for might be worth as much as $121. That $370 heart catheterization could now be paid out for $785. It's a major difference and can have a major impact on your revenue. But all this begs a super important question. Who determines the number of work RVUs for each CPT code? Well, it's none other than the super obscure Relative Value Scale Update Committee, or RUC for short, which is run by the American Medical Association, the AMA, and it's comprised of doctors from various specialties. This committee determines how many work RVUs should be applied to each CPT. But here is where the controversy comes in. The number of work RVUs for procedural CPT codes, such as cardiac catheterizations, is much higher than the number of work RVUs for office visits that promote prevention and the treatment of chronic diseases, like diabetes. As a result, doctor payment for performing procedures is much higher than those who are working to keep people healthy and preventing those procedures in the first place. The whole work RVU CPT code framework is why some people call the U.S. health care system a sick care system rather than a health care system. The financial rewards of treating sickness and disease after it has already occurred are far greater than those on the front line trying to prevent sickness and disease in the first place. So, what can non-procedure doctors like primary care physicians do? One, know what percent of your revenue mix is coming from Medicare and what percent is coming from commercial insurance. Two, know what the different work RVU payout rates are for the various commercial insurers and for the CPT codes you work with most often. Three, try to optimize your revenue by working with payers that have the highest work RVU pay rates. In other words, those payers that recognize the value of better prevention and treatment of chronic disease. As the old saying goes, an ounce of prevention is worth a pound of cure. Now, let's make sure that prevention is adequately paid for. I'm Dr. Eric Bricker and this is Healthcare Uncovered, where we break down a broken system.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  If you are a primary care physician or non-procedure doctor, you will want to
+[0:05 - 0:09]  pay close attention to today's episode where we are looking at how RVUs are set
+[0:09 - 0:14]  and what you need to do to make sure you are maximizing your revenue.
+[0:14 - 0:21]  I'm Dr. Eric Bricker and I'm also a healthcare finance expert. I know how
+[0:21 - 0:24]  doctors get taken advantage of financially and that's why I've
+[0:24 - 0:28]  partnered with Nomi Health to share with you what I know.
+[0:28 - 0:37]  This is Healthcare Uncovered. We all know what work RVUs or relative value units are.
+[0:37 - 0:40]  It's how Medicare and commercial insurance companies determine how much to pay
+[0:40 - 0:45]  physicians. But how RVUs and the whole CPT code system work is something of a
+[0:45 - 0:50]  black box. And for many primary care and non-procedure physicians, not understanding
+[0:50 - 0:56]  this process can cost you money. A lot of money. Here's how it works. When doctors
+[0:56 - 1:01]  bill for services, they use a CPT or current procedural terminology code. It's a five-digit
+[1:01 - 1:07]  code for everything that doctors do. That's why, although in the real world, 90210 is the
+[1:07 - 1:12]  zip code for Beverly Hills, California and the name of a popular 1990s TV show, in medical
+[1:12 - 1:19]  jargon, 90210 is the CPT code referring to an injury to the inferior vena cava. An office
+[1:19 - 1:26]  visit for a new patient lasting about 20 minutes is CPT code 99202 and a heart catheterization with
+[1:26 - 1:35]  stenting code 92928 and so on. But here's what's important. Each CPT code has a corresponding number
+[1:35 - 1:45]  of work RVUs. Here's an example. The CPT code for an office visit is worth 1.73 work RVUs. A heart
+[1:45 - 1:55]  catheterization, in contrast, is assigned a lot more. 11.21 work RVUs. All this is important because
+[1:55 - 2:04]  Medicare and commercial insurance pay a certain dollar amount per work RVU. For 2023, the Medicare payout is
+[2:04 - 2:14]  $33.06 per work RVU, which means that 20-minute office visit is worth $57.19. The heart catheterization
+[2:14 - 2:22]  comes out to $370.60. But pay attention. Commercial insurance generally pays out a lot more than
+[2:22 - 2:29]  Medicare, as much as $70 per work RVU. So that same 20-minute office visit that Medicare would pay
+[2:29 - 2:36]  $57 for $57 for might be worth as much as $121. That $370 heart catheterization could now be paid out
+[2:36 - 2:44]  for $785. It's a major difference and can have a major impact on your revenue.
+[2:44 - 2:55]  But all this begs a super important question. Who determines the number of work RVUs for each CPT code?
+[2:55 - 3:12]  Well, it's none other than the super obscure Relative Value Scale Update Committee, or RUC for short, which is run by the American Medical Association, the AMA, and it's comprised of doctors from various specialties. This committee determines how many work RVUs should be applied to each CPT.
+[3:12 - 3:31]  But here is where the controversy comes in. The number of work RVUs for procedural CPT codes, such as cardiac catheterizations, is much higher than the number of work RVUs for office visits that promote prevention and the treatment of chronic diseases, like diabetes.
+[3:32 - 3:40]  As a result, doctor payment for performing procedures is much higher than those who are working to keep people healthy and preventing those procedures in the first place.
+[3:40 - 3:50]  The whole work RVU CPT code framework is why some people call the U.S. health care system a sick care system rather than a health care system.
+[3:51 - 4:02]  The financial rewards of treating sickness and disease after it has already occurred are far greater than those on the front line trying to prevent sickness and disease in the first place.
+[4:02 - 4:07]  So, what can non-procedure doctors like primary care physicians do?
+[4:07 - 4:14]  One, know what percent of your revenue mix is coming from Medicare and what percent is coming from commercial insurance.
+[4:14 - 4:22]  Two, know what the different work RVU payout rates are for the various commercial insurers and for the CPT codes you work with most often.
+[4:23 - 4:28]  Three, try to optimize your revenue by working with payers that have the highest work RVU pay rates.
+[4:28 - 4:34]  In other words, those payers that recognize the value of better prevention and treatment of chronic disease.
+[4:35 - 4:39]  As the old saying goes, an ounce of prevention is worth a pound of cure.
+[4:39 - 4:42]  Now, let's make sure that prevention is adequately paid for.
+[4:42 - 4:47]  I'm Dr. Eric Bricker and this is Healthcare Uncovered, where we break down a broken system.

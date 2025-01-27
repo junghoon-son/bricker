@@ -1,0 +1,99 @@
+Title: Google Starts Stop Loss Company Called Coefficient
+URL: https://www.youtube.com/watch?v=gw9wwYA1quU
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Google starts a reinsurance company. That's right, Google's getting into the stop loss reinsurance business. Now, the company's going to be called Coefficient. It is going to be part of the Google Healthcare subsidiary Verily. And Coefficient is going to be partially owned and it's going to be in partnership with Swiss Re, one of the largest stop loss reinsurance companies in the world. And they do a bunch of different types of stop loss, but healthcare and health insurance stop loss is one of the things they do as well. Now, in order for Coefficient to enter the market, they're going to have to offer some sort of superior value proposition in terms of its stop loss product. And all insurance products, stop loss included, have three parts. And I call them the three Ps. They are the premium, what you have to pay. And what you pay when you're buying stop loss insurance is something called specific stop loss and aggregate stop loss. Now, there is a fantastic set of videos from Spencer Smith. It's called Stop Loss with Spencer. I will leave a link in the show notes. If you want to learn more about specific and aggregate stop loss, please watch his videos. I have no connection to him, but I watch his videos. They are fantastic. Now, just understand that the premium for specific stop loss is much greater than the premium for the aggregate stop loss. And this is for specific individuals. That's why it's called specific. Okay. Now, payout is, okay, well, how much is the insurance company going to pay out? And that's determined by the deductible. So obviously the lower the deductible, the more the insurance company has to pay out. And the higher the deductible, the less the insurance company has to pay out. So your typical specific deductible is about $100,000 per person per year. So in other words, the employer has to pay the first $100,000 of claims for that person for that year. And then if there are claims in excess of $100,000, then the reinsurance stop loss company, they pay the rest. Now, the last part is the fine print. And that, there are many different parts of fine print, but one specific part of fine print that I'm going to talk about today is lasering, where the stop loss reinsurance company will identify specific individuals that are particularly high risk and are going to incur, or they think they're going to incur excessively high claims. And they say, hey, for you, Joe or Mary, we're going to give you an individual deductible that's actually higher than the $100,000. We might make it $250,000. And this is typically because that person has a major cancer diagnosis or they're on dialysis and the reinsurance company thinks that they're just going to incur much higher claims. And so therefore they're putting greater risk for those claims back on the employer. So lasering is bad for the employer. Lasers sound cool, but they are not good for employers. Okay. Now, typically in order to enter a new market, any company has to have a 10x better value proposition. Okay. Well, how in the world are Google and Coefficient going to have a 10x better value proposition in regards to the three Ps? Okay. So they say, they say in the press release that they're going to have superior underwriting through a unique data-driven approach. Okay. Well, what does that mean in terms of the three Ps? They might be able to offer specific premiums that are lower than the current competition because of their superior underwriting, or they might be able to offer lower deductibles, a $75,000 or a $50,000 deductible as opposed to the $100,000 and they'll beat the competition there. Or they'll say, Hey, look, we don't have to laser these people out that the competition is lasering. And the employer will say, Oh, that's great. I'd rather go with Coefficient than my existing reinsurance care. So that's how superior underwriting would help them in regards to the three Ps. And then interestingly, they're also going to have, or they say they're going to have improved risk management, specifically meaning for those high cost claimants, they're going to have better member interventions, right? So if the person has cancer, if the person is on dialysis, then Coefficient is going to be able to do things with those individuals to decrease their claims costs. Again, that's what they're claiming. You know, that remains to be seen. And again, if they're able to successfully do that, they can lower the premiums, they can lower deductibles, and they could do things like taking out lasering. Now, why in the world is Google partnering with Swiss Reap? Okay, one, this is a business to business sale. Historically, Google has not done business to business sales. They don't want to get into the business to business space. It's a mess. Okay, business to business sales is, oh, don't even get me started. Okay, so what is it? Swiss Reap, what does it give me? It gives them market access. So in terms of actually facilitating the sales process, they're going to rely on Swiss Reap for that, for their name and their expertise, their existing install base. So, I mean, that's a very smart move on Google's part because they know that they don't have expertise in entering the reinsurance market. They don't have the relationships, but Swiss Reap certainly does. Okay, now, what I have here is a graph depicting how coefficient would bring value and frankly be a better option potentially in the reinsurance stop-loss space. So what you have here on the y-axis is the premium, let's say, and what you have here on the x-axis is the risk. And so this solid line here is like what we'll consider like the ideal premium in regards to risk. So in other words, if it's low risk, it's low premium. And then as the risk goes up, the premium goes up. And then what I've drawn here in the dotted line is what potentially the current stop-loss marketplace offers. In other words, they're charging premium in excess of what the risk is. And by the way, I mean, in that ideal line, I'm also including like reasonable profit margin in there. Okay. So the point is, is that because the current stop-loss carriers do not have superior underwriting skills or strategies, data, et cetera, et cetera, and because they don't have superior risk mitigation member intervention strategies, then coefficient thinks they're going to beat them on that. And so they're going to be able to go in and say, okay, we're going to go in and we're going to be able to say, aha, for this amount of risk, we'll be able to actually be able to only charge the premium that's on the solid line as opposed to what the existing reinsurance carrier is charging on the dotted line. Okay. And that's how they would essentially steal business away from the incumbents. All right. So that remains to be seen. There's one final very important point I want to address. I said at the beginning, or maybe I didn't say at the beginning, that the reinsurance market, according to the CNBC article, is a $20 billion market. Let's just say that coefficient knocks it out of the park. And over the course of a certain number of years, they become the 800 pound gorilla in the health insurance stop-loss space in America. And let's say they capture 40% market share across that $20 billion. Well, that's $8 billion. Now, Google's revenue or Alphabet's revenue is $162 billion a year. So if they get that 40% stop-loss market share and they're pulling in an extra $8 billion a year, then, you know, what to do? They just increased their overall Google Alphabet revenue by 5%. So that begs the question, why is Google even bothering? Like, this hardly moves the needle, right? Again, this is like ideal scenario with Google knocking it out of the park in the stop-loss space. So why in the world would they even go here? And from a revenue perspective, it's not really of that much consequence. And I think the answer to that is, in my opinion, is that the stop-loss here, the reinsurance is only the start of a larger health insurance strategy. Because you can apply this same curve here in terms of not pricing risk very well and Google being able to price that risk better across fully insured groups, across a variety of other insurance products, and it's there that the market is much bigger than $20 billion. And Google could really start making some headway in terms of expanding its overall company revenue. So that's the point I wanted to make today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:05 - 0:12]  Google starts a reinsurance company. That's right, Google's getting into the stop loss
+[0:12 - 0:17]  reinsurance business. Now, the company's going to be called Coefficient. It is going to be part of
+[0:17 - 0:22]  the Google Healthcare subsidiary Verily. And Coefficient is going to be partially owned
+[0:22 - 0:28]  and it's going to be in partnership with Swiss Re, one of the largest stop loss reinsurance
+[0:28 - 0:32]  companies in the world. And they do a bunch of different types of stop loss, but healthcare
+[0:32 - 0:36]  and health insurance stop loss is one of the things they do as well. Now, in order for Coefficient
+[0:36 - 0:41]  to enter the market, they're going to have to offer some sort of superior value proposition
+[0:41 - 0:47]  in terms of its stop loss product. And all insurance products, stop loss included, have three parts.
+[0:47 - 0:52]  And I call them the three Ps. They are the premium, what you have to pay. And what you pay when you're
+[0:52 - 0:57]  buying stop loss insurance is something called specific stop loss and aggregate stop loss.
+[0:57 - 1:03]  Now, there is a fantastic set of videos from Spencer Smith. It's called Stop Loss with Spencer.
+[1:03 - 1:08]  I will leave a link in the show notes. If you want to learn more about specific and aggregate stop loss,
+[1:08 - 1:13]  please watch his videos. I have no connection to him, but I watch his videos. They are fantastic.
+[1:13 - 1:19]  Now, just understand that the premium for specific stop loss is much greater than the premium for the
+[1:19 - 1:24]  aggregate stop loss. And this is for specific individuals. That's why it's called specific.
+[1:24 - 1:30]  Okay. Now, payout is, okay, well, how much is the insurance company going to pay out? And that's
+[1:30 - 1:34]  determined by the deductible. So obviously the lower the deductible, the more the insurance
+[1:34 - 1:38]  company has to pay out. And the higher the deductible, the less the insurance company has
+[1:38 - 1:44]  to pay out. So your typical specific deductible is about $100,000 per person per year. So in other
+[1:44 - 1:49]  words, the employer has to pay the first $100,000 of claims for that person for that year.
+[1:49 - 1:54]  And then if there are claims in excess of $100,000, then the reinsurance stop loss company,
+[1:55 - 2:02]  they pay the rest. Now, the last part is the fine print. And that, there are many different
+[2:02 - 2:06]  parts of fine print, but one specific part of fine print that I'm going to talk about today
+[2:06 - 2:12]  is lasering, where the stop loss reinsurance company will identify specific individuals that
+[2:12 - 2:17]  are particularly high risk and are going to incur, or they think they're going to incur excessively
+[2:17 - 2:22]  high claims. And they say, hey, for you, Joe or Mary, we're going to give you an individual
+[2:22 - 2:27]  deductible that's actually higher than the $100,000. We might make it $250,000. And this
+[2:27 - 2:32]  is typically because that person has a major cancer diagnosis or they're on dialysis and
+[2:32 - 2:37]  the reinsurance company thinks that they're just going to incur much higher claims. And so
+[2:37 - 2:42]  therefore they're putting greater risk for those claims back on the employer. So lasering
+[2:42 - 2:47]  is bad for the employer. Lasers sound cool, but they are not good for employers. Okay.
+[2:47 - 2:53]  Now, typically in order to enter a new market, any company has to have a 10x better value proposition.
+[2:53 - 2:58]  Okay. Well, how in the world are Google and Coefficient going to have a 10x better value proposition
+[2:58 - 3:05]  in regards to the three Ps? Okay. So they say, they say in the press release that they're going to have
+[3:05 - 3:11]  superior underwriting through a unique data-driven approach. Okay. Well, what does that mean in terms
+[3:11 - 3:17]  of the three Ps? They might be able to offer specific premiums that are lower than the current
+[3:17 - 3:23]  competition because of their superior underwriting, or they might be able to offer lower deductibles,
+[3:23 - 3:31]  a $75,000 or a $50,000 deductible as opposed to the $100,000 and they'll beat the competition there.
+[3:31 - 3:35]  Or they'll say, Hey, look, we don't have to laser these people out that the competition is lasering.
+[3:35 - 3:39]  And the employer will say, Oh, that's great. I'd rather go with Coefficient than my existing
+[3:39 - 3:44]  reinsurance care. So that's how superior underwriting would help them in regards to the three Ps.
+[3:45 - 3:50]  And then interestingly, they're also going to have, or they say they're going to have improved
+[3:50 - 3:56]  risk management, specifically meaning for those high cost claimants, they're going to have better
+[3:56 - 4:02]  member interventions, right? So if the person has cancer, if the person is on dialysis, then
+[4:02 - 4:07]  Coefficient is going to be able to do things with those individuals to decrease their claims
+[4:07 - 4:11]  costs. Again, that's what they're claiming. You know, that remains to be seen. And again,
+[4:11 - 4:14]  if they're able to successfully do that, they can lower the premiums, they can lower deductibles,
+[4:14 - 4:22]  and they could do things like taking out lasering. Now, why in the world is Google partnering with
+[4:22 - 4:30]  Swiss Reap? Okay, one, this is a business to business sale. Historically, Google has not done
+[4:30 - 4:35]  business to business sales. They don't want to get into the business to business space. It's a mess.
+[4:35 - 4:41]  Okay, business to business sales is, oh, don't even get me started. Okay, so what is it?
+[4:41 - 4:46]  Swiss Reap, what does it give me? It gives them market access. So in terms of actually facilitating
+[4:46 - 4:50]  the sales process, they're going to rely on Swiss Reap for that, for their name and their expertise,
+[4:50 - 4:55]  their existing install base. So, I mean, that's a very smart move on Google's part because they know
+[4:55 - 5:00]  that they don't have expertise in entering the reinsurance market. They don't have the relationships,
+[5:00 - 5:09]  but Swiss Reap certainly does. Okay, now, what I have here is a graph depicting how coefficient
+[5:09 - 5:16]  would bring value and frankly be a better option potentially in the reinsurance stop-loss space.
+[5:16 - 5:22]  So what you have here on the y-axis is the premium, let's say, and what you have here on the x-axis
+[5:22 - 5:31]  is the risk. And so this solid line here is like what we'll consider like the ideal premium in regards
+[5:31 - 5:36]  to risk. So in other words, if it's low risk, it's low premium. And then as the risk goes up, the premium
+[5:36 - 5:43]  goes up. And then what I've drawn here in the dotted line is what potentially the current stop-loss
+[5:43 - 5:51]  marketplace offers. In other words, they're charging premium in excess of what the risk is. And by the way,
+[5:51 - 5:57]  I mean, in that ideal line, I'm also including like reasonable profit margin in there. Okay. So
+[5:57 - 6:05]  the point is, is that because the current stop-loss carriers do not have superior underwriting skills
+[6:05 - 6:10]  or strategies, data, et cetera, et cetera, and because they don't have superior risk mitigation
+[6:10 - 6:16]  member intervention strategies, then coefficient thinks they're going to beat them on that. And so
+[6:16 - 6:19]  they're going to be able to go in and say, okay, we're going to go in and we're going to be able to
+[6:19 - 6:25]  say, aha, for this amount of risk, we'll be able to actually be able to only charge the premium
+[6:25 - 6:30]  that's on the solid line as opposed to what the existing reinsurance carrier is charging on the
+[6:30 - 6:36]  dotted line. Okay. And that's how they would essentially steal business away from the incumbents.
+[6:36 - 6:40]  All right. So that remains to be seen. There's one final very important point I want to address.
+[6:40 - 6:46]  I said at the beginning, or maybe I didn't say at the beginning, that the reinsurance market,
+[6:46 - 6:51]  according to the CNBC article, is a $20 billion market. Let's just say that coefficient knocks
+[6:51 - 6:57]  it out of the park. And over the course of a certain number of years, they become the 800 pound gorilla
+[6:57 - 7:04]  in the health insurance stop-loss space in America. And let's say they capture 40% market share across
+[7:04 - 7:12]  that $20 billion. Well, that's $8 billion. Now, Google's revenue or Alphabet's revenue is $162 billion
+[7:12 - 7:21]  a year. So if they get that 40% stop-loss market share and they're pulling in an extra $8 billion a
+[7:21 - 7:30]  year, then, you know, what to do? They just increased their overall Google Alphabet revenue by 5%. So that
+[7:30 - 7:37]  begs the question, why is Google even bothering? Like, this hardly moves the needle, right? Again,
+[7:37 - 7:42]  this is like ideal scenario with Google knocking it out of the park in the stop-loss space. So why in
+[7:42 - 7:47]  the world would they even go here? And from a revenue perspective, it's not really of that much
+[7:47 - 7:54]  consequence. And I think the answer to that is, in my opinion, is that the stop-loss here, the
+[7:54 - 8:00]  reinsurance is only the start of a larger health insurance strategy. Because you can apply this
+[8:00 - 8:08]  same curve here in terms of not pricing risk very well and Google being able to price that risk better
+[8:08 - 8:15]  across fully insured groups, across a variety of other insurance products, and it's there that the
+[8:15 - 8:20]  market is much bigger than $20 billion. And Google could really start making some headway in terms of
+[8:20 - 8:26]  expanding its overall company revenue. So that's the point I wanted to make today. Thank you for
+[8:26 - 8:27]  watching A Healthcare Z.

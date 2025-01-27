@@ -1,0 +1,67 @@
+Title: PBM Express Scripts and CVS Start Their Own Group Purchasing Organizations
+URL: https://www.youtube.com/watch?v=dV0P-LVZWow
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is PBMs, ESI, and CVS start GPOs. This title is so ridiculous that I had a hard time writing it, right? Because if you work in healthcare, like you might barely understand what this headline means. If you don't work in healthcare, it's a bunch of gobbledygook. It's totally meaningless. So let me break it down and explain why it's so important. So pharmacy benefit managers, PBMs, they make revenue from rebates paid by the pharmaceutical company and by spread pricing on generic medications. Now, most of those rebate dollars are now passed through to the health plan and to the members themselves. So the rebate payments used to be this big cash cow for the PBMs, but it kind of became revealed that they were making all this money this way. And so the plans were like, look, you need to give us, you need to pass through that rebate money to us. And so a lot more of that rebate money actually does go to the health plans now. So as a result, many of the PBMs are moving in the direction of changing the money from the pharmaceutical companies from a rebate to an administration fee. So in other words, like if there was $100 going from the pharmaceutical company to the PBM, like 90 of those dollars might have been a rebate and only 10 of those dollars might have been an admin fee. Okay. Well, those $90 of rebate were being passed through. So the PBM wasn't holding onto them. So the PBM is like, well, look, we want to, we want to change that. So now more of that money is being switched over. So let's say instead of $10, now it's like $90 in admin fees. And now instead of $10 or $90 of rebate fees, that's being decreased down to 10. So they're passing through less money and they're holding onto more of those admin fees. Okay. So this gets us to the GPOs. So that admin fee isn't being run through the PBM. It's being run through a group purchasing organization that the PBM is starting. So Express Scripts in 2019 started a PBM called Ascent Health Services. Guess where it's based out of? Switzerland. Why in the world is a company that is based in St. Louis, which is owned by a company that's based in Hartford, Connecticut, have a division that's in Switzerland? Okay. Oh, by the way, it gets even more confusing. Not only is Ascent Health Services the GPO for Express Scripts, but it's also the GPO for Prime Therapeutics. So that's another PBM that's owned by several blues plans. So why in the world is Prime Therapeutics working with ESI? Shouldn't they be competitors? Why are they working together on the same GPO? Okay. So CVS is like, well, we got to get in on this GPO deal. So they start their own GPO called Zinc like six days ago in June of 2020. Now, the GPO model is well-established in healthcare. I'm going to briefly go over it now if you're not familiar. So it's typically used for hospitals where hospitals, they need to get supplies in the, you know, they need to get hospital beds, they need to get gauze, they need to get surgical supplies from the suppliers, right? But they join a middleman, a group purchasing organization that negotiates better rates from those suppliers. Okay. And the big names in the GPO world are like Premier and Vizient. However, who pays the GPO? It's the supplier themselves that pay the GPO. So one approach to thinking about this is that it's essentially pay to play or payolas. In other words, in order to be on the GPO catalog to sell to the hospital, the supplier has to pony up the money to actually pay the GPO to do this. And that's perfectly okay. And this has been going on for a long time. And like I said, Premier and Vizient are very large organizations. Now it's questionable as to whether or not that actually lowers healthcare costs or if it potentially raises healthcare costs. But now let's apply that same model to the PBM world. So now instead of a hospital, you have the health plan and its members. You have, instead of the supplier, you have the pharmaceutical company that is ultimately getting the pills over to the actual plan members, obviously through the pharmacy in the middle. But now you have this GPO, okay, which is a subsidiary of the PBM. So historically, the plan would contract with the PBM and all the money from the pharmaceutical company, which is run through the PBM. But now they've created this separate entity, this GPO, where the admin fees are now going to be run through this GPO. Well, why do they need to do that? Why can't they just keep running the admin fees through the PBM? Why do they have to run through the GPO? And why is that GPO based in Switzerland? So are they doing it because they want to hide those admin fees? Are they doing it because of more favorable tax situation in Switzerland so that they don't, those admin fees don't have to be taxed? So this is, and so really, there is a fantastic online newsletter called Drug Channels that I will leave a link to in the show notes that explains this in more detail. But the question is, what is the true value add of the GPO for the plan and its members? And it's really important in healthcare because there's so many middlemen, who's paying the middleman? Because ultimately, the middleman works for who's paying them. And so if the pharmaceutical company is paying the GPO, who does the GPO really work for? I'll just ask you to think about that. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic
+[0:05 - 0:15]  is PBMs, ESI, and CVS start GPOs. This title is so ridiculous that I had a hard time writing
+[0:15 - 0:19]  it, right? Because if you work in healthcare, like you might barely understand what this
+[0:19 - 0:23]  headline means. If you don't work in healthcare, it's a bunch of gobbledygook. It's totally
+[0:23 - 0:27]  meaningless. So let me break it down and explain why it's so important. So pharmacy benefit
+[0:27 - 0:33]  managers, PBMs, they make revenue from rebates paid by the pharmaceutical company and by
+[0:33 - 0:38]  spread pricing on generic medications. Now, most of those rebate dollars are now passed
+[0:38 - 0:42]  through to the health plan and to the members themselves. So the rebate payments used to be
+[0:42 - 0:47]  this big cash cow for the PBMs, but it kind of became revealed that they were making all
+[0:47 - 0:50]  this money this way. And so the plans were like, look, you need to give us, you need to pass
+[0:50 - 0:54]  through that rebate money to us. And so a lot more of that rebate money actually does go
+[0:54 - 1:01]  to the health plans now. So as a result, many of the PBMs are moving in the direction of
+[1:01 - 1:06]  changing the money from the pharmaceutical companies from a rebate to an administration
+[1:06 - 1:11]  fee. So in other words, like if there was $100 going from the pharmaceutical company to the
+[1:11 - 1:16]  PBM, like 90 of those dollars might have been a rebate and only 10 of those dollars might
+[1:16 - 1:20]  have been an admin fee. Okay. Well, those $90 of rebate were being passed through. So the
+[1:20 - 1:24]  PBM wasn't holding onto them. So the PBM is like, well, look, we want to, we want to change
+[1:24 - 1:29]  that. So now more of that money is being switched over. So let's say instead of $10, now it's
+[1:29 - 1:37]  like $90 in admin fees. And now instead of $10 or $90 of rebate fees, that's being decreased
+[1:37 - 1:40]  down to 10. So they're passing through less money and they're holding onto more of those
+[1:40 - 1:49]  admin fees. Okay. So this gets us to the GPOs. So that admin fee isn't being run through the
+[1:49 - 1:55]  PBM. It's being run through a group purchasing organization that the PBM is starting. So Express
+[1:55 - 2:02]  Scripts in 2019 started a PBM called Ascent Health Services. Guess where it's based out of?
+[2:02 - 2:09]  Switzerland. Why in the world is a company that is based in St. Louis, which is owned by a company
+[2:09 - 2:16]  that's based in Hartford, Connecticut, have a division that's in Switzerland? Okay. Oh,
+[2:16 - 2:23]  by the way, it gets even more confusing. Not only is Ascent Health Services the GPO for Express
+[2:23 - 2:29]  Scripts, but it's also the GPO for Prime Therapeutics. So that's another PBM that's owned by several
+[2:29 - 2:35]  blues plans. So why in the world is Prime Therapeutics working with ESI? Shouldn't they be competitors?
+[2:35 - 2:43]  Why are they working together on the same GPO? Okay. So CVS is like, well, we got to get in on this GPO
+[2:43 - 2:53]  deal. So they start their own GPO called Zinc like six days ago in June of 2020. Now, the GPO model
+[2:53 - 2:57]  is well-established in healthcare. I'm going to briefly go over it now if you're not familiar. So it's
+[2:57 - 3:02]  typically used for hospitals where hospitals, they need to get supplies in the, you know, they need to get
+[3:02 - 3:08]  hospital beds, they need to get gauze, they need to get surgical supplies from the suppliers, right?
+[3:08 - 3:14]  But they join a middleman, a group purchasing organization that negotiates better rates from
+[3:14 - 3:19]  those suppliers. Okay. And the big names in the GPO world are like Premier and Vizient. However,
+[3:20 - 3:28]  who pays the GPO? It's the supplier themselves that pay the GPO. So one approach to thinking about this
+[3:28 - 3:32]  is that it's essentially pay to play or payolas. In other words, in order to be on the GPO catalog to
+[3:32 - 3:38]  sell to the hospital, the supplier has to pony up the money to actually pay the GPO to do this.
+[3:38 - 3:43]  And that's perfectly okay. And this has been going on for a long time. And like I said, Premier and Vizient
+[3:43 - 3:47]  are very large organizations. Now it's questionable as to whether or not that actually lowers healthcare
+[3:47 - 3:53]  costs or if it potentially raises healthcare costs. But now let's apply that same model to the
+[3:53 - 3:58]  PBM world. So now instead of a hospital, you have the health plan and its members. You have,
+[3:59 - 4:03]  instead of the supplier, you have the pharmaceutical company that is ultimately getting the pills over
+[4:03 - 4:09]  to the actual plan members, obviously through the pharmacy in the middle. But now you have this GPO,
+[4:09 - 4:16]  okay, which is a subsidiary of the PBM. So historically, the plan would contract with the PBM
+[4:16 - 4:22]  and all the money from the pharmaceutical company, which is run through the PBM. But now they've
+[4:22 - 4:28]  created this separate entity, this GPO, where the admin fees are now going to be run through this GPO.
+[4:28 - 4:33]  Well, why do they need to do that? Why can't they just keep running the admin fees through the PBM?
+[4:34 - 4:39]  Why do they have to run through the GPO? And why is that GPO based in Switzerland? So are they doing it
+[4:39 - 4:45]  because they want to hide those admin fees? Are they doing it because of more favorable tax situation
+[4:45 - 4:52]  in Switzerland so that they don't, those admin fees don't have to be taxed? So this is, and so really,
+[4:53 - 4:57]  there is a fantastic online newsletter called Drug Channels that I will leave a link to in the show
+[4:57 - 5:05]  notes that explains this in more detail. But the question is, what is the true value add of the GPO
+[5:05 - 5:12]  for the plan and its members? And it's really important in healthcare because there's so many
+[5:12 - 5:19]  middlemen, who's paying the middleman? Because ultimately, the middleman works for who's paying
+[5:19 - 5:27]  them. And so if the pharmaceutical company is paying the GPO, who does the GPO really work for?
+[5:27 - 5:33]  I'll just ask you to think about that. And that's my point for today. Thank you for watching A Healthcare Z.

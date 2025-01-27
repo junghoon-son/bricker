@@ -1,0 +1,101 @@
+Title: How to Use GoodRx to Check Prescription Prices
+URL: https://www.youtube.com/watch?v=hI8jDYCSNSA
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic is how to use GoodRx as a prescription price check. So as many of you know, GoodRx is an app or a website that you can use to check prescription prices. Now, the GoodRx app on your phone is probably the easiest way to do this. You just go to the App Store or Google Play and download it, right? The prices that GoodRx gives you includes the PBM discount. So that's how GoodRx is able to discount you off of the list price for the prescription. GoodRx actually runs it through a PBM. If you have insurance, it might not be your PBM, but it's still a PBM. Okay, and we'll get to the relevance of that. What that means is that AWP, which is the average wholesale price, right? That is sort of the fictitious top price. Okay, it's discounted X percent. And then that discounted amount is what you're going to see on GoodRx. So it's a super helpful number. Okay, now, if you have an HSA plan, you've got health insurance through your job, Obamacare plan, whatever. If you have an HSA plan, you don't have a copay. I'm sure all of you know that. Okay, the doctor doesn't know what this AWP minus X price is. You don't know what the AWP minus X discount price is. So you use the GoodRx app to look it up. Now, that GoodRx price is going to give you a ballpark. Okay, so when you actually go to the pharmacy and get the prescription, it's not going to be that exact amount. But that is okay. Again, because you don't know what PBM they're running your prescription through. Because GoodRx actually uses multiple PBMs, okay? So you might have CVS Caremark, you might have Optum, you might have Express Scripts Cigna, right? So you don't know. But typically, if you're prescribed a brand... And listen, when they write your prescription, you don't know if it's brand or generic. You don't know if it's called blah, blah, blah, blah, blah, blah, blah. You don't know what this stuff is called. So you need to look it up. So you type it into the GoodRx app in your doctor's office. And if it's a brand new medication, it's probably going to cost about $200 or $300 or $400 or $500 for 30 pills for a chronic medication. Now, let's go through an example. So for diabetes, let's say the doctor writes you a prescription for Jardians, right? And you look it up on the GoodRx app. It's $529 a month. Now, you can see it at Walmart or at your grocery store or at the pharmacy. And it might vary a little bit from $529 to $531 to $550. Like, whatever, right? But the point is, okay, hey, doc, is there anything else that's not going to... I have an HSA plan. That's about... I don't know if I pay exactly that amount. But guess what? That's probably around what I'm going to have to pay. Is there anything that you could give me for my diabetes that's going to cost less than $529 a month? And that right there is like the most important conversation that you could have to be a better steward without compromising your health during your doctor's office visit. Because the doctor might say, no, you have to take the Jardians. Okay. Or the doctor might say, whoa, I had no idea it was going to cost $429. This is what you do next. So, in the same search bar in GoodRx where you typed in Jardians, you can also just type in disease names or symptoms names. You can just type in diabetes. And it gives you two choices, type 1 and type 2. Type 2 is the more common type of diabetes, which people probably have. So, you're going to click on type 2 diabetes. And then it's going to give you the drug types or the drug categories. And what's interesting is that GoodRx has prioritized them in the most frequent drug categories to the least frequent drug categories. It's an incredibly helpful sorting tool. So, all you have to do for the drug categories is start at the top. And you touch biguanides. What the heck is a biguanide? Nobody knows what a biguanide is. You don't have to know what a biguanide is. Your doctor probably should know what a biguanide is, but they may not know. You just hit biguanide. And what does it take you to? It takes you to metformin, the most commonly prescribed medication for diabetes. It's in the category of biguanides. It's $5 a month. It's been around for forever. Aha! A lot of people with diabetes are already on metformin. So, the doctor will be like, well, look, you're already on metformin. So, fine. So, you go back out to the other categories. And you do this. Here's the key. You look at the app with the doctor. You look at the app with the doctor. This is going to take no more than 90 seconds. You can do this super fast. And you click on sulfureas. And you click on glipizide. Or actually, you'll see that it'll list them. It'll list all the different sulfureas. And you'll say, look, glipizide is about the hot. Say, hey, doc, what about this sulfonylurea glipizide for $7? Hey, that'll work. Fantastic. You can go through that same exercise for asthma, for ADHD, for heartburn. It's even good for pain. In that search bar, you can just type in pain. And it actually gives you different classifications of pain medications. And then different drugs within those classifications. And it gives you, like, the ballpark price. Now, what you're shooting for here, obviously, these are so inexpensive because they're generic. Now, because of your specific plan, even the generic price for you might not be exactly $5. It might not be exactly $7. Maybe it's $12. Maybe it's $3. Who knows? But the point is, it's not $529. So you're not going to use the actual GoodRx app, right? So on the GoodRx app, then you have to give this, like, code to the pharmacist in order for them to run it through GoodRx. You're not going to do that. So you're not going to actually use the GoodRx app itself to get you the actual price. You're going to go through your insurance. But what you're going to do is you're going to use GoodRx as the price checker. And you're going to say, okay, this medication is about $529. I really don't want that one. And my alternatives are about $5 or about $7. And then when you go to the pharmacy and it's not that exact amount, you're like, I understand that. I expect that. And even if I'm paying $12, I'm not going to make a big deal about it because it's a lot less than $529. And that's how to use GoodRx as a price checker. And thank you for watching a healthcare seat.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:20]  Hello this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic is how to use GoodRx as a prescription price check. So as many of you know, GoodRx is an app or a website that you can use to check prescription prices.
+[0:20 - 0:49]  Now, the GoodRx app on your phone is probably the easiest way to do this. You just go to the App Store or Google Play and download it, right? The prices that GoodRx gives you includes the PBM discount. So that's how GoodRx is able to discount you off of the list price for the prescription. GoodRx actually runs it through a PBM. If you have insurance, it might not be your PBM, but it's still a PBM. Okay, and we'll get to the relevance of that.
+[0:49 - 1:19]  What that means is that AWP, which is the average wholesale price, right? That is sort of the fictitious top price. Okay, it's discounted X percent. And then that discounted amount is what you're going to see on GoodRx. So it's a super helpful number. Okay, now, if you have an HSA plan, you've got health insurance through your job, Obamacare plan, whatever. If you have an HSA plan, you don't have a copay. I'm sure all of you know that.
+[1:19 - 1:39]  Okay, the doctor doesn't know what this AWP minus X price is. You don't know what the AWP minus X discount price is. So you use the GoodRx app to look it up. Now, that GoodRx price is going to give you a ballpark.
+[1:39 - 1:50]  Okay, so when you actually go to the pharmacy and get the prescription, it's not going to be that exact amount. But that is okay. Again, because you don't know what PBM they're running your prescription through.
+[1:50 - 2:00]  Because GoodRx actually uses multiple PBMs, okay? So you might have CVS Caremark, you might have Optum, you might have Express Scripts Cigna, right?
+[2:00 - 2:07]  So you don't know. But typically, if you're prescribed a brand... And listen, when they write your prescription, you don't know if it's brand or generic.
+[2:08 - 2:11]  You don't know if it's called blah, blah, blah, blah, blah, blah, blah. You don't know what this stuff is called.
+[2:11 - 2:15]  So you need to look it up. So you type it into the GoodRx app in your doctor's office.
+[2:15 - 2:22]  And if it's a brand new medication, it's probably going to cost about $200 or $300 or $400 or $500 for 30 pills for a chronic medication.
+[2:23 - 2:29]  Now, let's go through an example. So for diabetes, let's say the doctor writes you a prescription for Jardians, right?
+[2:29 - 2:33]  And you look it up on the GoodRx app. It's $529 a month.
+[2:33 - 2:37]  Now, you can see it at Walmart or at your grocery store or at the pharmacy.
+[2:37 - 2:43]  And it might vary a little bit from $529 to $531 to $550. Like, whatever, right?
+[2:43 - 2:49]  But the point is, okay, hey, doc, is there anything else that's not going to...
+[2:49 - 2:52]  I have an HSA plan. That's about... I don't know if I pay exactly that amount.
+[2:53 - 2:56]  But guess what? That's probably around what I'm going to have to pay.
+[2:56 - 3:04]  Is there anything that you could give me for my diabetes that's going to cost less than $529 a month?
+[3:04 - 3:12]  And that right there is like the most important conversation that you could have to be a better steward
+[3:12 - 3:16]  without compromising your health during your doctor's office visit.
+[3:16 - 3:21]  Because the doctor might say, no, you have to take the Jardians.
+[3:21 - 3:28]  Okay. Or the doctor might say, whoa, I had no idea it was going to cost $429.
+[3:29 - 3:31]  This is what you do next.
+[3:31 - 3:36]  So, in the same search bar in GoodRx where you typed in Jardians,
+[3:37 - 3:42]  you can also just type in disease names or symptoms names.
+[3:43 - 3:45]  You can just type in diabetes.
+[3:45 - 3:48]  And it gives you two choices, type 1 and type 2.
+[3:48 - 3:52]  Type 2 is the more common type of diabetes, which people probably have.
+[3:52 - 3:55]  So, you're going to click on type 2 diabetes.
+[3:55 - 3:59]  And then it's going to give you the drug types or the drug categories.
+[4:00 - 4:03]  And what's interesting is that GoodRx has prioritized them
+[4:03 - 4:09]  in the most frequent drug categories to the least frequent drug categories.
+[4:09 - 4:12]  It's an incredibly helpful sorting tool.
+[4:12 - 4:16]  So, all you have to do for the drug categories is start at the top.
+[4:17 - 4:19]  And you touch biguanides.
+[4:19 - 4:20]  What the heck is a biguanide?
+[4:20 - 4:22]  Nobody knows what a biguanide is.
+[4:22 - 4:24]  You don't have to know what a biguanide is.
+[4:24 - 4:28]  Your doctor probably should know what a biguanide is, but they may not know.
+[4:28 - 4:29]  You just hit biguanide.
+[4:29 - 4:30]  And what does it take you to?
+[4:30 - 4:34]  It takes you to metformin, the most commonly prescribed medication for diabetes.
+[4:34 - 4:35]  It's in the category of biguanides.
+[4:36 - 4:37]  It's $5 a month.
+[4:37 - 4:38]  It's been around for forever.
+[4:38 - 4:39]  Aha!
+[4:40 - 4:43]  A lot of people with diabetes are already on metformin.
+[4:43 - 4:45]  So, the doctor will be like, well, look, you're already on metformin.
+[4:46 - 4:46]  So, fine.
+[4:46 - 4:48]  So, you go back out to the other categories.
+[4:48 - 4:49]  And you do this.
+[4:50 - 4:50]  Here's the key.
+[4:50 - 4:53]  You look at the app with the doctor.
+[4:53 - 4:54]  You look at the app with the doctor.
+[4:54 - 4:56]  This is going to take no more than 90 seconds.
+[4:56 - 4:57]  You can do this super fast.
+[4:58 - 4:58]  And you click on sulfureas.
+[4:59 - 5:01]  And you click on glipizide.
+[5:01 - 5:03]  Or actually, you'll see that it'll list them.
+[5:03 - 5:04]  It'll list all the different sulfureas.
+[5:05 - 5:06]  And you'll say, look, glipizide is about the hot.
+[5:06 - 5:10]  Say, hey, doc, what about this sulfonylurea glipizide for $7?
+[5:11 - 5:13]  Hey, that'll work.
+[5:13 - 5:13]  Fantastic.
+[5:14 - 5:20]  You can go through that same exercise for asthma, for ADHD, for heartburn.
+[5:20 - 5:21]  It's even good for pain.
+[5:22 - 5:25]  In that search bar, you can just type in pain.
+[5:25 - 5:28]  And it actually gives you different classifications of pain medications.
+[5:29 - 5:31]  And then different drugs within those classifications.
+[5:32 - 5:34]  And it gives you, like, the ballpark price.
+[5:34 - 5:38]  Now, what you're shooting for here, obviously, these are so inexpensive because they're generic.
+[5:39 - 5:44]  Now, because of your specific plan, even the generic price for you might not be exactly $5.
+[5:45 - 5:46]  It might not be exactly $7.
+[5:47 - 5:47]  Maybe it's $12.
+[5:47 - 5:48]  Maybe it's $3.
+[5:48 - 5:49]  Who knows?
+[5:49 - 5:52]  But the point is, it's not $529.
+[5:52 - 5:57]  So you're not going to use the actual GoodRx app, right?
+[5:57 - 6:01]  So on the GoodRx app, then you have to give this, like, code to the pharmacist in order for them to run it through GoodRx.
+[6:01 - 6:02]  You're not going to do that.
+[6:02 - 6:09]  So you're not going to actually use the GoodRx app itself to get you the actual price.
+[6:10 - 6:11]  You're going to go through your insurance.
+[6:11 - 6:15]  But what you're going to do is you're going to use GoodRx as the price checker.
+[6:16 - 6:19]  And you're going to say, okay, this medication is about $529.
+[6:19 - 6:21]  I really don't want that one.
+[6:21 - 6:24]  And my alternatives are about $5 or about $7.
+[6:24 - 6:29]  And then when you go to the pharmacy and it's not that exact amount, you're like, I understand that.
+[6:29 - 6:30]  I expect that.
+[6:30 - 6:35]  And even if I'm paying $12, I'm not going to make a big deal about it because it's a lot less than $529.
+[6:35 - 6:38]  And that's how to use GoodRx as a price checker.
+[6:38 - 6:40]  And thank you for watching a healthcare seat.

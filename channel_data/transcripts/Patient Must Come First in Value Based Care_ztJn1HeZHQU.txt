@@ -1,0 +1,164 @@
+Title: Patient Must Come First in Value Based Care
+URL: https://www.youtube.com/watch?v=ztJn1HeZHQU
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. And today's topic is the patient comes first as the key to value-based care. VBC there, that means value-based care. Now, today's video is based off of an article by Dr. Satin Jain that was just written in Forbes magazine on April 12th of 2022. Now, I've talked about Dr. Satin Jain before and he is, one, incredibly thoughtful in his writing. So, first of all, I encourage you to read this article because it's fantastic. I previously talked about other articles that Dr. Satin Jain has written. So, read his other articles too. They are spot on money, in my opinion. Now, he used to be the president of a subsection of Medicare Advantage plans for Anthem. And now he's the CEO of a Medicare Advantage plan, a non-profit Medicare Advantage plan in Southern California. It's called ScanHealth as well. So, he is an internist. He's worked in government. He's worked in major carriers. He's working on his own. I mean, he's got so much experience that he, you know, to a certain extent, kind of like me, he's seen healthcare from a lot of different angles. And so, his insight is incredibly valuable. So, let's look at what he has to say about the patient coming first in value-based care in this article. So, he says, look, the value equation, which was created by Michael Porter and some other folks at Harvard, actually, while Satin Jain was getting his MBA at Harvard, said, look, value in healthcare, right? How do you define it, right? It's quality divided by cost. So, in order for value to go up, you want the numerator quality to go up and you want the denominator cost to go down. Very simple, right? Well, there's a variety of strategies that have been implemented in value-based care. And everybody, and Dr. Jain's point in this article is that everybody goes to these fancy conferences and sings the praises of value-based care. But let's look at the nitty-gritty of what value-based care actually is. And so, he's actually enumerated the tenets, the central tenets of value-based care per Dr. Sajan Jain. This is what they are. So, one, it is A, it is to manage inpatient bed days. So, to keep a very close track on the number of hospital bed days per thousand people and the number of admissions per thousand people and to know that on a daily basis and to manage it. In other words, keep people out of the hospital. And then, if they are in the hospital, make sure that they're not in there for one single day more than what they need to be. In other words, get them out and get them discharged. Okay, next up. Referrals for specialists. In other words, you can't go see a cardiologist or a gastroenterologist or an ENT if you want to. Your primary care physician has to ask permission of the value-based health plan in order for you to then see that specialist. In other words, it is a prior authorization or a referral that is required in order to see that specialist. Because specialists tend to do much more expensive care and you don't want to be doing much more expensive care on people that don't need much more expensive care. All right. Next up. C. A narrow network. Okay, so that when you are making those referrals to certain specialists, you can't just refer to any specialist. You have to refer to certain specialists, certain cardiologists, certain GI doctors, certain ENTs within that narrow network. Now, obviously, those are supposed to be the quote-unquote highest quality cardiologists and gastroenterologists and ENTs. However, Dr. Jane points out that sometimes it's really the cost profile in terms of how many tests they order, how expensive the tests are that they order, the overall fees for the specialists themselves, that those cost dynamics sometimes can be prioritized over the quality of those specialists. I won't go into that in any more detail. That's a whole other can of worms. But just know that the third tenant of value-based care is a narrow network. The fourth tenant, D, is team-based care. In other words, it's not just the doctors seeing the patient. There's a whole team. There's nurse practitioners. There's physician's assistants. There's RNs. There's medical assistants. There's all sorts of people. Now, in many ways, these folks, like nurse practitioners or the physician's assistant, etc., they can almost be thought of in the worst sense. Not always the case, but in the worst sense, they can be thought of as the gatekeeper to the gatekeeper, to the specialist. So the patient within the value-based care plan, they can't even see a doctor. They've got to see a nurse practitioner first. And it's only after the nurse practitioner decides that they need to see the PCP who then decides they need to see the specialist. So in other words, there's more layers that you have to get through. Okay. Next up, 5E. A low-cost formulary that does not necessarily have newer, expansive medications on it. Now, a lot of those newer, expensive medications may not be particularly helpful or beneficial, but there are others that might would be. So by limiting access to those newer, more expensive medications, then value-based care formularies keep costs down. Okay. Number 6, F. Social determinants of health are addressed. So, Dr. Jane points out that, look, there's actually never been studies that showed that addressing social determinants of health actually is helpful for populations. However, on the individual basis, he brings up the example of how his health plan bought a refrigerator for a diabetic so that they could actually keep their insulin in the refrigerator. Because it has to be kept cold. So there, the person not having a refrigerator was a social determinant that was affecting their health. In other words, they weren't effectively able to store their insulin. Okay. And then finally, the last, there's so many of these tenants I can't even keep track of them. G is a focus on the revenue and bottom line of the overall value-based plan. Now, you got to make dollars and cents out of it. Okay, fine. All of these strategies, I'm reading this, I'm like, this sounds exactly like an HMO from the 90s. Like, all the stuff that was like patient bill of rights, the huge uproar. Like, all of these things were in HMOs in the 90s. And guess what? In HMOs in the 90s, the patient didn't come first. And that was, there was this huge backlash against it. So I think Dr. Jane is correctly identified. Like, look, there has to be some sort of ethical framework for all these strategies. And that ethical framework, rightly so, is what he was taught in medical school, what I was taught in medical school, what every single doctor in America was taught in medical school, which is the patient comes first always. Okay, fine. Let's not talk about platitudes. Let's just say, well, we're just going to keep the patient in mind. No. You have to put in structure and process and incentives to keep the patient first. So what are some ideas around that? I've just thrown out these three ideas just for us to chew on. Okay, idea A, that the doctors need to be on salary so that they can't make more money if they do less for the patient. In other words, like, they're not going to be, like, taking home more money in terms of a value-based care bonus just because they delivered less care for their patients. Right? You don't want your doctor being paid more for doing less. You also don't want fee-for-service where you don't want your doctor being paid more to do more. You basically just want your doctor to be paid the same and have their judgment be based on the clinical situation for the patient. Now, if there is any variable compensation, let's say you did some sort of, like, quality metrics or some sort of productivity metric or whatever, that that would have to be public. Maybe not the dollar amounts. Maybe not the fact that you're paying the doc $250,000 or $500,000 or $750,000 or whatever it is. But in terms of, like, it would need to be public specifically how their variable comp was done. You know, maybe it was going to be, like, you know, a panel of three different physicians would review the charts of this doctor and they would blindly score them. And the quality review would result in 10% of their salary, blah, blah, blah. So the point is, though, is that it would be public. Okay. B, idea B, that inpatient and outpatient value-based care patients could have what's referred to as an RRT. So that's a rapid response team. It's what's used in hospitals so that anybody within the value-based care team, it could be a nurse, it could be a doctor, it could be a med tech, could basically, like, blow the whistle and say, something's not right here. And they do this in the hospital now. In fact, in some hospitals, they even give that ability to patients themselves to be like, look, I'm not getting what I need. I'm going to push this button. And then literally within minutes, a whole team, it's almost like calling a code, but it's a little less than a code. That's why it's an RRT team. But you don't just do it in the hospital. You do it in the outpatient setting. So that if at any point a patient feels like they're lost or things are too slow or the bureaucracy is getting in the way or they're being denied care, being denied access to a specialist that they think they actually should be given access to, that they could have a hotline to an ombudsman. In other words, the whole theme on these points is, just like, just as Brandeis said, where sunlight is the best disinfectant, is to be transparent. So that as you're working through these things, as you're working through the referrals and the management of the bed days and the narrow networks, that there is a hotline where the patients or the docs or the nurses can at any point say, bing, bing, bing, bing, bing, bing, there is a problem here. I need an ombudsman. Maybe it would be an outside third-party company to make this, like, scrutinized to have some sort of outside opinion as to what was going on. It's kind of like the Toyota quality improvement process where anybody along the assembly line could ring the bell and say, we got a problem here in the assembly line. Okay. Okay. My third and final suggestion, C, is that all people who work in the value-based care industry, whether it be the doctors or the nurses or the hospital administrators or the clinic administrators, or even the insurance carrier employees or even the politicians who are involved, like, in the Department of Health and Human Services, they themselves, if anybody is working on value-based care, their own health insurance has to be value-based care as well. It has to have these tendons. It has to have your inpatient days vetted. It has to have referrals specialists. It has to have a narrow network. It has to have team-based care, blah, blah, blah, because you've got to eat your own cooking. Right? So you can't have, like, rules for thee and not me. Right? That creates all sorts of problems. Right? So if the people who work in value-based care have to design the system in a way that it would serve them and their families as well, I think you would get a lot more alignment around the patient coming first. And that's the point I wanted to make today. Thank you for watching a healthcare seat.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:13]  And today's topic is the patient comes first as the key to value-based care.
+[0:13 - 0:15]  VBC there, that means value-based care.
+[0:15 - 0:25]  Now, today's video is based off of an article by Dr. Satin Jain that was just written in Forbes magazine on April 12th of 2022.
+[0:25 - 0:33]  Now, I've talked about Dr. Satin Jain before and he is, one, incredibly thoughtful in his writing.
+[0:33 - 0:36]  So, first of all, I encourage you to read this article because it's fantastic.
+[0:36 - 0:39]  I previously talked about other articles that Dr. Satin Jain has written.
+[0:40 - 0:41]  So, read his other articles too.
+[0:41 - 0:44]  They are spot on money, in my opinion.
+[0:44 - 0:51]  Now, he used to be the president of a subsection of Medicare Advantage plans for Anthem.
+[0:51 - 0:56]  And now he's the CEO of a Medicare Advantage plan, a non-profit Medicare Advantage plan in Southern California.
+[0:56 - 0:58]  It's called ScanHealth as well.
+[0:58 - 1:00]  So, he is an internist.
+[1:00 - 1:01]  He's worked in government.
+[1:02 - 1:04]  He's worked in major carriers.
+[1:04 - 1:05]  He's working on his own.
+[1:05 - 1:12]  I mean, he's got so much experience that he, you know, to a certain extent, kind of like me, he's seen healthcare from a lot of different angles.
+[1:13 - 1:16]  And so, his insight is incredibly valuable.
+[1:16 - 1:21]  So, let's look at what he has to say about the patient coming first in value-based care in this article.
+[1:22 - 1:33]  So, he says, look, the value equation, which was created by Michael Porter and some other folks at Harvard, actually, while Satin Jain was getting his MBA at Harvard, said, look, value in healthcare, right?
+[1:33 - 1:34]  How do you define it, right?
+[1:34 - 1:36]  It's quality divided by cost.
+[1:36 - 1:42]  So, in order for value to go up, you want the numerator quality to go up and you want the denominator cost to go down.
+[1:42 - 1:43]  Very simple, right?
+[1:43 - 1:48]  Well, there's a variety of strategies that have been implemented in value-based care.
+[1:48 - 1:56]  And everybody, and Dr. Jain's point in this article is that everybody goes to these fancy conferences and sings the praises of value-based care.
+[1:56 - 2:00]  But let's look at the nitty-gritty of what value-based care actually is.
+[2:00 - 2:06]  And so, he's actually enumerated the tenets, the central tenets of value-based care per Dr. Sajan Jain.
+[2:06 - 2:07]  This is what they are.
+[2:07 - 2:13]  So, one, it is A, it is to manage inpatient bed days.
+[2:13 - 2:24]  So, to keep a very close track on the number of hospital bed days per thousand people and the number of admissions per thousand people and to know that on a daily basis and to manage it.
+[2:24 - 2:26]  In other words, keep people out of the hospital.
+[2:26 - 2:31]  And then, if they are in the hospital, make sure that they're not in there for one single day more than what they need to be.
+[2:31 - 2:33]  In other words, get them out and get them discharged.
+[2:33 - 2:34]  Okay, next up.
+[2:36 - 2:37]  Referrals for specialists.
+[2:37 - 2:43]  In other words, you can't go see a cardiologist or a gastroenterologist or an ENT if you want to.
+[2:44 - 2:54]  Your primary care physician has to ask permission of the value-based health plan in order for you to then see that specialist.
+[2:54 - 3:02]  In other words, it is a prior authorization or a referral that is required in order to see that specialist.
+[3:02 - 3:10]  Because specialists tend to do much more expensive care and you don't want to be doing much more expensive care on people that don't need much more expensive care.
+[3:10 - 3:11]  All right.
+[3:11 - 3:11]  Next up.
+[3:12 - 3:12]  C.
+[3:12 - 3:13]  A narrow network.
+[3:14 - 3:19]  Okay, so that when you are making those referrals to certain specialists, you can't just refer to any specialist.
+[3:19 - 3:27]  You have to refer to certain specialists, certain cardiologists, certain GI doctors, certain ENTs within that narrow network.
+[3:27 - 3:35]  Now, obviously, those are supposed to be the quote-unquote highest quality cardiologists and gastroenterologists and ENTs.
+[3:35 - 3:43]  However, Dr. Jane points out that sometimes it's really the cost profile in terms of how many tests they order,
+[3:43 - 3:47]  how expensive the tests are that they order, the overall fees for the specialists themselves,
+[3:47 - 3:55]  that those cost dynamics sometimes can be prioritized over the quality of those specialists.
+[3:55 - 3:57]  I won't go into that in any more detail.
+[3:57 - 3:58]  That's a whole other can of worms.
+[3:59 - 4:03]  But just know that the third tenant of value-based care is a narrow network.
+[4:03 - 4:06]  The fourth tenant, D, is team-based care.
+[4:06 - 4:08]  In other words, it's not just the doctors seeing the patient.
+[4:08 - 4:09]  There's a whole team.
+[4:09 - 4:10]  There's nurse practitioners.
+[4:11 - 4:12]  There's physician's assistants.
+[4:12 - 4:12]  There's RNs.
+[4:13 - 4:15]  There's medical assistants.
+[4:15 - 4:16]  There's all sorts of people.
+[4:16 - 4:22]  Now, in many ways, these folks, like nurse practitioners or the physician's assistant, etc.,
+[4:22 - 4:26]  they can almost be thought of in the worst sense.
+[4:26 - 4:30]  Not always the case, but in the worst sense, they can be thought of as the gatekeeper to the gatekeeper, to the specialist.
+[4:31 - 4:34]  So the patient within the value-based care plan, they can't even see a doctor.
+[4:34 - 4:36]  They've got to see a nurse practitioner first.
+[4:36 - 4:43]  And it's only after the nurse practitioner decides that they need to see the PCP who then decides they need to see the specialist.
+[4:43 - 4:46]  So in other words, there's more layers that you have to get through.
+[4:46 - 4:46]  Okay.
+[4:46 - 4:47]  Next up, 5E.
+[4:48 - 4:54]  A low-cost formulary that does not necessarily have newer, expansive medications on it.
+[4:54 - 5:02]  Now, a lot of those newer, expensive medications may not be particularly helpful or beneficial, but there are others that might would be.
+[5:02 - 5:10]  So by limiting access to those newer, more expensive medications, then value-based care formularies keep costs down.
+[5:10 - 5:10]  Okay.
+[5:11 - 5:12]  Number 6, F.
+[5:13 - 5:14]  Social determinants of health are addressed.
+[5:14 - 5:22]  So, Dr. Jane points out that, look, there's actually never been studies that showed that addressing social determinants of health actually is helpful for populations.
+[5:23 - 5:32]  However, on the individual basis, he brings up the example of how his health plan bought a refrigerator for a diabetic so that they could actually keep their insulin in the refrigerator.
+[5:32 - 5:34]  Because it has to be kept cold.
+[5:34 - 5:40]  So there, the person not having a refrigerator was a social determinant that was affecting their health.
+[5:40 - 5:43]  In other words, they weren't effectively able to store their insulin.
+[5:43 - 5:44]  Okay.
+[5:44 - 5:49]  And then finally, the last, there's so many of these tenants I can't even keep track of them.
+[5:50 - 5:58]  G is a focus on the revenue and bottom line of the overall value-based plan.
+[5:58 - 6:01]  Now, you got to make dollars and cents out of it.
+[6:02 - 6:02]  Okay, fine.
+[6:03 - 6:08]  All of these strategies, I'm reading this, I'm like, this sounds exactly like an HMO from the 90s.
+[6:08 - 6:13]  Like, all the stuff that was like patient bill of rights, the huge uproar.
+[6:13 - 6:17]  Like, all of these things were in HMOs in the 90s.
+[6:17 - 6:18]  And guess what?
+[6:18 - 6:21]  In HMOs in the 90s, the patient didn't come first.
+[6:21 - 6:23]  And that was, there was this huge backlash against it.
+[6:23 - 6:25]  So I think Dr. Jane is correctly identified.
+[6:25 - 6:29]  Like, look, there has to be some sort of ethical framework for all these strategies.
+[6:30 - 6:35]  And that ethical framework, rightly so, is what he was taught in medical school, what I was taught in medical school,
+[6:35 - 6:40]  what every single doctor in America was taught in medical school, which is the patient comes first always.
+[6:40 - 6:41]  Okay, fine.
+[6:41 - 6:43]  Let's not talk about platitudes.
+[6:43 - 6:45]  Let's just say, well, we're just going to keep the patient in mind.
+[6:45 - 6:45]  No.
+[6:46 - 6:51]  You have to put in structure and process and incentives to keep the patient first.
+[6:51 - 6:54]  So what are some ideas around that?
+[6:54 - 6:57]  I've just thrown out these three ideas just for us to chew on.
+[6:57 - 7:06]  Okay, idea A, that the doctors need to be on salary so that they can't make more money if they do less for the patient.
+[7:06 - 7:15]  In other words, like, they're not going to be, like, taking home more money in terms of a value-based care bonus just because they delivered less care for their patients.
+[7:15 - 7:15]  Right?
+[7:15 - 7:17]  You don't want your doctor being paid more for doing less.
+[7:17 - 7:22]  You also don't want fee-for-service where you don't want your doctor being paid more to do more.
+[7:22 - 7:30]  You basically just want your doctor to be paid the same and have their judgment be based on the clinical situation for the patient.
+[7:30 - 7:41]  Now, if there is any variable compensation, let's say you did some sort of, like, quality metrics or some sort of productivity metric or whatever, that that would have to be public.
+[7:41 - 7:42]  Maybe not the dollar amounts.
+[7:42 - 7:47]  Maybe not the fact that you're paying the doc $250,000 or $500,000 or $750,000 or whatever it is.
+[7:47 - 7:54]  But in terms of, like, it would need to be public specifically how their variable comp was done.
+[7:54 - 8:00]  You know, maybe it was going to be, like, you know, a panel of three different physicians would review the charts of this doctor and they would blindly score them.
+[8:01 - 8:04]  And the quality review would result in 10% of their salary, blah, blah, blah.
+[8:05 - 8:08]  So the point is, though, is that it would be public.
+[8:09 - 8:09]  Okay.
+[8:10 - 8:18]  B, idea B, that inpatient and outpatient value-based care patients could have what's referred to as an RRT.
+[8:18 - 8:20]  So that's a rapid response team.
+[8:20 - 8:32]  It's what's used in hospitals so that anybody within the value-based care team, it could be a nurse, it could be a doctor, it could be a med tech, could basically, like, blow the whistle and say, something's not right here.
+[8:32 - 8:34]  And they do this in the hospital now.
+[8:34 - 8:39]  In fact, in some hospitals, they even give that ability to patients themselves to be like, look, I'm not getting what I need.
+[8:39 - 8:41]  I'm going to push this button.
+[8:41 - 8:47]  And then literally within minutes, a whole team, it's almost like calling a code, but it's a little less than a code.
+[8:47 - 8:48]  That's why it's an RRT team.
+[8:48 - 8:51]  But you don't just do it in the hospital.
+[8:51 - 8:53]  You do it in the outpatient setting.
+[8:53 - 9:06]  So that if at any point a patient feels like they're lost or things are too slow or the bureaucracy is getting in the way or they're being denied care, being denied access to a specialist that they think they actually should be given access to,
+[9:06 - 9:09]  that they could have a hotline to an ombudsman.
+[9:09 - 9:17]  In other words, the whole theme on these points is, just like, just as Brandeis said, where sunlight is the best disinfectant, is to be transparent.
+[9:18 - 9:23]  So that as you're working through these things, as you're working through the referrals and the management of the bed days and the narrow networks,
+[9:24 - 9:31]  that there is a hotline where the patients or the docs or the nurses can at any point say, bing, bing, bing, bing, bing, bing, there is a problem here.
+[9:31 - 9:33]  I need an ombudsman.
+[9:33 - 9:41]  Maybe it would be an outside third-party company to make this, like, scrutinized to have some sort of outside opinion as to what was going on.
+[9:41 - 9:50]  It's kind of like the Toyota quality improvement process where anybody along the assembly line could ring the bell and say, we got a problem here in the assembly line.
+[9:50 - 9:50]  Okay.
+[9:50 - 9:51]  Okay.
+[9:51 - 10:03]  My third and final suggestion, C, is that all people who work in the value-based care industry, whether it be the doctors or the nurses or the hospital administrators or the clinic administrators,
+[10:03 - 10:12]  or even the insurance carrier employees or even the politicians who are involved, like, in the Department of Health and Human Services,
+[10:13 - 10:20]  they themselves, if anybody is working on value-based care, their own health insurance has to be value-based care as well.
+[10:20 - 10:22]  It has to have these tendons.
+[10:22 - 10:23]  It has to have your inpatient days vetted.
+[10:24 - 10:25]  It has to have referrals specialists.
+[10:25 - 10:26]  It has to have a narrow network.
+[10:26 - 10:30]  It has to have team-based care, blah, blah, blah, because you've got to eat your own cooking.
+[10:30 - 10:31]  Right?
+[10:31 - 10:35]  So you can't have, like, rules for thee and not me.
+[10:35 - 10:35]  Right?
+[10:35 - 10:37]  That creates all sorts of problems.
+[10:37 - 10:37]  Right?
+[10:37 - 10:45]  So if the people who work in value-based care have to design the system in a way that it would serve them and their families as well,
+[10:45 - 10:50]  I think you would get a lot more alignment around the patient coming first.
+[10:50 - 10:52]  And that's the point I wanted to make today.
+[10:52 - 10:54]  Thank you for watching a healthcare seat.

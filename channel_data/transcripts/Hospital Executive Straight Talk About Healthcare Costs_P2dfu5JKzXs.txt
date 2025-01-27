@@ -1,0 +1,125 @@
+Title: Hospital Executive Straight Talk About Healthcare Costs
+URL: https://www.youtube.com/watch?v=P2dfu5JKzXs
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Hospital Executive Straight Talk. And today's talk comes from a YouTube video from a conference by Health Catalyst, which is a healthcare software company. This conference was from September of 2019. It only has like 200 views on YouTube and it is amazing. I will leave a link to it in the show notes. I highly encourage you to watch it. And if you do, you'll be one of like 200 people in the world that's actually watched this thing. And that will make you like special and unique because the information in here is priceless. Okay, it's priceless because it's about activity-based cost accounting. And in a previous video from last week, I talked about how the vast majority of hospitals in America don't do cost accounting. What does that mean? They actually don't know what their own costs are to deliver specific services. In other words, they don't know how much it costs me to actually deliver a baby. They don't know how much it costs them to do an arthroscopic knee surgery. They don't know how much it costs them to have a patient in the emergency room for 30 minutes. So, you mean to tell me hospitals set their prices on those things, but they themselves don't know what they cost? Yes, that is exactly what I'm saying. Now, here are some hospital executives talking straight about that. So, Robert Demache, who is the gentleman who actually sent me this YouTube video, so thank you so much to Robert. He is the former CFO of the University of Pittsburgh Medical Center, which is a 40-hospital behemoth in western Pennsylvania. Many of you across the country are familiar with UPMC, as you should. If you work in healthcare, you've got to know who UPMC is. And he only recently retired after being the CFO there for 15 years. And he said, look, we are in a fee-for-service environment, which means the more you do, the more margin you make. Okay. That is incredibly straight talk and incredible candor from a CFO. Okay. He's not talking about value. He's talking about fee-for-service. This is in September of 2019. Fee-for-service. And he straight up says that motivates our hospital to do more so that we get paid more so that we have a higher margin. So if we're concerned about lowering healthcare costs, the CFO of one of the largest hospital systems in America just told you that fee-for-service does not motivate the hospital to lower costs in any way. Okay. That might be an obvious point to many of you, but the point is this is coming straight out of a hospital executive's mouth. Okay. I appreciate his straight talk. His next sentence is equally as amazing. He says, look, but we're changing. We're moving towards capitation because of our own health plan. And this sentence is important in two ways. One, he uses the term capitation. Notice he does not say value. Okay. When it comes to a CFO, they think about like a fixed amount of money. Okay. And all of this hand-waving about value-based payment at the end of the day, it's really like back to the 90s. Is it capitated or is it not? And guess what? UPMC actually is moving towards capitation. Now, are they moving towards capitation because of Medicare and all of the Medicare initiatives? No. Are they moving to capitation because of all of the value-based payments by the insurance carriers? No. They're moving to capitation because of their own health insurance plan. That's right. In Western Pennsylvania, you actually can buy UPMC health insurance. You pay out premium. And then UPMC takes on the risk to be able to deliver the care for those people paying the premium for less than the premium amount. And if they can deliver the care for less than the premium, then they've got to keep the difference. Okay. Okay. So, they're not thinking in terms of value, and they're thinking in terms of it only because of their own health plan. Keep in mind that the vast majority of hospital systems in America do not have their own health insurance plan. We talked about how Intermountain Healthcare has one, how Geisinger has one, but there's only a handful of health systems that have one. Therefore, there's only a handful of health systems that have this type of capitation motivation to put in a cost accounting system like UPMC. So, UPMC is essentially the exception that proves the rule. Okay. Next, we have Magdalena Musler, who is the COO of the University of Michigan. And she also has tremendous bravery and gives us some very straight talk where she says, look, because of strategic rate setting, our cost was not correlating with our pricing structure. Now, that's kind of a complicated sentence, but that is a hugely important revelation. Okay. First of all, because of strategic rate setting. Okay. That is an industry term. Strategic rate setting or strategic pricing means that a hospital's prices are set strategically, not based on cost, not based on any sort of quote unquote reality, but the prices are set as a way to maximize reimbursement from their existing insurance contracts. In other words, if the hospital has an insurance contract that says they'll get paid 50% less than their billed charges and they double their billed charges from 10,000 to 20,000, well, then they just increase the amount they get paid from 5,000 to 10,000. And guess what? That has nothing to do with the actual cost of the procedure. It's just an activity to maximize revenue. And that's called strategic rate setting. So she admits this is exactly what the University of Michigan does. Okay. Again, this may be obvious to many of you, but she's coming out and saying this. Okay. Next up, she says that our costs, in other words, that $20,000 charge for that particular procedure was not correlating with our pricing structure. So she admits again that there is a complete disconnect. There is no correlation. There was no connection between what a hospital charges and what their costs are. Okay. So believe it. And even today, I still hear people say that hospitals' prices are based in some sort of cost reality. And here we have the COO of the University of Michigan saying that is not the case. All right. That has tremendous implications. Now, why does this have tremendous implications? It has tremendous implications because hospital care is $1.14 trillion of all of the U.S. healthcare spending. Okay. It is 33% of all U.S. healthcare spending. It is by far the largest segment. The largest piece of the pie of healthcare spending is hospital care. The next largest piece is physician services, doctor services, which are less than half as much at 15% and prescriptions only at 9%. So if employers have a healthcare cost problem, if individuals have a healthcare cost problem, if governments, state, local, and federal have a healthcare cost problem, it is because the hospitals are the largest driver of healthcare costs in America. So how in the world are we expecting to get healthcare costs under control if hospitals themselves are not going to get costs under control? And here we have hospital executives telling us exactly how they think about costs. One, we like to do more because we get paid more. Two, we're capitated only if we have our own health plan, not because of some government program or because of the insurance carriers and their negotiation. And three, our prices as a hospital have no relation to cost of actually delivering the service whatsoever. And four, we don't even know what it costs us to deliver specific services. So that is the state of affairs for American hospital finance that I have spoken about over and over and over again on A Healthcare Z. And here you have two hospital executives from two of the most prominent hospital systems in America saying the exact same thing. And I praise them for their candor. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:07]  Today's topic is Hospital Executive Straight Talk.
+[0:08 - 0:13]  And today's talk comes from a YouTube video from a conference by Health Catalyst,
+[0:13 - 0:15]  which is a healthcare software company.
+[0:15 - 0:17]  This conference was from September of 2019.
+[0:17 - 0:22]  It only has like 200 views on YouTube and it is amazing.
+[0:22 - 0:23]  I will leave a link to it in the show notes.
+[0:23 - 0:25]  I highly encourage you to watch it.
+[0:25 - 0:31]  And if you do, you'll be one of like 200 people in the world that's actually watched this thing.
+[0:31 - 0:36]  And that will make you like special and unique because the information in here is priceless.
+[0:36 - 0:39]  Okay, it's priceless because it's about activity-based cost accounting.
+[0:39 - 0:45]  And in a previous video from last week, I talked about how the vast majority of hospitals in America don't do cost accounting.
+[0:45 - 0:46]  What does that mean?
+[0:46 - 0:52]  They actually don't know what their own costs are to deliver specific services.
+[0:52 - 0:55]  In other words, they don't know how much it costs me to actually deliver a baby.
+[0:56 - 0:58]  They don't know how much it costs them to do an arthroscopic knee surgery.
+[0:59 - 1:02]  They don't know how much it costs them to have a patient in the emergency room for 30 minutes.
+[1:03 - 1:10]  So, you mean to tell me hospitals set their prices on those things, but they themselves don't know what they cost?
+[1:10 - 1:13]  Yes, that is exactly what I'm saying.
+[1:13 - 1:17]  Now, here are some hospital executives talking straight about that.
+[1:17 - 1:24]  So, Robert Demache, who is the gentleman who actually sent me this YouTube video, so thank you so much to Robert.
+[1:25 - 1:31]  He is the former CFO of the University of Pittsburgh Medical Center, which is a 40-hospital behemoth in western Pennsylvania.
+[1:31 - 1:35]  Many of you across the country are familiar with UPMC, as you should.
+[1:35 - 1:38]  If you work in healthcare, you've got to know who UPMC is.
+[1:38 - 1:42]  And he only recently retired after being the CFO there for 15 years.
+[1:42 - 1:50]  And he said, look, we are in a fee-for-service environment, which means the more you do, the more margin you make.
+[1:51 - 1:51]  Okay.
+[1:51 - 1:56]  That is incredibly straight talk and incredible candor from a CFO.
+[1:57 - 1:57]  Okay.
+[1:57 - 1:59]  He's not talking about value.
+[2:00 - 2:02]  He's talking about fee-for-service.
+[2:02 - 2:04]  This is in September of 2019.
+[2:04 - 2:05]  Fee-for-service.
+[2:05 - 2:13]  And he straight up says that motivates our hospital to do more so that we get paid more so that we have a higher margin.
+[2:13 - 2:28]  So if we're concerned about lowering healthcare costs, the CFO of one of the largest hospital systems in America just told you that fee-for-service does not motivate the hospital to lower costs in any way.
+[2:28 - 2:28]  Okay.
+[2:29 - 2:34]  That might be an obvious point to many of you, but the point is this is coming straight out of a hospital executive's mouth.
+[2:34 - 2:35]  Okay.
+[2:35 - 2:36]  I appreciate his straight talk.
+[2:36 - 2:39]  His next sentence is equally as amazing.
+[2:39 - 2:41]  He says, look, but we're changing.
+[2:41 - 2:46]  We're moving towards capitation because of our own health plan.
+[2:46 - 2:48]  And this sentence is important in two ways.
+[2:48 - 2:49]  One, he uses the term capitation.
+[2:50 - 2:52]  Notice he does not say value.
+[2:53 - 2:53]  Okay.
+[2:53 - 2:57]  When it comes to a CFO, they think about like a fixed amount of money.
+[2:57 - 2:57]  Okay.
+[2:58 - 3:04]  And all of this hand-waving about value-based payment at the end of the day, it's really like back to the 90s.
+[3:04 - 3:06]  Is it capitated or is it not?
+[3:07 - 3:07]  And guess what?
+[3:08 - 3:10]  UPMC actually is moving towards capitation.
+[3:10 - 3:15]  Now, are they moving towards capitation because of Medicare and all of the Medicare initiatives?
+[3:16 - 3:16]  No.
+[3:16 - 3:23]  Are they moving to capitation because of all of the value-based payments by the insurance carriers?
+[3:23 - 3:24]  No.
+[3:24 - 3:28]  They're moving to capitation because of their own health insurance plan.
+[3:29 - 3:29]  That's right.
+[3:29 - 3:33]  In Western Pennsylvania, you actually can buy UPMC health insurance.
+[3:33 - 3:34]  You pay out premium.
+[3:35 - 3:42]  And then UPMC takes on the risk to be able to deliver the care for those people paying the premium for less than the premium amount.
+[3:43 - 3:47]  And if they can deliver the care for less than the premium, then they've got to keep the difference.
+[3:47 - 3:47]  Okay.
+[3:47 - 3:47]  Okay.
+[3:48 - 3:54]  So, they're not thinking in terms of value, and they're thinking in terms of it only because of their own health plan.
+[3:54 - 4:01]  Keep in mind that the vast majority of hospital systems in America do not have their own health insurance plan.
+[4:01 - 4:08]  We talked about how Intermountain Healthcare has one, how Geisinger has one, but there's only a handful of health systems that have one.
+[4:08 - 4:18]  Therefore, there's only a handful of health systems that have this type of capitation motivation to put in a cost accounting system like UPMC.
+[4:18 - 4:23]  So, UPMC is essentially the exception that proves the rule.
+[4:23 - 4:23]  Okay.
+[4:23 - 4:30]  Next, we have Magdalena Musler, who is the COO of the University of Michigan.
+[4:30 - 4:45]  And she also has tremendous bravery and gives us some very straight talk where she says, look, because of strategic rate setting, our cost was not correlating with our pricing structure.
+[4:45 - 4:50]  Now, that's kind of a complicated sentence, but that is a hugely important revelation.
+[4:50 - 4:50]  Okay.
+[4:51 - 4:52]  First of all, because of strategic rate setting.
+[4:53 - 4:53]  Okay.
+[4:53 - 4:54]  That is an industry term.
+[4:54 - 5:09]  Strategic rate setting or strategic pricing means that a hospital's prices are set strategically, not based on cost, not based on any sort of quote unquote reality, but the prices are set as a way to maximize reimbursement from their existing insurance contracts.
+[5:09 - 5:20]  In other words, if the hospital has an insurance contract that says they'll get paid 50% less than their billed charges and they double their billed charges from 10,000 to 20,000, well, then they just increase the amount they get paid from 5,000 to 10,000.
+[5:20 - 5:21]  And guess what?
+[5:22 - 5:24]  That has nothing to do with the actual cost of the procedure.
+[5:24 - 5:27]  It's just an activity to maximize revenue.
+[5:27 - 5:29]  And that's called strategic rate setting.
+[5:29 - 5:32]  So she admits this is exactly what the University of Michigan does.
+[5:32 - 5:33]  Okay.
+[5:33 - 5:37]  Again, this may be obvious to many of you, but she's coming out and saying this.
+[5:37 - 5:37]  Okay.
+[5:38 - 5:46]  Next up, she says that our costs, in other words, that $20,000 charge for that particular procedure was not correlating with our pricing structure.
+[5:46 - 5:50]  So she admits again that there is a complete disconnect.
+[5:50 - 5:51]  There is no correlation.
+[5:51 - 5:56]  There was no connection between what a hospital charges and what their costs are.
+[5:57 - 5:57]  Okay.
+[5:57 - 5:58]  So believe it.
+[5:59 - 6:06]  And even today, I still hear people say that hospitals' prices are based in some sort of cost reality.
+[6:07 - 6:11]  And here we have the COO of the University of Michigan saying that is not the case.
+[6:12 - 6:12]  All right.
+[6:12 - 6:14]  That has tremendous implications.
+[6:15 - 6:18]  Now, why does this have tremendous implications?
+[6:18 - 6:25]  It has tremendous implications because hospital care is $1.14 trillion of all of the U.S. healthcare spending.
+[6:25 - 6:25]  Okay.
+[6:26 - 6:28]  It is 33% of all U.S. healthcare spending.
+[6:28 - 6:31]  It is by far the largest segment.
+[6:31 - 6:35]  The largest piece of the pie of healthcare spending is hospital care.
+[6:35 - 6:44]  The next largest piece is physician services, doctor services, which are less than half as much at 15% and prescriptions only at 9%.
+[6:44 - 7:00]  So if employers have a healthcare cost problem, if individuals have a healthcare cost problem, if governments, state, local, and federal have a healthcare cost problem, it is because the hospitals are the largest driver of healthcare costs in America.
+[7:00 - 7:08]  So how in the world are we expecting to get healthcare costs under control if hospitals themselves are not going to get costs under control?
+[7:08 - 7:14]  And here we have hospital executives telling us exactly how they think about costs.
+[7:14 - 7:18]  One, we like to do more because we get paid more.
+[7:18 - 7:25]  Two, we're capitated only if we have our own health plan, not because of some government program or because of the insurance carriers and their negotiation.
+[7:25 - 7:31]  And three, our prices as a hospital have no relation to cost of actually delivering the service whatsoever.
+[7:32 - 7:37]  And four, we don't even know what it costs us to deliver specific services.
+[7:37 - 7:47]  So that is the state of affairs for American hospital finance that I have spoken about over and over and over again on A Healthcare Z.
+[7:48 - 7:56]  And here you have two hospital executives from two of the most prominent hospital systems in America saying the exact same thing.
+[7:57 - 7:59]  And I praise them for their candor.
+[8:00 - 8:02]  And thank you for watching A Healthcare Z.

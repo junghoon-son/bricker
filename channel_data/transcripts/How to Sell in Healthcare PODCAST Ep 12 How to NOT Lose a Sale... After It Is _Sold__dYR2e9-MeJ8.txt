@@ -1,0 +1,267 @@
+Title: How to Sell in Healthcare PODCAST Ep 12 How to NOT Lose a Sale... After It Is 'Sold'
+URL: https://www.youtube.com/watch?v=dYR2e9-MeJ8
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker with A Healthcare Z and welcome to the How to Sell in Healthcare podcast. Today's episode is going to be on selling during the implementation post-sale. Yes, believe it or not, as a salesperson, after the sale, you still have more work to do. I know. It sounds discouraging, but believe me, it's super important and will actually get you more sales. I will explain why. So, in previous episodes, we have talked about prospecting, we've talked about middle of the funnel activities, we've talked about RFPs, and now, for the sake of discussion today, let's say that you receive what we call the verbal thumbs up. So, you get word from somebody at the client or from the broker benefit consultant that the employer wants to move ahead with your solution. Now, that is the key determination of when to begin the implementation process and when to begin to involve account management or implementation or however your particular organization does it. Now, you don't use a signed contract as the quote-unquote transition point because for some organizations, it takes weeks or months to get the contract signed and you're going to move ahead with post-sale activities like implementation, employee engagement plan, etc. prior to the contract being signed. If you wait for the contract to be signed, you won't have enough time to get all that stuff done before the go-live date. So, whether you want to call it a thumbs up or a verbal yes or whatever you want to make that distinction, that's an important point. And then we would track that within our CRM system. We used salesforce.com and account management would then be involved. And one of the first steps would be the introduction of the account manager. Now, the way that we did account management for small, medium, and large groups varied. For the small and mid-market, the account manager was first introduced to the broker consultant. Typically, the account manager at the broker consultant, so like our account manager and the brokerage account manager would have the initial contact, whether it be by email or phone call or in-person meeting occasionally. Now, for large group and jumbo, typically it was with the client directly and potentially the broker benefit consultant if they were involved in the sales process as well. Now, it is super important that there be a structured implementation project plan and timeline. And it can be a one-page PDF, however you want to structure it, such that it is visually appealing. And understandably, that project plan is going to be more complex for larger groups and it's going to be more straightforward and shorter for smaller groups. Likewise, the implementation project plan is going to be longer, just chronologically longer, probably on the order of months for large group. And it can be on the order of weeks for small group, mid-market being in between. So, oftentimes that implementation project plan or chart would be helpful as part of the mid-sales information as well. Because oftentimes the technical buyer at the brokerage or the client actually wants to see what the implementation is going to look like before it actually happens. Now, for small groups and mid-market, it all depends upon the product that you're selling. For small groups and mid-market, our implementations were not that complex. But for our large and jumbo groups, their implementations were more complicated. And so we basically had two levels. We basically had the sort of... You basically can think of the project plan as like a checklist or as like an outline, right? With Roman numeral one and then A and then B and then Roman numeral two and then A and then B, etc. And of course, with underneath A and B, you'll have number one and number two. Then you'll have B, number one, number two, etc. So we would oftentimes have the larger buckets for our large group implementations lined out in a project plan. But we wouldn't give them all the detail right up front. We would just say that, look, there is detail. Because we didn't necessarily want to overwhelm them from the start. But basically what the project plan is, is it's that checklist and then it has the dates of when those various things need to be done by and then it has the responsibility of who needs to do all those things. So in some cases, it's the vendor. In some cases, it's the client. And in other cases, it's the broker benefit consultant. And still in other cases, there might be another third party vendor that you might need to interact with. Let's just say the eligibility vendor or the data warehouse company or it might be a variety of other places. Okay. So that's fine. So on the initial email between, and we would do it by email, between account management and either the broker, account manager, or directly with the client if it was for a large group, of course, the salesperson would be copied on those. And the call to action for those would be, hey, would love to get, again, we have a five-minute phone call. Hey, would love to get on a five-minute phone call to briefly go over the implementation at a high level. And again, you're not asking for a lot of time. You're not going to go over the implementation plan in detail. You just want to have a cursory conversation really to establish the relationship. Okay. Now, of course, you're going to go over the implementation at a high level. But really the point of that initial five-minute call is to establish a relationship between the implementation team or the account management team and the broker consultant and or the employer. So the salesperson should be on those initial five-minute calls because this is a transfer of trust and a transfer of a relationship between account management and sales at you, the vendor. Okay. Now, depending upon your volume of sales and the size of the client, and I would argue the salesperson can give good insight into the, let's just call it skittishness of either the broker consultant or the client such that the salesperson might only need to be involved in that initial five-minute call if it is a fairly straightforward sale with a straightforward buyer, broker consultant, and it's a relatively small group. So you've got these just higher volumes and you have simpler implementations for those smaller groups. That five-minute phone call and transfer of trust might be all that's necessary. However, especially for the mid-market and guaranteed for the large group and general market, the salesperson will need to be on subsequent calls and or webinars as well. So just like in the sales process, you had that initial five-minute call and then the call to action at the end of that five-minute call is, can we pull up our Outlook calendars, Google Calendar, whatever you use, and can we then set a date and time for a longer deep dive on the implementation? And one would ask for 30 minutes. Maybe you can ask for 45 minutes or an hour depending upon the size of the client. For jumbo clients, they would never expect to have an initial 30-minute conversation about the implementation because they're so large and complicated that, shoot, an hour-long conversation, that's pretty short. So it can be variable, but you're shooting for a half hour to an hour. The salesperson needs to be on that call as well. Oftentimes because additional parties, either from the broker consultant or from the employer, will also be, because oftentimes during the implementation, the employer or the broker consultant, they might be bringing in their own sort of implementation people who have not been previously involved in the sales. So you're going to have new people on the call. And guess what? Oftentimes those new people that are coming on the call who might not have been involved in the sales process have no idea what they're getting themselves into. So that happened for the large and jumbo group. That happened probably the majority of the time. And so oftentimes the employer and or the broker consultant would ask the vendor to kind of start from scratch explaining what the vendor did and why they were doing it. And the account management team, I mean, that's essentially a sales call. And the account management team, while they do have a lot of expertise around supporting an existing client, getting somebody up to speed from scratch is not necessarily their greatest skill or aptitude. Therefore, it's, it's, again, if that's when the salesperson, and you need to talk over kind of these contingencies with the account management team prior to, be like, look, if we need to go over what the program is at a high level, that's the salesperson's job to do that. Not the account management person's job. Now, what else is the importance of the salesperson? Is the salesperson also needs to have prep work done with the account management prior to the call so that they can talk about the names and the roles and the personalities of the people at the broker consultant and the client prior to that call. You do not want to catch, you do not want to have the account manager be blindsided by that call without, because the salesperson has so much helpful background information that it is, it's arguably irresponsible for the salesperson to not share that. And not share that, yes, you can capture that in the salesforce.com CRM, or again, whatever CRM that you're using. And that's important to know. But it's also important to then talk to the account management person. We would have prep calls with the account manager prior to the implementation calls. It'd be like, look, this is Joe's personality. This is Sally's personality. This is Joe's role and responsibility. This is Sally's role and responsibility. That's incredible. And all the account managers, when we would do this, they'd be like, oh, that is super helpful. And for whatever reason, because people were just too busy or whatever, if we ever didn't have those prep conversations prior to the implementation calls, then those implementation calls tended to not go as well. And the account managers were like, well, I wish you had told me that beforehand. Understandably so. So we as salespeople, we need to help our account managers. And for purely selfish reasons, if that, you know, the salesperson might be already calculating and counting their commission in their head. And they should not be doing that. One, because the thing's not sold yet. The contract's not signed. And the first payment is not in. And so for you to think that the sale is done just because they gave you the verbal yes is incorrect. In fact, any experienced salesperson knows that a sale can absolutely fall apart during the implementation or it can just be pushed back. And if the sale is pushed back, then the commission payment's going to be pushed back to the salesperson. And you might have been counting on that extra commission check in a certain month. And if you end up getting it two months later, well, then that's going to be problematic for you potentially. So you want to be able to close the sale. And you do that by selling through the implementation. Two, you want to ensure that the start time is not pushed back. Sometimes we've even seen the start times accelerated. Or we've seen, especially for a very large group, smaller portions of the employer rolled out even earlier. And so they would be able to get some of their commission check even earlier if they did that. And then third, it will absolutely help with future sales through the broker consultant. If you're doing channel sales, let's say mid-market, this is classic for groups 200 to 2000, that if we had a bumpy implementation, the broker consultant would say, well, let's see how it goes. And the let's see how it goes might be six months to a year before they then take your solution and want to propose it to their other clients. Whereas if the implementation is going swimmingly, they might not even wait for the implementation to be done before they start recommending the service to other groups in their book of business. We saw that a ton. Especially if the client that's going through the implementation is excited about it. They want to jump on it. They like to move fast once they find something that they like and especially that their customers like. Now, it also then helps with the referrals from the groups. If the implementation can go well, then we have had customers proactively refer us to other HR people that they know in other industries or in other parts of the country. They'd only been using the program for like a month. They had barely had any experience with it. But because they had had a very positive, detailed experience during the implementation phase, then with confidence they could talk about that. And if it's a neat solution, they want to talk about it because it makes them sound smart and innovative. And so you don't even have to have a long run time with that employer before they would potentially start proactively recommending you. Now, the fourth and final thing that you get from sales being involved in the implementation and initial account management process is then you get a referenceable client or broker consultant for future customers or future brokers and consultants. So being able to cultivate that reference from day one is super important. And it's super important then for sales to be involved during implementation to allow that to happen. Now, you want to have brokers and consultants as references because oftentimes these brokers and consultants are part of a national firm. And these brokers and consultants, sometimes they know each other, sometimes they don't. But if you've got a relationship with brokers and consultants out of the Chicago office and then you have initial prospects and leads in the Los Angeles office, well, then you would love for the Los Angeles people to talk to the Chicago people. And you can either name drop or you can be like, hey, this is more of a formal reference. Or they just might spontaneously call these people. You don't know when they talk to each other at conferences or who knows each other. Oftentimes they don't know each other. But if they do, all the better. Now, at the employer level, obviously that reference is going to be helpful, whether it be from a same geographic area standpoint. So in other words, this is a company that's in St. Louis. And for a future prospect in St. Louis, then you can have St. Louis employer A talk to St. Louis employer B. Or it's in the same industry. So you can have fast food restaurant A talk to fast food restaurant B. Okay. So let's go through some challenges now with sales being on those account management calls. Typically, especially for the more complex implementations, the project management process is handled by somebody who has project management expertise. They tend to be very detail-oriented, very meticulous. They tend to be task-oriented with some skills with relationships, but maybe not as skilled at the relationship side as the salesperson. And that's understandable because they're so good on the project management that they shouldn't be expected to be as good on the relationship side. Likewise, you would never want a salesperson to run a project, right? Salespeople are probably horrible at running projects, but they're really good at relationships. So don't expect too much from people. That being said, there will absolutely be times then during the implementation where the implementation project manager or account manager or maybe even be a person from operations is so focused on the tasks that it's to the detriment of the relationship. In other words, they might not be as, let's say, sympathetic as the other work requirements, as the other vendors that they have. They might not be as persistent in the follow-up. So if you're in sales, we sort of naturally know that if somebody doesn't call us back within a day or emails back within a day, then we need to reach out to them again. And the project manager, the account manager, they might not have that mentality or that skill. And they'll be like, well, I emailed them last week. And the salesperson will say, okay, well, did you hear back? And you're like, no, I'm still waiting to hear back. Well, shoot, if they haven't called or emailed you back in a week, they probably are not going to and you need to ping them again. Or if people are constantly getting pulled off and on conference calls, and you might have key decision makers that are needed for the implementation calls. And they're just not on the call. And so the implementation might stall. And you as the salesperson, you know it's like, well, the implementation is stalling because the head of comp and benefits delegated this to a benefits manager. And at the end of the day, that benefits manager is just not getting the thumbs up or the signatures on her side of the business or his side of the business to move it forward. Let's say if it's like use of company emails for distributing employee engagement materials or if it's setting up in-person meetings at various work sites or whatever the task might be. And you're like, well, just politically within that organization, we really need to get the head of comp and benefits. And because you've had a relationship either with them directly because of the sales process or because of your relationship with the broker consultant, then you, the salesperson, can call up the broker consultant and be like, look, we really need to get Mary on the next call because we need her to help get these in-person meetings scheduled at the 12 locations across the country or whatever it is. Okay, and oftentimes it's the salesperson that understands those relationships dynamics and has those relationships already established through the sales process and is able to make that happen in a much more effective fashion than sort of a newer account management implementation person who is just coming into the relationship in the past several days or weeks. Just the tone of the conversations can be too task-oriented and not involve maybe necessarily the warm-up or the rapport building that needs to happen during the calls in addition to the getting the task done and holding people accountable to those tasks. Not to be mean, but you just can't be a taskmaster with the client. You have to be very mindful of the relationship while you work through the tasks. Now, here is another challenge. I would say that nine, at least nine times out of ten, maybe ten times out of ten, the salespeople hate being on these calls. And it is incredibly painful for the salespeople to be on these calls. Okay, so this is where we just as salespeople have to accept that this is just a part of our job that is not the most pleasant thing. And this is just my opinion because, frankly, it was really hard for me to be on these calls. Not because it wasn't important. Not because the account manager wasn't doing the right thing. But just because it is... Well, it's difficult on many levels. It's difficult because at the end of the day, the dynamic with the client is such that they are very busy. And when they actually see what needs to happen in order to make a successful implementation happen, and it requires a partnership. I mean, there's no successful implementation that does not involve customer effort or broker and consultant effort. Like, I have yet to see an implementation where that is ever, like, you know, not necessary. So it requires effort on their part.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:08]  Hello, this is Dr. Eric Bricker with A Healthcare Z and welcome to the How to Sell in Healthcare
+[0:08 - 0:09]  podcast.
+[0:10 - 0:17]  Today's episode is going to be on selling during the implementation post-sale.
+[0:18 - 0:23]  Yes, believe it or not, as a salesperson, after the sale, you still have more work to
+[0:23 - 0:24]  do.
+[0:24 - 0:25]  I know.
+[0:25 - 0:29]  It sounds discouraging, but believe me, it's super important and will actually get you
+[0:29 - 0:30]  more sales.
+[0:30 - 0:31]  I will explain why.
+[0:32 - 0:36]  So, in previous episodes, we have talked about prospecting, we've talked about middle of
+[0:36 - 0:43]  the funnel activities, we've talked about RFPs, and now, for the sake of discussion today,
+[0:43 - 0:48]  let's say that you receive what we call the verbal thumbs up.
+[0:48 - 0:52]  So, you get word from somebody at the client or from the broker benefit consultant that
+[0:52 - 0:55]  the employer wants to move ahead with your solution.
+[0:55 - 1:01]  Now, that is the key determination of when to begin the implementation process and when
+[1:01 - 1:08]  to begin to involve account management or implementation or however your particular organization does
+[1:08 - 1:08]  it.
+[1:08 - 1:22]  Now, you don't use a signed contract as the quote-unquote transition point because for some organizations,
+[1:22 - 1:27]  it takes weeks or months to get the contract signed and you're going to move ahead with
+[1:27 - 1:34]  post-sale activities like implementation, employee engagement plan, etc. prior to the contract
+[1:34 - 1:34]  being signed.
+[1:34 - 1:38]  If you wait for the contract to be signed, you won't have enough time to get all that
+[1:38 - 1:41]  stuff done before the go-live date.
+[1:42 - 1:47]  So, whether you want to call it a thumbs up or a verbal yes or whatever you want to make
+[1:47 - 1:49]  that distinction, that's an important point.
+[1:49 - 1:53]  And then we would track that within our CRM system.
+[1:53 - 1:59]  We used salesforce.com and account management would then be involved.
+[1:59 - 2:05]  And one of the first steps would be the introduction of the account manager.
+[2:05 - 2:12]  Now, the way that we did account management for small, medium, and large groups varied.
+[2:13 - 2:24]  For the small and mid-market, the account manager was first introduced to the broker consultant.
+[2:24 - 2:30]  Typically, the account manager at the broker consultant, so like our account manager and the brokerage
+[2:30 - 2:36]  account manager would have the initial contact, whether it be by email or phone call or in-person
+[2:36 - 2:37]  meeting occasionally.
+[2:38 - 2:45]  Now, for large group and jumbo, typically it was with the client directly and potentially the broker
+[2:45 - 2:49]  benefit consultant if they were involved in the sales process as well.
+[2:49 - 3:00]  Now, it is super important that there be a structured implementation project plan and timeline.
+[3:01 - 3:10]  And it can be a one-page PDF, however you want to structure it, such that it is visually appealing.
+[3:10 - 3:20]  And understandably, that project plan is going to be more complex for larger groups and it's going to be more
+[3:20 - 3:24]  straightforward and shorter for smaller groups.
+[3:25 - 3:31]  Likewise, the implementation project plan is going to be longer, just chronologically longer,
+[3:31 - 3:35]  probably on the order of months for large group.
+[3:35 - 3:42]  And it can be on the order of weeks for small group, mid-market being in between.
+[3:43 - 3:56]  So, oftentimes that implementation project plan or chart would be helpful as part of the mid-sales
+[3:56 - 3:57]  information as well.
+[3:57 - 4:04]  Because oftentimes the technical buyer at the brokerage or the client actually wants to see
+[4:04 - 4:06]  what the implementation is going to look like before it actually happens.
+[4:07 - 4:12]  Now, for small groups and mid-market, it all depends upon the product that you're selling.
+[4:13 - 4:16]  For small groups and mid-market, our implementations were not that complex.
+[4:16 - 4:20]  But for our large and jumbo groups, their implementations were more complicated.
+[4:21 - 4:24]  And so we basically had two levels.
+[4:25 - 4:27]  We basically had the sort of...
+[4:27 - 4:34]  You basically can think of the project plan as like a checklist or as like an outline,
+[4:34 - 4:35]  right?
+[4:35 - 4:41]  With Roman numeral one and then A and then B and then Roman numeral two and then A and then
+[4:41 - 4:42]  B, etc.
+[4:42 - 4:46]  And of course, with underneath A and B, you'll have number one and number two.
+[4:46 - 4:48]  Then you'll have B, number one, number two, etc.
+[4:48 - 5:01]  So we would oftentimes have the larger buckets for our large group implementations lined out
+[5:01 - 5:02]  in a project plan.
+[5:02 - 5:04]  But we wouldn't give them all the detail right up front.
+[5:04 - 5:06]  We would just say that, look, there is detail.
+[5:06 - 5:09]  Because we didn't necessarily want to overwhelm them from the start.
+[5:09 - 5:15]  But basically what the project plan is, is it's that checklist and then it has the dates
+[5:15 - 5:19]  of when those various things need to be done by and then it has the responsibility of who
+[5:19 - 5:21]  needs to do all those things.
+[5:21 - 5:22]  So in some cases, it's the vendor.
+[5:23 - 5:24]  In some cases, it's the client.
+[5:24 - 5:26]  And in other cases, it's the broker benefit consultant.
+[5:27 - 5:32]  And still in other cases, there might be another third party vendor that you might need to interact
+[5:32 - 5:32]  with.
+[5:32 - 5:40]  Let's just say the eligibility vendor or the data warehouse company or it might be a variety
+[5:40 - 5:41]  of other places.
+[5:41 - 5:41]  Okay.
+[5:42 - 5:42]  So that's fine.
+[5:42 - 5:52]  So on the initial email between, and we would do it by email, between account management
+[5:52 - 5:59]  and either the broker, account manager, or directly with the client if it was for a large group,
+[6:00 - 6:04]  of course, the salesperson would be copied on those.
+[6:04 - 6:13]  And the call to action for those would be, hey, would love to get, again, we have a five-minute
+[6:13 - 6:13]  phone call.
+[6:13 - 6:18]  Hey, would love to get on a five-minute phone call to briefly go over the implementation
+[6:18 - 6:19]  at a high level.
+[6:19 - 6:22]  And again, you're not asking for a lot of time.
+[6:22 - 6:25]  You're not going to go over the implementation plan in detail.
+[6:25 - 6:32]  You just want to have a cursory conversation really to establish the relationship.
+[6:32 - 6:32]  Okay.
+[6:32 - 6:39]  Now, of course, you're going to go over the implementation at a high level.
+[6:39 - 6:44]  But really the point of that initial five-minute call is to establish a relationship between the
+[6:44 - 6:48]  implementation team or the account management team and the broker consultant and or the employer.
+[6:48 - 6:56]  So the salesperson should be on those initial five-minute calls because this is a transfer
+[6:56 - 7:05]  of trust and a transfer of a relationship between account management and sales at you, the vendor.
+[7:06 - 7:06]  Okay.
+[7:07 - 7:17]  Now, depending upon your volume of sales and the size of the client, and I would argue the
+[7:17 - 7:28]  salesperson can give good insight into the, let's just call it skittishness of either the
+[7:28 - 7:35]  broker consultant or the client such that the salesperson might only need to be involved in
+[7:35 - 7:41]  that initial five-minute call if it is a fairly straightforward sale with a straightforward
+[7:41 - 7:46]  buyer, broker consultant, and it's a relatively small group.
+[7:46 - 7:52]  So you've got these just higher volumes and you have simpler implementations for those smaller
+[7:52 - 7:53]  groups.
+[7:53 - 7:57]  That five-minute phone call and transfer of trust might be all that's necessary.
+[7:58 - 8:05]  However, especially for the mid-market and guaranteed for the large group and general
+[8:05 - 8:12]  market, the salesperson will need to be on subsequent calls and or webinars as well.
+[8:12 - 8:15]  So just like in the sales process, you had that initial five-minute call and then the call to action at the
+[8:15 - 8:23]  end of that five-minute call is, can we pull up our Outlook calendars, Google Calendar, whatever you use,
+[8:24 - 8:33]  and can we then set a date and time for a longer deep dive on the implementation?
+[8:34 - 8:37]  And one would ask for 30 minutes.
+[8:37 - 8:42]  Maybe you can ask for 45 minutes or an hour depending upon the size of the client.
+[8:42 - 8:49]  For jumbo clients, they would never expect to have an initial 30-minute conversation about the
+[8:49 - 8:54]  implementation because they're so large and complicated that, shoot, an hour-long conversation,
+[8:54 - 8:55]  that's pretty short.
+[8:56 - 8:59]  So it can be variable, but you're shooting for a half hour to an hour.
+[9:00 - 9:03]  The salesperson needs to be on that call as well.
+[9:03 - 9:07]  Oftentimes because additional parties, either from the broker consultant or from the employer,
+[9:07 - 9:11]  will also be, because oftentimes during the implementation, the employer or the broker consultant,
+[9:11 - 9:15]  they might be bringing in their own sort of implementation people who have not been previously
+[9:15 - 9:16]  involved in the sales.
+[9:16 - 9:18]  So you're going to have new people on the call.
+[9:19 - 9:20]  And guess what?
+[9:21 - 9:26]  Oftentimes those new people that are coming on the call who might not have been involved in the sales
+[9:26 - 9:29]  process have no idea what they're getting themselves into.
+[9:29 - 9:34]  So that happened for the large and jumbo group.
+[9:35 - 9:37]  That happened probably the majority of the time.
+[9:38 - 9:45]  And so oftentimes the employer and or the broker consultant would ask the vendor to kind of start
+[9:45 - 9:49]  from scratch explaining what the vendor did and why they were doing it.
+[9:49 - 9:53]  And the account management team, I mean, that's essentially a sales call.
+[9:53 - 9:56]  And the account management team, while they do have a lot of expertise
+[9:56 - 10:03]  around supporting an existing client, getting somebody up to speed from scratch
+[10:03 - 10:12]  is not necessarily their greatest skill or aptitude.
+[10:13 - 10:16]  Therefore, it's, it's, again, if that's when the salesperson,
+[10:16 - 10:20]  and you need to talk over kind of these contingencies with the account management team prior to,
+[10:20 - 10:23]  be like, look, if we need to go over what the program is at a high level,
+[10:23 - 10:26]  that's the salesperson's job to do that.
+[10:26 - 10:28]  Not the account management person's job.
+[10:29 - 10:34]  Now, what else is the importance of the salesperson?
+[10:34 - 10:40]  Is the salesperson also needs to have prep work done with the account management prior to the call
+[10:40 - 10:45]  so that they can talk about the names and the roles and the personalities of the people
+[10:45 - 10:47]  at the broker consultant and the client prior to that call.
+[10:47 - 10:54]  You do not want to catch, you do not want to have the account manager be blindsided by that call without,
+[10:54 - 10:59]  because the salesperson has so much helpful background information that it is,
+[10:59 - 11:03]  it's arguably irresponsible for the salesperson to not share that.
+[11:03 - 11:08]  And not share that, yes, you can capture that in the salesforce.com CRM,
+[11:08 - 11:10]  or again, whatever CRM that you're using.
+[11:10 - 11:11]  And that's important to know.
+[11:12 - 11:15]  But it's also important to then talk to the account management person.
+[11:15 - 11:19]  We would have prep calls with the account manager prior to the implementation calls.
+[11:20 - 11:22]  It'd be like, look, this is Joe's personality.
+[11:22 - 11:23]  This is Sally's personality.
+[11:23 - 11:25]  This is Joe's role and responsibility.
+[11:25 - 11:26]  This is Sally's role and responsibility.
+[11:27 - 11:28]  That's incredible.
+[11:28 - 11:32]  And all the account managers, when we would do this, they'd be like, oh, that is super helpful.
+[11:33 - 11:38]  And for whatever reason, because people were just too busy or whatever,
+[11:38 - 11:43]  if we ever didn't have those prep conversations prior to the implementation calls,
+[11:43 - 11:46]  then those implementation calls tended to not go as well.
+[11:46 - 11:49]  And the account managers were like, well, I wish you had told me that beforehand.
+[11:50 - 11:51]  Understandably so.
+[11:51 - 11:54]  So we as salespeople, we need to help our account managers.
+[11:54 - 12:00]  And for purely selfish reasons, if that, you know,
+[12:00 - 12:05]  the salesperson might be already calculating and counting their commission in their head.
+[12:05 - 12:07]  And they should not be doing that.
+[12:07 - 12:09]  One, because the thing's not sold yet.
+[12:10 - 12:11]  The contract's not signed.
+[12:12 - 12:14]  And the first payment is not in.
+[12:14 - 12:20]  And so for you to think that the sale is done just because they gave you the verbal yes is incorrect.
+[12:20 - 12:26]  In fact, any experienced salesperson knows that a sale can absolutely fall apart during the implementation
+[12:26 - 12:30]  or it can just be pushed back.
+[12:30 - 12:34]  And if the sale is pushed back, then the commission payment's going to be pushed back to the salesperson.
+[12:34 - 12:39]  And you might have been counting on that extra commission check in a certain month.
+[12:39 - 12:44]  And if you end up getting it two months later, well, then that's going to be problematic for you potentially.
+[12:44 - 12:48]  So you want to be able to close the sale.
+[12:49 - 12:51]  And you do that by selling through the implementation.
+[12:52 - 12:57]  Two, you want to ensure that the start time is not pushed back.
+[12:57 - 12:59]  Sometimes we've even seen the start times accelerated.
+[13:00 - 13:06]  Or we've seen, especially for a very large group, smaller portions of the employer rolled out even earlier.
+[13:06 - 13:09]  And so they would be able to get some of their commission check even earlier if they did that.
+[13:09 - 13:16]  And then third, it will absolutely help with future sales through the broker consultant.
+[13:17 - 13:21]  If you're doing channel sales, let's say mid-market, this is classic for groups 200 to 2000,
+[13:21 - 13:29]  that if we had a bumpy implementation, the broker consultant would say, well, let's see how it goes.
+[13:29 - 13:35]  And the let's see how it goes might be six months to a year before they then take your solution
+[13:35 - 13:37]  and want to propose it to their other clients.
+[13:37 - 13:45]  Whereas if the implementation is going swimmingly, they might not even wait for the implementation to be done
+[13:45 - 13:51]  before they start recommending the service to other groups in their book of business.
+[13:51 - 13:52]  We saw that a ton.
+[13:53 - 13:59]  Especially if the client that's going through the implementation is excited about it.
+[13:59 - 14:01]  They want to jump on it.
+[14:01 - 14:06]  They like to move fast once they find something that they like and especially that their customers like.
+[14:06 - 14:15]  Now, it also then helps with the referrals from the groups.
+[14:15 - 14:29]  If the implementation can go well, then we have had customers proactively refer us to other HR people that they know in other industries or in other parts of the country.
+[14:29 - 14:32]  They'd only been using the program for like a month.
+[14:32 - 14:34]  They had barely had any experience with it.
+[14:34 - 14:41]  But because they had had a very positive, detailed experience during the implementation phase,
+[14:41 - 14:43]  then with confidence they could talk about that.
+[14:43 - 14:50]  And if it's a neat solution, they want to talk about it because it makes them sound smart and innovative.
+[14:50 - 14:59]  And so you don't even have to have a long run time with that employer before they would potentially start proactively recommending you.
+[14:59 - 15:07]  Now, the fourth and final thing that you get from sales being involved in the implementation and initial account management process
+[15:07 - 15:19]  is then you get a referenceable client or broker consultant for future customers or future brokers and consultants.
+[15:19 - 15:25]  So being able to cultivate that reference from day one is super important.
+[15:26 - 15:30]  And it's super important then for sales to be involved during implementation to allow that to happen.
+[15:30 - 15:38]  Now, you want to have brokers and consultants as references because oftentimes these brokers and consultants are part of a national firm.
+[15:38 - 15:42]  And these brokers and consultants, sometimes they know each other, sometimes they don't.
+[15:42 - 15:54]  But if you've got a relationship with brokers and consultants out of the Chicago office and then you have initial prospects and leads in the Los Angeles office,
+[15:54 - 16:00]  well, then you would love for the Los Angeles people to talk to the Chicago people.
+[16:00 - 16:06]  And you can either name drop or you can be like, hey, this is more of a formal reference.
+[16:06 - 16:09]  Or they just might spontaneously call these people.
+[16:09 - 16:12]  You don't know when they talk to each other at conferences or who knows each other.
+[16:12 - 16:14]  Oftentimes they don't know each other.
+[16:14 - 16:16]  But if they do, all the better.
+[16:18 - 16:28]  Now, at the employer level, obviously that reference is going to be helpful, whether it be from a same geographic area standpoint.
+[16:28 - 16:31]  So in other words, this is a company that's in St. Louis.
+[16:31 - 16:36]  And for a future prospect in St. Louis, then you can have St. Louis employer A talk to St. Louis employer B.
+[16:36 - 16:38]  Or it's in the same industry.
+[16:38 - 16:43]  So you can have fast food restaurant A talk to fast food restaurant B.
+[16:44 - 16:44]  Okay.
+[16:45 - 16:56]  So let's go through some challenges now with sales being on those account management calls.
+[16:56 - 17:06]  Typically, especially for the more complex implementations, the project management process is handled by somebody who has project management expertise.
+[17:06 - 17:09]  They tend to be very detail-oriented, very meticulous.
+[17:09 - 17:22]  They tend to be task-oriented with some skills with relationships, but maybe not as skilled at the relationship side as the salesperson.
+[17:22 - 17:28]  And that's understandable because they're so good on the project management that they shouldn't be expected to be as good on the relationship side.
+[17:29 - 17:33]  Likewise, you would never want a salesperson to run a project, right?
+[17:33 - 17:37]  Salespeople are probably horrible at running projects, but they're really good at relationships.
+[17:38 - 17:40]  So don't expect too much from people.
+[17:40 - 17:55]  That being said, there will absolutely be times then during the implementation where the implementation project manager or account manager or maybe even be a person from operations is so focused on the tasks that it's to the detriment of the relationship.
+[17:55 - 18:04]  In other words, they might not be as, let's say, sympathetic as the other work requirements, as the other vendors that they have.
+[18:04 - 18:07]  They might not be as persistent in the follow-up.
+[18:07 - 18:15]  So if you're in sales, we sort of naturally know that if somebody doesn't call us back within a day or emails back within a day, then we need to reach out to them again.
+[18:15 - 18:19]  And the project manager, the account manager, they might not have that mentality or that skill.
+[18:20 - 18:22]  And they'll be like, well, I emailed them last week.
+[18:22 - 18:24]  And the salesperson will say, okay, well, did you hear back?
+[18:24 - 18:26]  And you're like, no, I'm still waiting to hear back.
+[18:26 - 18:32]  Well, shoot, if they haven't called or emailed you back in a week, they probably are not going to and you need to ping them again.
+[18:32 - 18:43]  Or if people are constantly getting pulled off and on conference calls, and you might have key decision makers that are needed for the implementation calls.
+[18:43 - 18:44]  And they're just not on the call.
+[18:45 - 18:46]  And so the implementation might stall.
+[18:47 - 18:57]  And you as the salesperson, you know it's like, well, the implementation is stalling because the head of comp and benefits delegated this to a benefits manager.
+[18:57 - 19:06]  And at the end of the day, that benefits manager is just not getting the thumbs up or the signatures on her side of the business or his side of the business to move it forward.
+[19:06 - 19:19]  Let's say if it's like use of company emails for distributing employee engagement materials or if it's setting up in-person meetings at various work sites or whatever the task might be.
+[19:20 - 19:24]  And you're like, well, just politically within that organization, we really need to get the head of comp and benefits.
+[19:24 - 19:48]  And because you've had a relationship either with them directly because of the sales process or because of your relationship with the broker consultant, then you, the salesperson, can call up the broker consultant and be like, look, we really need to get Mary on the next call because we need her to help get these in-person meetings scheduled at the 12 locations across the country or whatever it is.
+[19:48 - 20:09]  Okay, and oftentimes it's the salesperson that understands those relationships dynamics and has those relationships already established through the sales process and is able to make that happen in a much more effective fashion than sort of a newer account management implementation person who is just coming into the relationship in the past several days or weeks.
+[20:09 - 20:33]  Just the tone of the conversations can be too task-oriented and not involve maybe necessarily the warm-up or the rapport building that needs to happen during the calls in addition to the getting the task done and holding people accountable to those tasks.
+[20:34 - 20:39]  Not to be mean, but you just can't be a taskmaster with the client.
+[20:39 - 20:45]  You have to be very mindful of the relationship while you work through the tasks.
+[20:45 - 20:47]  Now, here is another challenge.
+[20:47 - 20:57]  I would say that nine, at least nine times out of ten, maybe ten times out of ten, the salespeople hate being on these calls.
+[20:57 - 21:01]  And it is incredibly painful for the salespeople to be on these calls.
+[21:01 - 21:07]  Okay, so this is where we just as salespeople have to accept that this is just a part of our job
+[21:07 - 21:09]  that is not the most pleasant thing.
+[21:10 - 21:14]  And this is just my opinion because, frankly, it was really hard for me to be on these calls.
+[21:14 - 21:15]  Not because it wasn't important.
+[21:15 - 21:19]  Not because the account manager wasn't doing the right thing.
+[21:20 - 21:23]  But just because it is...
+[21:24 - 21:28]  Well, it's difficult on many levels.
+[21:28 - 21:36]  It's difficult because at the end of the day, the dynamic with the client is such that they are very busy.
+[21:36 - 21:42]  And when they actually see what needs to happen in order to make a successful implementation happen,
+[21:42 - 21:43]  and it requires a partnership.
+[21:44 - 21:49]  I mean, there's no successful implementation that does not involve customer effort or broker and consultant effort.
+[21:49 - 21:54]  Like, I have yet to see an implementation where that is ever, like, you know, not necessary.
+[21:54 - 21:56]  So it requires effort on their part.

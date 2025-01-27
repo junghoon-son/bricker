@@ -1,0 +1,32 @@
+Title: Medicare Value-Based Payments Explained_YEqtpCNwzSg
+URL: https://www.youtube.com/watch?v=YEqtpCNwzSg
+Language: en
+Duration: 6:06
+Upload Date: Unknown
+
+Transcription:
+
+Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is traditional Medicare value-based payments. So if we're going to talk about healthcare finance, we have to talk about Medicare value-based payments. Hugely important. Now, this is only an intro to the topic. I could literally go on for hours about it, but you can see there's basically three main categories and I'm only talking about this for hospitals. There's a whole other section for doctors that I'm not even going to talk about for today.
+
+Now, part number one is hospital pay for performance, otherwise known as P4P. And of course, like everything, there has to be sub-bullets, right? So there's three different types of pay for performance. Sub-bullet A, value-based purchasing, where there is $1.5 billion at stake for what is really traditional fee for service, but there's various quality metrics around it. Like, do you have good patient satisfaction scores? Did you have a bunch of other metrics related to, like, bloodstream infections? Yada, yada, yada.
+
+Okay, so fine. What's the important thing here? Is that it's really not that big of a departure from fee for service? It's still fee for service. And that $1.5 billion is just a redistribution from those who do poorly to those who do well. So it comes up like budget neutral for Medicare, and they'll be winners and losers in the world of hospitals. Okay, next up, readmission reduction. So hospitals have no upside to this. It's only a penalty. So it's still fee for service, but there's a 3% penalty if they end up having these readmissions.
+
+And it's not even for all conditions. It's only for six conditions. For things like heart attacks, congestive heart failure, coronary artery bypass graft, total knee replacement, COPD, etc. Now, part number three, hospital acquired conditions. Now, again, you don't make any upside on this. There's only downside. There's a 1% penalty. Again, for certain hospital acquired conditions might be like a catheter-associated UTI. So this happens all the time in the hospital. Now, the bottom 25% of hospitals are going to get that 1% penalty.
+
+So no matter what, somebody's going to lose. So even if everybody does a lot better, somebody's going to lose, right? So of these three programs, Medicare is saving money on both B and C, the readmissions and the hospital acquired conditions, because they're only penalty-based. You can't make any money off of it. Okay. Total subsection number two, bundled payments. Okay. This is where Medicare is going to give a lump sum for 30 different episodes of care. And a common one would be like for a total joint replacement, right? This is a voluntary program.
+
+The hospital does not have to participate in this if they don't want to. So it's a fixed dollar amount for the hospital, the doctor, and the post-acute care facility like rehab all together. And oh, by the way, in parentheses, that bundled amount is less than what Medicare used to pay the hospital plus the doctor plus the post-acute care facility independently. So like one plus one doesn't equal three, equals like 2.5. So if hospitals are going to make any money off of this, then doctors are going to make any money off this.
+
+The only way they can do that in the bundle is if they take the money away from the post-acute care facilities. So again, if Medicare is going to save, somebody has to lose. And in this case, it might be the post-acute care facility. Now, and what happens? It's shrinking. The program is shrinking. So initially there were 830 hospitals that participated in it. Now it was only 715. And there used to be 715 doctor groups that participated in it. And now it was only 580. So if people are voting with their feet, if doctors and hospitals are voting with their feet, they're voting with, we don't like this.
+
+Okay, finally, the shared savings program, we finally get around to the accountable care organization or the ACL, right? A lot of people, including myself, are like, oh, all these value-based payments, that's ACOs, right? No, that's the third out of the three. Okay, and basically what is this? It's capitation. They're going to give a fixed amount, not in like the bundled payments, which is a fixed amount for one particular procedure, but they're going to give a fixed amount for a population, right? So it's almost like a traditional HMO, right? And so, and that's only for ACOs that have downside risk.
+
+So believe it or not, there's actually some ACOs that don't have downside risk. I won't even talk about those now. But they're basically giving the ACO a fixed amount of money. And if they're able to come in with their spending less than that fixed amount of money, then they get to quote unquote share in the savings. And if it costs more than that set amount of money to take care of the patients, then they lose, right? It's capitation. So there are 517 ACOs across America taking care of 11.2 million Medicare beneficiaries.
+
+Now keep in mind, there are 60 million Medicare beneficiaries total, of which 20 million of those are Medicare Advantage. So this entire conversation doesn't apply to Medicare Advantage at all. It's only for traditional Medicare. So that leaves you with 40 million of traditional Medicare folks left. So 11.2 million divided by the 40 million means that all of this ACO stuff applies to 28% of traditional Medicare beneficiaries, like a quarter of them. So don't think this applies to everybody. It's not even close to everybody.
+
+Finally, 56% of these 517 ACOs say, look, we're probably going to leave. Again, it's voluntary. Now they haven't left, but they're saying they're probably going to leave. And there's different amounts of certainty. Some are saying we're definitely going to leave. And other ones are saying we're probably going to leave. But the point is more than half of these ACOs are saying they're going to leave. So I'll be honest with you, to me, this kind of feels a little bit like a scavenger hunt, but I'll leave it up to you to decide if you feel like this is a success or not.
+
+And that's my point for today. Thank you for watching A Healthcare Z..
+

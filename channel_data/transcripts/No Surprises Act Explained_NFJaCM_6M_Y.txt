@@ -1,0 +1,183 @@
+Title: No Surprises Act Explained
+URL: https://www.youtube.com/watch?v=NFJaCM_6M_Y
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker. Thank you for watching A Healthcare Z. And today's topic is the No Surprises Act Explained. Now, I've had several of you viewers ask me, hey, Dr. Bricker, will you make a video on the No Surprises Act? And thank you for bringing that to my attention. I thought I had. I have made over 300 healthcare finance videos, and so I thought I had actually done this already. It turns out I had not. So thank you for bringing that to my attention. So the No Surprises Act took effect on January 1st of this year, 2022. And it specifically relates to out of network providers, out of network doctors, out of network hospitals, other out of network providers. Sometimes it's like a surgical assistants that are physicians assistants, et cetera. Now, the reason that it is a quote unquote surprise is that patients did not choose, they did not have a choice in what doctor they saw, let's say in the hospital. And that doctor might have been out of network. And so the patient then gets a surprise out of network bill, even though they were at an in network hospital. So oftentimes the physicians that fall within that category are radiologists, anesthesiologists, and pathologists. And another situation where people don't have a choice that, where they just get gouged by these huge out of network bills, is with air ambulances. So like with these helicopters, if you're in a remote location, and you have a medical emergency, they were charging tens of thousands of dollars. Okay? So these RAPS physicians were charging, and other physicians as well, I don't want to just pick on the radiologists, anesthesiologists, the pathologists. They were charging these super high out of network fees. And the patient's like, well, I didn't choose who read my x-ray or CT scan. And they were getting walloped with this huge bill. So, you know, ER physicians is another example. So it turns out that 20% of ER visits resulted in one of these out of network ER physicians, even though it was an in network hospital, sending one of these surprise out of network bills. And about 9 to 16% of non-emergent hospitalizations also had one of these associated surprise out of network bills. When I was a hospitalist, when I was a hospital-based internal medicine physician, I worked with an infectious disease specialist that we would call in on consult for very complicated infections for our patients. Now, I never asked him if he was in network with anybody's insurance. Like, it never came up as an issue. It turns out, guess what? He was billing surprise bills to the patient. So if you had commercial insurance, and you saw me at that hospital, and it was a huge in-network hospital system, you would get an out-of-network bill from the infectious disease consultant. You couldn't choose which infectious disease consultant I picked. And so as a result, and this was well before 2022, as a result, you would have gotten a surprise bill. And that's especially a problem because when it's out-of-network, there's no insurance contracted rate. So there's no discount. And also, too, it gets applied to your out-of-network benefits. So when you have a health insurance plan, you've got an in-network deductible, an in-network coinsurance, and then you have a completely separate out-of-network deductible and out-of-network coinsurance. So you might have met your in-network deductible, and then if you get one of these surprise medical bills, your in-network deductible doesn't matter. It applies to your out-of-network deductible. So you're starting from scratch when you get one of these bills. Now, the bill, the, no surprise, actually requires two things. One, that the commercial insurance covers it, covers the out-of-network bill like it's in-network. So no longer is it going to go towards your out-of-network deductible, et cetera. Like, it's going to have to be applied to your in-network benefits. So in this case, if you've met your in-network deductible, then it would just be applied to your coinsurance or zero-out-of-pocket costs, what have you. Likewise, the provider cannot, what's referred to as, balance bill the patient. So oftentimes, the insurance company might pay some of the bill to the out-of-network physician, but then the out-of-network physician is like, well, that's not my total reimbursement that I should be getting. And so they would go after the patient for the amount. And every patient, when they go in for medical care, signs something that says that they personally are responsible for payment in full for the medical services. It says that the doctor or the hospital will bill the insurance, but ultimately it is the patient's responsibility to pay. And so they would use that form as leverage against you as a patient to be like, okay, fine, your insurance paid me some money, but it's not all the money I want, so I'm going to balance bill you. And the No Surprises Act then says, no, you can't do that anymore. Now, of course, physicians take issue with this because they say, okay, well, the insurance companies are acting like bullies and they're getting, giving us unfairly low reimbursement rates. So we, as radiologists, anesthesiologists, and pathologists, we're out of network simply because we feel like the value that we provide and what we should be paid is higher than what these insurance companies are willing to offer. Therefore, we are not going to enter into a contract with them for their allowed about negotiated rate because we think we deserve more. Okay, fine. I'm not here to argue whether that is correct or not. I'm just here to say the patient gets caught in the middle, which is why the No Surprises Act was passed in a bipartisan fashion during the Trump administration, and Biden has continued to implement it. Now, the process then requires the insurance carrier and the provider to then negotiate an amount that they would agree upon. And if they can't negotiate an amount they would agree upon, it would then go to IDR, which is an Independent Dispute Resolution Process. It would go to arbitration. Now, the key to the problem of the negotiation and this entire issue of the No Surprises Act is the dollar amount. It's the money. Now, within the No Surprises Act, they outline, if they can't come to a negotiated amount, they outline criteria that should be used to determine how much the insurance company pays the out-of-network doctor or hospital. And here's what they say it is. It's the qualifying payment amount or the QPA. So, the key to all of the No Surprises Act is the QPA. And the QPA that the government says that the insurance company should pay the doctor or hospital is the median in-network rate in the geographic area. So, let's go through some real-world examples. So, I know for a fact there is a hospital in the Dallas-Fort Worth area that has an MRI within the hospital that, oh, by the way, you're like still within the hospital building. Like, you just walk through the doors. You don't feel like you're doing it. It's considered a different facility. And the MRI that is in the hospital, that is in-network, is considered an out-of-network MRI. What a great setup. You just walk down the hall, and all of a sudden, you're out-of-network by walking down the hall. Who knew? Now, the CPT code for an MRI of a lumbar spine is 72148. It's very common. That would be paid. The quote-unquote out-of-network MRI facility within the hospital would then have an out-of-network brick of $4,800. Whereas, the QPA for that MRI would actually be closer to $1,200. One quarter of what they were charging. Okay, let me give you another example. Our family personally had... My wife had an MRI that was in an in-network hospital that had an out-of-network radiologist that subsequently billed her $1,800 for six minutes of work to just read the MRI. I, of course, you know, this was before the No Surprises Act. So, this is back in 2021. So, the No Surprises Act did not exist. I, of course, you know, worked my way up the chain of command. I talked to the manager of the radiology practice. I was like, this is totally unacceptable. I happen to be an internist that works in medical billing, so I kind of understand how this works. And there's no way that $1,800 to read an MRI is acceptable. That's not even to perform the MRI. That's just to read it. And so, and I know for a fact because she got the exact same MRI at the exact same facility the previous year when it was in-network with our insurance. And the allowed amount was $220. So, just because it was out-of-network, they billed us $1,800. So, they gave us the in-network rate at $220. Just because I called. Now, they didn't have to, but they did. Now, because of the No Surprises Act, they would have to give us the QPA, which would be closer to the $220 and not the $1,800. Okay. But, of course, like all new legislation, it's having a legal challenge. So, physician groups, of course, do not like the QPA because what the QPA does is it essentially forces the out-of-network to be in-network. Because all the QPA is is the in-network contracted rate. Like, that's all it is. They're like, okay, you say you're out-of-network, get what? Guess what? You're getting the QPA, which is the in-network rate. So, take it and make yourself happy with it. Well, the Texas Medical Association was not happy with it. And they said, we're going to sue. So, their suit ended up in federal court and the federal judge sided with the Texas Medical Association. And said that the QPA alone could not be used for the decision of what that negotiated amount is. So, as of now, they're not going to apply solely to the QPA. They're going to come up with some sort of other methodology for figuring out what this negotiated rate is. It's unknown. We don't know what it is. But as far as it being the QPA goes, the federal judge, at least as of now, and this literally just happened on February 23rd of 2022. As of now, the federal judge said, look, the QPA is not the only way that you, the insurance company, and the out-of-network doctor and hospital are going to determine what that paid amount is. So, it's no surprise. It's still somewhat of a question mark. So, people are not going to get the bills. Okay, but as far as the behind-the-scenes negotiation, that has not been worked out yet. And that's the point I wanted to make today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:03]  Hello, this is Dr. Eric Bricker.
+[0:03 - 0:05]  Thank you for watching A Healthcare Z.
+[0:05 - 0:09]  And today's topic is the No Surprises Act Explained.
+[0:09 - 0:13]  Now, I've had several of you viewers ask me,
+[0:13 - 0:15]  hey, Dr. Bricker, will you make a video
+[0:15 - 0:17]  on the No Surprises Act?
+[0:17 - 0:19]  And thank you for bringing that to my attention.
+[0:19 - 0:20]  I thought I had.
+[0:20 - 0:24]  I have made over 300 healthcare finance videos,
+[0:24 - 0:26]  and so I thought I had actually done this already.
+[0:26 - 0:27]  It turns out I had not.
+[0:27 - 0:29]  So thank you for bringing that to my attention.
+[0:29 - 0:34]  So the No Surprises Act took effect on January 1st
+[0:34 - 0:36]  of this year, 2022.
+[0:36 - 0:41]  And it specifically relates to out of network providers,
+[0:42 - 0:44]  out of network doctors, out of network hospitals,
+[0:44 - 0:46]  other out of network providers.
+[0:46 - 0:48]  Sometimes it's like a surgical assistants
+[0:48 - 0:50]  that are physicians assistants, et cetera.
+[0:50 - 0:55]  Now, the reason that it is a quote unquote surprise
+[0:55 - 0:57]  is that patients did not choose,
+[0:57 - 1:00]  they did not have a choice in what doctor they saw,
+[1:00 - 1:02]  let's say in the hospital.
+[1:02 - 1:05]  And that doctor might have been out of network.
+[1:05 - 1:09]  And so the patient then gets a surprise out of network bill,
+[1:09 - 1:12]  even though they were at an in network hospital.
+[1:12 - 1:17]  So oftentimes the physicians that fall within that category are radiologists,
+[1:17 - 1:21]  anesthesiologists, and pathologists.
+[1:21 - 1:25]  And another situation where people don't have a choice that,
+[1:25 - 1:28]  where they just get gouged by these huge out of network bills,
+[1:28 - 1:29]  is with air ambulances.
+[1:29 - 1:32]  So like with these helicopters, if you're in a remote location,
+[1:32 - 1:34]  and you have a medical emergency,
+[1:34 - 1:37]  they were charging tens of thousands of dollars.
+[1:37 - 1:38]  Okay?
+[1:38 - 1:42]  So these RAPS physicians were charging,
+[1:42 - 1:43]  and other physicians as well,
+[1:43 - 1:44]  I don't want to just pick on the radiologists,
+[1:44 - 1:45]  anesthesiologists, the pathologists.
+[1:45 - 1:49]  They were charging these super high out of network fees.
+[1:49 - 1:50]  And the patient's like,
+[1:50 - 1:54]  well, I didn't choose who read my x-ray or CT scan.
+[1:54 - 1:57]  And they were getting walloped with this huge bill.
+[1:57 - 2:00]  So, you know, ER physicians is another example.
+[2:00 - 2:06]  So it turns out that 20% of ER visits resulted in one of these out of network ER physicians,
+[2:06 - 2:09]  even though it was an in network hospital,
+[2:09 - 2:11]  sending one of these surprise out of network bills.
+[2:11 - 2:16]  And about 9 to 16% of non-emergent hospitalizations
+[2:16 - 2:22]  also had one of these associated surprise out of network bills.
+[2:22 - 2:26]  When I was a hospitalist, when I was a hospital-based internal medicine physician,
+[2:26 - 2:28]  I worked with an infectious disease specialist
+[2:28 - 2:31]  that we would call in on consult
+[2:31 - 2:34]  for very complicated infections for our patients.
+[2:34 - 2:38]  Now, I never asked him if he was in network with anybody's insurance.
+[2:38 - 2:40]  Like, it never came up as an issue.
+[2:40 - 2:42]  It turns out, guess what?
+[2:42 - 2:45]  He was billing surprise bills to the patient.
+[2:45 - 2:48]  So if you had commercial insurance,
+[2:48 - 2:53]  and you saw me at that hospital, and it was a huge in-network hospital system,
+[2:53 - 2:57]  you would get an out-of-network bill from the infectious disease consultant.
+[2:57 - 3:01]  You couldn't choose which infectious disease consultant I picked.
+[3:01 - 3:05]  And so as a result, and this was well before 2022,
+[3:05 - 3:08]  as a result, you would have gotten a surprise bill.
+[3:08 - 3:10]  And that's especially a problem because when it's out-of-network,
+[3:10 - 3:13]  there's no insurance contracted rate.
+[3:13 - 3:14]  So there's no discount.
+[3:14 - 3:17]  And also, too, it gets applied to your out-of-network benefits.
+[3:17 - 3:20]  So when you have a health insurance plan,
+[3:20 - 3:23]  you've got an in-network deductible, an in-network coinsurance,
+[3:23 - 3:26]  and then you have a completely separate out-of-network deductible
+[3:26 - 3:28]  and out-of-network coinsurance.
+[3:28 - 3:30]  So you might have met your in-network deductible,
+[3:30 - 3:33]  and then if you get one of these surprise medical bills,
+[3:33 - 3:35]  your in-network deductible doesn't matter.
+[3:35 - 3:38]  It applies to your out-of-network deductible.
+[3:38 - 3:41]  So you're starting from scratch when you get one of these bills.
+[3:41 - 3:46]  Now, the bill, the, no surprise, actually requires two things.
+[3:46 - 3:48]  One, that the commercial insurance covers it,
+[3:48 - 3:51]  covers the out-of-network bill like it's in-network.
+[3:51 - 3:55]  So no longer is it going to go towards your out-of-network deductible, et cetera.
+[3:55 - 3:57]  Like, it's going to have to be applied to your in-network benefits.
+[3:57 - 3:59]  So in this case, if you've met your in-network deductible,
+[3:59 - 4:03]  then it would just be applied to your coinsurance or zero-out-of-pocket costs, what have you.
+[4:03 - 4:08]  Likewise, the provider cannot, what's referred to as, balance bill the patient.
+[4:08 - 4:16]  So oftentimes, the insurance company might pay some of the bill to the out-of-network physician,
+[4:16 - 4:18]  but then the out-of-network physician is like,
+[4:18 - 4:21]  well, that's not my total reimbursement that I should be getting.
+[4:21 - 4:23]  And so they would go after the patient for the amount.
+[4:23 - 4:26]  And every patient, when they go in for medical care,
+[4:26 - 4:32]  signs something that says that they personally are responsible for payment in full for the medical services.
+[4:32 - 4:35]  It says that the doctor or the hospital will bill the insurance,
+[4:35 - 4:39]  but ultimately it is the patient's responsibility to pay.
+[4:39 - 4:44]  And so they would use that form as leverage against you as a patient to be like,
+[4:44 - 4:49]  okay, fine, your insurance paid me some money, but it's not all the money I want, so I'm going to balance bill you.
+[4:49 - 4:53]  And the No Surprises Act then says, no, you can't do that anymore.
+[4:53 - 4:57]  Now, of course, physicians take issue with this because they say,
+[4:57 - 5:06]  okay, well, the insurance companies are acting like bullies and they're getting, giving us unfairly low reimbursement rates.
+[5:06 - 5:09]  So we, as radiologists, anesthesiologists, and pathologists,
+[5:09 - 5:19]  we're out of network simply because we feel like the value that we provide and what we should be paid is higher than what these insurance companies are willing to offer.
+[5:19 - 5:28]  Therefore, we are not going to enter into a contract with them for their allowed about negotiated rate because we think we deserve more.
+[5:28 - 5:31]  Okay, fine. I'm not here to argue whether that is correct or not.
+[5:31 - 5:41]  I'm just here to say the patient gets caught in the middle, which is why the No Surprises Act was passed in a bipartisan fashion during the Trump administration,
+[5:42 - 5:45]  and Biden has continued to implement it.
+[5:46 - 5:56]  Now, the process then requires the insurance carrier and the provider to then negotiate an amount that they would agree upon.
+[5:56 - 6:03]  And if they can't negotiate an amount they would agree upon, it would then go to IDR, which is an Independent Dispute Resolution Process.
+[6:03 - 6:05]  It would go to arbitration.
+[6:05 - 6:14]  Now, the key to the problem of the negotiation and this entire issue of the No Surprises Act is the dollar amount.
+[6:14 - 6:16]  It's the money.
+[6:16 - 6:29]  Now, within the No Surprises Act, they outline, if they can't come to a negotiated amount, they outline criteria that should be used to determine how much the insurance company pays the out-of-network doctor or hospital.
+[6:29 - 6:30]  And here's what they say it is.
+[6:31 - 6:34]  It's the qualifying payment amount or the QPA.
+[6:34 - 6:39]  So, the key to all of the No Surprises Act is the QPA.
+[6:39 - 6:52]  And the QPA that the government says that the insurance company should pay the doctor or hospital is the median in-network rate in the geographic area.
+[6:53 - 6:56]  So, let's go through some real-world examples.
+[6:56 - 7:07]  So, I know for a fact there is a hospital in the Dallas-Fort Worth area that has an MRI within the hospital that, oh, by the way, you're like still within the hospital building.
+[7:07 - 7:08]  Like, you just walk through the doors.
+[7:08 - 7:09]  You don't feel like you're doing it.
+[7:09 - 7:12]  It's considered a different facility.
+[7:12 - 7:18]  And the MRI that is in the hospital, that is in-network, is considered an out-of-network MRI.
+[7:19 - 7:20]  What a great setup.
+[7:20 - 7:25]  You just walk down the hall, and all of a sudden, you're out-of-network by walking down the hall.
+[7:25 - 7:26]  Who knew?
+[7:26 - 7:30]  Now, the CPT code for an MRI of a lumbar spine is 72148.
+[7:30 - 7:31]  It's very common.
+[7:31 - 7:33]  That would be paid.
+[7:33 - 7:40]  The quote-unquote out-of-network MRI facility within the hospital would then have an out-of-network brick of $4,800.
+[7:41 - 7:47]  Whereas, the QPA for that MRI would actually be closer to $1,200.
+[7:48 - 7:50]  One quarter of what they were charging.
+[7:51 - 7:52]  Okay, let me give you another example.
+[7:52 - 7:54]  Our family personally had...
+[7:54 - 8:08]  My wife had an MRI that was in an in-network hospital that had an out-of-network radiologist that subsequently billed her $1,800 for six minutes of work to just read the MRI.
+[8:08 - 8:12]  I, of course, you know, this was before the No Surprises Act.
+[8:12 - 8:13]  So, this is back in 2021.
+[8:13 - 8:15]  So, the No Surprises Act did not exist.
+[8:15 - 8:18]  I, of course, you know, worked my way up the chain of command.
+[8:18 - 8:21]  I talked to the manager of the radiology practice.
+[8:21 - 8:22]  I was like, this is totally unacceptable.
+[8:22 - 8:27]  I happen to be an internist that works in medical billing, so I kind of understand how this works.
+[8:27 - 8:32]  And there's no way that $1,800 to read an MRI is acceptable.
+[8:32 - 8:33]  That's not even to perform the MRI.
+[8:33 - 8:35]  That's just to read it.
+[8:35 - 8:44]  And so, and I know for a fact because she got the exact same MRI at the exact same facility the previous year when it was in-network with our insurance.
+[8:44 - 8:46]  And the allowed amount was $220.
+[8:46 - 8:49]  So, just because it was out-of-network, they billed us $1,800.
+[8:49 - 8:51]  So, they gave us the in-network rate at $220.
+[8:51 - 8:52]  Just because I called.
+[8:52 - 8:55]  Now, they didn't have to, but they did.
+[8:55 - 9:01]  Now, because of the No Surprises Act, they would have to give us the QPA, which would be closer to the $220 and not the $1,800.
+[9:01 - 9:02]  Okay.
+[9:02 - 9:07]  But, of course, like all new legislation, it's having a legal challenge.
+[9:07 - 9:14]  So, physician groups, of course, do not like the QPA because what the QPA does is it essentially forces the out-of-network to be in-network.
+[9:14 - 9:17]  Because all the QPA is is the in-network contracted rate.
+[9:18 - 9:18]  Like, that's all it is.
+[9:18 - 9:20]  They're like, okay, you say you're out-of-network, get what?
+[9:20 - 9:21]  Guess what?
+[9:21 - 9:24]  You're getting the QPA, which is the in-network rate.
+[9:24 - 9:27]  So, take it and make yourself happy with it.
+[9:27 - 9:30]  Well, the Texas Medical Association was not happy with it.
+[9:30 - 9:32]  And they said, we're going to sue.
+[9:32 - 9:39]  So, their suit ended up in federal court and the federal judge sided with the Texas Medical Association.
+[9:39 - 9:47]  And said that the QPA alone could not be used for the decision of what that negotiated amount is.
+[9:47 - 9:50]  So, as of now, they're not going to apply solely to the QPA.
+[9:50 - 9:55]  They're going to come up with some sort of other methodology for figuring out what this negotiated rate is.
+[9:55 - 9:56]  It's unknown.
+[9:56 - 9:57]  We don't know what it is.
+[9:57 - 10:06]  But as far as it being the QPA goes, the federal judge, at least as of now, and this literally just happened on February 23rd of 2022.
+[10:06 - 10:18]  As of now, the federal judge said, look, the QPA is not the only way that you, the insurance company, and the out-of-network doctor and hospital are going to determine what that paid amount is.
+[10:18 - 10:20]  So, it's no surprise.
+[10:20 - 10:21]  It's still somewhat of a question mark.
+[10:21 - 10:24]  So, people are not going to get the bills.
+[10:24 - 10:29]  Okay, but as far as the behind-the-scenes negotiation, that has not been worked out yet.
+[10:29 - 10:31]  And that's the point I wanted to make today.
+[10:31 - 10:33]  Thank you for watching A Healthcare Z.

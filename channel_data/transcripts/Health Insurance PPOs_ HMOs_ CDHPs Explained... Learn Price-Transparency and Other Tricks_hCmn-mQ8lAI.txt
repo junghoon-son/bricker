@@ -1,0 +1,544 @@
+Title: Health Insurance PPOs, HMOs, CDHPs Explained... Learn Price-Transparency and Other Tricks
+URL: https://www.youtube.com/watch?v=hCmn-mQ8lAI
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello this is Dr. Eric Bricker and thank you for watching. Today's first session is going to be on health insurance plan designs. Now in plan designs it's important to understand that all insurance policies have three parts when it comes to the consumer. So those three parts are the premium, what you have to pay, and this applies to car insurance or life insurance and health insurance. So all health insurance plans have these three parts. So the first P is the premium, what you got to pay every month. The second P is the payout. Okay, well if you need to file a claim, how is that, how do you get paid back? And that involves the deductible typically and then how the insurance then kicks in. So plan design is really the payout. It's the design of the payout. And then finally we have the fine print, which are all the little details about you have insurance but. Like for auto insurance it's like you have auto insurance but it doesn't cover glass or your tires if you run over a nail. Right? So in another video we'll talk about all the fine print in health insurance policies. But today's video is specifically about the payout, which is the plan design. Okay, so there's sort of a handful of big categories of plan designs. There are PPOs, which are preferred provider organizations. Then there's HMOs, health maintenance organizations. There's POS plans, which is the point of service plans. And then there are CDHPs, which are consumer-directed health plans. And we're going to go through each of them. But the first one we're going to go through is the PPL. Now in a PPL plan, again this is going to be through Blue Cross, United, Cigna, Aetna, the major health insurance companies. They're going to have essentially in-network doctors and hospitals and physical therapists and imaging facilities. And they're going to have out-of-network doctors and hospitals and imaging facilities, etc. Now in the previous video I had talked about how there is a negotiated discount between the health insurance company and the doctor and the hospital, etc. So only those doctors and hospitals that are in-network with the health insurance company have agreed to that discount. And if they're out-of-network, they essentially haven't agreed to that discount at all. They've agreed to zero discount. So the health insurance plan, excuse me, wants to steer you to people, doctors and hospitals, that are in-network. And so they structure your in-network benefits different from your out-of-network benefits. So when you have a health insurance policy, you really have two health insurance policies. You have like an in-network health insurance policy and an out-of-network health insurance policy. So we're going to go through the difference between those two. And they have different parts, right? So first of all there's the deductible, right? The part that you have to pay before your insurance kicks in, right? Let's just use, I'm just using some example numbers here. That deductible might be $1,000. Now in a PPO plan you do have co-pays, which means that when you actually go in for a doctor's office visit, you have to pay a certain amount. And typically it's broken into two categories. There are primary care or PCP co-pays. Primary care physicians are pediatricians, general internal medicine doctors, and family practice doctors. Typically it's about $25. Then there are specialist co-pays, which are all the other specialists, including OBGYNs. So a lot of women consider their OBGYN to be their primary care physician. And OBGYNs themselves consider themselves to be primary care physicians. But for insurance purposes, the vast majority of time it's considered a specialist. Likewise with ear, nose, and throat doctor, or with a surgeon, or with a cardiologist, they're all specialist co-pays. And typically specialist co-pays are twice as much as primary care physician co-pays. Now $25 and $50 is not what the visit actually costs. Like they're going to bill the insurance for like $250. And then the insurance is going to apply, let's say a 50% discount, and then they're going to actually pay the doctor $125. So that $25 that you're paying for the PCP co-pay or the $50, that's not the actual price of the visit. So behind the scenes, the doctor's office is still going to bill the insurance, and the insurance is still going to pay them. But they don't want to charge you the full $125 for a visit, because it's like, oh, I'm not going to go to the doctor if it's so expensive. So basically they're like subsidizing the doctor visits. So the doctor visit only costs $25 instead of $125. Okay, now there's a lot of other services that you can get besides doctor's office visits, right? So you can get lab work done, or you can get an x-ray or a CT scan or an MRI, etc. And so those things don't have co-pays. They have what's called co-insurance. And the co-insurance doesn't kick in until after the deductible. So in other words, you've got to pay the first $1,000. However, once you've met that $1,000, then oftentimes the insurance company will then pay 80% of the bill, and then you have to pay 20% of the bill. So let me give you a very basic example. Let's say you go in for an MRI, and it costs $2,000. Well, you would be, well, they're going to bill the insurance company for $4,000. And then the insurance company is going to say, okay, it's in network, so we're going to discount it to $2,000. So that $2,000 is what the deductible and the co-insurance is applied to. Okay, so fine. So that first $1,000 of that $2,000 MRI, you're going to be responsible for. And then the next $1,000 of that $2,000 MRI is going to be applied to your co-insurance. So the insurance company is going to pay for $800 of that $1,000, and you're going to have to pay for $200 of that $1,000. But you also had to pay for the first $1,000 in the deductible. So your out-of-pocket cost for that MRI would be the $1,000 plus the $200, so $1,200. Now, if you go in for a second MRI, you don't have to pay the first $1,000 again, because that's a calendar year deductible. So it resets every calendar year. So let's say you have to go in a month later for another MRI. Well, in that case, for the $2,000 MRI, the insurance company is going to pay 80% or $1,600, and you're only going to have to pay 20% or $400 of that $200 MRI. Now, all that adds up, and then by the time you add up the deductible plus all these co-insurance expenses, then you get to an out-of-pocket max. Because the insurance company is like, well, you don't have to pay these out-of-pocket costs for forever. When you eventually get to a point, then the insurance is going to cover everything after that. And that's referred to as the out-of-pocket max. So in this case, the out-of-pocket max is $5,000. Now, it's important to know that your co-pays do not apply to your out-of-pocket max. So let's say you have a very unfortunate year, and you need to go to the doctor and the hospital a whole bunch, and you meet your out-of-pocket max for $5,000. And you meet it by June, and you've got a calendar year deductible, so it's not going to reset until January 1st of the next year. So then you go into the doctor's office in July, and you're like, well, that'll be a $25 copay. And you're like, but wait a minute, I met my out-of-pocket max. And they'll be like, uh-uh-uh, your co-pays are still owed no matter what, even if you've met your out-of-pocket max. And the insurance company does that because they don't want people, once they hit their out-of-pocket max, thinking that all their healthcare is free for the rest of the year. Because then they're like, oh, people are just going to go crazy and go to the doctor all the time if it's free. So that's why they keep the co-pays in place there. Now, all of this is just for one person, for an individual. Now, if you have an employee plus spouse or employee plus kids, or employee plus spouse and kids, so employee plus family, then all of this for the deductible and the out-of-pocket max, it gets doubled. So all this just applies to one person. So let's say then you're married and your spouse then has like these hexane 2 MRIs, etc. Then your own spouse would have the individual $1,000 deductible that they would have to meet, and then their co-insurance would kick in. So let's say that two people then meet the deductible and the out-of-pocket max of $5,000. Then when a third person in that family, let's say they got a kid, when a third person goes in, then they wouldn't have to pay anything other than the co-pays because they've met two individual deductibles and two individual out-of-pocket maxes, okay? So that's how it's structured. It's not that one person reaches $5,000, or it's not like one person in the family can reach $10,000. Let's say you had one person in the family who was super sick and they hit $10,000 of out-of-pocket costs for the year. And you're like, oh, well our family out-of-pocket max is $10,000, right? So no one else in the family has to pay anything else, right? No, that's not how it works. A family deductible is two individual deductibles. Two individual people have to reach the $1,000 deductible, and two individual people have to reach the $5,000 out-of-pocket max. So that's called an embedded deductible. It confuses people constantly, but it's a nuance that's important to understand, okay? Now, that's wonderful for all this in-network stuff. You have a completely separate coverage for your out-of-network doctors. So let's say you meet your out-of-pocket max, yada, yada, yada, but then you go to an out-of-network doctor or a hospital for a service. It starts all over again. So, and this time it's not discounted. So let's say you need to get a $4,000 MRI out of an out-of-network MRI facility. There is no discount down to $2,000. And that full $4,000, you're going to have a $2,000 deductible for that. Okay. And then the coinsurance isn't as good either. It's only 60% covered by the plan, 40% for out-of-the-pocket of the individual. So in the case of that $4,000 out-of-network MRI, you're going to have to pay the first $2,000. And then the remaining $2,000 is going to be split up 60% covered by the plan, 40% by the home insurance company. So, $2,000, 10% of $2,000 would be $200. So, 40% would be $800. So you owe $800 of the $4,000, excuse me, $800 of the $2,000 for the coinsurance. So you owe $2,000 for the deductible plus $800 for the coinsurance. So you would have to pay $2,800 for the MRI if it's out-of-network, even though you met all your in-network stuff. And that whole process of keeping track of how much you owe and how much you've paid and how much the insurance is going to pay, that is referred to as the accumulator. So the software within the insurance company that keeps track of it for everybody, that's referred to as the accumulators. And then the accumulators then reset every plan you, which is typically January 1st. So after January 1, it's going to reset. So, if your head's not spinning yet, we're just getting warmed up. Next up, point of service plans, HMOs and CDHPs. Thank you for watching. Hello again. Now we're going to go over point of service plans or POS plans for short. Now they're very similar to the PPO plans. They are, one big difference is they tend to have a lower premium. They tend to be less expensive than a PPO plan and you'll soon find out why. So you can see there are also in-network and out-of-network benefits just like a PPO plan. You've got a deductible, you've got co-pays, you've got co-insurance, you've got an out-of-pocket max, the family embedded deductible being two times or two individual deductibles, same dynamic. You look over here for out-of-network benefits and it's very simple. There is no coverage. You don't have out-of-network benefits except for real emergencies. So obviously if you're like unconscious and the ambulance takes you to an out-of-network hospital, you had no say, you have no control. So they're not going to be like, no, you don't have any insurance. So that's still going to be covered in a network rate. I put real emergencies because if you, the patient or the member, think it's an emergency, that's not what matters. What matters is if the insurance company thinks it's a real emergency. So a person might have like a rash and go to the emergency room for an out-of-network ER because you're like on vacation and you like didn't even know that it was an ER. You didn't know if it was out-of-network and you're like this rash looks really bad. It's an emergency. And you go and the insurance company is like, okay, we'll file, the hospital is like, okay, we'll file a claim, yada, yada, yada. And like the insurance company is going to deny that claim. And you're going to be responsible for all of the cost of that hospital stay or that ER stay for that rash because you have no coverage if you go to an out-of-network doctor or hospital or any facility unless it is a quote-to-quote real emergency. So that's point of service plans. Next we're moving on to HMOs. All right. Welcome back. Now we're going to talk about health maintenance organization plan designs or HMO plan designs. Now the huge difference between PPO plans, POS plans and HMO plans is HMO plans have a PCP gatekeeper that the patient must go to first before receiving any other medical services. And then that primary care physician has to make a referral to a specific specialist, like to a specific cardiologist, like Dr. Jones or Dr. Stevens, and to a specific physical therapist or to a specific hospital or to a specific imaging center. So you have to get permission and you're told exactly who you're going to see. Dermatologist. You don't get your choice in dermatologist. You're going to see dermatologist X, okay? Again, for specialists, tests, procedures. If you just, I mean you can just still go to the dermatologist, but if you don't have the referral from your primary care physician, the dermatologist is like, oh, you've got Blue Cross HMO and they bill your Blue Cross HMO. Blue Cross is going to look, and the PCP files that referral with the insurance company. So basically the insurance company like knows that it's coming. And so if you just go to the dermatologist on your own and the PCP never filed a referral because you never saw the PCP first and you go to that dermatologist, they'll bill your insurance company, and then we'll get a denial that says that you didn't get a referral, therefore you don't have insurance coverage for that visit. And so then the dermatologist is then going to bill you because it got denied from the health insurance company. So that PCP gatekeeper, that keeps costs down because people cannot then self-refer. So in a PPO and a POS plan, people can just self-refer. You want to go to a dermatologist? Go to a dermatologist. Choose any dermatologist you want. You want to go to a cardiologist? Go to a cardiologist. Choose any cardiologist you want. Gatekeeper, PCP, you've got to get permission first and then you're told specifically who to go to. Now this is by far done mostly in California with the Kaiser Health System. It's done somewhat in New England with the Harvard Pilgrim Health System. And then Kaiser has some pockets in Denver, Atlanta, and Washington, D.C. that also have HMOs. So there are pockets of the country, with California being the biggest one, that have HMOs. But for a lot of the other parts of the country, HMOs are very small because people don't like all that rules and all that restriction. They want more freedom. So now when you do get the referrals and the care itself, it's actually much less expensive. You're essentially giving up control. You're ceding control to the primary care doc and to the insurance company. And in exchange for ceding that control, you get a much lower out-of-pocket cost. So these are called co-pay plans. So you might still have a deductible. Some HMO plans have zero to out-of-pocket. You might have a deductible for some services. But then you have like co-pays for everything, right? And the co-pays tend to be pretty cheap. Like for a primary care visit, it might only be $5. For a specialist visit, it might only be $10. And if you have to go to the ER, it's only a $50 co-pay. If you have to be hospitalized, it's only a $200 co-pay. Like having a baby, like labor or delivery, that might only be like $200. And then for like labs and imaging, that might also be like only $25. So you know in advance what it's going to cost you. There's no like guessing, like what's the cost going to be. There's no variability. So these plans are much more straightforward. But again, they're much more restrictive in terms of choice. And again, you can go to an out-of-network, like if you're on vacation or whatever, you can go to an out-of-network hospital or doctor. But you're going to have no coverage. Just like a POS plan, you're going to have no coverage. Unless it's a real emergency. So again, like you're like a horrible car accident. You're unconscious or you're bleeding through sleep. And the ambulance takes you to an out-of-network hospital or ER. Then your HMO is still going to cover it. But again, the insurance company gets to decide if it's a real emergency or not. Like if you think, if you think your rash is an emergency, like the insurance company is probably not going to think your rash is an emergency. And then you're not going to have any insurance coverage and you're going to have to pay for all that. So that's a basic overview of health maintenance organizations. Thank you for watching. Hello. And today we're going to talk about the final plan design, which is the consumer directed health plan or the CDHP for short. Now in these plans, they have an extra special account. And there's two types of those extra special accounts. One is called an HSA or a health savings account. And the other is called a health reimbursement or an HRA account. Now, again, there's in-network and out-of-network, just like in your PPO, right? That doesn't change. Now notice here that the deductible is much higher. It's like $2,500. And there are no co-pays. That's why it's called consumer directed because they found that people weren't paying attention to the price of anything when all they were doing was paying $25 co-pays regardless of where they were at. So they're like, well, we want people to actually pay attention to what it costs. So we're going to get rid of the co-pays and you, the employee and your family members, you're responsible for the money up front for the first $2,500. And after you reach that $2,500, you still have to pay the 20% coinsurance and the health insurance is going to kick in and pay 80% of the coinsurance. And you're going to have to pay that 20% coinsurance and the deductible until all of that adds up to a $5,000 out-of-pocket max. And then again, that's just for one person. So if it's an employee and a spouse, you've got a whole separate one for that other person. Now, this is where the health savings account comes in. So this is where the company says, but we're going to give you money on this special debit card. And this card literally is attached to a bank account that is in your name. And it says Visa or MasterCard on it so you can swipe it wherever you want. But it can only be used for medical purposes. And the company will then put money into that account. And oftentimes they'll put in like $800. So these consumer-driven health plans, they generally work out really well for people that tend to be healthier. Because that $800 you get to keep. If you don't use any health care services for the year, that money is in your account and you keep it. And then the next year, they give you another $800. And the year after that, they give you another $800. So the healthier you are and the less health care services you use, you just keep that extra money. And you can keep it. And actually some people even use it as a savings vehicle. And over time, you can even, and you can even invest that money if you want in the stock market. I mean it's up to you if you want to take that risk. But then what you can do is you can use those HSA dollars in your retirement. So there's actually out-of-pocket costs associated with Medicare. So when you're on Medicare, the out-of-pocket costs associated with Medicare can actually be like thousands or tens of thousands of dollars. So you can use those saved up HSA dollars to actually pay for health care in your retirement. It's tax free. So you can use that HSA money because literally it says Visa or MasterCard on the debit card. You can use it for non-health care services. If you want to use it on Amazon or to buy shoes, you can do that. But there's a penalty. So then you have to pay a tax penalty if you use it for non-health care services. Now, if you get fired or you quit, that money goes with you. That money is yours to keep. Now, in the health reimbursement arrangement, some companies are like, well if the person quits or we fire them, we don't want them to take the money with them. So what they do is instead is they give people a debit card, but it's not in the employee's own separate account. It's in the company's account. And so if the employee gets fired or quit, they don't take the money with them. The money stays with the employer. And again, that HRA money typically rolls over from year to year. So if they put $800 in your account every year, then let's say five years down the road you're with the same company. Five times 800 is $4,000. Well then you would have $4,000 in your HRA that you could use towards your deductible and your coinsurance, etc. expenses. So it's still good, but you can't use it as a savings vehicle for retirement. And you can't use it for shoes. And you can't use it if you go, if you get fired or quit because the money goes away. And again, you also have out of network benefits just like a PPO plan. Again, it's typically it's a higher deductible. The coinsurance is not as good. It's like 60-40. It's an out of network, excuse me, out of pocket max. As much higher as like $10,000. And again, if you meet all this stuff and then you go to an out of network doctor, you still got to start over on the accumulator on the out of network side. And you can still use your HSA dollars or your HRA dollars for this out of network stuff. But your benefits are just set up differently. So now overall, PPO plans are still the most common plans in America. It's upwards of 50% or 60% of plans are those types of plans. And then about 30% of plans, 33% of plans are these consumer-directed health plans. And then about 20% are, or 15 to 20% are HMO plans. And then a very small, maybe 5% of plans are those POS plans. So that's the general breakdown of plan designs. Thank you for watching. Hello. Now we are going to talk about price transparency. And this relates to plan design specifically around those CDHPs, those consumer-directed health plans. Because when the co-pays go away, then we need to remember what we learned about billing. So there are the billed charges that the doctor of the hospital submits to the insurance company. The majority of them are in-network, right? So it's going to be an in-network doctor hospital. Then the insurance company applies that discount. And after they apply the discount, then you get the allowed amount. And that allowed amount is the quote-unquote true price. So again, with that MRI example, they might have billed charges of $4,000. They give them a $2,000 discount. And the final allowed amount is $2,000. So that allowed amount is then applied to your deductible, your coinsurance, your out-of-pocket max. For those consumer-directed health plans, right? Because there is no co-pay. Now, the big revelation from 10, 15 years ago was that those in-network allowed amounts are very different depending on where you go locally. They vary dramatically for hospitals that are in the same town across the street from each other or doctor's offices that are across the street from each other or imaging centers that are across the street from each other. So there's highly variable. So it's not like if you go and network the price is all the same. It's usually different. Let me give you some examples. So let's just say this is, again, same insurance company, Blue Cross United Signet. So let's just say it's one insurance company, Blue Cross. So you're saying, okay, I've got to go on MRI. And that Blue Cross allowed amount at Hospital A might be $2,000. And across the street or across town at Hospital B, it might be $500. Look at that. 4X difference between those two places. So you're like, okay, well, I'm just going to go get all my services at Hospital B because that place is cheaper. But it depends on the service that you're getting. So for like an orthopedic surgery, let's say it's like an arthroscopic knee surgery. You've got partial tear of your ACL. Or maybe it's a spine surgery. You've got chronic low back pain. And you're thinking about going in and getting a herniated disc operated on. Well, then that orthopedic surgery at Hospital A, the allowed amount might only be $4,000. And at Hospital B, it's $16,000. Again, it's four times difference. But this time, Hospital B is four times more expensive than Hospital A. So that's the whole deal with price transparency is that the doctors in the hospitals, they used to keep all those prices secret. Literally, until January 1st of 2021, I mean, there were ways to get to those prices. That's what my prior company, Compass, actually did. But now it's required by law for hospitals to post these prices, which they previously kept secret. So all the patients in America were like complaining. It's like, okay, fine, I've got this consumer director of health plan with this HSA card. And you're just going to swipe it at the hospital. Who knows what in the world that's going to cost me? And I'd like to know in advance what it's going to cost me and what my options are. So the Hospital A and Hospital B, by the time you mix and match all of these different services for labor and delivery and imaging and orthopedic surgery and everything else they do at a hospital, you end up getting an average discount of 50% in Hospital A and 50% in Hospital B. So the insurance company would go back to all the employers and the employees and look, look, in this town of Chicago or Atlanta or wherever you are, our average discount is 50%. And that would be true in average. But they didn't tell you that it was filled with these 4X variations in particular allowed amounts depending upon which hospital you were going to and which service you had. So if you have one of these consumer-directed health plans or really even if you have a PPO plan for any service where there's, because if you have a $25 copay, none of this matters. You just pay $25 copay, who cares? But for all those expenses that fall to deductible and coinsurance and out-of-pocket max, even on a PPO plan, then this information is hugely important. Now, you can't do this in emergencies, right? You can't tell the ambulance driver, hey, let's shop around for what ER I should go to, right? It's only for shoppable services. And shoppable services need time. They need to be scheduled. So it's all your elective stuff. Well, guess what? A lot of healthcare is totally elective and it's totally shoppable. So what are kind of the prime areas for that? A number one is imaging. MRIs, CT scans, plain x-rays, and in general, independent imaging facilities are much less expensive than hospitals. But you've got to be careful because if the imaging facility is owned by a hospital, then they're just going to charge like the hospital. And it's super tricky because a lot of times they don't even say on the front of the building that they're owned by the hospital. They're just going to be digging around in their website to see if they're actually owned by the hospital or not. Okay? Next up, lab tests. So you can get labs drawn at the doctor's office and you've got to be like, okay, where are you sending this to? Typically, they send it to Quest or LabCorp. Okay? So those are typically not too expensive. But there's other independent labs where you literally just go in and they draw your blood. You've got to get a requisite form from your doctor. But they go in and you draw your blood. It might be less expensive. You can get your blood drawn at the hospital. They might, like our pediatricians down the street from the hospital, who are like, oh, you need labs done? Just go to the hospital. And you just walk into the hospital and they draw your blood. You don't have to be admitted or anything. Guess what? Getting labs done at the hospital is super expensive. Again, it's like four or five times more expensive than if you got it done in an independent lab. Okay. Next up, for procedures. The classic one there is like colonoscopies or what's called an EGD, an upper endoscopy, looking in your stomach and esophagus. A lot of times for chronic heartburn. Where the facility fee at like an independent endoscopy center or at an ambulatory surgery center is typically much less expensive than if you get this done in a hospital. And typically the gastroenterologist that does this, they like will be at the hospital on Monday and then the endoscopy center on Tuesday. And they'll just be like, well, when are you available? Monday or Tuesday? And you're like, Monday. And there, the endoscopy is like $4,000. And if you just said Tuesday, it would have only been $800 at the endoscopy center. So, now for colonoscopies, it's like, okay, well, it's screening for colon cancer. It's covered at 100%. You don't have any autopodic costs anyway. It was like, who cares? But, if you've got a colonoscopy that's not for screening, it's for some other reason, like colon, you know, you have colon polyps or you have problems with bleeding or whatever, then you're totally going to have to pay for that difference. Likewise, EGDs are never screening. That's always going to fall to deductible co-insurance. So, that's another thing that's scheduled, right? It's very rare that you have emergencies for these things. And the other area, again, is for orthopedic surgery, like I mentioned over here. Again, for your knee surgery, for your major joint replacements like knee and hip replacements, for spine surgery. Those are, I mean, with the exception of fractures, the vast majority of orthopedic surgeries are elected in your schedule. And again, if you already have a doctor, typically that doctor might operate at this hospital on Monday, this other hospital on Tuesday, and this ambulatory surgery center, this place on Wednesday. And so, you might not want to change doctors, you might want to stick with Dr. Smith, but be like, Hey, Dr. Smith, where are the three places you go to? And then you can figure out what the costs are at each one of those three hospitals. So, just know that those prices are hugely variable depending upon where you go, even in network. And if you have a PPO plan design or a POS plan design or a CDHP plan design, then that price difference is oftentimes going to be borne by you, the plan member, and your family. And that's my point for today. Thank you for watching. Alright, in our final segment on plan designs, we are going to discuss reference-based pricing, or what is referred to as RBP for short. Now, this is a newer concept that we really only started about ten years ago, and it's still the vast minority of health plans out there, but a growing number of employers are starting to do a reference-based pricing, RBP. Now, it's only for self-funded plans, it's not for fully insured, and it does not, one of the main differences between the PPO and the CDHP and the POS plans, is there is no network for facilities. So, you have health insurance with no network. So, essentially every single doctor, every single hospital out there has had a network. Now, sometimes they'll have a network for the doctor's office visits, because there's just so many of them, and it just makes it a lot easier to actually have a network. For the doctor's office visits, you can have like in-network and out-network doctors, but for the facilities, essentially everything's out of network. So, they just say, look, you can go to whatever hospital or facility you want. Now, you cannot get these plans through Blue Cross United, Cigna, Aetna. They do not offer these. You have to go through one of these third-party administrators, again, for self-funded plans only, and there are TPAs that offer reference-based pricing plans. So, you've got to use a TPA. So, never an ASO. So, ASO, remember, is administrative services only through Blue Cross United, Cigna, Aetna. So, you have to go through a TPA like GPA here in Dallas. Okay. Now, it's called reference-based pricing because they're like, okay, well, there's no network. So, what happens is that the TPA says, okay, well, we're going to use Medicare reimbursement as a reference, and we're going to pay somewhere between 150% and 250% of what Medicare pays. And the employer can choose. If they want to be on the more, sort of, the cheaper end, they say, well, we only want to pay 1.5 times, or 150% Medicare. Or if they want to be on the more generous side, they say, okay, we're going to pay 250% of Medicare. So, a lot of them may have to be in about 200% of Medicare on average. So, this is what, let's use a knee surgery as an example of how this would work. So, you go in, you see the orthopedist, he's like, hey, we need to do some surgery on your cartilage, or maybe we need to repair your ACL, et cetera. So, you've got to have this knee surgery. So, if you had your typical PPO network, then, you know, bill charges from the hospital or the ambulatory surgery center might be $20,000, and then the insurance company applies at this county, and gets it to be allowed amount of $10,000. And that would be, then, applied to your deductible and your coinsurance, et cetera, however your plan is set up. Now, Medicare, let's say it's a person over the age of 65. Let's say Medicare. Well, the hospital would still bill the person $20,000, but because Medicare is written by the government, the government doesn't negotiate with the hospital. Medicare doesn't negotiate with the hospital. Medicare just says, look, for that surgery, we're going to pay you $2,000, and you're going to like it, because we're the government, and these people are over 65. And if you don't want to take the $2,000 for Medicare, then you get nothing. So, guess what happens? The hospitals say, okay, Medicare, we'll take $2,000. So, look at that. The allowed amount, the discount that the insurance company negotiated is still five times higher than what the government negotiated. Government didn't negotiate at all. It just dictated it. Okay. So, in reference-based pricing, the argument the employers is, is that, look, the health insurance companies are not getting us a very good deal if we still have to pay five times what Medicare is paying, even after our discount. Like, so we want a better deal. So, instead, let's say it's a 200% RDP plan. So, the hospital is still going to bill the TPA for $20,000 for that knee surgery, and the hospital is going to, or the TPA is going to look at the fee schedule for Medicare for that particular knee surgery, and they're going to say, you know what, Medicare reimburses at $2,000, and this is a 200% RDP plan. So, we're just going to take that $2,000, multiply it by two, and we're just going to pay the hospital $4,000. And we're going to say, hey, hospital, take it or leave it. Believe it or not, a fair number of hospitals that are actually like, you know what, it's not as good as the $10,000, but it's something better than the $2,000, so we'll take it. And then that $4,000, again, still gets applied to deductible, coinsurance, however the plan is set up for the individual, but you can see it saves a lot of money. It saves them $6,000 between the $10,000 and the $4,000 on that particular knee surgery. Now, not all hospitals are okay with this. Some hospitals are like, look, if you don't have insurance, excuse me, if you don't have a network, and we bill you $20,000, guess what? You owe us the full $20,000, because you don't have a network. And if you pay us $4,000, that's wonderful. We'll keep the $4,000, but you still owe us $16,000. And the TPA says, oh, no, we don't. And so then the hospital, anytime anybody goes into the doctor's office or the hospital, everybody signs a form that says you, the patient, are ultimately responsible for the payment of the bill. They'll bill your insurance, but if the insurance company doesn't pay, like, you sign something that says that you're going to pay. And so what they do is they call it a balanced bill, which is they take that $16,000 that the TPA didn't pay them, and they send you, the patient, a bill for $16,000. Or if it's an elective surgery, and if the hospital's really organized, not all hospitals are very organized, but if the hospital's really organized, they'll check your insurance before you do the procedure. So they'll check your insurance and be like, oh, you don't have a network, and we're going to bill you $20,000. And they'll check your deductible and they'll check your co-insurance, and they'll be like, okay, well, it's $20,000 based upon your deductible and your co-insurance. This is going to cost you $6,000 out of pocket. You need to pay us that $6,000 now. Otherwise, we're not going to schedule the surgery. So there are some people that can't even get their surgeries scheduled because the hospital won't schedule it until they get the patient's out-of-pocket cost first. So in order to make reference-based pricing plans work, basically the patients, typically the TPA hires a navigation service. Actually, Compass used to help out people like this. And what you do is you have to find hospitals that aren't going to balance bill and don't refuse to schedule. So you've got to do a little searching to find these places that will actually accept the $4,000 as payment in full. But it can be done. So it ends up saving a ton of money. It can be very disconcerting and troublesome for the employees when they get a balance bill for $16,000. As you can imagine, that does not go over well. But I wanted to make you aware of reference-based pricing or RDP. Thank you for watching.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:10]  Hello this is Dr. Eric Bricker and thank you for watching. Today's first session is going to be on health insurance plan designs.
+[0:10 - 0:19]  Now in plan designs it's important to understand that all insurance policies have three parts when it comes to the consumer.
+[0:19 - 0:26]  So those three parts are the premium, what you have to pay, and this applies to car insurance or life insurance and health insurance.
+[0:26 - 0:31]  So all health insurance plans have these three parts. So the first P is the premium, what you got to pay every month.
+[0:31 - 0:38]  The second P is the payout. Okay, well if you need to file a claim, how is that, how do you get paid back?
+[0:38 - 0:44]  And that involves the deductible typically and then how the insurance then kicks in.
+[0:44 - 0:49]  So plan design is really the payout. It's the design of the payout.
+[0:49 - 0:55]  And then finally we have the fine print, which are all the little details about you have insurance but.
+[0:55 - 1:02]  Like for auto insurance it's like you have auto insurance but it doesn't cover glass or your tires if you run over a nail.
+[1:02 - 1:07]  Right? So in another video we'll talk about all the fine print in health insurance policies.
+[1:07 - 1:11]  But today's video is specifically about the payout, which is the plan design.
+[1:11 - 1:16]  Okay, so there's sort of a handful of big categories of plan designs.
+[1:16 - 1:20]  There are PPOs, which are preferred provider organizations.
+[1:20 - 1:23]  Then there's HMOs, health maintenance organizations.
+[1:23 - 1:26]  There's POS plans, which is the point of service plans.
+[1:26 - 1:29]  And then there are CDHPs, which are consumer-directed health plans.
+[1:29 - 1:30]  And we're going to go through each of them.
+[1:30 - 1:33]  But the first one we're going to go through is the PPL.
+[1:33 - 1:39]  Now in a PPL plan, again this is going to be through Blue Cross, United, Cigna, Aetna, the major health insurance companies.
+[1:39 - 1:45]  They're going to have essentially in-network doctors and hospitals and physical therapists and imaging facilities.
+[1:45 - 1:50]  And they're going to have out-of-network doctors and hospitals and imaging facilities, etc.
+[1:50 - 1:59]  Now in the previous video I had talked about how there is a negotiated discount between the health insurance company and the doctor and the hospital, etc.
+[1:59 - 2:06]  So only those doctors and hospitals that are in-network with the health insurance company have agreed to that discount.
+[2:06 - 2:10]  And if they're out-of-network, they essentially haven't agreed to that discount at all.
+[2:10 - 2:11]  They've agreed to zero discount.
+[2:11 - 2:19]  So the health insurance plan, excuse me, wants to steer you to people, doctors and hospitals, that are in-network.
+[2:19 - 2:24]  And so they structure your in-network benefits different from your out-of-network benefits.
+[2:24 - 2:28]  So when you have a health insurance policy, you really have two health insurance policies.
+[2:28 - 2:32]  You have like an in-network health insurance policy and an out-of-network health insurance policy.
+[2:32 - 2:34]  So we're going to go through the difference between those two.
+[2:34 - 2:35]  And they have different parts, right?
+[2:35 - 2:36]  So first of all there's the deductible, right?
+[2:36 - 2:39]  The part that you have to pay before your insurance kicks in, right?
+[2:39 - 2:42]  Let's just use, I'm just using some example numbers here.
+[2:42 - 2:44]  That deductible might be $1,000.
+[2:44 - 2:51]  Now in a PPO plan you do have co-pays, which means that when you actually go in for a doctor's office visit, you have to pay a certain amount.
+[2:51 - 2:53]  And typically it's broken into two categories.
+[2:53 - 2:56]  There are primary care or PCP co-pays.
+[2:56 - 3:01]  Primary care physicians are pediatricians, general internal medicine doctors, and family practice doctors.
+[3:01 - 3:03]  Typically it's about $25.
+[3:03 - 3:07]  Then there are specialist co-pays, which are all the other specialists, including OBGYNs.
+[3:07 - 3:11]  So a lot of women consider their OBGYN to be their primary care physician.
+[3:11 - 3:14]  And OBGYNs themselves consider themselves to be primary care physicians.
+[3:14 - 3:17]  But for insurance purposes, the vast majority of time it's considered a specialist.
+[3:17 - 3:23]  Likewise with ear, nose, and throat doctor, or with a surgeon, or with a cardiologist, they're all specialist co-pays.
+[3:23 - 3:27]  And typically specialist co-pays are twice as much as primary care physician co-pays.
+[3:27 - 3:31]  Now $25 and $50 is not what the visit actually costs.
+[3:31 - 3:35]  Like they're going to bill the insurance for like $250.
+[3:35 - 3:43]  And then the insurance is going to apply, let's say a 50% discount, and then they're going to actually pay the doctor $125.
+[3:43 - 3:49]  So that $25 that you're paying for the PCP co-pay or the $50, that's not the actual price of the visit.
+[3:49 - 3:55]  So behind the scenes, the doctor's office is still going to bill the insurance, and the insurance is still going to pay them.
+[3:55 - 4:03]  But they don't want to charge you the full $125 for a visit, because it's like, oh, I'm not going to go to the doctor if it's so expensive.
+[4:03 - 4:05]  So basically they're like subsidizing the doctor visits.
+[4:05 - 4:09]  So the doctor visit only costs $25 instead of $125.
+[4:09 - 4:14]  Okay, now there's a lot of other services that you can get besides doctor's office visits, right?
+[4:14 - 4:20]  So you can get lab work done, or you can get an x-ray or a CT scan or an MRI, etc.
+[4:20 - 4:22]  And so those things don't have co-pays.
+[4:22 - 4:24]  They have what's called co-insurance.
+[4:24 - 4:27]  And the co-insurance doesn't kick in until after the deductible.
+[4:27 - 4:31]  So in other words, you've got to pay the first $1,000.
+[4:31 - 4:39]  However, once you've met that $1,000, then oftentimes the insurance company will then pay 80% of the bill,
+[4:39 - 4:42]  and then you have to pay 20% of the bill.
+[4:42 - 4:44]  So let me give you a very basic example.
+[4:44 - 4:49]  Let's say you go in for an MRI, and it costs $2,000.
+[4:49 - 4:53]  Well, you would be, well, they're going to bill the insurance company for $4,000.
+[4:53 - 4:57]  And then the insurance company is going to say, okay, it's in network, so we're going to discount it to $2,000.
+[4:57 - 5:01]  So that $2,000 is what the deductible and the co-insurance is applied to.
+[5:01 - 5:02]  Okay, so fine.
+[5:02 - 5:07]  So that first $1,000 of that $2,000 MRI, you're going to be responsible for.
+[5:07 - 5:14]  And then the next $1,000 of that $2,000 MRI is going to be applied to your co-insurance.
+[5:14 - 5:21]  So the insurance company is going to pay for $800 of that $1,000, and you're going to have to pay for $200 of that $1,000.
+[5:21 - 5:24]  But you also had to pay for the first $1,000 in the deductible.
+[5:24 - 5:31]  So your out-of-pocket cost for that MRI would be the $1,000 plus the $200, so $1,200.
+[5:31 - 5:39]  Now, if you go in for a second MRI, you don't have to pay the first $1,000 again, because that's a calendar year deductible.
+[5:39 - 5:40]  So it resets every calendar year.
+[5:40 - 5:43]  So let's say you have to go in a month later for another MRI.
+[5:43 - 5:54]  Well, in that case, for the $2,000 MRI, the insurance company is going to pay 80% or $1,600, and you're only going to have to pay 20% or $400 of that $200 MRI.
+[5:54 - 6:02]  Now, all that adds up, and then by the time you add up the deductible plus all these co-insurance expenses, then you get to an out-of-pocket max.
+[6:02 - 6:05]  Because the insurance company is like, well, you don't have to pay these out-of-pocket costs for forever.
+[6:05 - 6:10]  When you eventually get to a point, then the insurance is going to cover everything after that.
+[6:10 - 6:12]  And that's referred to as the out-of-pocket max.
+[6:12 - 6:15]  So in this case, the out-of-pocket max is $5,000.
+[6:15 - 6:21]  Now, it's important to know that your co-pays do not apply to your out-of-pocket max.
+[6:21 - 6:28]  So let's say you have a very unfortunate year, and you need to go to the doctor and the hospital a whole bunch, and you meet your out-of-pocket max for $5,000.
+[6:28 - 6:36]  And you meet it by June, and you've got a calendar year deductible, so it's not going to reset until January 1st of the next year.
+[6:36 - 6:40]  So then you go into the doctor's office in July, and you're like, well, that'll be a $25 copay.
+[6:40 - 6:43]  And you're like, but wait a minute, I met my out-of-pocket max.
+[6:43 - 6:51]  And they'll be like, uh-uh-uh, your co-pays are still owed no matter what, even if you've met your out-of-pocket max.
+[6:51 - 6:55]  And the insurance company does that because they don't want people, once they hit their out-of-pocket max,
+[6:55 - 6:58]  thinking that all their healthcare is free for the rest of the year.
+[6:58 - 7:02]  Because then they're like, oh, people are just going to go crazy and go to the doctor all the time if it's free.
+[7:02 - 7:05]  So that's why they keep the co-pays in place there.
+[7:05 - 7:11]  Now, all of this is just for one person, for an individual.
+[7:11 - 7:19]  Now, if you have an employee plus spouse or employee plus kids, or employee plus spouse and kids, so employee plus family,
+[7:19 - 7:26]  then all of this for the deductible and the out-of-pocket max, it gets doubled.
+[7:26 - 7:28]  So all this just applies to one person.
+[7:28 - 7:36]  So let's say then you're married and your spouse then has like these hexane 2 MRIs, etc.
+[7:36 - 7:42]  Then your own spouse would have the individual $1,000 deductible that they would have to meet,
+[7:42 - 7:44]  and then their co-insurance would kick in.
+[7:44 - 7:54]  So let's say that two people then meet the deductible and the out-of-pocket max of $5,000.
+[7:54 - 8:00]  Then when a third person in that family, let's say they got a kid, when a third person goes in,
+[8:00 - 8:05]  then they wouldn't have to pay anything other than the co-pays because they've met two individual deductibles
+[8:05 - 8:08]  and two individual out-of-pocket maxes, okay?
+[8:08 - 8:10]  So that's how it's structured.
+[8:10 - 8:17]  It's not that one person reaches $5,000, or it's not like one person in the family can reach $10,000.
+[8:17 - 8:23]  Let's say you had one person in the family who was super sick and they hit $10,000 of out-of-pocket costs for the year.
+[8:23 - 8:27]  And you're like, oh, well our family out-of-pocket max is $10,000, right?
+[8:27 - 8:30]  So no one else in the family has to pay anything else, right?
+[8:30 - 8:32]  No, that's not how it works.
+[8:32 - 8:35]  A family deductible is two individual deductibles.
+[8:35 - 8:43]  Two individual people have to reach the $1,000 deductible, and two individual people have to reach the $5,000 out-of-pocket max.
+[8:43 - 8:45]  So that's called an embedded deductible.
+[8:45 - 8:50]  It confuses people constantly, but it's a nuance that's important to understand, okay?
+[8:50 - 8:52]  Now, that's wonderful for all this in-network stuff.
+[8:52 - 8:56]  You have a completely separate coverage for your out-of-network doctors.
+[8:56 - 9:00]  So let's say you meet your out-of-pocket max, yada, yada, yada,
+[9:00 - 9:04]  but then you go to an out-of-network doctor or a hospital for a service.
+[9:04 - 9:06]  It starts all over again.
+[9:06 - 9:09]  So, and this time it's not discounted.
+[9:09 - 9:12]  So let's say you need to get a $4,000 MRI out of an out-of-network MRI facility.
+[9:12 - 9:14]  There is no discount down to $2,000.
+[9:14 - 9:20]  And that full $4,000, you're going to have a $2,000 deductible for that.
+[9:20 - 9:21]  Okay.
+[9:21 - 9:23]  And then the coinsurance isn't as good either.
+[9:23 - 9:28]  It's only 60% covered by the plan, 40% for out-of-the-pocket of the individual.
+[9:28 - 9:34]  So in the case of that $4,000 out-of-network MRI, you're going to have to pay the first $2,000.
+[9:34 - 9:44]  And then the remaining $2,000 is going to be split up 60% covered by the plan, 40% by the home insurance company.
+[9:44 - 9:49]  So, $2,000, 10% of $2,000 would be $200.
+[9:49 - 9:52]  So, 40% would be $800.
+[9:52 - 10:00]  So you owe $800 of the $4,000, excuse me, $800 of the $2,000 for the coinsurance.
+[10:00 - 10:04]  So you owe $2,000 for the deductible plus $800 for the coinsurance.
+[10:04 - 10:12]  So you would have to pay $2,800 for the MRI if it's out-of-network, even though you met all your in-network stuff.
+[10:12 - 10:18]  And that whole process of keeping track of how much you owe and how much you've paid and how much the insurance is going to pay,
+[10:18 - 10:21]  that is referred to as the accumulator.
+[10:21 - 10:27]  So the software within the insurance company that keeps track of it for everybody, that's referred to as the accumulators.
+[10:27 - 10:31]  And then the accumulators then reset every plan you, which is typically January 1st.
+[10:31 - 10:33]  So after January 1, it's going to reset.
+[10:33 - 10:38]  So, if your head's not spinning yet, we're just getting warmed up.
+[10:38 - 10:43]  Next up, point of service plans, HMOs and CDHPs.
+[10:43 - 10:44]  Thank you for watching.
+[10:44 - 10:46]  Hello again.
+[10:46 - 10:51]  Now we're going to go over point of service plans or POS plans for short.
+[10:51 - 10:54]  Now they're very similar to the PPO plans.
+[10:54 - 10:57]  They are, one big difference is they tend to have a lower premium.
+[10:57 - 11:01]  They tend to be less expensive than a PPO plan and you'll soon find out why.
+[11:01 - 11:05]  So you can see there are also in-network and out-of-network benefits just like a PPO plan.
+[11:05 - 11:10]  You've got a deductible, you've got co-pays, you've got co-insurance, you've got an out-of-pocket max,
+[11:10 - 11:16]  the family embedded deductible being two times or two individual deductibles, same dynamic.
+[11:16 - 11:20]  You look over here for out-of-network benefits and it's very simple.
+[11:20 - 11:22]  There is no coverage.
+[11:22 - 11:28]  You don't have out-of-network benefits except for real emergencies.
+[11:28 - 11:33]  So obviously if you're like unconscious and the ambulance takes you to an out-of-network hospital,
+[11:33 - 11:36]  you had no say, you have no control.
+[11:36 - 11:38]  So they're not going to be like, no, you don't have any insurance.
+[11:38 - 11:41]  So that's still going to be covered in a network rate.
+[11:41 - 11:46]  I put real emergencies because if you, the patient or the member, think it's an emergency,
+[11:46 - 11:48]  that's not what matters.
+[11:48 - 11:51]  What matters is if the insurance company thinks it's a real emergency.
+[11:51 - 11:56]  So a person might have like a rash and go to the emergency room for an out-of-network ER
+[11:56 - 12:00]  because you're like on vacation and you like didn't even know that it was an ER.
+[12:00 - 12:03]  You didn't know if it was out-of-network and you're like this rash looks really bad.
+[12:03 - 12:04]  It's an emergency.
+[12:04 - 12:09]  And you go and the insurance company is like, okay, we'll file, the hospital is like, okay,
+[12:09 - 12:12]  we'll file a claim, yada, yada, yada.
+[12:12 - 12:14]  And like the insurance company is going to deny that claim.
+[12:14 - 12:21]  And you're going to be responsible for all of the cost of that hospital stay or that ER stay for that rash
+[12:21 - 12:26]  because you have no coverage if you go to an out-of-network doctor or hospital or any facility
+[12:26 - 12:28]  unless it is a quote-to-quote real emergency.
+[12:28 - 12:30]  So that's point of service plans.
+[12:30 - 12:33]  Next we're moving on to HMOs.
+[12:33 - 12:34]  All right.
+[12:34 - 12:35]  Welcome back.
+[12:35 - 12:40]  Now we're going to talk about health maintenance organization plan designs or HMO plan designs.
+[12:40 - 12:51]  Now the huge difference between PPO plans, POS plans and HMO plans is HMO plans have a PCP gatekeeper
+[12:51 - 12:58]  that the patient must go to first before receiving any other medical services.
+[12:58 - 13:07]  And then that primary care physician has to make a referral to a specific specialist, like to a specific cardiologist,
+[13:07 - 13:13]  like Dr. Jones or Dr. Stevens, and to a specific physical therapist or to a specific hospital
+[13:13 - 13:15]  or to a specific imaging center.
+[13:15 - 13:18]  So you have to get permission and you're told exactly who you're going to see.
+[13:18 - 13:19]  Dermatologist.
+[13:19 - 13:21]  You don't get your choice in dermatologist.
+[13:21 - 13:24]  You're going to see dermatologist X, okay?
+[13:24 - 13:26]  Again, for specialists, tests, procedures.
+[13:26 - 13:32]  If you just, I mean you can just still go to the dermatologist, but if you don't have the referral from your primary care physician,
+[13:32 - 13:37]  the dermatologist is like, oh, you've got Blue Cross HMO and they bill your Blue Cross HMO.
+[13:37 - 13:44]  Blue Cross is going to look, and the PCP files that referral with the insurance company.
+[13:44 - 13:47]  So basically the insurance company like knows that it's coming.
+[13:47 - 13:53]  And so if you just go to the dermatologist on your own and the PCP never filed a referral because you never saw the PCP first
+[13:53 - 14:01]  and you go to that dermatologist, they'll bill your insurance company, and then we'll get a denial that says that you didn't get a referral,
+[14:01 - 14:04]  therefore you don't have insurance coverage for that visit.
+[14:04 - 14:08]  And so then the dermatologist is then going to bill you because it got denied from the health insurance company.
+[14:08 - 14:14]  So that PCP gatekeeper, that keeps costs down because people cannot then self-refer.
+[14:14 - 14:17]  So in a PPO and a POS plan, people can just self-refer.
+[14:17 - 14:19]  You want to go to a dermatologist? Go to a dermatologist.
+[14:19 - 14:21]  Choose any dermatologist you want.
+[14:21 - 14:24]  You want to go to a cardiologist? Go to a cardiologist.
+[14:24 - 14:26]  Choose any cardiologist you want.
+[14:26 - 14:31]  Gatekeeper, PCP, you've got to get permission first and then you're told specifically who to go to.
+[14:31 - 14:37]  Now this is by far done mostly in California with the Kaiser Health System.
+[14:37 - 14:41]  It's done somewhat in New England with the Harvard Pilgrim Health System.
+[14:41 - 14:46]  And then Kaiser has some pockets in Denver, Atlanta, and Washington, D.C. that also have HMOs.
+[14:46 - 14:51]  So there are pockets of the country, with California being the biggest one, that have HMOs.
+[14:51 - 14:58]  But for a lot of the other parts of the country, HMOs are very small because people don't like all that rules and all that restriction.
+[14:58 - 15:01]  They want more freedom.
+[15:01 - 15:06]  So now when you do get the referrals and the care itself, it's actually much less expensive.
+[15:06 - 15:08]  You're essentially giving up control.
+[15:08 - 15:12]  You're ceding control to the primary care doc and to the insurance company.
+[15:12 - 15:15]  And in exchange for ceding that control, you get a much lower out-of-pocket cost.
+[15:15 - 15:17]  So these are called co-pay plans.
+[15:17 - 15:19]  So you might still have a deductible.
+[15:19 - 15:21]  Some HMO plans have zero to out-of-pocket.
+[15:21 - 15:23]  You might have a deductible for some services.
+[15:23 - 15:25]  But then you have like co-pays for everything, right?
+[15:25 - 15:27]  And the co-pays tend to be pretty cheap.
+[15:27 - 15:29]  Like for a primary care visit, it might only be $5.
+[15:29 - 15:31]  For a specialist visit, it might only be $10.
+[15:31 - 15:34]  And if you have to go to the ER, it's only a $50 co-pay.
+[15:34 - 15:36]  If you have to be hospitalized, it's only a $200 co-pay.
+[15:36 - 15:41]  Like having a baby, like labor or delivery, that might only be like $200.
+[15:41 - 15:45]  And then for like labs and imaging, that might also be like only $25.
+[15:45 - 15:47]  So you know in advance what it's going to cost you.
+[15:47 - 15:50]  There's no like guessing, like what's the cost going to be.
+[15:50 - 15:51]  There's no variability.
+[15:51 - 15:53]  So these plans are much more straightforward.
+[15:53 - 15:55]  But again, they're much more restrictive in terms of choice.
+[15:55 - 16:02]  And again, you can go to an out-of-network, like if you're on vacation or whatever, you can go to an out-of-network hospital or doctor.
+[16:02 - 16:04]  But you're going to have no coverage.
+[16:04 - 16:06]  Just like a POS plan, you're going to have no coverage.
+[16:06 - 16:07]  Unless it's a real emergency.
+[16:07 - 16:09]  So again, like you're like a horrible car accident.
+[16:09 - 16:12]  You're unconscious or you're bleeding through sleep.
+[16:12 - 16:16]  And the ambulance takes you to an out-of-network hospital or ER.
+[16:16 - 16:18]  Then your HMO is still going to cover it.
+[16:18 - 16:22]  But again, the insurance company gets to decide if it's a real emergency or not.
+[16:22 - 16:27]  Like if you think, if you think your rash is an emergency, like the insurance company is probably not going to think your rash is an emergency.
+[16:27 - 16:31]  And then you're not going to have any insurance coverage and you're going to have to pay for all that.
+[16:31 - 16:34]  So that's a basic overview of health maintenance organizations.
+[16:34 - 16:36]  Thank you for watching.
+[16:36 - 16:38]  Hello.
+[16:38 - 16:46]  And today we're going to talk about the final plan design, which is the consumer directed health plan or the CDHP for short.
+[16:46 - 16:51]  Now in these plans, they have an extra special account.
+[16:51 - 16:53]  And there's two types of those extra special accounts.
+[16:53 - 16:56]  One is called an HSA or a health savings account.
+[16:56 - 17:01]  And the other is called a health reimbursement or an HRA account.
+[17:01 - 17:07]  Now, again, there's in-network and out-of-network, just like in your PPO, right?
+[17:07 - 17:08]  That doesn't change.
+[17:08 - 17:11]  Now notice here that the deductible is much higher.
+[17:11 - 17:12]  It's like $2,500.
+[17:12 - 17:15]  And there are no co-pays.
+[17:15 - 17:25]  That's why it's called consumer directed because they found that people weren't paying attention to the price of anything when all they were doing was paying $25 co-pays regardless of where they were at.
+[17:25 - 17:29]  So they're like, well, we want people to actually pay attention to what it costs.
+[17:29 - 17:39]  So we're going to get rid of the co-pays and you, the employee and your family members, you're responsible for the money up front for the first $2,500.
+[17:39 - 17:48]  And after you reach that $2,500, you still have to pay the 20% coinsurance and the health insurance is going to kick in and pay 80% of the coinsurance.
+[17:48 - 17:56]  And you're going to have to pay that 20% coinsurance and the deductible until all of that adds up to a $5,000 out-of-pocket max.
+[17:56 - 17:59]  And then again, that's just for one person.
+[17:59 - 18:04]  So if it's an employee and a spouse, you've got a whole separate one for that other person.
+[18:04 - 18:07]  Now, this is where the health savings account comes in.
+[18:07 - 18:12]  So this is where the company says, but we're going to give you money on this special debit card.
+[18:12 - 18:17]  And this card literally is attached to a bank account that is in your name.
+[18:17 - 18:22]  And it says Visa or MasterCard on it so you can swipe it wherever you want.
+[18:22 - 18:26]  But it can only be used for medical purposes.
+[18:26 - 18:29]  And the company will then put money into that account.
+[18:29 - 18:32]  And oftentimes they'll put in like $800.
+[18:32 - 18:39]  So these consumer-driven health plans, they generally work out really well for people that tend to be healthier.
+[18:39 - 18:42]  Because that $800 you get to keep.
+[18:42 - 18:46]  If you don't use any health care services for the year, that money is in your account and you keep it.
+[18:46 - 18:50]  And then the next year, they give you another $800.
+[18:50 - 18:52]  And the year after that, they give you another $800.
+[18:52 - 18:57]  So the healthier you are and the less health care services you use, you just keep that extra money.
+[18:57 - 18:58]  And you can keep it.
+[18:58 - 19:00]  And actually some people even use it as a savings vehicle.
+[19:00 - 19:06]  And over time, you can even, and you can even invest that money if you want in the stock market.
+[19:06 - 19:08]  I mean it's up to you if you want to take that risk.
+[19:08 - 19:12]  But then what you can do is you can use those HSA dollars in your retirement.
+[19:12 - 19:14]  So there's actually out-of-pocket costs associated with Medicare.
+[19:14 - 19:19]  So when you're on Medicare, the out-of-pocket costs associated with Medicare can actually be like thousands or tens of thousands of dollars.
+[19:19 - 19:24]  So you can use those saved up HSA dollars to actually pay for health care in your retirement.
+[19:24 - 19:25]  It's tax free.
+[19:25 - 19:32]  So you can use that HSA money because literally it says Visa or MasterCard on the debit card.
+[19:32 - 19:34]  You can use it for non-health care services.
+[19:34 - 19:37]  If you want to use it on Amazon or to buy shoes, you can do that.
+[19:37 - 19:38]  But there's a penalty.
+[19:38 - 19:43]  So then you have to pay a tax penalty if you use it for non-health care services.
+[19:43 - 19:47]  Now, if you get fired or you quit, that money goes with you.
+[19:47 - 19:49]  That money is yours to keep.
+[19:49 - 19:55]  Now, in the health reimbursement arrangement, some companies are like, well if the person quits or we fire them,
+[19:55 - 19:57]  we don't want them to take the money with them.
+[19:57 - 20:03]  So what they do is instead is they give people a debit card, but it's not in the employee's own separate account.
+[20:03 - 20:05]  It's in the company's account.
+[20:05 - 20:10]  And so if the employee gets fired or quit, they don't take the money with them.
+[20:10 - 20:12]  The money stays with the employer.
+[20:12 - 20:15]  And again, that HRA money typically rolls over from year to year.
+[20:15 - 20:21]  So if they put $800 in your account every year, then let's say five years down the road you're with the same company.
+[20:21 - 20:25]  Five times 800 is $4,000.
+[20:25 - 20:33]  Well then you would have $4,000 in your HRA that you could use towards your deductible and your coinsurance, etc. expenses.
+[20:33 - 20:36]  So it's still good, but you can't use it as a savings vehicle for retirement.
+[20:36 - 20:38]  And you can't use it for shoes.
+[20:38 - 20:43]  And you can't use it if you go, if you get fired or quit because the money goes away.
+[20:43 - 20:46]  And again, you also have out of network benefits just like a PPO plan.
+[20:46 - 20:48]  Again, it's typically it's a higher deductible.
+[20:48 - 20:49]  The coinsurance is not as good.
+[20:49 - 20:51]  It's like 60-40.
+[20:51 - 20:53]  It's an out of network, excuse me, out of pocket max.
+[20:53 - 20:55]  As much higher as like $10,000.
+[20:55 - 21:03]  And again, if you meet all this stuff and then you go to an out of network doctor, you still got to start over on the accumulator on the out of network side.
+[21:03 - 21:08]  And you can still use your HSA dollars or your HRA dollars for this out of network stuff.
+[21:08 - 21:10]  But your benefits are just set up differently.
+[21:10 - 21:15]  So now overall, PPO plans are still the most common plans in America.
+[21:15 - 21:20]  It's upwards of 50% or 60% of plans are those types of plans.
+[21:20 - 21:26]  And then about 30% of plans, 33% of plans are these consumer-directed health plans.
+[21:26 - 21:31]  And then about 20% are, or 15 to 20% are HMO plans.
+[21:31 - 21:35]  And then a very small, maybe 5% of plans are those POS plans.
+[21:35 - 21:38]  So that's the general breakdown of plan designs.
+[21:38 - 21:39]  Thank you for watching.
+[21:39 - 21:40]  Hello.
+[21:40 - 21:44]  Now we are going to talk about price transparency.
+[21:44 - 21:49]  And this relates to plan design specifically around those CDHPs, those consumer-directed health plans.
+[21:49 - 21:55]  Because when the co-pays go away, then we need to remember what we learned about
+[21:55 - 21:56]  billing.
+[21:56 - 22:02]  So there are the billed charges that the doctor of the hospital submits to the insurance company.
+[22:02 - 22:04]  The majority of them are in-network, right?
+[22:04 - 22:06]  So it's going to be an in-network doctor hospital.
+[22:06 - 22:08]  Then the insurance company applies that discount.
+[22:08 - 22:11]  And after they apply the discount, then you get the allowed amount.
+[22:11 - 22:14]  And that allowed amount is the quote-unquote true price.
+[22:14 - 22:17]  So again, with that MRI example, they might have billed charges of $4,000.
+[22:17 - 22:19]  They give them a $2,000 discount.
+[22:19 - 22:20]  And the final allowed amount is $2,000.
+[22:20 - 22:24]  So that allowed amount is then applied to your deductible, your coinsurance, your out-of-pocket max.
+[22:24 - 22:27]  For those consumer-directed health plans, right?
+[22:27 - 22:28]  Because there is no co-pay.
+[22:28 - 22:36]  Now, the big revelation from 10, 15 years ago was that those in-network allowed amounts
+[22:36 - 22:41]  are very different depending on where you go locally.
+[22:41 - 22:45]  They vary dramatically for hospitals that are in the same town across the street from each
+[22:45 - 22:49]  other or doctor's offices that are across the street from each other or imaging centers
+[22:49 - 22:50]  that are across the street from each other.
+[22:50 - 22:52]  So there's highly variable.
+[22:52 - 22:54]  So it's not like if you go and network the price is all the same.
+[22:54 - 22:55]  It's usually different.
+[22:55 - 22:57]  Let me give you some examples.
+[22:57 - 23:01]  So let's just say this is, again, same insurance company, Blue Cross United Signet.
+[23:01 - 23:04]  So let's just say it's one insurance company, Blue Cross.
+[23:04 - 23:06]  So you're saying, okay, I've got to go on MRI.
+[23:06 - 23:11]  And that Blue Cross allowed amount at Hospital A might be $2,000.
+[23:11 - 23:15]  And across the street or across town at Hospital B, it might be $500.
+[23:15 - 23:16]  Look at that.
+[23:16 - 23:18]  4X difference between those two places.
+[23:18 - 23:23]  So you're like, okay, well, I'm just going to go get all my services at Hospital B because that place is cheaper.
+[23:23 - 23:28]  But it depends on the service that you're getting.
+[23:28 - 23:33]  So for like an orthopedic surgery, let's say it's like an arthroscopic knee surgery.
+[23:33 - 23:35]  You've got partial tear of your ACL.
+[23:35 - 23:38]  Or maybe it's a spine surgery.
+[23:38 - 23:40]  You've got chronic low back pain.
+[23:40 - 23:44]  And you're thinking about going in and getting a herniated disc operated on.
+[23:44 - 23:50]  Well, then that orthopedic surgery at Hospital A, the allowed amount might only be $4,000.
+[23:50 - 23:53]  And at Hospital B, it's $16,000.
+[23:53 - 23:55]  Again, it's four times difference.
+[23:55 - 23:59]  But this time, Hospital B is four times more expensive than Hospital A.
+[23:59 - 24:06]  So that's the whole deal with price transparency is that the doctors in the hospitals, they used to keep all those prices secret.
+[24:06 - 24:12]  Literally, until January 1st of 2021, I mean, there were ways to get to those prices.
+[24:12 - 24:15]  That's what my prior company, Compass, actually did.
+[24:15 - 24:23]  But now it's required by law for hospitals to post these prices, which they previously kept secret.
+[24:23 - 24:25]  So all the patients in America were like complaining.
+[24:25 - 24:29]  It's like, okay, fine, I've got this consumer director of health plan with this HSA card.
+[24:29 - 24:31]  And you're just going to swipe it at the hospital.
+[24:31 - 24:33]  Who knows what in the world that's going to cost me?
+[24:33 - 24:37]  And I'd like to know in advance what it's going to cost me and what my options are.
+[24:37 - 24:49]  So the Hospital A and Hospital B, by the time you mix and match all of these different services for labor and delivery and imaging and orthopedic surgery and everything else they do at a hospital,
+[24:49 - 24:55]  you end up getting an average discount of 50% in Hospital A and 50% in Hospital B.
+[24:55 - 24:59]  So the insurance company would go back to all the employers and the employees and look,
+[24:59 - 25:05]  look, in this town of Chicago or Atlanta or wherever you are, our average discount is 50%.
+[25:05 - 25:07]  And that would be true in average.
+[25:07 - 25:16]  But they didn't tell you that it was filled with these 4X variations in particular allowed amounts depending upon which hospital you were going to and which service you had.
+[25:16 - 25:23]  So if you have one of these consumer-directed health plans or really even if you have a PPO plan for any service where there's,
+[25:23 - 25:25]  because if you have a $25 copay, none of this matters.
+[25:25 - 25:27]  You just pay $25 copay, who cares?
+[25:27 - 25:35]  But for all those expenses that fall to deductible and coinsurance and out-of-pocket max, even on a PPO plan, then this information is hugely important.
+[25:35 - 25:37]  Now, you can't do this in emergencies, right?
+[25:37 - 25:43]  You can't tell the ambulance driver, hey, let's shop around for what ER I should go to, right?
+[25:43 - 25:45]  It's only for shoppable services.
+[25:45 - 25:47]  And shoppable services need time.
+[25:47 - 25:49]  They need to be scheduled.
+[25:49 - 25:51]  So it's all your elective stuff.
+[25:51 - 25:52]  Well, guess what?
+[25:52 - 25:56]  A lot of healthcare is totally elective and it's totally shoppable.
+[25:56 - 25:59]  So what are kind of the prime areas for that?
+[25:59 - 26:00]  A number one is imaging.
+[26:00 - 26:10]  MRIs, CT scans, plain x-rays, and in general, independent imaging facilities are much less expensive than hospitals.
+[26:10 - 26:17]  But you've got to be careful because if the imaging facility is owned by a hospital, then they're just going to charge like the hospital.
+[26:17 - 26:23]  And it's super tricky because a lot of times they don't even say on the front of the building that they're owned by the hospital.
+[26:23 - 26:27]  They're just going to be digging around in their website to see if they're actually owned by the hospital or not.
+[26:27 - 26:28]  Okay?
+[26:28 - 26:29]  Next up, lab tests.
+[26:29 - 26:34]  So you can get labs drawn at the doctor's office and you've got to be like, okay, where are you sending this to?
+[26:34 - 26:36]  Typically, they send it to Quest or LabCorp.
+[26:36 - 26:37]  Okay?
+[26:37 - 26:39]  So those are typically not too expensive.
+[26:39 - 26:44]  But there's other independent labs where you literally just go in and they draw your blood.
+[26:44 - 26:46]  You've got to get a requisite form from your doctor.
+[26:46 - 26:48]  But they go in and you draw your blood.
+[26:48 - 26:49]  It might be less expensive.
+[26:49 - 26:51]  You can get your blood drawn at the hospital.
+[26:51 - 26:55]  They might, like our pediatricians down the street from the hospital, who are like, oh, you need labs done?
+[26:55 - 26:56]  Just go to the hospital.
+[26:56 - 26:58]  And you just walk into the hospital and they draw your blood.
+[26:58 - 27:00]  You don't have to be admitted or anything.
+[27:00 - 27:01]  Guess what?
+[27:01 - 27:04]  Getting labs done at the hospital is super expensive.
+[27:04 - 27:08]  Again, it's like four or five times more expensive than if you got it done in an independent lab.
+[27:08 - 27:09]  Okay.
+[27:09 - 27:10]  Next up, for procedures.
+[27:10 - 27:16]  The classic one there is like colonoscopies or what's called an EGD, an upper endoscopy, looking in your stomach and esophagus.
+[27:16 - 27:18]  A lot of times for chronic heartburn.
+[27:18 - 27:27]  Where the facility fee at like an independent endoscopy center or at an ambulatory surgery center is typically much less expensive than if you get this done in a hospital.
+[27:27 - 27:34]  And typically the gastroenterologist that does this, they like will be at the hospital on Monday and then the endoscopy center on Tuesday.
+[27:34 - 27:37]  And they'll just be like, well, when are you available? Monday or Tuesday?
+[27:37 - 27:38]  And you're like, Monday.
+[27:38 - 27:41]  And there, the endoscopy is like $4,000.
+[27:41 - 27:46]  And if you just said Tuesday, it would have only been $800 at the endoscopy center.
+[27:46 - 27:50]  So, now for colonoscopies, it's like, okay, well, it's screening for colon cancer.
+[27:50 - 27:51]  It's covered at 100%.
+[27:51 - 27:53]  You don't have any autopodic costs anyway.
+[27:53 - 27:54]  It was like, who cares?
+[27:54 - 28:03]  But, if you've got a colonoscopy that's not for screening, it's for some other reason, like colon, you know, you have colon polyps or you have problems with bleeding or whatever,
+[28:03 - 28:06]  then you're totally going to have to pay for that difference.
+[28:06 - 28:09]  Likewise, EGDs are never screening.
+[28:09 - 28:11]  That's always going to fall to deductible co-insurance.
+[28:11 - 28:13]  So, that's another thing that's scheduled, right?
+[28:13 - 28:15]  It's very rare that you have emergencies for these things.
+[28:15 - 28:19]  And the other area, again, is for orthopedic surgery, like I mentioned over here.
+[28:19 - 28:24]  Again, for your knee surgery, for your major joint replacements like knee and hip replacements, for spine surgery.
+[28:24 - 28:30]  Those are, I mean, with the exception of fractures, the vast majority of orthopedic surgeries are elected in your schedule.
+[28:30 - 28:37]  And again, if you already have a doctor, typically that doctor might operate at this hospital on Monday, this other hospital on Tuesday,
+[28:37 - 28:40]  and this ambulatory surgery center, this place on Wednesday.
+[28:40 - 28:44]  And so, you might not want to change doctors, you might want to stick with Dr. Smith, but be like,
+[28:44 - 28:46]  Hey, Dr. Smith, where are the three places you go to?
+[28:46 - 28:50]  And then you can figure out what the costs are at each one of those three hospitals.
+[28:50 - 28:56]  So, just know that those prices are hugely variable depending upon where you go, even in network.
+[28:56 - 29:02]  And if you have a PPO plan design or a POS plan design or a CDHP plan design,
+[29:02 - 29:08]  then that price difference is oftentimes going to be borne by you, the plan member, and your family.
+[29:08 - 29:11]  And that's my point for today. Thank you for watching.
+[29:11 - 29:22]  Alright, in our final segment on plan designs, we are going to discuss reference-based pricing, or what is referred to as RBP for short.
+[29:22 - 29:26]  Now, this is a newer concept that we really only started about ten years ago,
+[29:26 - 29:31]  and it's still the vast minority of health plans out there,
+[29:31 - 29:38]  but a growing number of employers are starting to do a reference-based pricing, RBP.
+[29:38 - 29:45]  Now, it's only for self-funded plans, it's not for fully insured, and it does not,
+[29:45 - 29:51]  one of the main differences between the PPO and the CDHP and the POS plans,
+[29:51 - 29:54]  is there is no network for facilities.
+[29:54 - 29:58]  So, you have health insurance with no network.
+[29:58 - 30:01]  So, essentially every single doctor, every single hospital out there has had a network.
+[30:01 - 30:04]  Now, sometimes they'll have a network for the doctor's office visits,
+[30:04 - 30:07]  because there's just so many of them, and it just makes it a lot easier to actually have a network.
+[30:07 - 30:11]  For the doctor's office visits, you can have like in-network and out-network doctors,
+[30:11 - 30:14]  but for the facilities, essentially everything's out of network.
+[30:14 - 30:19]  So, they just say, look, you can go to whatever hospital or facility you want.
+[30:19 - 30:23]  Now, you cannot get these plans through Blue Cross United, Cigna, Aetna.
+[30:23 - 30:24]  They do not offer these.
+[30:24 - 30:28]  You have to go through one of these third-party administrators, again, for self-funded plans only,
+[30:28 - 30:32]  and there are TPAs that offer reference-based pricing plans.
+[30:32 - 30:34]  So, you've got to use a TPA.
+[30:34 - 30:35]  So, never an ASO.
+[30:35 - 30:40]  So, ASO, remember, is administrative services only through Blue Cross United, Cigna, Aetna.
+[30:40 - 30:44]  So, you have to go through a TPA like GPA here in Dallas.
+[30:44 - 30:48]  Okay. Now, it's called reference-based pricing because they're like, okay, well, there's no network.
+[30:48 - 30:55]  So, what happens is that the TPA says, okay, well, we're going to use Medicare reimbursement as a reference,
+[30:55 - 31:01]  and we're going to pay somewhere between 150% and 250% of what Medicare pays.
+[31:01 - 31:02]  And the employer can choose.
+[31:02 - 31:07]  If they want to be on the more, sort of, the cheaper end, they say, well, we only want to pay 1.5 times,
+[31:07 - 31:08]  or 150% Medicare.
+[31:08 - 31:14]  Or if they want to be on the more generous side, they say, okay, we're going to pay 250% of Medicare.
+[31:14 - 31:18]  So, a lot of them may have to be in about 200% of Medicare on average.
+[31:18 - 31:22]  So, this is what, let's use a knee surgery as an example of how this would work.
+[31:22 - 31:29]  So, you go in, you see the orthopedist, he's like, hey, we need to do some surgery on your cartilage,
+[31:29 - 31:33]  or maybe we need to repair your ACL, et cetera.
+[31:33 - 31:34]  So, you've got to have this knee surgery.
+[31:34 - 31:39]  So, if you had your typical PPO network, then, you know, bill charges from the hospital
+[31:39 - 31:43]  or the ambulatory surgery center might be $20,000, and then the insurance company applies at this county,
+[31:43 - 31:45]  and gets it to be allowed amount of $10,000.
+[31:45 - 31:49]  And that would be, then, applied to your deductible and your coinsurance, et cetera,
+[31:49 - 31:51]  however your plan is set up.
+[31:51 - 31:55]  Now, Medicare, let's say it's a person over the age of 65.
+[31:55 - 31:56]  Let's say Medicare.
+[31:56 - 32:02]  Well, the hospital would still bill the person $20,000, but because Medicare is written by the government,
+[32:02 - 32:04]  the government doesn't negotiate with the hospital.
+[32:04 - 32:06]  Medicare doesn't negotiate with the hospital.
+[32:06 - 32:10]  Medicare just says, look, for that surgery, we're going to pay you $2,000, and you're going to like it,
+[32:10 - 32:13]  because we're the government, and these people are over 65.
+[32:13 - 32:17]  And if you don't want to take the $2,000 for Medicare, then you get nothing.
+[32:17 - 32:19]  So, guess what happens?
+[32:19 - 32:21]  The hospitals say, okay, Medicare, we'll take $2,000.
+[32:21 - 32:23]  So, look at that.
+[32:23 - 32:30]  The allowed amount, the discount that the insurance company negotiated is still five times higher than what the government negotiated.
+[32:30 - 32:33]  Government didn't negotiate at all. It just dictated it.
+[32:33 - 32:40]  Okay. So, in reference-based pricing, the argument the employers is, is that, look, the health insurance companies are not getting us a very good deal
+[32:40 - 32:45]  if we still have to pay five times what Medicare is paying, even after our discount.
+[32:45 - 32:46]  Like, so we want a better deal.
+[32:46 - 32:49]  So, instead, let's say it's a 200% RDP plan.
+[32:49 - 32:58]  So, the hospital is still going to bill the TPA for $20,000 for that knee surgery, and the hospital is going to, or the TPA is going to look at the fee schedule for Medicare for that particular knee surgery,
+[32:58 - 33:04]  and they're going to say, you know what, Medicare reimburses at $2,000, and this is a 200% RDP plan.
+[33:04 - 33:09]  So, we're just going to take that $2,000, multiply it by two, and we're just going to pay the hospital $4,000.
+[33:09 - 33:13]  And we're going to say, hey, hospital, take it or leave it.
+[33:13 - 33:21]  Believe it or not, a fair number of hospitals that are actually like, you know what, it's not as good as the $10,000, but it's something better than the $2,000, so we'll take it.
+[33:21 - 33:30]  And then that $4,000, again, still gets applied to deductible, coinsurance, however the plan is set up for the individual, but you can see it saves a lot of money.
+[33:30 - 33:34]  It saves them $6,000 between the $10,000 and the $4,000 on that particular knee surgery.
+[33:34 - 33:37]  Now, not all hospitals are okay with this.
+[33:37 - 33:44]  Some hospitals are like, look, if you don't have insurance, excuse me, if you don't have a network, and we bill you $20,000, guess what?
+[33:44 - 33:48]  You owe us the full $20,000, because you don't have a network.
+[33:48 - 33:51]  And if you pay us $4,000, that's wonderful.
+[33:51 - 33:55]  We'll keep the $4,000, but you still owe us $16,000.
+[33:55 - 33:57]  And the TPA says, oh, no, we don't.
+[33:57 - 34:01]  And so then the hospital, anytime anybody goes into the doctor's office or the hospital,
+[34:01 - 34:07]  everybody signs a form that says you, the patient, are ultimately responsible for the payment of the bill.
+[34:07 - 34:12]  They'll bill your insurance, but if the insurance company doesn't pay, like, you sign something that says that you're going to pay.
+[34:12 - 34:17]  And so what they do is they call it a balanced bill, which is they take that $16,000 that the TPA didn't pay them,
+[34:17 - 34:21]  and they send you, the patient, a bill for $16,000.
+[34:21 - 34:27]  Or if it's an elective surgery, and if the hospital's really organized, not all hospitals are very organized,
+[34:27 - 34:31]  but if the hospital's really organized, they'll check your insurance before you do the procedure.
+[34:31 - 34:36]  So they'll check your insurance and be like, oh, you don't have a network, and we're going to bill you $20,000.
+[34:36 - 34:41]  And they'll check your deductible and they'll check your co-insurance, and they'll be like, okay, well, it's $20,000 based upon your deductible
+[34:41 - 34:42]  and your co-insurance.
+[34:42 - 34:44]  This is going to cost you $6,000 out of pocket.
+[34:44 - 34:47]  You need to pay us that $6,000 now.
+[34:47 - 34:50]  Otherwise, we're not going to schedule the surgery.
+[34:50 - 35:00]  So there are some people that can't even get their surgeries scheduled because the hospital won't schedule it until they get the patient's out-of-pocket cost first.
+[35:00 - 35:06]  So in order to make reference-based pricing plans work, basically the patients, typically the TPA hires a navigation service.
+[35:06 - 35:08]  Actually, Compass used to help out people like this.
+[35:08 - 35:13]  And what you do is you have to find hospitals that aren't going to balance bill and don't refuse to schedule.
+[35:13 - 35:18]  So you've got to do a little searching to find these places that will actually accept the $4,000 as payment in full.
+[35:18 - 35:19]  But it can be done.
+[35:19 - 35:22]  So it ends up saving a ton of money.
+[35:22 - 35:29]  It can be very disconcerting and troublesome for the employees when they get a balance bill for $16,000.
+[35:29 - 35:31]  As you can imagine, that does not go over well.
+[35:31 - 35:35]  But I wanted to make you aware of reference-based pricing or RDP.
+[35:35 - 35:36]  Thank you for watching.

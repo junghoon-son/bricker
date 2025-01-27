@@ -1,0 +1,174 @@
+Title: Ch. 12 - Healthcare Money Campfire Stories Audio Book
+URL: https://www.youtube.com/watch?v=kJCMcbnzqqc
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Healthcare Money Campfire Stories by Eric Bricker, M.D. Chapter 12. We Killed Our Health Plan An interesting conundrum takes place with an employee health insurance plan for a health care provider itself. One of the relatively early Compass customers was an ambulatory surgery center, ASC. Their insurance broker's name was Ron. Ron was a fantastic individual, a real salt-of-the-earth guy. He had grown up in El Paso driving a World War II-era Jeep in the mountains that he and his dad had restored together. He looked like a West Texas cowboy, tall, thin, tan skin, with wrinkles of character from the school of hard knocks on his face. Ron had brought Compass on to several other of his clients over the last couple years, and their experience had been positive. Ron called me one afternoon while I was driving from one sales meeting to another. Dr. Bricker, I've got a problem, he started. I have a client with about 130 employees that has a surgery center. They are running hot. Running hot is health insurance slang for having high medical claims. Before Compass, I didn't even know that health insurance had slang. According to Ron, there had been six major orthopedic surgeries for employees in the last nine months. The surgeries ranged from arthroscopic knee surgery to carpal tunnel release to total knee replacements to spine surgery. Ron continued, Go figure. Almost all the doctors who operate at the ASC are orthopedists. You know what they say. If you hang out in a barber shop, you're going to get a haircut. As Ron and I talked more, it turned out he tried to shop the group to various insurance carriers, but no one would offer a quote. Their claims were too high. Their current insurance carrier gave them such a large increase on their renewal for the coming year that it was essentially equivalent to saying, We don't want your business. Now, he was stuck with only one insurance company as an option. The ASC was paying about a million dollars a year for health insurance coverage, but with their increase, they would have to pay $1.4 million. The ASC might have to lay off eight people just to pay for the increase in their health insurance premium. Ron said he had spoken with the CFO of the ASC, and they had agreed that they needed to raise the deductible from $500 to $5,000. What? I exclaimed. I know, Ron answered. It's the only option we have, and I have to make it an HSA-compatible plan so all the copays are going away too. And all the costs, less than $5,000, had to be paid by the employees, including prescriptions. It's essentially only catastrophic insurance. Ron said he convinced the CFO to put in Compass so that the employees would have a resource to help them find lower-cost medical services and fix any incorrect bills that are sent to them. I need you, Dr. Bricker, to present Compass to the employees. They are not going to be happy with their insurance change, and I need you to show them it's not the end of the world. Okay, when are the meetings? I asked. I arrived on that Tuesday to a two-story ASC that was just down the hill from a large hospital. It was across the street from four fast-food restaurants as well. I met Ron just inside the front door, and we took the elevator to the second floor. The ASC was clean, quiet, and looked more like a small office building with recessed lighting and various ferns in fancy pots. We entered what looked to be a training room about the size of two school classrooms. It was already filled with employees, mostly young and middle-aged women in royal blue scrubs. Ron introduced me to the CFO who was there, to his credit. He is the only CFO I have ever seen at an open enrollment meeting to face the employees that his decisions were impacting. The CFO got everyone's attention and started the meeting. He was straightforward in delivering the bad news about the changes to their health insurance plan. He explained why. He had a kind tone of voice. He expressed regret for what he had to do given all the expensive surgery claims they had over the previous year. There was no blame, more like resignation to fate. He said he was happy to talk to any of the employees any time in his office. The employees were silent. The CFO gave the floor to Ron and exited the room. There were a few questions. Can I still see the same doctor I have been seeing? Yes. Your insurance company and network are not changing, Ron answered. What will happen when I go to the pharmacy to get my medicine? You can still get your medication, but instead of paying the COPE, you will have to pay the negotiated rate, Ron said. The woman blankly stared back at him. She had no idea what a negotiated rate meant. The questioning continued for a few more minutes. There was no hostility. Just the sense that people were trying to figure out what to do. Ron concluded and introduced me. I gave my talk. There were more questions. There was some relief in the room around Compass's services. What I had not said to them was about a dozen of the employees were going to have to pay not just $5,000 more for their health care, but really more like $10,000. Like most insurance plans, they still had to pay part of the cost called the coinsurance even after the deductible was met, up to $10,000 total. It will be the dozen employees that have significant medical expenses. The employees would likely need to put the payment on their credit cards at high interest. They would probably feel the financial strain in the form of no vacation and no savings in their kid's college account. About half the employees would not be affected much at all. They were all in good health, didn't take any medications, and rarely went to the doctor. For them, they probably just felt bad for the co-workers that had health problems, or more accurately, whose family members had health problems. Some of those employees were well known. Some were silent. The meeting ended. There were two more meetings to go. The employees filed out. No chit-chat. Back to work. There were a few minutes before the next meeting. Ron took me back to the CFO's office. He wanted to introduce us more formally and give him a chance to talk to me. We walked around two corners and entered a small windowless office with the overhead lights off and only a desk lamp dimly lighting the room. The CFO was a large man, a little under six feet tall, and close to 300 pounds. He was probably in his mid-forties. Thank you so much for being here, Dr. Bricker, he said, raising from his chair to shake my hand. I thought you did a good job in there, I responded. He continued. We just killed our plan. The employees, they talk with the surgeons. They tell them their problems. The surgeons say they can help. They know they have good insurance since their employees here. They don't realize that it ends up coming back to bite us. Six major orthopedic surgeries in less than a year? That's crazy. No insurance company would take us. Ron added. When the carrier is calculating rates, they take into account the age and gender of the employees. They also consider the industry of the group. Healthcare groups always get charged more since they use more healthcare services. Do they ever, the CFO responded. And since we billed the insurance company through the main hospital's contract, these surgeries are very expensive. We get doubly screwed. This was a more nuanced point the CFO was making. There is a movement in America for joint ventures between hospitals and surgery centers. The hospital owns 51% of the ASC and a corporation formed by the surgeons who operate there owns the other 49%. Because the hospital owns the majority, they get to run the billing for the ASC through the hospital's contracts with commercial insurance carriers. Because the hospital is part of a large hospital system, they have a lot of negotiating power with the insurance carrier. They might demand $16,000 or even $60,000 for a surgery. If the surgery center was independent and had to negotiate with the insurance carrier on its own, they would probably only be able to demand a fraction of that amount. The hospital and doctors then split the profits 51-49, just like the ownership. As a result, the doctors are not only paid their physician fee for performing the surgery, but also almost half the facility fee. The physician fee might be several hundred or thousand dollars, but the facility fee can be tens of thousands of dollars. Incorrectly, most doctors and healthcare workers think that they are, quote-unquote, taking money from the insurance company. In fact, they are not. They are simply taking money from employers. Most employers with over 100 employees are fully credible. Fully credible means that the employer's premiums are a reflection of their own medical claims. If claims go up, then premiums go up. If claims go down, then premiums go down. The insurance company aims for 80% of their premiums to be spent on medical claims, and they keep 20% for administrative costs and profit. Coincidentally, this 80-20 relationship was the insurance company's goal prior to the Affordable Care Act and is now mandated by the ACA. All the ACA did was put that ratio into law. For this surgery center's health insurance plan, all the insurance company did was look at how much they spent in claims for the previous year and then add on 20%. More claims don't, quote-unquote, hurt the insurance company. The doctors and hospital are not sticking it to the greedy insurance company. The insurance company is just passing the buck. If anything, the insurance company wants the claims to go up because 20% of a bigger number means more money for administration and profit. There you have it. The perfect circle of health care costs captured in one employer. A lot of surgeries, some necessary, some probably not so necessary, plus high prices negotiated by the hospital, plus an ownership structure that pays the doctors more for doing more, equals higher claims and higher premiums. The surgery center then had to reduce that premium increase by increasing the deductible on the health insurance plan, essentially shifting the cost to the employees. In this case, the creator of the health care costs and those feeling the pain of those costs were one and the same. Or to be more accurate, really it was the doctors and hospital administrators who set up the arrangement who were the creators, and it was the nurses, medical assistants, and janitors that felt the pain. To make matters worse, the doctors and hospital administrators were not even on the surgery center's insurance plan, so their deductible did not increase. Lesson learned. There are frequently financial conflicts of interest in health care. The consequences are real. Anyone who wants to make more money in health care has to take it from somewhere. It is a zero-sum game. graphically, you can't keep this up on how much they have, which should ensure that you can bring behind them. It must ensure that the benefit of your ship is quite easy. And the time is running out, please train them to be very hard. Take a charge of the technology and will try to make these principles. Do a lot of money in the benefits of your marriage, therefore extrêmement well- 그럼 2. Take care of over and over again next decades and you can also estimate the benefit of the benefits of providing that these Eph 이게 inencers and that verlum Foot力 Insights written to them. Let's restore the benefits of and this benefit of this review. This is a very浮 Bears Act sum up.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Healthcare Money Campfire Stories by Eric Bricker, M.D.
+[0:06 - 0:09]  Chapter 12. We Killed Our Health Plan
+[0:09 - 0:16]  An interesting conundrum takes place with an employee health insurance plan for a health care provider itself.
+[0:17 - 0:22]  One of the relatively early Compass customers was an ambulatory surgery center, ASC.
+[0:22 - 0:24]  Their insurance broker's name was Ron.
+[0:25 - 0:29]  Ron was a fantastic individual, a real salt-of-the-earth guy.
+[0:29 - 0:36]  He had grown up in El Paso driving a World War II-era Jeep in the mountains that he and his dad had restored together.
+[0:36 - 0:46]  He looked like a West Texas cowboy, tall, thin, tan skin, with wrinkles of character from the school of hard knocks on his face.
+[0:46 - 0:53]  Ron had brought Compass on to several other of his clients over the last couple years, and their experience had been positive.
+[0:53 - 0:57]  Ron called me one afternoon while I was driving from one sales meeting to another.
+[0:57 - 0:59]  Dr. Bricker, I've got a problem, he started.
+[1:00 - 1:03]  I have a client with about 130 employees that has a surgery center.
+[1:03 - 1:04]  They are running hot.
+[1:05 - 1:09]  Running hot is health insurance slang for having high medical claims.
+[1:10 - 1:13]  Before Compass, I didn't even know that health insurance had slang.
+[1:14 - 1:19]  According to Ron, there had been six major orthopedic surgeries for employees in the last nine months.
+[1:19 - 1:24]  The surgeries ranged from arthroscopic knee surgery to carpal tunnel release to total knee replacements to spine surgery.
+[1:25 - 1:26]  Ron continued,
+[1:27 - 1:27]  Go figure.
+[1:28 - 1:31]  Almost all the doctors who operate at the ASC are orthopedists.
+[1:31 - 1:32]  You know what they say.
+[1:33 - 1:36]  If you hang out in a barber shop, you're going to get a haircut.
+[1:36 - 1:44]  As Ron and I talked more, it turned out he tried to shop the group to various insurance carriers, but no one would offer a quote.
+[1:45 - 1:46]  Their claims were too high.
+[1:46 - 1:53]  Their current insurance carrier gave them such a large increase on their renewal for the coming year that it was essentially equivalent to saying,
+[1:53 - 1:54]  We don't want your business.
+[1:54 - 1:58]  Now, he was stuck with only one insurance company as an option.
+[1:59 - 2:05]  The ASC was paying about a million dollars a year for health insurance coverage, but with their increase, they would have to pay $1.4 million.
+[2:06 - 2:12]  The ASC might have to lay off eight people just to pay for the increase in their health insurance premium.
+[2:12 - 2:23]  Ron said he had spoken with the CFO of the ASC, and they had agreed that they needed to raise the deductible from $500 to $5,000.
+[2:24 - 2:26]  What? I exclaimed.
+[2:26 - 2:28]  I know, Ron answered.
+[2:28 - 2:34]  It's the only option we have, and I have to make it an HSA-compatible plan so all the copays are going away too.
+[2:34 - 2:39]  And all the costs, less than $5,000, had to be paid by the employees, including prescriptions.
+[2:40 - 2:42]  It's essentially only catastrophic insurance.
+[2:43 - 2:52]  Ron said he convinced the CFO to put in Compass so that the employees would have a resource to help them find lower-cost medical services and fix any incorrect bills that are sent to them.
+[2:52 - 2:55]  I need you, Dr. Bricker, to present Compass to the employees.
+[2:56 - 3:01]  They are not going to be happy with their insurance change, and I need you to show them it's not the end of the world.
+[3:02 - 3:05]  Okay, when are the meetings? I asked.
+[3:05 - 3:10]  I arrived on that Tuesday to a two-story ASC that was just down the hill from a large hospital.
+[3:11 - 3:14]  It was across the street from four fast-food restaurants as well.
+[3:14 - 3:18]  I met Ron just inside the front door, and we took the elevator to the second floor.
+[3:18 - 3:25]  The ASC was clean, quiet, and looked more like a small office building with recessed lighting and various ferns in fancy pots.
+[3:25 - 3:30]  We entered what looked to be a training room about the size of two school classrooms.
+[3:31 - 3:35]  It was already filled with employees, mostly young and middle-aged women in royal blue scrubs.
+[3:36 - 3:38]  Ron introduced me to the CFO who was there, to his credit.
+[3:40 - 3:50]  He is the only CFO I have ever seen at an open enrollment meeting to face the employees that his decisions were impacting.
+[3:50 - 3:53]  The CFO got everyone's attention and started the meeting.
+[3:53 - 3:58]  He was straightforward in delivering the bad news about the changes to their health insurance plan.
+[3:58 - 3:59]  He explained why.
+[3:59 - 4:01]  He had a kind tone of voice.
+[4:01 - 4:07]  He expressed regret for what he had to do given all the expensive surgery claims they had over the previous year.
+[4:07 - 4:11]  There was no blame, more like resignation to fate.
+[4:12 - 4:15]  He said he was happy to talk to any of the employees any time in his office.
+[4:15 - 4:17]  The employees were silent.
+[4:18 - 4:20]  The CFO gave the floor to Ron and exited the room.
+[4:21 - 4:22]  There were a few questions.
+[4:22 - 4:25]  Can I still see the same doctor I have been seeing?
+[4:26 - 4:26]  Yes.
+[4:27 - 4:29]  Your insurance company and network are not changing, Ron answered.
+[4:31 - 4:35]  What will happen when I go to the pharmacy to get my medicine?
+[4:36 - 4:42]  You can still get your medication, but instead of paying the COPE, you will have to pay the negotiated rate, Ron said.
+[4:42 - 4:44]  The woman blankly stared back at him.
+[4:45 - 4:48]  She had no idea what a negotiated rate meant.
+[4:48 - 4:51]  The questioning continued for a few more minutes.
+[4:51 - 4:52]  There was no hostility.
+[4:52 - 4:55]  Just the sense that people were trying to figure out what to do.
+[4:56 - 4:58]  Ron concluded and introduced me.
+[4:58 - 4:59]  I gave my talk.
+[5:00 - 5:01]  There were more questions.
+[5:02 - 5:04]  There was some relief in the room around Compass's services.
+[5:04 - 5:15]  What I had not said to them was about a dozen of the employees were going to have to pay not just $5,000 more for their health care, but really more like $10,000.
+[5:15 - 5:23]  Like most insurance plans, they still had to pay part of the cost called the coinsurance even after the deductible was met, up to $10,000 total.
+[5:23 - 5:27]  It will be the dozen employees that have significant medical expenses.
+[5:28 - 5:32]  The employees would likely need to put the payment on their credit cards at high interest.
+[5:33 - 5:38]  They would probably feel the financial strain in the form of no vacation and no savings in their kid's college account.
+[5:39 - 5:42]  About half the employees would not be affected much at all.
+[5:42 - 5:46]  They were all in good health, didn't take any medications, and rarely went to the doctor.
+[5:46 - 5:53]  For them, they probably just felt bad for the co-workers that had health problems, or more accurately, whose family members had health problems.
+[5:53 - 5:55]  Some of those employees were well known.
+[5:55 - 5:56]  Some were silent.
+[5:57 - 5:58]  The meeting ended.
+[5:59 - 6:00]  There were two more meetings to go.
+[6:01 - 6:02]  The employees filed out.
+[6:02 - 6:03]  No chit-chat.
+[6:03 - 6:04]  Back to work.
+[6:05 - 6:07]  There were a few minutes before the next meeting.
+[6:07 - 6:09]  Ron took me back to the CFO's office.
+[6:09 - 6:12]  He wanted to introduce us more formally and give him a chance to talk to me.
+[6:12 - 6:20]  We walked around two corners and entered a small windowless office with the overhead lights off and only a desk lamp dimly lighting the room.
+[6:20 - 6:24]  The CFO was a large man, a little under six feet tall, and close to 300 pounds.
+[6:25 - 6:26]  He was probably in his mid-forties.
+[6:27 - 6:30]  Thank you so much for being here, Dr. Bricker, he said, raising from his chair to shake my hand.
+[6:31 - 6:34]  I thought you did a good job in there, I responded.
+[6:34 - 6:35]  He continued.
+[6:35 - 6:36]  We just killed our plan.
+[6:37 - 6:39]  The employees, they talk with the surgeons.
+[6:39 - 6:41]  They tell them their problems.
+[6:41 - 6:42]  The surgeons say they can help.
+[6:43 - 6:46]  They know they have good insurance since their employees here.
+[6:46 - 6:49]  They don't realize that it ends up coming back to bite us.
+[6:49 - 6:51]  Six major orthopedic surgeries in less than a year?
+[6:52 - 6:53]  That's crazy.
+[6:53 - 6:55]  No insurance company would take us.
+[6:56 - 6:56]  Ron added.
+[6:57 - 7:01]  When the carrier is calculating rates, they take into account the age and gender of the employees.
+[7:02 - 7:05]  They also consider the industry of the group.
+[7:05 - 7:10]  Healthcare groups always get charged more since they use more healthcare services.
+[7:10 - 7:13]  Do they ever, the CFO responded.
+[7:14 - 7:18]  And since we billed the insurance company through the main hospital's contract, these surgeries are very expensive.
+[7:19 - 7:20]  We get doubly screwed.
+[7:20 - 7:23]  This was a more nuanced point the CFO was making.
+[7:23 - 7:28]  There is a movement in America for joint ventures between hospitals and surgery centers.
+[7:28 - 7:36]  The hospital owns 51% of the ASC and a corporation formed by the surgeons who operate there owns the other 49%.
+[7:36 - 7:44]  Because the hospital owns the majority, they get to run the billing for the ASC through the hospital's contracts with commercial insurance carriers.
+[7:44 - 7:49]  Because the hospital is part of a large hospital system, they have a lot of negotiating power with the insurance carrier.
+[7:49 - 7:53]  They might demand $16,000 or even $60,000 for a surgery.
+[7:54 - 8:04]  If the surgery center was independent and had to negotiate with the insurance carrier on its own, they would probably only be able to demand a fraction of that amount.
+[8:04 - 8:08]  The hospital and doctors then split the profits 51-49, just like the ownership.
+[8:08 - 8:17]  As a result, the doctors are not only paid their physician fee for performing the surgery, but also almost half the facility fee.
+[8:18 - 8:27]  The physician fee might be several hundred or thousand dollars, but the facility fee can be tens of thousands of dollars.
+[8:28 - 8:34]  Incorrectly, most doctors and healthcare workers think that they are, quote-unquote, taking money from the insurance company.
+[8:34 - 8:35]  In fact, they are not.
+[8:35 - 8:37]  They are simply taking money from employers.
+[8:37 - 8:40]  Most employers with over 100 employees are fully credible.
+[8:41 - 8:45]  Fully credible means that the employer's premiums are a reflection of their own medical claims.
+[8:45 - 8:48]  If claims go up, then premiums go up.
+[8:48 - 8:50]  If claims go down, then premiums go down.
+[8:50 - 8:57]  The insurance company aims for 80% of their premiums to be spent on medical claims, and they keep 20% for administrative costs and profit.
+[8:58 - 9:06]  Coincidentally, this 80-20 relationship was the insurance company's goal prior to the Affordable Care Act and is now mandated by the ACA.
+[9:06 - 9:10]  All the ACA did was put that ratio into law.
+[9:10 - 9:20]  For this surgery center's health insurance plan, all the insurance company did was look at how much they spent in claims for the previous year and then add on 20%.
+[9:20 - 9:23]  More claims don't, quote-unquote, hurt the insurance company.
+[9:23 - 9:27]  The doctors and hospital are not sticking it to the greedy insurance company.
+[9:27 - 9:29]  The insurance company is just passing the buck.
+[9:30 - 9:36]  If anything, the insurance company wants the claims to go up because 20% of a bigger number means more money for administration and profit.
+[9:36 - 9:39]  There you have it.
+[9:39 - 9:44]  The perfect circle of health care costs captured in one employer.
+[9:45 - 9:52]  A lot of surgeries, some necessary, some probably not so necessary, plus high prices negotiated by the hospital,
+[9:53 - 10:02]  plus an ownership structure that pays the doctors more for doing more, equals higher claims and higher premiums.
+[10:02 - 10:08]  The surgery center then had to reduce that premium increase by increasing the deductible on the health insurance plan,
+[10:08 - 10:12]  essentially shifting the cost to the employees.
+[10:12 - 10:20]  In this case, the creator of the health care costs and those feeling the pain of those costs were one and the same.
+[10:20 - 10:26]  Or to be more accurate, really it was the doctors and hospital administrators who set up the arrangement who were the creators,
+[10:26 - 10:31]  and it was the nurses, medical assistants, and janitors that felt the pain.
+[10:31 - 10:36]  To make matters worse, the doctors and hospital administrators were not even on the surgery center's insurance plan,
+[10:36 - 10:39]  so their deductible did not increase.
+[10:40 - 10:40]  Lesson learned.
+[10:41 - 10:44]  There are frequently financial conflicts of interest in health care.
+[10:45 - 10:46]  The consequences are real.
+[10:47 - 10:52]  Anyone who wants to make more money in health care has to take it from somewhere.
+[10:52 - 10:54]  It is a zero-sum game.
+[10:57 - 11:00]  graphically, you can't keep this up on how much they have,
+[11:00 - 11:02]  which should ensure that you can bring behind them.
+[11:03 - 11:04]  It must ensure that the benefit of your ship is quite easy.
+[11:04 - 11:06]  And the time is running out, please train them to be very hard.
+[11:06 - 11:08]  Take a charge of the technology and will try to make these principles.
+[11:08 - 11:09]  Do a lot of money in the benefits of your marriage,
+[11:13 - 11:15]  therefore extrêmement well- 그럼 2.
+[11:15 - 11:17]  Take care of over and over again next decades
+[11:17 - 11:19]  and you can also estimate the benefit of the benefits of providing that these Eph 이게
+[11:19 - 11:21]  inencers and that verlum Foot力 Insights written to them.
+[11:22 - 11:23]  Let's restore the benefits of and this benefit of this review.
+[11:24 - 11:25]  This is a very浮 Bears Act sum up.

@@ -1,0 +1,158 @@
+Title: Abusive Medical Billing: What Is It and How to Stop It
+URL: https://www.youtube.com/watch?v=wCKk8LFwt8s
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is abusive billing, specifically around radiology reading fees. Now, abusive billing is the A in FWA, fraud, waste and abuse. And so fraud is like, you know, billing for medical services like that never happened. Waste would be like billing for things that like were totally not necessary. But what's abusive billing? I mean, that's just kind of a nebulous term. So this is actually a really good example of abusive billing. And we can see how it impacts an employee health plan. Okay, so this is an extension of the story of my wife's MRI, where the previous video that I made was talking about the facility fee for the MRI. But the MRI also has a professional fee for the radiologist to actually read it. So that's called the professional fee vis-a-vis the facility fee, which is for where it's done. Now, the professional fee for a allowed amount, for like a chest x-ray is like $15. And typically, the fee might max out like $150, right? The bill charges for just reading, which takes like five minutes for reading the MRI, was $4,453. So we get this. I'm like, that doesn't sound right. My wife goes ahead and she calls into the billing office, which of course, by the way, they had outsourced their billing to a company in California. Now, keep in mind, we're self-pay because we don't use traditional insurance, and we use a faith-based medical sharing plan. Again, another video for another day. But we're working with no insurance network here. Okay, that's fine. We kind of expect that. Okay, I still wasn't expecting $4,400 for billed charges. Okay, so the outsourced billing company in California, which my wife hasn't been on hold for an hour for, says, okay, we're authorized to give you a 50% discount. Okay, great. So we would still have to pay $2,200 for a five-minute read of an MRI? I'm like, that's still, something's messed up. That's like facility fees. Like facility fees for MRIs, even on the high end, are $2,200. Never the reading fee. Okay, so I call the radiology practice. Kind of a complicated phone tree. I kind of just had to guess on a number and left a message, and then somebody else who wasn't even the person I left the message for called me back and said, okay, well, I can actually give you up to an 80% discount off those billed charges. So that 80% of the 4,453 gets you to $891. And I said, look, that 4,453 for billed charges, there's something wrong there. That can't be right. And she said, oh, no, that's right. That's what we bill. Blue Cross, United, Cigna, Medicare. We bill all those companies. 4,453. I'm like, whoa, I need to talk to your boss because that does not sound right. And, of course, she was highly reluctant to do that. But I'm just like, listen, I'll talk to the CEO, the CFO. I mean, this is, I pulled the doctor card. I said, look, I'm a local internist. I know a lot of radiologists. I would appreciate more of an explanation than what you're giving me. She said, okay, I'm going to have somebody call you. So the next day, which, oh, by the way, Medicare reimburses the radiology read on this MRI, $118. And I called around to some other folks for some references. So in Illinois, billed charges for this MRI are $894 as opposed to $4,400. And in Florida, they're $466 as opposed to $4,400. So in Florida, the billed charges are a tenth of what they were trying to bill us for. Okay? So I talked to the director of accounting. She calls me back. She's very apologetic. She's like, look, the billed charges, they were an error. We actually did some changes to our CPT codes, and we combined multiple billed charges to that one CPT code where we really shouldn't have. And she said, and we did it in 2019. So this has been going on for over a year. They had not been aware of it. And she was, like, thankful that I brought this to her attention because they needed to go back and change it because that obviously wasn't right. But keep in mind, this has been going on for over a year that they've been doing this. And then she said something very interesting. She says, what we do is we actually aim for about 10 times Medicare for our billed charges because we still have percent discount contracts with some of our insurance carriers. Aha! That is unique. So percent discount charge means that, okay, so 10 times Medicare is still billing $1,180, which is still higher than Illinois or Florida by a long shot. And then the insurance carrier reimburses them like a 50% discount off of, or maybe even a 60% discount off of billed charges. So that means the insurance company is still paying upwards of $400 to $500 for a five-minute read of an MRI. And so, listen, most MRI contracts are not that way. In fact, my wife had had a previous MRI back when we had Blue Cross, and the allowed amount is a fixed case rate of $188. So, and that's like for an office visit. For office visits, it's basically the same thing, right? If you go in for an office visit, it's going to be a fixed amount for a certain level of intensity of the office visit. Okay, so basically, but not all their contracts are like that. Some of them are percent discount. So what does that incentivize the physician practice to do? To raise their billed charges as much as possible. Because if they are getting reimbursed 50% of billed charges, then what's to stop them from increasing their billed charges from $500 to $1,000 to $2,000 to $4,453? The more they raise the billed charges, the more they get paid. Now, this is particularly interesting because when I bring up percent of charge discount contracts, this is when a lot of carrier reps come back to me and be like, we hardly do that anymore. That's a really old contracting methodology. We really don't do that. Everything is pretty much at a fixed case rate these days. And I'm like, okay, well, that's not my understanding on the provider side. And here we have another example of a radiology group that is intentionally jacking up their billed charges to 10 times the Medicare rate so they can maximize reimbursement from insurance companies that have percent of charge discounts. And on top of that, they messed it up and they quadrupled their billed charges over a year ago. So fine. She says, look, I'm sorry for the, you know, for the inconvenience. Thank you for bringing this to our attention. I'm just going to give you the Medicare rate of $118. So I pulled out my credit card, paid with the credit card over the phone, and we were done for $118 instead of $4,453. Okay. But this gets to the abusive billing. Did she go back and for all of those MRI claims that they billed out since 2019 for the $4,453? If it was to like Blue Cross at a fixed case rate of $188, it wouldn't matter. They would just have to discount it down that amount. But for all those insurance carriers where they have a percent of charge discount, then that radiology group was potentially getting paid $2,200 for every minute, for every five-minute read of an MRI. Now, that was abusive billing. It was a mistake on their part, but that was abusive billing. That was abusive billed charges. Now, the TPA or the ASO guarantee they didn't catch it. Why? Because their claims review threshold is typically around $5,000 or $10,000. So squeaking in at $4,453, no person would have ever seen this claim. It would have been auto-adjudicated and auto-paid. And so for the last year, employers, whether they be self-funded and fully insured, have been paying upwards of $2,200 for MRI reads for this particular radiology group in error. And this is just one happenstance that our family happened to run into. So how many other physician practices have percent of charge discounts where their billed charges, either on purpose or by accident, are upwards of 40 times Medicare? And if you are getting a 50% discount off of that, you're still paying 20 times Medicare, then I would argue that falls into the A of FWA, of fraud, waste, and abuse. So just know that this is probably happening to your plan. And unless you're getting detailed claims reports, and you have people with the expertise and the time to go through it, which there are people that do this, then, you know, it's likely that you're missing this stuff, and you're just paying out stuff that you shouldn't. And that's my point for today. Thank you for watching the Healthcare Seed.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:10]  Today's topic is abusive billing, specifically around radiology reading fees.
+[0:10 - 0:17]  Now, abusive billing is the A in FWA, fraud, waste and abuse.
+[0:17 - 0:21]  And so fraud is like, you know, billing for medical services like that never happened.
+[0:21 - 0:27]  Waste would be like billing for things that like were totally not necessary.
+[0:27 - 0:29]  But what's abusive billing?
+[0:29 - 0:31]  I mean, that's just kind of a nebulous term.
+[0:31 - 0:34]  So this is actually a really good example of abusive billing.
+[0:35 - 0:38]  And we can see how it impacts an employee health plan.
+[0:38 - 0:41]  Okay, so this is an extension of the story of my wife's MRI,
+[0:41 - 0:45]  where the previous video that I made was talking about the facility fee for the MRI.
+[0:45 - 0:51]  But the MRI also has a professional fee for the radiologist to actually read it.
+[0:51 - 0:54]  So that's called the professional fee vis-a-vis the facility fee, which is for where it's done.
+[0:54 - 0:57]  Now, the professional fee for a allowed amount,
+[0:57 - 0:59]  for like a chest x-ray is like $15.
+[1:00 - 1:04]  And typically, the fee might max out like $150, right?
+[1:04 - 1:10]  The bill charges for just reading, which takes like five minutes for reading the MRI,
+[1:10 - 1:11]  was $4,453.
+[1:11 - 1:13]  So we get this.
+[1:13 - 1:15]  I'm like, that doesn't sound right.
+[1:15 - 1:17]  My wife goes ahead and she calls into the billing office,
+[1:18 - 1:24]  which of course, by the way, they had outsourced their billing to a company in California.
+[1:24 - 1:28]  Now, keep in mind, we're self-pay because we don't use traditional insurance,
+[1:28 - 1:30]  and we use a faith-based medical sharing plan.
+[1:31 - 1:33]  Again, another video for another day.
+[1:33 - 1:36]  But we're working with no insurance network here.
+[1:36 - 1:37]  Okay, that's fine.
+[1:37 - 1:38]  We kind of expect that.
+[1:38 - 1:41]  Okay, I still wasn't expecting $4,400 for billed charges.
+[1:41 - 1:44]  Okay, so the outsourced billing company in California,
+[1:44 - 1:46]  which my wife hasn't been on hold for an hour for,
+[1:47 - 1:49]  says, okay, we're authorized to give you a 50% discount.
+[1:49 - 1:50]  Okay, great.
+[1:50 - 1:54]  So we would still have to pay $2,200 for a five-minute read of an MRI?
+[1:54 - 1:56]  I'm like, that's still, something's messed up.
+[1:56 - 1:57]  That's like facility fees.
+[1:57 - 2:00]  Like facility fees for MRIs, even on the high end, are $2,200.
+[2:01 - 2:03]  Never the reading fee.
+[2:03 - 2:05]  Okay, so I call the radiology practice.
+[2:06 - 2:07]  Kind of a complicated phone tree.
+[2:07 - 2:10]  I kind of just had to guess on a number and left a message,
+[2:10 - 2:14]  and then somebody else who wasn't even the person I left the message for called me back
+[2:14 - 2:18]  and said, okay, well, I can actually give you up to an 80% discount off those billed charges.
+[2:20 - 2:24]  So that 80% of the 4,453 gets you to $891.
+[2:24 - 2:29]  And I said, look, that 4,453 for billed charges, there's something wrong there.
+[2:29 - 2:31]  That can't be right.
+[2:31 - 2:33]  And she said, oh, no, that's right.
+[2:33 - 2:34]  That's what we bill.
+[2:34 - 2:37]  Blue Cross, United, Cigna, Medicare.
+[2:37 - 2:39]  We bill all those companies.
+[2:39 - 2:41]  4,453.
+[2:41 - 2:46]  I'm like, whoa, I need to talk to your boss because that does not sound right.
+[2:47 - 2:49]  And, of course, she was highly reluctant to do that.
+[2:49 - 2:52]  But I'm just like, listen, I'll talk to the CEO, the CFO.
+[2:52 - 2:55]  I mean, this is, I pulled the doctor card.
+[2:55 - 2:56]  I said, look, I'm a local internist.
+[2:56 - 2:58]  I know a lot of radiologists.
+[2:58 - 3:02]  I would appreciate more of an explanation than what you're giving me.
+[3:03 - 3:05]  She said, okay, I'm going to have somebody call you.
+[3:05 - 3:12]  So the next day, which, oh, by the way, Medicare reimburses the radiology read on this MRI, $118.
+[3:13 - 3:15]  And I called around to some other folks for some references.
+[3:15 - 3:20]  So in Illinois, billed charges for this MRI are $894 as opposed to $4,400.
+[3:20 - 3:23]  And in Florida, they're $466 as opposed to $4,400.
+[3:23 - 3:29]  So in Florida, the billed charges are a tenth of what they were trying to bill us for.
+[3:30 - 3:30]  Okay?
+[3:30 - 3:32]  So I talked to the director of accounting.
+[3:32 - 3:33]  She calls me back.
+[3:33 - 3:34]  She's very apologetic.
+[3:34 - 3:37]  She's like, look, the billed charges, they were an error.
+[3:38 - 3:43]  We actually did some changes to our CPT codes, and we combined multiple billed charges to that one CPT code
+[3:43 - 3:45]  where we really shouldn't have.
+[3:45 - 3:48]  And she said, and we did it in 2019.
+[3:48 - 3:51]  So this has been going on for over a year.
+[3:51 - 3:53]  They had not been aware of it.
+[3:53 - 3:57]  And she was, like, thankful that I brought this to her attention because they needed to go back and change it
+[3:57 - 3:59]  because that obviously wasn't right.
+[3:59 - 4:03]  But keep in mind, this has been going on for over a year that they've been doing this.
+[4:03 - 4:05]  And then she said something very interesting.
+[4:05 - 4:10]  She says, what we do is we actually aim for about 10 times Medicare for our billed charges
+[4:10 - 4:16]  because we still have percent discount contracts with some of our insurance carriers.
+[4:16 - 4:17]  Aha!
+[4:17 - 4:18]  That is unique.
+[4:18 - 4:25]  So percent discount charge means that, okay, so 10 times Medicare is still billing $1,180,
+[4:25 - 4:29]  which is still higher than Illinois or Florida by a long shot.
+[4:29 - 4:34]  And then the insurance carrier reimburses them like a 50% discount off of,
+[4:34 - 4:37]  or maybe even a 60% discount off of billed charges.
+[4:37 - 4:45]  So that means the insurance company is still paying upwards of $400 to $500 for a five-minute read of an MRI.
+[4:46 - 4:49]  And so, listen, most MRI contracts are not that way.
+[4:49 - 4:52]  In fact, my wife had had a previous MRI back when we had Blue Cross,
+[4:52 - 4:56]  and the allowed amount is a fixed case rate of $188.
+[4:57 - 5:00]  So, and that's like for an office visit.
+[5:00 - 5:02]  For office visits, it's basically the same thing, right?
+[5:02 - 5:07]  If you go in for an office visit, it's going to be a fixed amount for a certain level of intensity of the office visit.
+[5:07 - 5:10]  Okay, so basically, but not all their contracts are like that.
+[5:10 - 5:11]  Some of them are percent discount.
+[5:12 - 5:14]  So what does that incentivize the physician practice to do?
+[5:14 - 5:17]  To raise their billed charges as much as possible.
+[5:17 - 5:20]  Because if they are getting reimbursed 50% of billed charges,
+[5:21 - 5:27]  then what's to stop them from increasing their billed charges from $500 to $1,000 to $2,000 to $4,453?
+[5:28 - 5:30]  The more they raise the billed charges, the more they get paid.
+[5:30 - 5:39]  Now, this is particularly interesting because when I bring up percent of charge discount contracts,
+[5:39 - 5:42]  this is when a lot of carrier reps come back to me and be like,
+[5:42 - 5:43]  we hardly do that anymore.
+[5:43 - 5:46]  That's a really old contracting methodology.
+[5:46 - 5:47]  We really don't do that.
+[5:48 - 5:50]  Everything is pretty much at a fixed case rate these days.
+[5:51 - 5:56]  And I'm like, okay, well, that's not my understanding on the provider side.
+[5:56 - 6:02]  And here we have another example of a radiology group that is intentionally jacking up their billed charges
+[6:02 - 6:07]  to 10 times the Medicare rate so they can maximize reimbursement from insurance companies
+[6:07 - 6:09]  that have percent of charge discounts.
+[6:10 - 6:17]  And on top of that, they messed it up and they quadrupled their billed charges over a year ago.
+[6:17 - 6:17]  So fine.
+[6:18 - 6:21]  She says, look, I'm sorry for the, you know, for the inconvenience.
+[6:21 - 6:22]  Thank you for bringing this to our attention.
+[6:22 - 6:25]  I'm just going to give you the Medicare rate of $118.
+[6:25 - 6:28]  So I pulled out my credit card, paid with the credit card over the phone,
+[6:29 - 6:32]  and we were done for $118 instead of $4,453.
+[6:32 - 6:33]  Okay.
+[6:33 - 6:35]  But this gets to the abusive billing.
+[6:36 - 6:45]  Did she go back and for all of those MRI claims that they billed out since 2019 for the $4,453?
+[6:46 - 6:50]  If it was to like Blue Cross at a fixed case rate of $188, it wouldn't matter.
+[6:51 - 6:54]  They would just have to discount it down that amount.
+[6:54 - 6:57]  But for all those insurance carriers where they have a percent of charge discount,
+[6:58 - 7:04]  then that radiology group was potentially getting paid $2,200 for every minute,
+[7:04 - 7:08]  for every five-minute read of an MRI.
+[7:08 - 7:10]  Now, that was abusive billing.
+[7:11 - 7:13]  It was a mistake on their part, but that was abusive billing.
+[7:13 - 7:15]  That was abusive billed charges.
+[7:15 - 7:20]  Now, the TPA or the ASO guarantee they didn't catch it.
+[7:20 - 7:20]  Why?
+[7:20 - 7:24]  Because their claims review threshold is typically around $5,000 or $10,000.
+[7:25 - 7:29]  So squeaking in at $4,453, no person would have ever seen this claim.
+[7:30 - 7:32]  It would have been auto-adjudicated and auto-paid.
+[7:32 - 7:38]  And so for the last year, employers, whether they be self-funded and fully insured,
+[7:38 - 7:46]  have been paying upwards of $2,200 for MRI reads for this particular radiology group in error.
+[7:46 - 7:51]  And this is just one happenstance that our family happened to run into.
+[7:51 - 7:57]  So how many other physician practices have percent of charge discounts
+[7:57 - 8:04]  where their billed charges, either on purpose or by accident, are upwards of 40 times Medicare?
+[8:05 - 8:10]  And if you are getting a 50% discount off of that, you're still paying 20 times Medicare,
+[8:10 - 8:16]  then I would argue that falls into the A of FWA, of fraud, waste, and abuse.
+[8:16 - 8:20]  So just know that this is probably happening to your plan.
+[8:20 - 8:23]  And unless you're getting detailed claims reports,
+[8:23 - 8:27]  and you have people with the expertise and the time to go through it,
+[8:27 - 8:28]  which there are people that do this,
+[8:29 - 8:31]  then, you know, it's likely that you're missing this stuff,
+[8:31 - 8:33]  and you're just paying out stuff that you shouldn't.
+[8:33 - 8:34]  And that's my point for today.
+[8:35 - 8:36]  Thank you for watching the Healthcare Seed.

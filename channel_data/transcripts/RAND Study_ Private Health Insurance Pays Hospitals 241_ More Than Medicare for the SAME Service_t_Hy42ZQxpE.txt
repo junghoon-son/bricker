@@ -1,0 +1,111 @@
+Title: RAND Study: Private Health Insurance Pays Hospitals 241% More Than Medicare for the SAME Service
+URL: https://www.youtube.com/watch?v=t_Hy42ZQxpE
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, thank you for watching A Healthcare Z and today's topic is a recent RAND study on hospital prices. Now you'll notice that I have ditched the tie today because I was actually asked by a viewer to do so. So just know that look, I'm responsive to you people. Okay, first up, the RAND study which came out on the 11th of May of 2019 said that commercial insurance pays hospitals on average 247 per, 241 percent of what Medicare pays. Now that's on average. So the other, one of the other points that the RAND study made was that that amount was highly variable by hospitals. So they said at the low end there were some hospitals that got that charged commercial insurance about 150 percent and this is after the discount's been applied so this is the quote unquote allowed amount of the true price all the way up to 400 percent. So it was, not only was it on average 241 percent but it actually was highly variable. Okay, and this is super important because we've known for a long time that commercial insurance plans pay hospitals much more than Medicare pays them. And we're not going to get into the debate today over whether or not Medicare is adequate compensation or is too low and therefore hospitals have to overcharge commercial insurance in order to make up for the fact that Medicare is not paying enough. Like that's actually not the topic for today. The topic for today is to say okay, well let's look at this data in more detail and see what we as employers can take from it. Okay, so one is that the outpatient services were 293 percent of Medicare for commercial insurance and the inpatient services were 204 percent. In other words, on a relative basis outpatient services are much more expensive than inpatient services. And that's important because the majority of services at a hospital these days are actually done on an outpatient basis and especially for commercial insurance employers, in other words for folks that are, you know, not on Medicare under the age of 65, a lot of their surgeries are done on an outpatient basis as well. So it's just important to know that just because something is quote unquote outpatient doesn't make it less expensive. In fact, it actually might make it even more expensive. Okay, next, there's a challenge with this particular study as it relates to the basket of services that they looked at, right? Because anytime you're looking at prices, you can't just look at prices across the board. You have to look at prices for the basket of what's provided at that particular hospital. And you also need to look at the basket of what people would actually consume. And oh, by the way, that's exactly what the government does when they're calculating inflation as part of CPI. They're actually looking at a particular basket and they weight that basket. Okay, so we'll talk about that in more detail. So specifically for this RAND study, they looked at ER services, cath lab, endoscopy, labor and delivery, laparoscopic surgery, laparoscopic surgeries, CTs and MRIs, orthopedics, mental health, circulation and respiratory. So there are some major holes in the data by hospital and by hospital system. And let's look at two specific hospital systems here in Dallas-Fort Worth that I'm very familiar with. And this is where the great thing about the RAND study is that they actually published the data by hospital and you can download it on an Excel spreadsheet. And I highly encourage all of you to do this. I'll leave a link in the show notes because you can actually run a ton of analyses yourself on this Excel spreadsheet. Okay, so at Baylor Scott and White, their average for inpatient and outpatient was 255% of Medicare. Now, what did they analyze for that? They analyzed 7,880 claims, which totaled $15.6 million. And I will tell you that Baylor Scott and White is huge. It is enormous. So, how enormous is it? Their total revenue in the last six months of 2018 was $4.9 billion. So if you annualize that to $9.8 billion and then we've talked about this before, but commercial insurance generally makes up about 40% of a hospital's revenue with Medicare and Medicaid self-pay being the other sources of revenue. So you just take that total revenue, $9.8 billion, you multiply it by .4, you get $3.9 billion. Okay. Well, if you divide the 15.6 million by 3.9 billion, that means of the costs and the prices assessed for the Baylor Scott and White healthcare system by this RAND study. They only looked at 0.4% of the claims cost. Okay. In terms of sample size, I'm just going to go out on a limb and say that's too low. So I think that the RAND study does a great job of saying, look, in aggregate, and this supports something that we've known for a long time, but I think at the individual hospital system level, it's just not a big enough sample size. Okay. Let's look at another Dallas-Fort Worth hospital system that I'm also very familiar with, and that's Texas Health Resources. Okay. Where they looked at 7,112 claims totaling $18.2 million. Total revenue for Texas Health Resources was $3.5 billion for nine months. So in order to annualize it, it gets us up to $4.7 billion for a 12-month period of time. Multiply that by .4 and that gets you $1.9 billion of commercial insurance reimbursement. So again, you divide the $18.2 million by the $1.9 billion. And that's only 0.96% of all commercial insurance healthcare costs for Texas Health Resources were analyzed by RAND. Again, I would say that's too low. And they found that Texas Health Resources was, quote unquote, more relatively expensive. It was 294% of Medicare versus Baylor's 255% of Medicare. Now, my point is, I don't think you can say that. I think you don't know. Like, because the basket is not necessarily representative of what Baylor overall produces, and this basket is also not representative of what an employer buys, and it's also not weighted by what Baylor produces, and it's not weighted by what the employer buys. So Baylor might actually be much higher than 255% of Medicare, or it might be lower. And likewise, Texas Health Resources might be much higher than 294% of Medicare, or it might be much lower. And that's the whole reason why, going back to the example with inflation and the CPI, that's why the CPI basket exists, and that's why it's weighted. And so all I'm saying today is that don't draw conclusions by specific hospital system based upon this study, but on an aggregate level, it is very helpful. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:06]  Hello, thank you for watching A Healthcare Z and today's topic is a recent RAND study
+[0:06 - 0:08]  on hospital prices.
+[0:08 - 0:13]  Now you'll notice that I have ditched the tie today because I was actually asked by
+[0:13 - 0:16]  a viewer to do so.
+[0:16 - 0:18]  So just know that look, I'm responsive to you people.
+[0:18 - 0:26]  Okay, first up, the RAND study which came out on the 11th of May of 2019 said that commercial
+[0:26 - 0:35]  insurance pays hospitals on average 247 per, 241 percent of what Medicare pays.
+[0:35 - 0:36]  Now that's on average.
+[0:36 - 0:42]  So the other, one of the other points that the RAND study made was that that amount was
+[0:42 - 0:44]  highly variable by hospitals.
+[0:44 - 0:49]  So they said at the low end there were some hospitals that got that charged commercial
+[0:49 - 0:54]  insurance about 150 percent and this is after the discount's been applied so this is the
+[0:54 - 0:58]  quote unquote allowed amount of the true price all the way up to 400 percent.
+[0:58 - 1:02]  So it was, not only was it on average 241 percent but it actually was highly variable.
+[1:02 - 1:06]  Okay, and this is super important because we've known for a long time that commercial insurance
+[1:06 - 1:11]  plans pay hospitals much more than Medicare pays them.
+[1:11 - 1:14]  And we're not going to get into the debate today over whether or not Medicare is adequate
+[1:14 - 1:20]  compensation or is too low and therefore hospitals have to overcharge commercial insurance in order
+[1:20 - 1:22]  to make up for the fact that Medicare is not paying enough.
+[1:22 - 1:25]  Like that's actually not the topic for today.
+[1:25 - 1:32]  The topic for today is to say okay, well let's look at this data in more detail and see what
+[1:32 - 1:34]  we as employers can take from it.
+[1:34 - 1:40]  Okay, so one is that the outpatient services were 293 percent of Medicare for commercial insurance
+[1:40 - 1:43]  and the inpatient services were 204 percent.
+[1:43 - 1:48]  In other words, on a relative basis outpatient services are much more expensive than inpatient
+[1:48 - 1:49]  services.
+[1:49 - 1:53]  And that's important because the majority of services at a hospital these days are actually
+[1:53 - 1:57]  done on an outpatient basis and especially for commercial insurance employers, in other
+[1:57 - 2:01]  words for folks that are, you know, not on Medicare under the age of 65, a lot of their surgeries
+[2:01 - 2:02]  are done on an outpatient basis as well.
+[2:02 - 2:07]  So it's just important to know that just because something is quote unquote outpatient doesn't make
+[2:07 - 2:08]  it less expensive.
+[2:08 - 2:10]  In fact, it actually might make it even more expensive.
+[2:10 - 2:17]  Okay, next, there's a challenge with this particular study as it relates to the basket of services
+[2:17 - 2:19]  that they looked at, right?
+[2:19 - 2:25]  Because anytime you're looking at prices, you can't just look at prices across the board.
+[2:25 - 2:30]  You have to look at prices for the basket of what's provided at that particular hospital.
+[2:30 - 2:33]  And you also need to look at the basket of what people would actually consume.
+[2:33 - 2:41]  And oh, by the way, that's exactly what the government does when they're calculating inflation as part of CPI.
+[2:41 - 2:45]  They're actually looking at a particular basket and they weight that basket.
+[2:45 - 2:48]  Okay, so we'll talk about that in more detail.
+[2:48 - 2:55]  So specifically for this RAND study, they looked at ER services, cath lab, endoscopy, labor and
+[2:55 - 3:01]  delivery, laparoscopic surgery, laparoscopic surgeries, CTs and MRIs, orthopedics, mental health,
+[3:01 - 3:03]  circulation and respiratory.
+[3:03 - 3:11]  So there are some major holes in the data by hospital and by hospital system.
+[3:11 - 3:16]  And let's look at two specific hospital systems here in Dallas-Fort Worth that I'm very familiar
+[3:16 - 3:17]  with.
+[3:17 - 3:20]  And this is where the great thing about the RAND study is that they actually published the
+[3:20 - 3:25]  data by hospital and you can download it on an Excel spreadsheet.
+[3:25 - 3:26]  And I highly encourage all of you to do this.
+[3:26 - 3:30]  I'll leave a link in the show notes because you can actually run a ton of analyses yourself
+[3:30 - 3:31]  on this Excel spreadsheet.
+[3:31 - 3:38]  Okay, so at Baylor Scott and White, their average for inpatient and outpatient was 255% of
+[3:38 - 3:39]  Medicare.
+[3:39 - 3:42]  Now, what did they analyze for that?
+[3:42 - 3:49]  They analyzed 7,880 claims, which totaled $15.6 million.
+[3:49 - 3:53]  And I will tell you that Baylor Scott and White is huge.
+[3:53 - 3:55]  It is enormous.
+[3:55 - 3:57]  So, how enormous is it?
+[3:57 - 4:03]  Their total revenue in the last six months of 2018 was $4.9 billion.
+[4:03 - 4:08]  So if you annualize that to $9.8 billion and then we've talked about this before, but
+[4:08 - 4:12]  commercial insurance generally makes up about 40% of a hospital's revenue with Medicare
+[4:12 - 4:14]  and Medicaid self-pay being the other sources of revenue.
+[4:14 - 4:19]  So you just take that total revenue, $9.8 billion, you multiply it by .4, you get $3.9 billion.
+[4:19 - 4:20]  Okay.
+[4:20 - 4:29]  Well, if you divide the 15.6 million by 3.9 billion, that means of the costs and the prices assessed
+[4:29 - 4:34]  for the Baylor Scott and White healthcare system by this RAND study.
+[4:34 - 4:39]  They only looked at 0.4% of the claims cost.
+[4:39 - 4:40]  Okay.
+[4:40 - 4:43]  In terms of sample size, I'm just going to go out on a limb and say that's too low.
+[4:43 - 4:49]  So I think that the RAND study does a great job of saying, look, in aggregate, and this
+[4:49 - 4:52]  supports something that we've known for a long time, but I think at the individual hospital
+[4:52 - 4:55]  system level, it's just not a big enough sample size.
+[4:55 - 4:56]  Okay.
+[4:56 - 5:00]  Let's look at another Dallas-Fort Worth hospital system that I'm also very familiar with, and
+[5:00 - 5:01]  that's Texas Health Resources.
+[5:01 - 5:02]  Okay.
+[5:02 - 5:07]  Where they looked at 7,112 claims totaling $18.2 million.
+[5:07 - 5:11]  Total revenue for Texas Health Resources was $3.5 billion for nine months.
+[5:11 - 5:16]  So in order to annualize it, it gets us up to $4.7 billion for a 12-month period of time.
+[5:16 - 5:22]  Multiply that by .4 and that gets you $1.9 billion of commercial insurance reimbursement.
+[5:22 - 5:25]  So again, you divide the $18.2 million by the $1.9 billion.
+[5:25 - 5:32]  And that's only 0.96% of all commercial insurance healthcare costs for Texas Health Resources
+[5:32 - 5:35]  were analyzed by RAND.
+[5:35 - 5:37]  Again, I would say that's too low.
+[5:37 - 5:40]  And they found that Texas Health Resources was, quote unquote, more relatively expensive.
+[5:40 - 5:45]  It was 294% of Medicare versus Baylor's 255% of Medicare.
+[5:45 - 5:49]  Now, my point is, I don't think you can say that.
+[5:49 - 5:51]  I think you don't know.
+[5:51 - 5:58]  Like, because the basket is not necessarily representative of what Baylor overall produces,
+[5:58 - 6:02]  and this basket is also not representative of what an employer buys,
+[6:03 - 6:07]  and it's also not weighted by what Baylor produces, and it's not weighted by what the employer buys.
+[6:07 - 6:12]  So Baylor might actually be much higher than 255% of Medicare, or it might be lower.
+[6:12 - 6:16]  And likewise, Texas Health Resources might be much higher than 294% of Medicare,
+[6:16 - 6:18]  or it might be much lower.
+[6:18 - 6:23]  And that's the whole reason why, going back to the example with inflation and the CPI,
+[6:24 - 6:28]  that's why the CPI basket exists, and that's why it's weighted.
+[6:29 - 6:34]  And so all I'm saying today is that don't draw conclusions by specific hospital system
+[6:34 - 6:40]  based upon this study, but on an aggregate level, it is very helpful.
+[6:40 - 6:41]  And that's my point for today.
+[6:41 - 6:43]  Thank you for watching A Healthcare Z.

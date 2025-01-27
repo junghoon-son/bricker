@@ -1,0 +1,133 @@
+Title: Accounting for Healthcare Professionals
+URL: https://www.youtube.com/watch?v=X07HUpvgW3U
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is super simple, accounting for healthcare professionals. That's right, this is going to be a little bit like eating vegetables. Like it's going to be hard to swallow, but in the end it's good for you. So stick with me. Now, this is based off a presentation by a gentleman by the name of Brian Feroldi who talked about three financial statements for investors, but his explanation was so good that I wanted to create a synopsis for it for healthcare professionals. Because most healthcare types, we're kind of used to taking care of patients. We're not used to all these accounting things, but it's super important to understand how they work. So we're going to go through the three financial statements. The first one is the balance sheet. And you can think of it as like an individual person's net worth. You got a net worth, I got a net worth, everybody's got a net worth. The balance sheet is just the net worth of the organization, whether it be an insurance company or a hospital or a pharmaceutical company or a home health company. All right, it is a snapshot. It is at one particular date and time. Typically it's done quarterly. So, and then the quarters add up to an annual balance sheet. Now, you have assets minus liabilities equals your net worth. Now, for accounting reasons, we got to make it a little more complicated. What they do in accounting is they say, okay, your assets, they take the liabilities and they move it over to the net worth side. So, of course, when you do that, you got to change the symbol, right? You remember first grade math, right? So assets equals liabilities plus, and then they don't call it net worth, they call it shareholders' equities. So assets equals liabilities plus shareholders' equity. But a lot of healthcare organizations like hospitals are not for profit. They don't have shareholders. So in the case of not-for-profit organizations, they don't call it shareholders' equity. They call it net assets. All right. So what's an example of an asset? Cash in the bank is an asset. A building is an asset. Inventory is an asset. Accounts receivable are an asset. Investments are an asset. Okay. Now, what are liabilities? Okay. Expenses that you haven't paid out yet. Debt is a liability. And accounts payable, you've gotten a bill, but you haven't paid it back yet. Accounts payable are also liabilities. Okay. Next up, second statement, the income statement. You, sort of the layman's term for an income statement is a budget. Everybody knows what a budget is. Everybody has a budget. Okay. This is like the budget for a healthcare organization. Again, unlike the balance sheet, which is a snapshot on December 31st or March 31st, it's a movie. It's over a period of time. It has a start date and it has an end date. Okay. Now, the income statement has revenue, money that comes in, minus expenses, your costs equals your profit or your loss, right? If your revenue is greater than your expenses, then you have profit. And if your expenses are greater than your revenue, you have loss. So sometimes this income statement is referred to as a profit and loss statement or a P&L. Sometimes you'll hear people say, I had a hundred million dollars of P&L responsibility. That's what they're talking about. The budget for their particular, say, division of the hospital was a hundred million dollars. So we're talking about P&L, they're talking about the income statement. Okay. Now, the income statement has like a flow where you take the revenue and then you subtract out different types of expenses. And we're going to go through that waterfall of expenses because it's important. Okay. So another name for revenue is just sales. You've got, you're selling, you know, healthcare services to individual patients, and you're bringing in revenue from Medicare or commercial insurance or what have you, or an insurance company might bring, be bringing in revenue from the government or from individuals paying for insurance policies or for companies paying for insurance policies, et cetera, right? And then you, so you've got all your sales and then you subtract out the cost of goods sold or what's referred to as COGS. That's what it costs you to literally deliver, let's say, the patient care. So what it actually costs to deliver taking care of that person's strep throat or what it costs to, you know, deliver keeping the hospital open for a month or a quarter, et cetera. Okay. So you take your sales minus your COGS, it gives you your gross profit, but we're not done because then from your gross profit, you have to subtract out what's referred to as operating expenses. What in the world are operating expenses? Well, one of the biggest ones are referred to as SG&A, sales, general and administrative. Okay. So all the quote unquote general and administrative costs, they don't go into COGS. So like all the administrators at a hospital, they don't go into COGS, they go into SG&A. Okay. So then you take your gross profit minus the operating expense, and then that gives you the operating income, but we're not done. Then you take the operating income and then you have to subtract out non-operating expenses. What's a non-operating expense? Interest on debt. So if your particular hospital or company has a lot of debt, well, you got to make interest payments on that. And that counts as a non-operating expense. It gets subtracted from the operating income and that then leaves you with the net income. Now the net income is the same thing as earnings, which is the same thing as profit. So sometimes you hear these words like earnings and net income and profit. You're like, well, what do they mean? They all mean the same thing. Okay. Finally, third and finally, we have the cash flow statement. Now you can think of the cash flow statement as like a checking account. Everybody's got a checking account. You know what a checking account is. Money comes in, money goes out of a checking account. Okay. So again, it's kind of like a movie. It has a start date and it has an end date and it's all the money coming in and money going out of the checking account over a period of time. Now that money can come in and go out into several buckets. Well, you can have money coming in or going out of the checking account because of operating activities from like running your clinic or running your hospital. But that's not the only thing that causes money to go in and to go out of your checking account. You got other things too, like your investments. You might sell an investment or you might buy an investment. So that might cause your, whether it be stocks or a piece of land or whatever, right? So you've got money going in and coming out of your checking account because of investments. And then you also have money coming in and going out because of quote unquote financing. So this might be like debt, right? So like hospitals sell lots of bonds or a health insurance company that's publicly traded might issue more shares, right? So when you're issuing more debt, money would come into your checking account because you issued debt, which is basically an IOU. Likewise, if you're a publicly traded company, if you issued more shares, more money would come into your checking account because of that financing activity. Okay. So it's not just the operating activities, but it's also the investment activities and the financing activities. And that finally leaves you with the change in cash over that period of time. Now notice cash is an asset and it then goes up here on the balance sheet. So the balance sheet is heavily impacted by the cash flow statement or the statement of cash. It's sometimes called note, the balance sheet is not determined by the income statement. The income statement is very different from the cash flow statement because the income statement uses something that is referred to as accrual accounting and accrual accounting means that the revenue and the expenses actually has nothing to do with money actually coming in or leaving the company. That's not how it works. Accrual accounting is you count the revenue when you do the service. So when you do the patient visit, you count the revenue. And the expense is when you use the throat swab. It's when you use the tongue depressor. It's when you use the medication that you give to the person. It's not when you actually write the check to pay for the medication. It's not when you write the check to pay for the tongue depressor. It's when you use it. So that's accrual accounting. So note that this whole idea of revenue and expenses, it actually is not specifically what's going in and coming out of the checking account. Okay. The checking account uses a totally different type of accounting, which is referred to as cash accounting. So that's literally not when the service is done. It's when the money. So that's a huge deal for hospitals, right? Because it takes them a super long time to get paid by insurance companies. So hospitals count their revenue, not when they get paid by the insurance company. It's when they do the service. They count the money when it comes into their bank account on their cash flow statement, because then they're using cash accounting. Likewise, when they have an expense, it's not when they pay for the medications or the tongue depressor. When they actually pay for the medications and the tongue depressors, that's when the money goes out of the checking account. So then that would show up on the cash flow statement. So income statement uses accrual accounting, which frankly, is somewhat subject to an accountant's opinion. And then we have the cash flow statement, which is the money actually coming in and leaving. Now, why is this important? Why have I told you this? Well, listen, there's a lot of healthcare professionals that don't know anything about accounting. And you oftentimes are a nurse or your doctor and you work for a hospital. And hospitals are notorious for crying poor. They'll say, look, on our income statement, we had a loss. We had a negative net income. Okay, so fine. But what you as a doctor or a nurse or anybody, respiratory therapist, anybody, you say, okay, that's fine. But what was the gross profit? Like, what was the sales minus just the cost of goods sold? Oh, that was plus $100 million. Oh, okay. So we actually made money delivering care for the patients. Okay, now, so okay, so then what was our operating expense? Oh, our operating expense was $100 million. You mean to tell me you spent all of our gross profit on sales, general administrative and research and development? Yeah, that's right. We did that. Okay. Okay, so our operating income was zero. That's right. Operating income was zero. Okay, but then we had our non-operating expense. Oh, yeah, we have a ton of debt. And so we actually had to pay another $10 million in interest expense. And so we had a negative net income of negative $10 million because we spent $10 million on the interest expense and then $100 million on our operating expense of SG&A. So, okay, so if you're working over here in the COGS department, you're like, okay, you're here asking me to like decrease my salary, not give me a bonus, blah, blah, blah. I'm like, okay, you're kind of pushing me on the COGS here, but I'm going to push back on you on the operating expense and the non-operating expense. And if you don't know anything about accounting, all they'll do is they'll be like, oh, we have negative net income, so we need to lower your salary. And you're like, oh, okay, that sounds reasonable. No, it does not sound reasonable. You got to ask about the operating expense and the non-operating expense. Okay, so this is a basic introduction into the balance sheet income statement and cash flow statement for healthcare professionals. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic
+[0:05 - 0:12]  is super simple, accounting for healthcare professionals. That's right, this is going
+[0:12 - 0:17]  to be a little bit like eating vegetables. Like it's going to be hard to swallow, but
+[0:17 - 0:23]  in the end it's good for you. So stick with me. Now, this is based off a presentation
+[0:23 - 0:27]  by a gentleman by the name of Brian Feroldi who talked about three financial statements
+[0:27 - 0:34]  for investors, but his explanation was so good that I wanted to create a synopsis for it
+[0:34 - 0:38]  for healthcare professionals. Because most healthcare types, we're kind of used to taking
+[0:38 - 0:44]  care of patients. We're not used to all these accounting things, but it's super important
+[0:44 - 0:48]  to understand how they work. So we're going to go through the three financial statements.
+[0:48 - 0:54]  The first one is the balance sheet. And you can think of it as like an individual person's
+[0:54 - 1:00]  net worth. You got a net worth, I got a net worth, everybody's got a net worth. The balance
+[1:00 - 1:04]  sheet is just the net worth of the organization, whether it be an insurance company or a hospital
+[1:04 - 1:08]  or a pharmaceutical company or a home health company. All right, it is a snapshot. It is
+[1:08 - 1:16]  at one particular date and time. Typically it's done quarterly. So, and then the quarters add
+[1:16 - 1:23]  up to an annual balance sheet. Now, you have assets minus liabilities equals your net worth.
+[1:23 - 1:27]  Now, for accounting reasons, we got to make it a little more complicated. What they do in accounting
+[1:27 - 1:32]  is they say, okay, your assets, they take the liabilities and they move it over to the net worth
+[1:32 - 1:35]  side. So, of course, when you do that, you got to change the symbol, right? You remember
+[1:35 - 1:42]  first grade math, right? So assets equals liabilities plus, and then they don't call it net worth,
+[1:42 - 1:47]  they call it shareholders' equities. So assets equals liabilities plus shareholders' equity.
+[1:47 - 1:53]  But a lot of healthcare organizations like hospitals are not for profit. They don't have
+[1:53 - 1:58]  shareholders. So in the case of not-for-profit organizations, they don't call it shareholders'
+[1:59 - 2:06]  equity. They call it net assets. All right. So what's an example of an asset? Cash in the bank is an
+[2:06 - 2:13]  asset. A building is an asset. Inventory is an asset. Accounts receivable are an asset.
+[2:14 - 2:19]  Investments are an asset. Okay. Now, what are liabilities? Okay. Expenses that you haven't paid
+[2:19 - 2:25]  out yet. Debt is a liability. And accounts payable, you've gotten a bill, but you haven't paid it back
+[2:25 - 2:33]  yet. Accounts payable are also liabilities. Okay. Next up, second statement, the income statement.
+[2:33 - 2:39]  You, sort of the layman's term for an income statement is a budget. Everybody knows what a
+[2:39 - 2:44]  budget is. Everybody has a budget. Okay. This is like the budget for a healthcare organization.
+[2:44 - 2:52]  Again, unlike the balance sheet, which is a snapshot on December 31st or March 31st,
+[2:53 - 2:59]  it's a movie. It's over a period of time. It has a start date and it has an end date. Okay. Now,
+[2:59 - 3:08]  the income statement has revenue, money that comes in, minus expenses, your costs equals your profit or
+[3:08 - 3:11]  your loss, right? If your revenue is greater than your expenses, then you have profit. And if your
+[3:11 - 3:15]  expenses are greater than your revenue, you have loss. So sometimes this income statement is referred
+[3:15 - 3:22]  to as a profit and loss statement or a P&L. Sometimes you'll hear people say, I had a hundred million
+[3:22 - 3:27]  dollars of P&L responsibility. That's what they're talking about. The budget for their particular,
+[3:27 - 3:32]  say, division of the hospital was a hundred million dollars. So we're talking about P&L,
+[3:33 - 3:37]  they're talking about the income statement. Okay. Now, the income statement has like a flow where you
+[3:37 - 3:42]  take the revenue and then you subtract out different types of expenses. And we're going to go through
+[3:42 - 3:48]  that waterfall of expenses because it's important. Okay. So another name for revenue is just sales.
+[3:48 - 3:54]  You've got, you're selling, you know, healthcare services to individual patients,
+[3:54 - 3:58]  and you're bringing in revenue from Medicare or commercial insurance or what have you,
+[3:58 - 4:02]  or an insurance company might bring, be bringing in revenue from the government or from individuals
+[4:02 - 4:06]  paying for insurance policies or for companies paying for insurance policies, et cetera, right?
+[4:06 - 4:12]  And then you, so you've got all your sales and then you subtract out the cost of goods sold or
+[4:12 - 4:19]  what's referred to as COGS. That's what it costs you to literally deliver, let's say, the patient care.
+[4:19 - 4:24]  So what it actually costs to deliver taking care of that person's strep throat or what it costs to,
+[4:24 - 4:29]  you know, deliver keeping the hospital open for a month or a quarter, et cetera. Okay.
+[4:29 - 4:35]  So you take your sales minus your COGS, it gives you your gross profit, but we're not done because
+[4:35 - 4:40]  then from your gross profit, you have to subtract out what's referred to as operating expenses.
+[4:40 - 4:45]  What in the world are operating expenses? Well, one of the biggest ones are referred to as SG&A,
+[4:45 - 4:51]  sales, general and administrative. Okay. So all the quote unquote general and administrative costs,
+[4:51 - 4:56]  they don't go into COGS. So like all the administrators at a hospital, they don't go
+[4:56 - 5:02]  into COGS, they go into SG&A. Okay. So then you take your gross profit minus the operating expense,
+[5:02 - 5:07]  and then that gives you the operating income, but we're not done. Then you take the operating
+[5:07 - 5:13]  income and then you have to subtract out non-operating expenses. What's a non-operating expense?
+[5:13 - 5:19]  Interest on debt. So if your particular hospital or company has a lot of debt, well, you got to make
+[5:19 - 5:23]  interest payments on that. And that counts as a non-operating expense. It gets subtracted from
+[5:23 - 5:29]  the operating income and that then leaves you with the net income. Now the net income is the same thing
+[5:29 - 5:36]  as earnings, which is the same thing as profit. So sometimes you hear these words like earnings
+[5:36 - 5:42]  and net income and profit. You're like, well, what do they mean? They all mean the same thing.
+[5:42 - 5:50]  Okay. Finally, third and finally, we have the cash flow statement. Now you can think of the cash flow
+[5:50 - 5:54]  statement as like a checking account. Everybody's got a checking account. You know what a checking
+[5:54 - 5:58]  account is. Money comes in, money goes out of a checking account. Okay. So again, it's kind of like
+[5:58 - 6:02]  a movie. It has a start date and it has an end date and it's all the money coming in and money going out
+[6:02 - 6:07]  of the checking account over a period of time. Now that money can come in and go out into several
+[6:07 - 6:12]  buckets. Well, you can have money coming in or going out of the checking account because of
+[6:12 - 6:16]  operating activities from like running your clinic or running your hospital. But that's not the only
+[6:16 - 6:21]  thing that causes money to go in and to go out of your checking account. You got other things too,
+[6:22 - 6:27]  like your investments. You might sell an investment or you might buy an investment. So that might cause
+[6:27 - 6:33]  your, whether it be stocks or a piece of land or whatever, right? So you've got money going in and
+[6:33 - 6:36]  coming out of your checking account because of investments. And then you also have money coming
+[6:36 - 6:42]  in and going out because of quote unquote financing. So this might be like debt, right? So like hospitals
+[6:42 - 6:48]  sell lots of bonds or a health insurance company that's publicly traded might issue more shares,
+[6:48 - 6:54]  right? So when you're issuing more debt, money would come into your checking account because you
+[6:54 - 6:58]  issued debt, which is basically an IOU. Likewise, if you're a publicly traded company, if you issued
+[6:58 - 7:03]  more shares, more money would come into your checking account because of that financing activity.
+[7:03 - 7:08]  Okay. So it's not just the operating activities, but it's also the investment activities and the
+[7:08 - 7:13]  financing activities. And that finally leaves you with the change in cash over that period of time.
+[7:13 - 7:22]  Now notice cash is an asset and it then goes up here on the balance sheet. So the balance sheet
+[7:22 - 7:28]  is heavily impacted by the cash flow statement or the statement of cash. It's sometimes called note,
+[7:28 - 7:36]  the balance sheet is not determined by the income statement. The income statement is very different
+[7:36 - 7:41]  from the cash flow statement because the income statement uses something that is referred to as
+[7:41 - 7:49]  accrual accounting and accrual accounting means that the revenue and the expenses actually has nothing
+[7:49 - 7:54]  to do with money actually coming in or leaving the company. That's not how it works. Accrual accounting
+[7:54 - 8:02]  is you count the revenue when you do the service. So when you do the patient visit, you count the revenue.
+[8:02 - 8:08]  And the expense is when you use the throat swab. It's when you use the tongue depressor. It's when you
+[8:08 - 8:13]  use the medication that you give to the person. It's not when you actually write the check to pay for
+[8:13 - 8:17]  the medication. It's not when you write the check to pay for the tongue depressor. It's when you use it.
+[8:17 - 8:21]  So that's accrual accounting. So note that this whole idea of revenue and expenses,
+[8:21 - 8:26]  it actually is not specifically what's going in and coming out of the checking account.
+[8:26 - 8:32]  Okay. The checking account uses a totally different type of accounting, which is referred to as cash
+[8:32 - 8:38]  accounting. So that's literally not when the service is done. It's when the money. So that's a huge
+[8:38 - 8:41]  deal for hospitals, right? Because it takes them a super long time to get paid by insurance companies.
+[8:42 - 8:46]  So hospitals count their revenue, not when they get paid by the insurance company. It's when they do
+[8:46 - 8:51]  the service. They count the money when it comes into their bank account on their cash flow statement,
+[8:51 - 8:57]  because then they're using cash accounting. Likewise, when they have an expense, it's not
+[8:57 - 9:02]  when they pay for the medications or the tongue depressor. When they actually pay for the medications
+[9:02 - 9:07]  and the tongue depressors, that's when the money goes out of the checking account. So then that would
+[9:07 - 9:14]  show up on the cash flow statement. So income statement uses accrual accounting, which frankly,
+[9:14 - 9:22]  is somewhat subject to an accountant's opinion. And then we have the cash flow statement, which is the
+[9:22 - 9:28]  money actually coming in and leaving. Now, why is this important? Why have I told you this? Well, listen,
+[9:29 - 9:36]  there's a lot of healthcare professionals that don't know anything about accounting. And you oftentimes
+[9:36 - 9:42]  are a nurse or your doctor and you work for a hospital. And hospitals are notorious for crying
+[9:42 - 9:49]  poor. They'll say, look, on our income statement, we had a loss. We had a negative net income.
+[9:50 - 9:55]  Okay, so fine. But what you as a doctor or a nurse or anybody, respiratory therapist, anybody,
+[9:55 - 10:03]  you say, okay, that's fine. But what was the gross profit? Like, what was the sales minus just the cost
+[10:03 - 10:10]  of goods sold? Oh, that was plus $100 million. Oh, okay. So we actually made money delivering care
+[10:10 - 10:16]  for the patients. Okay, now, so okay, so then what was our operating expense? Oh, our operating
+[10:16 - 10:22]  expense was $100 million. You mean to tell me you spent all of our gross profit on sales, general
+[10:22 - 10:29]  administrative and research and development? Yeah, that's right. We did that. Okay. Okay, so our
+[10:29 - 10:34]  operating income was zero. That's right. Operating income was zero. Okay, but then we had our non-operating
+[10:34 - 10:40]  expense. Oh, yeah, we have a ton of debt. And so we actually had to pay another $10 million in interest
+[10:40 - 10:47]  expense. And so we had a negative net income of negative $10 million because we spent $10 million
+[10:47 - 10:53]  on the interest expense and then $100 million on our operating expense of SG&A. So, okay, so if you're
+[10:53 - 11:00]  working over here in the COGS department, you're like, okay, you're here asking me to like decrease
+[11:00 - 11:06]  my salary, not give me a bonus, blah, blah, blah. I'm like, okay, you're kind of pushing me on the
+[11:06 - 11:11]  COGS here, but I'm going to push back on you on the operating expense and the non-operating expense.
+[11:12 - 11:16]  And if you don't know anything about accounting, all they'll do is they'll be like, oh, we have negative
+[11:16 - 11:21]  net income, so we need to lower your salary. And you're like, oh, okay, that sounds reasonable. No,
+[11:21 - 11:26]  it does not sound reasonable. You got to ask about the operating expense and the non-operating expense.
+[11:26 - 11:32]  Okay, so this is a basic introduction into the balance sheet income statement and cash flow
+[11:32 - 11:38]  statement for healthcare professionals. Thank you for watching A Healthcare Z.

@@ -1,0 +1,109 @@
+Title: How to Read Healthcare Reports: Analyze Employer Claims Data
+URL: https://www.youtube.com/watch?v=UQkzQUPP8JE
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing how to read health care reports. So certainly everyone that works in employee benefits and health insurance knows that we read a ton of health care reports. And I noticed over the years in looking at reports with our employer clients that some interesting trends came out of them. Okay, we're going to talk about this today. Now, one, don't look at the actual report. Instead, what we should do is, in our mind, we should say, what do I want to see? What information would actually be helpful? And then say, okay, where in the report can I find that? Because I found that the reports, literally, I mean, typically, I mean, you've seen them, they're like 75 pages long. And it's so easy to get distracted by all of these different charts and graphs and yada, yada, yada. And it's like, well, how do I separate out the wheat from the chaff, right? And the wheat is the good stuff and the chaff is the not useful stuff. And so the way that we do that is by envisioning in our minds what the wheat is first, what we want to see first, and then looking at the report specifically for that. Okay, so what are those things? One, it's the high cost claimants. We've been over this a million times. You know this now, right? Where 5% of the employees drive 50% of the healthcare costs and 20% of the employees drive 80% of the healthcare costs. So the very first place we want to look is at the high cost claimants. And what do we want to see about those high cost claimants? Well, we want to see, one, we want to look at it, interestingly, by quarter and by year. So notice, I didn't say claims. I said claimants because a person might have individual claims of $15,000 a pop. And that might not hit your radar as being quote unquote high cost. But they might be getting like a specialty pharmacy medication infusion once a month for 15 grand. So by quarter or by year, then it does pop up. Okay, so you want to look at it by claimant, not claim. And you don't want to look at it by month, that's too short. But you want to look at it by quarter or by year or multi-year. And so in the 550 rule, you'll typically find that your high cost claimants or those 5% or the 50% of your costs over the course of the year, they'll typically have over about $100,000 in additive claims for that year. And then for your 80-20 rule, don't have about $20,000 of additive claims. So what's interesting too is that really the sweet spot for what you want to look at for intervention is between the 50% and the 80%. In other words, the folks that are at over $100,000, honestly, they are oftentimes in such poor shape that there's very little that you as an employer can actually do about them. I mean, they're kind of in the maelstrom of the healthcare system. And we'll talk about them in a minute. And then likewise, for the folks that are like less than $20,000 a year, it's like so many claims. It's like, well, how do you prioritize what to look at? So really what you want to look at is for the folks that spend between $20,000 and $100,000, and that's going to be the 30% between 50% of your spend and 80% of your spend. So we're talking here, so I'm talking about a lot of numbers. Okay, but let's say you've got a group of 100 people and they spend it on the plan, or I should say 100 employees on the plan, and they spend about $10,000 per employee per year. So the $10,000 times 100 employees, that's like a million dollars a year. And so they got five people that are probably spending about half a million dollars on that plan. And then they've got another 15 people that are spending about 300 grand on that part of the plan. And so it's really what's going on with those 15 people, because you can actually intervene on things that are between $20,000 and $100,000. Okay, now I could go on in detail about this for forever, but I'll stop there and move on to. Okay, now what else do we want to look at? We want to look at those high cost claimants, the dollars paid and on those high cost claimants by diagnosis code and by procedure code, right? So it's the ICD-10 codes that are the diagnosis code and the CPT codes that are the procedure code. So you want to look at those high cost claimants because each claimant tells a story and you want to see what's going on with these people? What is that story? And the reason you want to look at that story is because you want to find out, okay, which of these high cost claimants are ongoing? In other words, it's going to keep happening and we're going to keep generating claims. And which of these high cost claimants are actually mostly complete? So, and how do I know to look at our high cost claimants like this? Because this is how the stop loss carriers look at high cost claimants. So, and obviously they're using this as their approach to setting the premiums for specific and aggregate stop loss. And so if this is what they're doing, then this is what you need to do too. Okay, so ongoing, it oftentimes tends to be cancer, right? And this is where, again, there's not necessarily much that you can do as an employer, but it's helpful from a budgeting standpoint. Look, if you have a member on your plan that has like childhood leukemia, then it's kind of what you have insurance for, right? It's just, you're going to pay it out and you just know you're going to pay it out. And it kind of is what it is. The other situation where it's oftentimes ongoing are surgical complications. So you can look at these surgeries and it could be anything. It could be a gastrointestinal surgery. It could have been like a gallbladder surgery gone bad. It could have been a spinal surgery. I mean, there's all different types of surgeries and you'll see prolonged hospital stays. You'll see ICU stays. You'll see readmissions. And when you see those, typically those take a protracted multi-month, sometimes multi-year to play out. So those are typically ongoing. Okay, fine. Then next up is you have the mostly complete ones. So there's some where they like generate like no claims and then they generate a whole bunch, but then it goes almost back to zero. What is that? A lot of your ortho, right? So a lot of your joint replacements, like they spike, but then a lot of times they do really well and they don't generate a lot of claims after that. So like you can't go around chasing that stuff for that person because it's mostly done. Okay. Other things are in cardiovascular, like heart attacks. So this is where, I mean, obviously you can have things like congestive heart failure and valvular disease, et cetera, but for a lot, and heart attacks, by the way, are MIs or myocardial infarctions. And so for a lot of heart attacks, they'll have like an event, hospital stay, maybe an ICU stay, but fortunately because of stents or cabbages or whatever, a lot of times they do pretty well afterwards. And so that's often, no, not always, but it's oftentimes pretty discreet events. So you're going to want to know that mostly for modeling going forward in terms of your costs. And also too, not for these specific claimants, but for other high cost claimants in these categories going on, what can you as an employer do about them? Okay. And then lastly, what you're going to want to do is you're going to want to look at the dollar spend and number of claims by facility. Now you're going to have a whole bunch of facilities. And so the way you prioritize these facilities is you want to look to see where you're spending a lot of money in just very few claims. And where does that typically end up? It typically ends up in things like dialysis facilities, where I worked with one employer, they had about 3000 employees on the plan. They had one person at a dialysis facility in rural Illinois that was costing a million dollars a year. Okay. And let's just assume that that company had about a 10% profit margin. That means that they had to sell $10 million worth of business just to pay for this one person's dialysis. Okay. And it's like, okay, well, what was going on? Well, it turns out that the carrier had been like trying to get them on Medicaid and had been unsuccessful. Well, shoot, maybe there's other things that you can do to like actually address this issue, like get a different dialysis center or do some type of carve out or actually have some sort of plan for getting them on Medicaid or excuse me, Medicare is what I should say. Okay. Next up. Also out of network facilities, I worked with another player where they had all these claims for orthopedics at an out of network surgery center. And they were huge pills. And it's like, okay, you like the surgeon fine, but you know, what can you do in terms of plan design or network design or client specific networks to say, okay, well, like we don't want people going to that facility anymore. Okay. So you want to look at high dollar spend with just a handful of claims. And that's the low hanging fruit on the facility side. So before you look at now, are other parts of the reports useful? Sure. But before you look at any other, you want to spend like 80% of your time, you want to stratify your time in the reporting too, right? It's like 80% of your time in reporting needs to be spent on this. Okay. So before you sit down and look at a report, like literally write this down on a sheet of paper and then try to answer these questions as you're looking at the report. And I think you'll find a lot more actionable intelligence out of those reports than you currently do. And thank you for watching a healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:06]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be
+[0:06 - 0:12]  discussing how to read health care reports. So certainly everyone that works in employee
+[0:12 - 0:19]  benefits and health insurance knows that we read a ton of health care reports. And I noticed over
+[0:19 - 0:26]  the years in looking at reports with our employer clients that some interesting trends came out of
+[0:26 - 0:31]  them. Okay, we're going to talk about this today. Now, one, don't look at the actual report. Instead,
+[0:32 - 0:38]  what we should do is, in our mind, we should say, what do I want to see? What information would
+[0:38 - 0:46]  actually be helpful? And then say, okay, where in the report can I find that? Because I found that
+[0:46 - 0:50]  the reports, literally, I mean, typically, I mean, you've seen them, they're like 75 pages long.
+[0:50 - 0:58]  And it's so easy to get distracted by all of these different charts and graphs and yada, yada,
+[0:58 - 1:02]  yada. And it's like, well, how do I separate out the wheat from the chaff, right? And the wheat is
+[1:02 - 1:06]  the good stuff and the chaff is the not useful stuff. And so the way that we do that is by
+[1:06 - 1:11]  envisioning in our minds what the wheat is first, what we want to see first, and then looking at the
+[1:11 - 1:18]  report specifically for that. Okay, so what are those things? One, it's the high cost claimants.
+[1:18 - 1:23]  We've been over this a million times. You know this now, right? Where 5% of the employees drive
+[1:23 - 1:28]  50% of the healthcare costs and 20% of the employees drive 80% of the healthcare costs.
+[1:28 - 1:34]  So the very first place we want to look is at the high cost claimants. And what do we want to see
+[1:34 - 1:39]  about those high cost claimants? Well, we want to see, one, we want to look at it, interestingly,
+[1:39 - 1:46]  by quarter and by year. So notice, I didn't say claims. I said claimants because a person might have
+[1:46 - 1:52]  individual claims of $15,000 a pop. And that might not hit your radar as being quote unquote
+[1:52 - 1:57]  high cost. But they might be getting like a specialty pharmacy medication infusion once a month
+[1:57 - 2:04]  for 15 grand. So by quarter or by year, then it does pop up. Okay, so you want to look at it by
+[2:04 - 2:09]  claimant, not claim. And you don't want to look at it by month, that's too short. But you want to look
+[2:09 - 2:13]  at it by quarter or by year or multi-year. And so in the 550 rule, you'll typically find that your high
+[2:13 - 2:18]  cost claimants or those 5% or the 50% of your costs over the course of the year, they'll typically
+[2:18 - 2:25]  have over about $100,000 in additive claims for that year. And then for your 80-20 rule,
+[2:25 - 2:33]  don't have about $20,000 of additive claims. So what's interesting too is that really the sweet
+[2:33 - 2:38]  spot for what you want to look at for intervention is between the 50% and the 80%. In other words,
+[2:38 - 2:45]  the folks that are at over $100,000, honestly, they are oftentimes in such poor shape that there's
+[2:45 - 2:50]  very little that you as an employer can actually do about them. I mean, they're kind of in the
+[2:50 - 2:55]  maelstrom of the healthcare system. And we'll talk about them in a minute. And then likewise,
+[2:56 - 3:02]  for the folks that are like less than $20,000 a year, it's like so many claims. It's like,
+[3:02 - 3:06]  well, how do you prioritize what to look at? So really what you want to look at is for the folks
+[3:06 - 3:11]  that spend between $20,000 and $100,000, and that's going to be the 30% between 50% of your
+[3:11 - 3:16]  spend and 80% of your spend. So we're talking here, so I'm talking about a lot of numbers. Okay,
+[3:16 - 3:21]  but let's say you've got a group of 100 people and they spend it on the plan, or I should say 100
+[3:21 - 3:28]  employees on the plan, and they spend about $10,000 per employee per year. So the $10,000 times 100
+[3:28 - 3:34]  employees, that's like a million dollars a year. And so they got five people that are probably
+[3:34 - 3:41]  spending about half a million dollars on that plan. And then they've got another 15 people
+[3:41 - 3:48]  that are spending about 300 grand on that part of the plan. And so it's really what's going on
+[3:48 - 3:53]  with those 15 people, because you can actually intervene on things that are between $20,000
+[3:53 - 4:00]  and $100,000. Okay, now I could go on in detail about this for forever, but I'll stop there and move
+[4:00 - 4:03]  on to. Okay, now what else do we want to look at? We want to look at those high cost claimants,
+[4:04 - 4:12]  the dollars paid and on those high cost claimants by diagnosis code and by procedure code, right? So
+[4:12 - 4:17]  it's the ICD-10 codes that are the diagnosis code and the CPT codes that are the procedure code. So you
+[4:17 - 4:24]  want to look at those high cost claimants because each claimant tells a story and you want to see
+[4:24 - 4:28]  what's going on with these people? What is that story? And the reason you want to look at that
+[4:28 - 4:35]  story is because you want to find out, okay, which of these high cost claimants are ongoing? In other
+[4:35 - 4:40]  words, it's going to keep happening and we're going to keep generating claims. And which of these high
+[4:40 - 4:46]  cost claimants are actually mostly complete? So, and how do I know to look at our high cost claimants
+[4:46 - 4:53]  like this? Because this is how the stop loss carriers look at high cost claimants. So, and
+[4:53 - 4:59]  obviously they're using this as their approach to setting the premiums for specific and aggregate
+[4:59 - 5:05]  stop loss. And so if this is what they're doing, then this is what you need to do too. Okay, so ongoing,
+[5:06 - 5:13]  it oftentimes tends to be cancer, right? And this is where, again, there's not necessarily much that you
+[5:13 - 5:18]  can do as an employer, but it's helpful from a budgeting standpoint. Look, if you have a member
+[5:18 - 5:24]  on your plan that has like childhood leukemia, then it's kind of what you have insurance for,
+[5:24 - 5:28]  right? It's just, you're going to pay it out and you just know you're going to pay it out.
+[5:28 - 5:32]  And it kind of is what it is. The other situation where it's oftentimes ongoing are surgical
+[5:32 - 5:38]  complications. So you can look at these surgeries and it could be anything. It could be a gastrointestinal
+[5:38 - 5:41]  surgery. It could have been like a gallbladder surgery gone bad. It could have been a spinal
+[5:41 - 5:45]  surgery. I mean, there's all different types of surgeries and you'll see prolonged hospital stays.
+[5:45 - 5:52]  You'll see ICU stays. You'll see readmissions. And when you see those, typically those take a
+[5:52 - 5:59]  protracted multi-month, sometimes multi-year to play out. So those are typically ongoing. Okay,
+[5:59 - 6:04]  fine. Then next up is you have the mostly complete ones. So there's some where they like generate like
+[6:04 - 6:08]  no claims and then they generate a whole bunch, but then it goes almost back to zero. What is that?
+[6:08 - 6:14]  A lot of your ortho, right? So a lot of your joint replacements, like they spike, but then a lot of
+[6:14 - 6:19]  times they do really well and they don't generate a lot of claims after that. So like you can't go
+[6:19 - 6:24]  around chasing that stuff for that person because it's mostly done. Okay. Other things are in
+[6:24 - 6:29]  cardiovascular, like heart attacks. So this is where, I mean, obviously you can have things like
+[6:29 - 6:33]  congestive heart failure and valvular disease, et cetera, but for a lot, and heart attacks, by the way,
+[6:33 - 6:37]  are MIs or myocardial infarctions. And so for a lot of heart attacks,
+[6:37 - 6:43]  they'll have like an event, hospital stay, maybe an ICU stay, but fortunately because of stents or
+[6:43 - 6:48]  cabbages or whatever, a lot of times they do pretty well afterwards. And so that's often,
+[6:48 - 6:52]  no, not always, but it's oftentimes pretty discreet events. So you're going to want to know that
+[6:52 - 6:58]  mostly for modeling going forward in terms of your costs. And also too, not for these specific
+[6:58 - 7:03]  claimants, but for other high cost claimants in these categories going on, what can you as an
+[7:03 - 7:07]  employer do about them? Okay. And then lastly, what you're going to want to do is you're going
+[7:07 - 7:15]  to want to look at the dollar spend and number of claims by facility. Now you're going to have a
+[7:15 - 7:19]  whole bunch of facilities. And so the way you prioritize these facilities is you want to look
+[7:19 - 7:26]  to see where you're spending a lot of money in just very few claims. And where does that typically
+[7:26 - 7:31]  end up? It typically ends up in things like dialysis facilities, where I worked with one employer,
+[7:31 - 7:37]  they had about 3000 employees on the plan. They had one person at a dialysis facility in rural
+[7:37 - 7:43]  Illinois that was costing a million dollars a year. Okay. And let's just assume that that company had
+[7:43 - 7:51]  about a 10% profit margin. That means that they had to sell $10 million worth of business just to pay
+[7:51 - 7:57]  for this one person's dialysis. Okay. And it's like, okay, well, what was going on? Well, it turns out
+[7:57 - 8:03]  that the carrier had been like trying to get them on Medicaid and had been unsuccessful. Well,
+[8:04 - 8:09]  shoot, maybe there's other things that you can do to like actually address this issue, like get a
+[8:09 - 8:14]  different dialysis center or do some type of carve out or actually have some sort of plan for getting
+[8:14 - 8:22]  them on Medicaid or excuse me, Medicare is what I should say. Okay. Next up. Also out of network
+[8:22 - 8:28]  facilities, I worked with another player where they had all these claims for orthopedics at an
+[8:28 - 8:34]  out of network surgery center. And they were huge pills. And it's like, okay, you like the surgeon
+[8:34 - 8:39]  fine, but you know, what can you do in terms of plan design or network design or client specific
+[8:39 - 8:43]  networks to say, okay, well, like we don't want people going to that facility anymore. Okay. So
+[8:43 - 8:49]  you want to look at high dollar spend with just a handful of claims. And that's the low hanging fruit
+[8:49 - 8:54]  on the facility side. So before you look at now, are other parts of the reports useful? Sure. But
+[8:54 - 8:59]  before you look at any other, you want to spend like 80% of your time, you want to stratify your
+[8:59 - 9:03]  time in the reporting too, right? It's like 80% of your time in reporting needs to be spent on this.
+[9:04 - 9:09]  Okay. So before you sit down and look at a report, like literally write this down on a sheet of paper
+[9:09 - 9:15]  and then try to answer these questions as you're looking at the report. And I think you'll find a lot
+[9:15 - 9:21]  more actionable intelligence out of those reports than you currently do. And thank you for watching a healthcare Z.

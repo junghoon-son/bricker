@@ -1,0 +1,186 @@
+Title: Disease Management VS. Case Management VS. Utilization Management
+URL: https://www.youtube.com/watch?v=n_C3OxdrdMA
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is the difference among disease management, case management, and utilization management and how to measure their value. So I made a previous A Healthcare Z video in-depth on utilization management, but these three terms, utilization management, case management, and disease management, oftentimes get confused by people who work in healthcare. So let's differentiate amongst the three of them. So first off, utilization management is where a nurse from the insurance carrier is speaking with his or her counterpart at the hospital for a health plan member who's hospitalized, and that insurance carrier nurse or TPA nurse is approving what's referred to as bed day. So let's say a person has pneumonia, they're admitted to the hospital, and then the nurse from the insurance company will talk to the hospital and say, okay, well, we'll approve a three-day hospital stay for the pneumonia. And then let's say the person with pneumonia ends up staying for five days. Then when the hospital bills the insurance carrier for the full five-day stay, then insurance is only going to pay for three days and deny two of them because the utilization management nurse only approved three days. Now if the patient ends up staying three days and it looks like they're going to need more time, then oftentimes the hospital will contact utilization management at the carrier back and say, hey, it looks like this person is still on, you know, six liters of oxygen, is not, you know, tolerating food, PO, etc. still on IV antibiotics. And the nurse from the insurance carrier might be like, okay, we'll approve two more days of hospitalization. So in that case, when the full five days is approved, then when the hospital bills it, then the full five days will be paid for instead of it being denied. So the utilization management nurse, they're not micromanaging what the doctor does in the hospital. They're not talking with the patient. They're approving or not approving bed days. Next up, case management is also where a nurse from the insurance carrier or TPA is working in regards to a member. But that plan member is not necessarily hospitalized, right? Because the case management department is typically different from the utilization management department within the insurance carrier. So this is like a different set of nurses. And they're working with patients who had been hospitalized, but then they've been discharged, but not home, right? They've discharged to acute rehab or maybe discharged to a skilled nursing facility, a SNF, or maybe discharged to a long-term acute care facility, an LTAC. Again, no patient interaction, but this is where the nurse case manager is working with the staff at the rehab or the SNF or whatever. And maybe they're talking to the nurse there. Maybe they're talking to some other administrator. Maybe they're talking to the doctor themselves. And the main goal of the case manager is to prevent a readmission back to the hospital from one of these other acute care settings. So oftentimes this will happen with people with strokes. They can't go home right away. Sometimes they have to have rehab after being at the hospital. Prolonged ICU stays. So for people that have really severe COVID, they're on the ventilator for a very long time. Oftentimes they have to be discharged to like an LTAC instead of going home. Or for joint replacements. A lot of people with a total knee or a total hip replacement go home. But some of them need to have inpatient rehab. They have complication from their joint, et cetera, et cetera. And so it's the case manager who's following them in those different care settings. Whereas utilization management is kind of strictly for the hospital. Okay. Then third and final is disease management. Now in disease management, again, it could be a nurse from the insurance carrier, but it could also be from a separate vendor. So a lot of insurance carriers actually vendor out their disease management to a completely separate company. Or a large self-funded employer might actually say, well, we don't want that carrier disease management. We want to have our own separate vendor do the disease management. So here, again, it could be a nurse or it could be a dietician or a physical therapist. Depends upon the member's needs. It could just be like a wellness or a health coach. And they're working with plan members who have chronic disease. And they might not be hospitalized at all. But this is, you know, prototypical conditions for disease management are things like diabetes and COPD, which is emphyxia and chronic bronchitis, congestive heart failure, CHF, chronic kidney disease. And again, here there actually is patient interaction. So that's a differentiator between disease management and the other two is that the disease management folks are actually trying to interact with the patients. Now they have very low success rates. So a lot of disease management programs, they're only able to reach like 4% of the population. So it's super low. But they're trying to coordinate the appointments with all the different specialists. They're doing other care coordination activities. They're helping to get durable medical equipment. If the person, let's say, has a diabetic foot, they have to get a partial amputation. They might need a wheelchair or a walker. The disease management person might help with that. They're counseling them on diet. They're counseling them on medication adherence, making sure they're getting their refills done. Okay, so then the way that you measure value for each of these three is very different. And so they really need to be separated out from a measurement and a payment standpoint, right? So for utilization management, value is really measured in length of stay denials. So how many denials were done by the utilization management girls in an effort to save money for quote unquote inappropriate hospitalization, right? So there, let's say the way that you would actually measure it is you would say, okay, let's look at a time period. Let's just say it's a month and let's see how many denials were in that month. Okay, for example, let's just say there were 10 denials in that month and say, okay, for those, and those claims aren't like 100% denied. It might be like a two month hospital stay where only like 30 out of the 60 days were denied. Okay, so they're still going to pay on the 30 days, but they're not going to pay on the last 30 days. And so, okay, well, how much was paid on those hospitalizations that were like partially denied for length of stay reasons? Okay, let's just say they were super long hospitalizations and they were $100,000 each. So they ended up paying a million dollars on those 10 claims that had denials as part of them. Okay, but then the next question is, what would the full amount have been if they had paid for like the full two month stay instead of just the one month stay, if they actually hadn't had a length of stay denial? And let's say that amount in this example is 1.2 million. Okay, well then the actual monetary value of the utilization management program to the plan is then the 1.2 million minus the 1 million or $200,000. And then you have to compare that $200,000 versus the cost of the program. And typically the cost of the program is like a PEPM, a per employee per month. So you would take the number of employees times the PEPM and say, okay, well, was that more or less than the 200 grand that we saved? Now, chances are that type of report does not actually exist today if you're a self-funded employer and you're going to have to specifically go to your carrier and ask for it. It should be doable in my opinion. Okay, next up, the way you would measure case management is specifically on the readmissions. And oftentimes a standard amount of time is like 30 days. So a person's hospitalized, they get discharged to a SNF or QMUHAB or LTAC. And it's like, okay, well, how many of those folks are then readmitted during a 30-day window after that hospitalization? And you can say, okay, well, and this isn't perfect, but just like, you know, sort of broad brush measurement and be like, okay, well, let's look at hospitalizations for people who had case management and then hospitalizations for people who had no case management. Because there's some people when they get discharged to SNF or whatever, like case management's not involved 100% of the time. They're either busy or they can't reach them or whatever. So it's not perfect. Okay, but you could look at all your people that were hospitalized and you'd be like, okay, well, show me all the people who were hospitalized and then went to acute rehab and SNF and LTAC. And then let's look at their readmission rates. And let's say for the folks that actually had case management interaction, they had one readmission out of the 10 hospital discharges to these various facilities. And then for the non-case management interaction, so no case management was involved, maybe they had three readmissions for the 10 patients that went to LTAC and SNF, et cetera, et cetera. So essentially that was two readmissions out of 10 that were prevented by the case management. And then you say, okay, well, how much is the readmission cost? Let's just use round numbers. Let's just say a readmission cost, $10,000 per readmission. So then you would say, okay, two readmissions times $10,000. So for that month, the case management program saved $20,000. And then you have to compare that to the cost of the program. And then finally, again, PEPM. Now it's important because some carriers, they like combine the PEPM for the utilization management and the case management together. Like you don't want to do that. Like you want to separate that out because the way that you're measuring the value from each of those programs is different. And then lastly, for disease management, you're going to be looking at, let's say, okay, what's the total amount of spend over a 12 month period of time for a population of diabetics or people with COPD or CHF or what have you? And then again, say, okay, well, let's look at the plan numbers that actually were involved with disease management versus the people that were not involved. The disease management folks could not like contact them and say, okay, well, for the people where disease management was involved, their costs were only $10,000 per patient per year. And for the people where disease management was not involved, it was $12,000 per patient per year. So you essentially saved $2,000 per patient per year. And let's say there were 10 patients that were actually involved in your disease management program. So you would take the $2,000 times the 10 patients and you would say, okay, well, we saved $20,000 in this case for a year. And okay, well, it was the $20,000 more or less than the cost of the disease management program. So the way that the utilization management, case management, and disease function, the way that they function is actually very different. And the way they provide value is actually very different. So it's very important to differentiate amongst the three and then measure them separately. And that's my point for today. Thank you for watching a healthcare scene.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:11]  Today's topic is the difference among disease management, case management, and utilization
+[0:11 - 0:14]  management and how to measure their value.
+[0:14 - 0:19]  So I made a previous A Healthcare Z video in-depth on utilization management, but these
+[0:19 - 0:23]  three terms, utilization management, case management, and disease management, oftentimes
+[0:23 - 0:26]  get confused by people who work in healthcare.
+[0:26 - 0:28]  So let's differentiate amongst the three of them.
+[0:28 - 0:33]  So first off, utilization management is where a nurse from the insurance carrier is speaking
+[0:33 - 0:39]  with his or her counterpart at the hospital for a health plan member who's hospitalized,
+[0:39 - 0:44]  and that insurance carrier nurse or TPA nurse is approving what's referred to as bed day.
+[0:44 - 0:49]  So let's say a person has pneumonia, they're admitted to the hospital, and then the nurse
+[0:49 - 0:52]  from the insurance company will talk to the hospital and say, okay, well, we'll approve
+[0:52 - 0:56]  a three-day hospital stay for the pneumonia.
+[0:56 - 0:58]  And then let's say the person with pneumonia ends up staying for five days.
+[0:58 - 1:03]  Then when the hospital bills the insurance carrier for the full five-day stay, then insurance
+[1:03 - 1:08]  is only going to pay for three days and deny two of them because the utilization management
+[1:08 - 1:10]  nurse only approved three days.
+[1:10 - 1:13]  Now if the patient ends up staying three days and it looks like they're going to need more
+[1:13 - 1:18]  time, then oftentimes the hospital will contact utilization management at the carrier back and
+[1:18 - 1:22]  say, hey, it looks like this person is still on, you know, six liters of oxygen, is not, you know,
+[1:22 - 1:26]  tolerating food, PO, etc. still on IV antibiotics.
+[1:26 - 1:30]  And the nurse from the insurance carrier might be like, okay, we'll approve two more days of
+[1:30 - 1:31]  hospitalization.
+[1:31 - 1:35]  So in that case, when the full five days is approved, then when the hospital bills it, then
+[1:35 - 1:39]  the full five days will be paid for instead of it being denied.
+[1:39 - 1:42]  So the utilization management nurse, they're not micromanaging what the doctor does in the
+[1:42 - 1:43]  hospital.
+[1:43 - 1:45]  They're not talking with the patient.
+[1:45 - 1:47]  They're approving or not approving bed days.
+[1:47 - 1:53]  Next up, case management is also where a nurse from the insurance carrier or TPA is working
+[1:53 - 1:54]  in regards to a member.
+[1:54 - 1:57]  But that plan member is not necessarily hospitalized, right?
+[1:57 - 2:01]  Because the case management department is typically different from the utilization management
+[2:01 - 2:03]  department within the insurance carrier.
+[2:03 - 2:05]  So this is like a different set of nurses.
+[2:05 - 2:10]  And they're working with patients who had been hospitalized, but then they've been discharged,
+[2:10 - 2:11]  but not home, right?
+[2:11 - 2:16]  They've discharged to acute rehab or maybe discharged to a skilled nursing facility, a
+[2:16 - 2:21]  SNF, or maybe discharged to a long-term acute care facility, an LTAC.
+[2:23 - 2:27]  Again, no patient interaction, but this is where the nurse case manager is working with the
+[2:27 - 2:29]  staff at the rehab or the SNF or whatever.
+[2:30 - 2:31]  And maybe they're talking to the nurse there.
+[2:31 - 2:33]  Maybe they're talking to some other administrator.
+[2:34 - 2:35]  Maybe they're talking to the doctor themselves.
+[2:35 - 2:42]  And the main goal of the case manager is to prevent a readmission back to the hospital from one
+[2:42 - 2:44]  of these other acute care settings.
+[2:44 - 2:46]  So oftentimes this will happen with people with strokes.
+[2:46 - 2:47]  They can't go home right away.
+[2:47 - 2:50]  Sometimes they have to have rehab after being at the hospital.
+[2:51 - 2:52]  Prolonged ICU stays.
+[2:52 - 2:56]  So for people that have really severe COVID, they're on the ventilator for a very long time.
+[2:56 - 3:00]  Oftentimes they have to be discharged to like an LTAC instead of going home.
+[3:00 - 3:01]  Or for joint replacements.
+[3:01 - 3:04]  A lot of people with a total knee or a total hip replacement go home.
+[3:04 - 3:06]  But some of them need to have inpatient rehab.
+[3:06 - 3:09]  They have complication from their joint, et cetera, et cetera.
+[3:09 - 3:12]  And so it's the case manager who's following them in those different care settings.
+[3:13 - 3:16]  Whereas utilization management is kind of strictly for the hospital.
+[3:16 - 3:16]  Okay.
+[3:16 - 3:19]  Then third and final is disease management.
+[3:19 - 3:23]  Now in disease management, again, it could be a nurse from the insurance carrier, but it
+[3:23 - 3:24]  could also be from a separate vendor.
+[3:24 - 3:29]  So a lot of insurance carriers actually vendor out their disease management to a completely separate
+[3:29 - 3:29]  company.
+[3:29 - 3:34]  Or a large self-funded employer might actually say, well, we don't want that carrier disease
+[3:34 - 3:34]  management.
+[3:34 - 3:37]  We want to have our own separate vendor do the disease management.
+[3:37 - 3:41]  So here, again, it could be a nurse or it could be a dietician or a physical therapist.
+[3:41 - 3:43]  Depends upon the member's needs.
+[3:43 - 3:45]  It could just be like a wellness or a health coach.
+[3:45 - 3:48]  And they're working with plan members who have chronic disease.
+[3:48 - 3:50]  And they might not be hospitalized at all.
+[3:50 - 3:54]  But this is, you know, prototypical conditions for disease management are things like diabetes
+[3:54 - 4:02]  and COPD, which is emphyxia and chronic bronchitis, congestive heart failure, CHF, chronic kidney
+[4:02 - 4:03]  disease.
+[4:03 - 4:05]  And again, here there actually is patient interaction.
+[4:05 - 4:10]  So that's a differentiator between disease management and the other two is that the disease
+[4:10 - 4:12]  management folks are actually trying to interact with the patients.
+[4:12 - 4:14]  Now they have very low success rates.
+[4:14 - 4:19]  So a lot of disease management programs, they're only able to reach like 4% of the population.
+[4:19 - 4:20]  So it's super low.
+[4:21 - 4:24]  But they're trying to coordinate the appointments with all the different specialists.
+[4:24 - 4:26]  They're doing other care coordination activities.
+[4:26 - 4:29]  They're helping to get durable medical equipment.
+[4:29 - 4:33]  If the person, let's say, has a diabetic foot, they have to get a partial amputation.
+[4:34 - 4:35]  They might need a wheelchair or a walker.
+[4:36 - 4:38]  The disease management person might help with that.
+[4:38 - 4:39]  They're counseling them on diet.
+[4:39 - 4:43]  They're counseling them on medication adherence, making sure they're getting their refills done.
+[4:43 - 4:49]  Okay, so then the way that you measure value for each of these three is very different.
+[4:49 - 4:53]  And so they really need to be separated out from a measurement and a payment standpoint,
+[4:53 - 4:53]  right?
+[4:53 - 4:58]  So for utilization management, value is really measured in length of stay denials.
+[4:58 - 5:05]  So how many denials were done by the utilization management girls in an effort to save money
+[5:05 - 5:08]  for quote unquote inappropriate hospitalization, right?
+[5:08 - 5:12]  So there, let's say the way that you would actually measure it is you would say, okay, let's
+[5:12 - 5:13]  look at a time period.
+[5:13 - 5:16]  Let's just say it's a month and let's see how many denials were in that month.
+[5:16 - 5:21]  Okay, for example, let's just say there were 10 denials in that month and say, okay, for
+[5:21 - 5:23]  those, and those claims aren't like 100% denied.
+[5:23 - 5:28]  It might be like a two month hospital stay where only like 30 out of the 60 days were denied.
+[5:28 - 5:31]  Okay, so they're still going to pay on the 30 days, but they're not going to pay on the
+[5:31 - 5:32]  last 30 days.
+[5:32 - 5:37]  And so, okay, well, how much was paid on those hospitalizations that were like partially denied
+[5:37 - 5:38]  for length of stay reasons?
+[5:38 - 5:42]  Okay, let's just say they were super long hospitalizations and they were $100,000 each.
+[5:42 - 5:47]  So they ended up paying a million dollars on those 10 claims that had denials as part
+[5:47 - 5:47]  of them.
+[5:47 - 5:52]  Okay, but then the next question is, what would the full amount have been if they had paid
+[5:52 - 5:55]  for like the full two month stay instead of just the one month stay, if they actually
+[5:55 - 5:57]  hadn't had a length of stay denial?
+[5:57 - 6:00]  And let's say that amount in this example is 1.2 million.
+[6:00 - 6:05]  Okay, well then the actual monetary value of the utilization management program to the plan
+[6:05 - 6:08]  is then the 1.2 million minus the 1 million or $200,000.
+[6:09 - 6:13]  And then you have to compare that $200,000 versus the cost of the program.
+[6:13 - 6:17]  And typically the cost of the program is like a PEPM, a per employee per month.
+[6:17 - 6:22]  So you would take the number of employees times the PEPM and say, okay, well, was that
+[6:22 - 6:24]  more or less than the 200 grand that we saved?
+[6:25 - 6:29]  Now, chances are that type of report does not actually exist today if you're a self-funded
+[6:29 - 6:33]  employer and you're going to have to specifically go to your carrier and ask for it.
+[6:33 - 6:35]  It should be doable in my opinion.
+[6:35 - 6:39]  Okay, next up, the way you would measure case management is specifically on the readmissions.
+[6:40 - 6:42]  And oftentimes a standard amount of time is like 30 days.
+[6:42 - 6:46]  So a person's hospitalized, they get discharged to a SNF or QMUHAB or LTAC.
+[6:47 - 6:56]  And it's like, okay, well, how many of those folks are then readmitted during a 30-day window
+[6:56 - 6:58]  after that hospitalization?
+[6:58 - 7:02]  And you can say, okay, well, and this isn't perfect, but just like, you know, sort of
+[7:02 - 7:07]  broad brush measurement and be like, okay, well, let's look at hospitalizations for people
+[7:07 - 7:10]  who had case management and then hospitalizations for people who had no case management.
+[7:10 - 7:15]  Because there's some people when they get discharged to SNF or whatever, like case management's
+[7:15 - 7:16]  not involved 100% of the time.
+[7:16 - 7:18]  They're either busy or they can't reach them or whatever.
+[7:19 - 7:19]  So it's not perfect.
+[7:20 - 7:23]  Okay, but you could look at all your people that were hospitalized and you'd be like, okay,
+[7:23 - 7:27]  well, show me all the people who were hospitalized and then went to acute rehab and SNF and LTAC.
+[7:27 - 7:29]  And then let's look at their readmission rates.
+[7:29 - 7:34]  And let's say for the folks that actually had case management interaction, they had one readmission
+[7:34 - 7:38]  out of the 10 hospital discharges to these various facilities.
+[7:38 - 7:44]  And then for the non-case management interaction, so no case management was involved, maybe they
+[7:44 - 7:50]  had three readmissions for the 10 patients that went to LTAC and SNF, et cetera, et cetera.
+[7:50 - 7:56]  So essentially that was two readmissions out of 10 that were prevented by the case management.
+[7:56 - 7:59]  And then you say, okay, well, how much is the readmission cost?
+[7:59 - 8:00]  Let's just use round numbers.
+[8:00 - 8:02]  Let's just say a readmission cost, $10,000 per readmission.
+[8:03 - 8:06]  So then you would say, okay, two readmissions times $10,000.
+[8:06 - 8:09]  So for that month, the case management program saved $20,000.
+[8:10 - 8:12]  And then you have to compare that to the cost of the program.
+[8:12 - 8:15]  And then finally, again, PEPM.
+[8:15 - 8:19]  Now it's important because some carriers, they like combine the PEPM for the utilization
+[8:19 - 8:21]  management and the case management together.
+[8:21 - 8:22]  Like you don't want to do that.
+[8:22 - 8:25]  Like you want to separate that out because the way that you're measuring the value from
+[8:25 - 8:27]  each of those programs is different.
+[8:27 - 8:31]  And then lastly, for disease management, you're going to be looking at, let's say, okay, what's
+[8:31 - 8:39]  the total amount of spend over a 12 month period of time for a population of diabetics or people
+[8:39 - 8:41]  with COPD or CHF or what have you?
+[8:41 - 8:45]  And then again, say, okay, well, let's look at the plan numbers that actually were involved
+[8:45 - 8:48]  with disease management versus the people that were not involved.
+[8:49 - 8:53]  The disease management folks could not like contact them and say, okay, well, for the
+[8:53 - 8:58]  people where disease management was involved, their costs were only $10,000 per patient per
+[8:58 - 8:58]  year.
+[8:58 - 9:03]  And for the people where disease management was not involved, it was $12,000 per patient
+[9:03 - 9:03]  per year.
+[9:04 - 9:07]  So you essentially saved $2,000 per patient per year.
+[9:07 - 9:11]  And let's say there were 10 patients that were actually involved in your disease management
+[9:11 - 9:11]  program.
+[9:11 - 9:16]  So you would take the $2,000 times the 10 patients and you would say, okay, well, we
+[9:16 - 9:19]  saved $20,000 in this case for a year.
+[9:20 - 9:24]  And okay, well, it was the $20,000 more or less than the cost of the disease management
+[9:24 - 9:24]  program.
+[9:25 - 9:29]  So the way that the utilization management, case management, and disease function, the
+[9:29 - 9:32]  way that they function is actually very different.
+[9:32 - 9:34]  And the way they provide value is actually very different.
+[9:35 - 9:40]  So it's very important to differentiate amongst the three and then measure them separately.
+[9:40 - 9:41]  And that's my point for today.
+[9:41 - 9:43]  Thank you for watching a healthcare scene.

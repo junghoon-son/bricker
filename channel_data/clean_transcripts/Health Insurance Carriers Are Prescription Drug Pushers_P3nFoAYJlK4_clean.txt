@@ -1,0 +1,30 @@
+Title: Health Insurance Carriers Are Prescription Drug Pushers_P3nFoAYJlK4
+URL: https://www.youtube.com/watch?v=P3nFoAYJlK4
+Language: en
+Duration: 6:39
+Upload Date: Unknown
+
+Transcription:
+
+Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is health insurance companies are drug pushers. Or another way of putting it is how pharmaceutical rebates to PBMs escape the medical loss ratio. Now that of course is a ridiculous title, which is why I had the sort of alternative title up top. But let's go through in detail how an insurance company is paid and how that relates to their incentives to actually have more and more expensive medications prescribed to their members.
+
+So here we have a block that represents payment to a, for a fully insured group. Let's say it's a fully insured group. It's a hundred employees on the plan. They're paying premium of about $10,000 per employee per year. So you take the hundred employees times the $10,000 and that means that they're paying out a million dollars in premium. Now, according to the MLR rules, that means that the insurance carrier for this fully insured group can keep 15% of that premium for administration and profit margin, etc.
+
+And then they must pay out 85% of that premium in claims. Okay, great. Then those claims then separate out into pharmacy claims and medical claims. And so let's just say for the sake of example that approximately 25% of the claim spend goes to pharmacy and 75% goes to medical. Well, that means that that 85% would then be broken down into 21 percentage points for pharmacy because 85 times .25, in other words, 25% spend equals 21% in pharmacy spend. And then you got to add up to the 85%. So that means that, accordingly, 64% would be on medical, right? So 21% plus 64% gets to the 85%.
+
+Okay. So that 21% that's spent on pharmacy, remember, it's spent on pharmacy, but then the insurance company, through its PBM, is getting paid back rebates. And according to one particular source that I will leave in the show notes, this happened to be a group of employers in Colorado, they found that their total pharmacy spend included actually 27% in rebate payments to the insurance carrier, slash PBM. So let's just... 27% of the entire drug spend was coming back to the carrier. Now, say, oh, well, they're passing through some of the rebates.
+
+Yeah, but they're getting all sorts... I have other A Healthcare Z videos that I will leave links to in the video about how gobs of these payments, commissions, if you will, from the pharmaceutical companies are not making their way back to the employers. Okay. So let's just make that perfectly clear. I'll leave a link to that video in the show notes. It's literally like 15 minutes long. We're not going to re-go over it here. Okay. So fine. So let's just say for the sake of round numbers, instead of saying 27%, let's just say it's 25%.
+
+It's a quarter. Okay. So in other words, a quarter of the 21% in pharmacy spend is coming back to the insurance carrier in the form of those rebates, PBM admin fees, blah, blah, blah. Okay. So a quarter of 21% is approximately five percentage points. So you go from 85% of the MOR to 21% on the pharmacy to then 5% on the rebate. So that 5% in rebate payments then gets added to the 15% that the carrier is able to keep in their admin plus margin. That means that the carrier is actually collecting at minimum 20% of the total premium spend.
+
+And you're like, oh, what's five percentage points? Keep in mind, that's a quarter of their total amount that they're getting back. Okay. So that is a huge addition to their bottom line, to the carrier's bottom line is the pharmacy spend. So you can see the more drugs that are spent on and the more expensive the drugs are, the more the carrier is going to get paid back and the more ends up showing up here as a percentage of the total premium that the carrier gets to keep and escapes the MOR. This percentage, this 5% here, escapes the 15% in the MOR.
+
+Isn't that convenient? Okay. But, and there's a huge but, many of you will say, correctly so, but the insurance carrier has prior authorizations for these expensive medications. Isn't the insurance carrier trying to stop the excessive prescription of these medications? Excellent point. Now, the way that this is addressed is by the pharmaceutical companies, where the message by the insurance carrier to the employer is, look, we have various cost containment mechanisms. We have prior authorization for all these expensive specialty pharmacy medications and other brand name medications.
+
+But in the same breath, the pharmaceutical companies have various market access programs. And I will leave a link in the show notes to the specific one for Humira. It's called Humira Complete, which essentially has step-by-step hand-holding instructions for both the patient and the doctor, including a 1-800 number, including pre-templated medical necessity letters and prior authorization letters and appeal letters, such that the doctor only has to fill in the pre-prescribed blank places in order to send that into the carrier in order to fast-track past the prior authorization process.
+
+So this then gets to the bottom line, which is the carrier has two masters. It has the pharmaceutical company who's paying them as a master, and it has an employer who's paying them as a master. So the insurance carrier business model, by definition, has two masters. And I don't know, I read in a book somewhere that you can't have two masters. That if you try to serve two masters, you're going to fail. So I would argue that maybe it's not this week, maybe it's not this month, maybe it's not this year, maybe it's not even this decade.
+
+But the underlying carrier business model of having two masters will ultimately fail. And that's my point for today. Thank you for watching a Healthcare Z..
+

@@ -1,0 +1,80 @@
+Title: Hospital Command Centers: Does Care Coordination Pay?  Nope!
+URL: https://www.youtube.com/watch?v=x7NJ-_bIlwo
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Hospital Command Centers, Repeat Business, and Money. Now this is based upon a video by General Electric, GE, as it relates to a hospital digital command center that they built for Humber River Hospital in Canada. Now, I'm going to leave a link to this video in the show notes on YouTube. It's like six minutes long. It is like the coolest thing ever. It's like a command center like you would see like at an airport for like routing all the planes across the country, except it's for routing patients within a hospital. And literally it has like video monitors of like the waiting room in the emergency rooms. People in the center can actually see how many people are waiting because I can tell you at hospitals across America, there's problems with like patients being like racked up in the hallway on gurneys. And in Canada, this is a huge problem. This is a brand spanking new hospital. They were having huge capacity issues. But at major hospital systems in America, there's a huge coordination problem of getting the right patient to the right test at the right time. And so they engage, Humber River Hospital engaged with General Electric to put in this command center. It is the second command center put in by GE in the world. Okay. So now I find this interesting that in a hospital, there are only two of these in the world. Okay. Because hospitals are not the only places that have to like coordinate people. Okay. Airlines have to coordinate people, right? And you have problems with weather, mechanical issues, what have you. Okay. For logistics, like for UPX or FedEx, I mean, you can go online and you can see like the command centers that they had in Memphis and Louisville for FedEx and UPX. Like they're amazing for routing all these packages, for manufacturing. The video specifically talks about how the head of the IT system for Humber River Hospital actually went to Dell and they saw the global dashboard that they used for routing all the parts and deliveries, et cetera, et cetera, for building computers at Dell, right? So the point is, is that all of these systems have existed in all these other industries, frankly, for a long time. Why are there only two of these for hospitals in the entire world? Like I would figure by now, like every hospital in the world would have one of these because they're so incredibly important to what they do. And in America, I can tell you specifically why. And it has to do with, okay, well, in airlines logistics manufacturing, you've got to get the right service to the right person at the right time, because if you don't do that, you do not get repeat business, right? You have to do this. Otherwise, they will never fly on your airline again. They will never ship a package with you again. And they will never buy a Dell computer again if it doesn't have a CPU in it, right? However, here's the big difference with healthcare. Hospitals, healthcare, they've got repeat customers too. They're called Medicare patients, okay? So in the commercial insurance, the employer world, we have to understand that for a doctor and a nurse and all the staff in the hospital, like who they see all day, every day, it's like Medicare patients. Like the vast majority of who they take care of is Medicare patients. Yes, do they have commercial insurance patients in there? Sure, absolutely. But the vast majority of the people that they see are Medicare patients. Now, what happens with these repeat customers that are Medicare patients at the hospital? The hospital, loses money on them, okay? They do not make any money on them. So I'll leave a link in the show it's about hospital cross-subsidization. Hospitals lose money on their repeat customers. So like, are they really going to go out of their way to get the right service at the right time to the right person? Like if they're losing money on all those people? Okay, next point. Who do they make money on? Commercially insured patients. Okay. So we've talked about how in hospital cross-subsidization, they overcharge the commercially insured folks in order to make up for the under-reimbursable Medicare folks. Okay. Those commercially insured folks, for the most part, are not repeat business. So in other words, from a cost-benefit analysis, it does not make sense for the hospital to invest in a command center to get the right service to the right person at the right time. Because if you did that for a commercially insured patient where you actually make money, they're not going to come back. They kind of have these episodes of care. You see it all the time in the high-cost claimants for commercially insured plans. Like you have this high-cost claimant and then they go away. They stop. The majority of them stop because they're not repeat users. They kind of use it and they go away. All right? Because they're young. They're generally healthy. Right? Or unfortunately, sometimes they expire. But the point is that the repeat customers of hospitals are Medicare patients who the hospital loses money on. And then the commercially insured patients are not repeat customers. And they're the ones that they actually make money on. Okay. So here's the punchline. The punchline is care coordination. There's no money. Okay. Now, what are the implications of that? So one, commercial insurance plans are kind of with these like value contracts. And I will just tell you right now, that's either a big black box or a big... So I will leave a link in the show notes as to why that does not solve this coordination problem. Now, implication number two. For a commercially insured plan, just know that you need to watch your patients like a hawk. You need to watch your patients like a hawk. Because there is no... Honestly, it will bring you to tears. Go to this video on YouTube and watch this thing. If you're an employer, you would love to have this for every single one of your employees when they go to the hospital. And you don't have this. Okay? So what do you do? You better have a on-site or a near-site clinic with a PCP where that PCP is essentially acting like the command center for your employees. Okay? And in an ideal situation, like PCP works for you. Now, that has been demonstrated time and time again through QuadMed in Wisconsin, through Seragraph in Wisconsin. Now, why did they have to do that in Wisconsin? Because healthcare costs in Wisconsin are incredibly high. Okay? So now, if you're a spread out employer, maybe you can't have on-site, near-site clinic. But you can at least get them into a PCP so they can at least... That's good. So they can at least try to act like this command center. So that's the only point I want to make today. And thank you for watching a HealthcareZ.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:05 - 0:16]  Hospital Command Centers, Repeat Business, and Money. Now this is based upon a video by General
+[0:16 - 0:25]  Electric, GE, as it relates to a hospital digital command center that they built for Humber River
+[0:25 - 0:32]  Hospital in Canada. Now, I'm going to leave a link to this video in the show notes on YouTube. It's like
+[0:32 - 0:36]  six minutes long. It is like the coolest thing ever. It's like a command center like you would
+[0:36 - 0:42]  see like at an airport for like routing all the planes across the country, except it's for routing
+[0:42 - 0:49]  patients within a hospital. And literally it has like video monitors of like the waiting room in
+[0:49 - 0:55]  the emergency rooms. People in the center can actually see how many people are waiting because
+[0:55 - 1:00]  I can tell you at hospitals across America, there's problems with like patients being like
+[1:00 - 1:06]  racked up in the hallway on gurneys. And in Canada, this is a huge problem. This is a brand spanking
+[1:06 - 1:12]  new hospital. They were having huge capacity issues. But at major hospital systems in America,
+[1:12 - 1:17]  there's a huge coordination problem of getting the right patient to the right test at the right time.
+[1:17 - 1:21]  And so they engage, Humber River Hospital engaged with General Electric to put in this command center.
+[1:21 - 1:30]  It is the second command center put in by GE in the world. Okay. So now I find this interesting
+[1:30 - 1:36]  that in a hospital, there are only two of these in the world. Okay. Because hospitals are not the
+[1:36 - 1:41]  only places that have to like coordinate people. Okay. Airlines have to coordinate people, right?
+[1:41 - 1:45]  And you have problems with weather, mechanical issues, what have you. Okay. For logistics,
+[1:45 - 1:51]  like for UPX or FedEx, I mean, you can go online and you can see like the command centers that they
+[1:51 - 1:56]  had in Memphis and Louisville for FedEx and UPX. Like they're amazing for routing all these packages,
+[1:56 - 2:02]  for manufacturing. The video specifically talks about how the head of the IT system for Humber River
+[2:02 - 2:08]  Hospital actually went to Dell and they saw the global dashboard that they used for routing all the
+[2:08 - 2:13]  parts and deliveries, et cetera, et cetera, for building computers at Dell, right? So the point is,
+[2:13 - 2:19]  is that all of these systems have existed in all these other industries, frankly, for a long time.
+[2:19 - 2:25]  Why are there only two of these for hospitals in the entire world? Like I would figure by now,
+[2:25 - 2:29]  like every hospital in the world would have one of these because they're so incredibly important
+[2:29 - 2:35]  to what they do. And in America, I can tell you specifically why. And it has to do with,
+[2:35 - 2:40]  okay, well, in airlines logistics manufacturing, you've got to get the right service to the right
+[2:40 - 2:44]  person at the right time, because if you don't do that, you do not get repeat business, right?
+[2:44 - 2:49]  You have to do this. Otherwise, they will never fly on your airline again. They will never ship a
+[2:49 - 2:54]  package with you again. And they will never buy a Dell computer again if it doesn't have a CPU in it,
+[2:54 - 3:00]  right? However, here's the big difference with healthcare. Hospitals, healthcare, they've got
+[3:00 - 3:05]  repeat customers too. They're called Medicare patients, okay? So in the commercial insurance,
+[3:05 - 3:11]  the employer world, we have to understand that for a doctor and a nurse and all the staff in the
+[3:11 - 3:18]  hospital, like who they see all day, every day, it's like Medicare patients. Like the vast majority
+[3:18 - 3:22]  of who they take care of is Medicare patients. Yes, do they have commercial insurance patients in there?
+[3:22 - 3:27]  Sure, absolutely. But the vast majority of the people that they see are Medicare patients. Now,
+[3:28 - 3:35]  what happens with these repeat customers that are Medicare patients at the hospital? The hospital,
+[3:35 - 3:40]  loses money on them, okay? They do not make any money on them. So I'll leave a link in the show
+[3:40 - 3:48]  it's about hospital cross-subsidization. Hospitals lose money on their repeat customers. So like,
+[3:48 - 3:52]  are they really going to go out of their way to get the right service at the right time
+[3:52 - 3:57]  to the right person? Like if they're losing money on all those people? Okay, next point. Who do they
+[3:57 - 4:03]  make money on? Commercially insured patients. Okay. So we've talked about how in hospital cross-subsidization,
+[4:03 - 4:07]  they overcharge the commercially insured folks in order to make up for the under-reimbursable
+[4:07 - 4:13]  Medicare folks. Okay. Those commercially insured folks, for the most part, are not repeat business.
+[4:14 - 4:19]  So in other words, from a cost-benefit analysis, it does not make sense for the hospital to invest
+[4:19 - 4:23]  in a command center to get the right service to the right person at the right time. Because if you
+[4:23 - 4:27]  did that for a commercially insured patient where you actually make money, they're not going to come
+[4:27 - 4:31]  back. They kind of have these episodes of care. You see it all the time in the high-cost claimants
+[4:31 - 4:35]  for commercially insured plans. Like you have this high-cost claimant and then they go away.
+[4:35 - 4:39]  They stop. The majority of them stop because they're not repeat users. They kind of use it
+[4:39 - 4:43]  and they go away. All right? Because they're young. They're generally healthy. Right? Or
+[4:43 - 4:48]  unfortunately, sometimes they expire. But the point is that the repeat customers of hospitals
+[4:48 - 4:53]  are Medicare patients who the hospital loses money on. And then the commercially insured patients
+[4:53 - 4:57]  are not repeat customers. And they're the ones that they actually make money on. Okay. So
+[4:57 - 5:04]  here's the punchline. The punchline is care coordination. There's no money. Okay. Now,
+[5:04 - 5:09]  what are the implications of that? So one, commercial insurance plans are kind of with
+[5:09 - 5:14]  these like value contracts. And I will just tell you right now, that's either a big black box or a
+[5:14 - 5:21]  big... So I will leave a link in the show notes as to why that does not solve this coordination
+[5:21 - 5:28]  problem. Now, implication number two. For a commercially insured plan, just know that you need to
+[5:28 - 5:33]  watch your patients like a hawk. You need to watch your patients like a hawk. Because there is no...
+[5:33 - 5:38]  Honestly, it will bring you to tears. Go to this video on YouTube and watch this thing. If you're an
+[5:38 - 5:43]  employer, you would love to have this for every single one of your employees when they go to the
+[5:43 - 5:50]  hospital. And you don't have this. Okay? So what do you do? You better have a on-site or a near-site
+[5:50 - 5:57]  clinic with a PCP where that PCP is essentially acting like the command center for your employees.
+[5:57 - 6:04]  Okay? And in an ideal situation, like PCP works for you. Now, that has been demonstrated time and
+[6:04 - 6:09]  time again through QuadMed in Wisconsin, through Seragraph in Wisconsin. Now, why did they have to
+[6:09 - 6:15]  do that in Wisconsin? Because healthcare costs in Wisconsin are incredibly high. Okay? So now,
+[6:15 - 6:21]  if you're a spread out employer, maybe you can't have on-site, near-site clinic. But you can at least
+[6:21 - 6:25]  get them into a PCP so they can at least... That's good. So they can at least try to act like this
+[6:25 - 6:32]  command center. So that's the only point I want to make today. And thank you for watching a HealthcareZ.

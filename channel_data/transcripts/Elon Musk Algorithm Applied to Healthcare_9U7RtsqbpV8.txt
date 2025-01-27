@@ -1,0 +1,188 @@
+Title: Elon Musk Algorithm Applied to Healthcare
+URL: https://www.youtube.com/watch?v=9U7RtsqbpV8
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker, and thank you for watching A Healthcare Z, and today's topic is Elon Musk algorithm applied to healthcare. So I recently finished listening to the audiobook of Elon Musk's biography by Walter Isaacson, and let me tell you, it was incredibly fascinating. It was also super long. It's like over 20 hours long to listen. It's like over 600 pages if you're going to read it. So it is a doozy, but it's filled with fascinating stories. And one of the fascinating pieces of information in the Elon Musk biography is the five-step algorithm that he uses essentially to accomplish these amazing tasks that he's accomplished in regards to the creation of reusable rockets, in electrified vehicles, in all the other things that he's been doing. And so regardless of your opinion of Elon Musk, let's take a look at his algorithm for effectively accomplishing a complex goal. I would argue in healthcare, we are trying to accomplish very complex goals. And so let's apply Elon Musk's algorithm specifically to healthcare. Alright, so number one, question every requirement. Not only question every requirement, but every requirement has to have the name of the person responsible for the requirement attached to it. There are no requirements determined by committee. Ultimately, there's a head of that committee, and ultimately that requirement is attached to that person's name. And so anybody in the organization can specifically question any requirement, including requirements that were created by Elon Musk himself. And the person who is ultimately responsible for that requirement needs to justify it. Okay. And then, of course, once you question that requirement, be like, okay, can we make it less dumb? Okay, specifically in healthcare. And these specific examples I'm going to do are going to be hospital examples. Okay, so hospital documentation is incredibly laborious. So the nurses, the physical therapists, the doctors, the respiratory therapists, for so much of what they do, it's not just writing like freehand notes. There's lots of specific like forms that you're constantly having to fill out. You got to fill out a form for patient-controlled analgesia. You got to fill out a form for total parenteral nutrition, for TPN. You got to fill out a form if a patient needs to have restraints because they are delirious and they're trying to pull out their IVs. Okay. There are forms everywhere. And those forms aren't just like a couple of things. There's like, it's a page. Sometimes it's the front and the half of the page. Sometimes if you're using like an electronic medical record system, you're having to click a whole bunch of boxes and drop downs and fill in stuff. I mean, it takes a really long time. So literally every single piece that is on each one of those pieces of documentation, every single field needs to be questioned. Doesn't need to be there. Let's make those documentation requirements less dumb. Okay. Next up. Then delete any part of the process that you can. So he says that you need to delete so many parts of any process that unless you need to add back 10% of what you cut, then you didn't cut enough. In other words, you have to overcut and then be like, oh, we actually cut too much. And then add back 10%. Okay. Specific clinical example. The office visit to the gastroenterologist prior to the screening colonoscopy. By and large, not necessary. It's referred to as open endoscopy where the person just gets a referral or they can even call up the gastroenterologist's office themselves. And they can have like and be like, hey, I just turned 45 or 50 and I want to have my screening colonoscopy. And they'll have like a short questionnaire they need to go through to make sure that you don't have any special situations that would require an office visit in advance. But the vast majority of time for a screening colonoscopy, you don't. So when I had my screening colonoscopy, the gastroenterologist, they didn't even consider having me come in to do an office visit prior to the colonoscopy because it's a total waste of time. Right. So there is a part of the process, the office visit prior to the screening colonoscopy, which for the most part is totally not necessary. So you're like, you're not going to make it a more efficient office visit. You're just going to get rid of the office visit. Likewise, for the hospital documentation, are there certain forms that frankly you just don't need? And then are there certain fields on that form that frankly you just don't need? Are there certain choices in the drop downs for those fields that frankly you just don't need? And there are countless examples that every single clinician, that is nurse, physical therapist, respiratory therapist, doctor, that is in their own workflow, in their own daily lives, they can think of tons of examples that fall into these top two categories. Okay. Next, third is to simplify and optimize. Notice that these go in a specific order. So first you question the requirement. Then you get rid of the stuff that doesn't be there. Then you're going to simplify and optimize the stuff that actually does need to be there. Okay. So you got to delete first, right? Because you don't want to simplify and optimize a part of the process that shouldn't be there in the first place. Okay. So you have to document in the medical record for the patient visit. Okay. I mean, for legal purposes, for clinical communication purposes, for billing purposes, you've got to document. So you have to do it. And clinicians spend tons of time documenting patient visits. So how can you simplify and optimize it? Listen, and I've made a previous A Healthcare V about, A Healthcare Z video about the use of generative AI. But this is where natural language processing to turn the spoken word into text. And then using generative AI to then use that spoken text and literally put it into the format of a note. That literally, you can have an ambient listening device attached to a computer in a room. There's a company called DeepScribe that already does this. And Amazon's starting to do it. There's a whole bunch of companies. I mean, like, my wish, the wish of probably the majority of clinicians watching this video is that in the near future, like, the notes will be largely written for them just by listening to the patient encounter. And the note is created. Or the vast majority of the note is created. Okay. And another really simple thing that can be done is physicians and clinicians are constantly looking at drop-downs and needing to make choices for things, whether it be dosages for medications or frequencies for medications or, like I said, on all these other forms for, like, TPN or whatever. And those drop-downs should be prioritized by the most common. And it's always the 80-20 rule, right? 80% of the time, you're only, like, choosing, like, 20% of the things. So if you have a drop-down with 10 things, then only 2 of the 10 things are chosen, like, 80% of the time. And so what do you do? You make those top, those two things at the very top. I can't tell you the number of drop-downs and choices that are given to clinicians that are in alphabetical order. They're prioritized by the first letter of the word. Or, like, in the dosing, it's, like, the smallest dose to the biggest dose. I'm like, no. I mean, there are certain doses of medications, and there are certain things that they should not be done alphabetically. In fact, if you see something done alphabetically, then 9 times out of 10, that is a very dumb way to prioritize it. Okay. So you're going to optimize, you can just optimize the drop-downs. Okay. Next up. Number 4. Accelerate the time cycles. So, every process can be speeded up. Every process can be speeded up. And anybody who works in a hospital knows that there's tons of processes that slow people down. They still need to be there. For example, there's just lots of physical stuff that needs to be moved around the hospital. So blood samples need to be moved around the hospital. Medications need to be moved around the hospital. Shoot, even sheets of paper need to be moved around the hospital. And what do they use to move stuff around the hospital? The tube system. And the tube system is like the bane of my existence. It's the bane of so many people's existence. It's like, you know, okay, I ordered this medication. Pharmacy, you need to tube it up. Well, we tubed it up. Well, it's not here yet. We're finding a tube. Oh, well, somebody else already grabbed it out of the tube and put it somewhere. Like, specifically, when, like, the time it takes to move something from one part of the hospital to another part of the hospital, specifically using the tube system or not using the tube system or whatever, it can totally be speeded up because it is not efficient, okay? Also, it's the supply cart refill, right? So if you need to put in a central line, then typically there'll be like a cart that has all of the supplies that are needed for that. And I can't tell you the number of times that myself, you go to these carts and you're like, oh, certain stuff's missing, like the size glove I need is missing, or the sterile gown is missing, or the face shield is missing. I mean, and so it's like, okay, the acceleration on those carts, those carts can be totally accelerated. And so literally, I have spent hours, dozens of hours going around, like searching around the unit for the stuff that was not in the supply cart that should have been there for me to put in the central line. Okay, number five. You can automate things. What things don't need to be done by person? And here, in a hospital, the automation needs to be done last. So again, you want to question the requirements, you want to delete any unnecessary process, you want to simplify it not the price, you want to celebrate, and only then do you automate. Don't try to automate stuff that shouldn't be done in the first place. Elon Musk himself said that was a huge mistake that he made. Okay. Interestingly, what can be automated in hospitals is actually a lot of data transfer. And so I'm not talking about like, you know, sure, you can have robots doing stuff, moving physical items, but there are literally people involved with moving data from one system to another system, etc., etc., and it's done manually, and it's done through a process that's referred to as ETL, extraction, transfer, and load. And I will tell you that the ETL processes themselves are hugely inefficient and can be dramatically improved. We even saw this at Compass, where we had incredibly inefficient ETL processes, but by people processing tools, we hired better people, we put in better ETL processes, we had better ETL software. Through that, we dramatically improved and automated the number of data transfers that could happen in an automated fashion, so that a person didn't even need to touch the data for it to be appropriately and accurately transferred from one system to another. Okay. Now, the final bow that goes on these five things from Elon Musk is that all managers, by the way, who are doing a lot of this stuff, must have hands-on experience. So all of the software managers at all of Elon Musk's companies, they have to spend 20% of their time actually coding. Okay. So what does that mean? That means that for many positions of, you know, creating processes and procedures, they relate to patient care. The people who do this should have experience taking care of patients. And I have seen some wonderful examples of this. I have seen fantastic nurse managers who all the nurses love their nurse manager. It is a, the floor, it's like a Picasso. It is a well-oiled machine. And that nurse manager, because nursing is obviously highly specialized too, that nurse oftentimes had a ton of experience in that particular type of nursing, like ICU nursing, or cardiac care nursing, or pediatric nursing. Okay. So I've seen amazing nurse managers because they had specific hands-on experience for the specific type of floor that they were managing. Likewise, I have seen a million examples of hospital administrators who have no patient care experience. And we need to be asking ourselves, should that be a prerequisite for hospital administration, is that you actually have a patient care experience first? You don't have to be a nurse or a doctor. There's many other patient care experiences that you can have in a hospital. And many of these people that have patient care experience, if you gave them the proper education and training and opportunity, could become wonderful managers and could become fantastic arbiters of this process, including the CEO. Maybe the CEO. Maybe the CEOs themselves need to have had patient care experience. It's just a suggestion, a suggestion that Elon Musk himself might have used. And that's my point for today. Thank you for watching AHELPCAREZ. Thank you for watching AHELPCAREZ.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:11]  Hello, this is Dr. Eric Bricker, and thank you for watching A Healthcare Z, and today's topic is Elon Musk algorithm applied to healthcare.
+[0:11 - 0:21]  So I recently finished listening to the audiobook of Elon Musk's biography by Walter Isaacson, and let me tell you, it was incredibly fascinating.
+[0:22 - 0:27]  It was also super long. It's like over 20 hours long to listen. It's like over 600 pages if you're going to read it.
+[0:27 - 0:31]  So it is a doozy, but it's filled with fascinating stories.
+[0:32 - 0:53]  And one of the fascinating pieces of information in the Elon Musk biography is the five-step algorithm that he uses essentially to accomplish these amazing tasks that he's accomplished in regards to the creation of reusable rockets, in electrified vehicles, in all the other things that he's been doing.
+[0:53 - 1:05]  And so regardless of your opinion of Elon Musk, let's take a look at his algorithm for effectively accomplishing a complex goal.
+[1:05 - 1:12]  I would argue in healthcare, we are trying to accomplish very complex goals.
+[1:12 - 1:17]  And so let's apply Elon Musk's algorithm specifically to healthcare.
+[1:17 - 1:22]  Alright, so number one, question every requirement.
+[1:23 - 1:33]  Not only question every requirement, but every requirement has to have the name of the person responsible for the requirement attached to it.
+[1:34 - 1:37]  There are no requirements determined by committee.
+[1:38 - 1:43]  Ultimately, there's a head of that committee, and ultimately that requirement is attached to that person's name.
+[1:43 - 1:52]  And so anybody in the organization can specifically question any requirement, including requirements that were created by Elon Musk himself.
+[1:52 - 1:59]  And the person who is ultimately responsible for that requirement needs to justify it.
+[1:59 - 1:59]  Okay.
+[2:00 - 2:05]  And then, of course, once you question that requirement, be like, okay, can we make it less dumb?
+[2:05 - 2:08]  Okay, specifically in healthcare.
+[2:08 - 2:11]  And these specific examples I'm going to do are going to be hospital examples.
+[2:11 - 2:16]  Okay, so hospital documentation is incredibly laborious.
+[2:17 - 2:25]  So the nurses, the physical therapists, the doctors, the respiratory therapists, for so much of what they do, it's not just writing like freehand notes.
+[2:25 - 2:31]  There's lots of specific like forms that you're constantly having to fill out.
+[2:31 - 2:35]  You got to fill out a form for patient-controlled analgesia.
+[2:35 - 2:40]  You got to fill out a form for total parenteral nutrition, for TPN.
+[2:40 - 2:50]  You got to fill out a form if a patient needs to have restraints because they are delirious and they're trying to pull out their IVs.
+[2:50 - 2:50]  Okay.
+[2:50 - 2:52]  There are forms everywhere.
+[2:53 - 2:54]  And those forms aren't just like a couple of things.
+[2:55 - 2:56]  There's like, it's a page.
+[2:56 - 2:57]  Sometimes it's the front and the half of the page.
+[2:57 - 3:05]  Sometimes if you're using like an electronic medical record system, you're having to click a whole bunch of boxes and drop downs and fill in stuff.
+[3:05 - 3:07]  I mean, it takes a really long time.
+[3:07 - 3:17]  So literally every single piece that is on each one of those pieces of documentation, every single field needs to be questioned.
+[3:17 - 3:19]  Doesn't need to be there.
+[3:19 - 3:24]  Let's make those documentation requirements less dumb.
+[3:24 - 3:24]  Okay.
+[3:24 - 3:25]  Next up.
+[3:25 - 3:28]  Then delete any part of the process that you can.
+[3:28 - 3:44]  So he says that you need to delete so many parts of any process that unless you need to add back 10% of what you cut, then you didn't cut enough.
+[3:44 - 3:48]  In other words, you have to overcut and then be like, oh, we actually cut too much.
+[3:48 - 3:51]  And then add back 10%.
+[3:51 - 3:51]  Okay.
+[3:52 - 3:54]  Specific clinical example.
+[3:55 - 4:01]  The office visit to the gastroenterologist prior to the screening colonoscopy.
+[4:01 - 4:04]  By and large, not necessary.
+[4:04 - 4:14]  It's referred to as open endoscopy where the person just gets a referral or they can even call up the gastroenterologist's office themselves.
+[4:14 - 4:19]  And they can have like and be like, hey, I just turned 45 or 50 and I want to have my screening colonoscopy.
+[4:19 - 4:27]  And they'll have like a short questionnaire they need to go through to make sure that you don't have any special situations that would require an office visit in advance.
+[4:27 - 4:31]  But the vast majority of time for a screening colonoscopy, you don't.
+[4:31 - 4:43]  So when I had my screening colonoscopy, the gastroenterologist, they didn't even consider having me come in to do an office visit prior to the colonoscopy because it's a total waste of time.
+[4:43 - 4:43]  Right.
+[4:43 - 4:51]  So there is a part of the process, the office visit prior to the screening colonoscopy, which for the most part is totally not necessary.
+[4:51 - 4:53]  So you're like, you're not going to make it a more efficient office visit.
+[4:54 - 4:56]  You're just going to get rid of the office visit.
+[4:56 - 5:02]  Likewise, for the hospital documentation, are there certain forms that frankly you just don't need?
+[5:02 - 5:07]  And then are there certain fields on that form that frankly you just don't need?
+[5:07 - 5:13]  Are there certain choices in the drop downs for those fields that frankly you just don't need?
+[5:13 - 5:31]  And there are countless examples that every single clinician, that is nurse, physical therapist, respiratory therapist, doctor, that is in their own workflow, in their own daily lives, they can think of tons of examples that fall into these top two categories.
+[5:31 - 5:31]  Okay.
+[5:32 - 5:34]  Next, third is to simplify and optimize.
+[5:34 - 5:36]  Notice that these go in a specific order.
+[5:37 - 5:38]  So first you question the requirement.
+[5:38 - 5:40]  Then you get rid of the stuff that doesn't be there.
+[5:40 - 5:44]  Then you're going to simplify and optimize the stuff that actually does need to be there.
+[5:44 - 5:44]  Okay.
+[5:44 - 5:46]  So you got to delete first, right?
+[5:46 - 5:50]  Because you don't want to simplify and optimize a part of the process that shouldn't be there in the first place.
+[5:50 - 5:50]  Okay.
+[5:51 - 5:56]  So you have to document in the medical record for the patient visit.
+[5:56 - 5:57]  Okay.
+[5:57 - 6:03]  I mean, for legal purposes, for clinical communication purposes, for billing purposes, you've got to document.
+[6:03 - 6:04]  So you have to do it.
+[6:06 - 6:10]  And clinicians spend tons of time documenting patient visits.
+[6:10 - 6:11]  So how can you simplify and optimize it?
+[6:11 - 6:19]  Listen, and I've made a previous A Healthcare V about, A Healthcare Z video about the use of generative AI.
+[6:19 - 6:24]  But this is where natural language processing to turn the spoken word into text.
+[6:25 - 6:31]  And then using generative AI to then use that spoken text and literally put it into the format of a note.
+[6:31 - 6:37]  That literally, you can have an ambient listening device attached to a computer in a room.
+[6:37 - 6:41]  There's a company called DeepScribe that already does this.
+[6:41 - 6:42]  And Amazon's starting to do it.
+[6:42 - 6:43]  There's a whole bunch of companies.
+[6:43 - 6:57]  I mean, like, my wish, the wish of probably the majority of clinicians watching this video is that in the near future, like, the notes will be largely written for them just by listening to the patient encounter.
+[6:57 - 7:00]  And the note is created.
+[7:00 - 7:02]  Or the vast majority of the note is created.
+[7:02 - 7:02]  Okay.
+[7:03 - 7:12]  And another really simple thing that can be done is physicians and clinicians are constantly looking at drop-downs and needing to make choices for things,
+[7:12 - 7:21]  whether it be dosages for medications or frequencies for medications or, like I said, on all these other forms for, like, TPN or whatever.
+[7:22 - 7:26]  And those drop-downs should be prioritized by the most common.
+[7:26 - 7:28]  And it's always the 80-20 rule, right?
+[7:28 - 7:32]  80% of the time, you're only, like, choosing, like, 20% of the things.
+[7:32 - 7:39]  So if you have a drop-down with 10 things, then only 2 of the 10 things are chosen, like, 80% of the time.
+[7:39 - 7:40]  And so what do you do?
+[7:40 - 7:43]  You make those top, those two things at the very top.
+[7:43 - 7:51]  I can't tell you the number of drop-downs and choices that are given to clinicians that are in alphabetical order.
+[7:51 - 7:54]  They're prioritized by the first letter of the word.
+[7:55 - 7:57]  Or, like, in the dosing, it's, like, the smallest dose to the biggest dose.
+[7:58 - 7:58]  I'm like, no.
+[7:58 - 8:06]  I mean, there are certain doses of medications, and there are certain things that they should not be done alphabetically.
+[8:06 - 8:11]  In fact, if you see something done alphabetically, then 9 times out of 10, that is a very dumb way to prioritize it.
+[8:11 - 8:11]  Okay.
+[8:12 - 8:16]  So you're going to optimize, you can just optimize the drop-downs.
+[8:16 - 8:16]  Okay.
+[8:16 - 8:16]  Next up.
+[8:17 - 8:18]  Number 4.
+[8:19 - 8:20]  Accelerate the time cycles.
+[8:20 - 8:24]  So, every process can be speeded up.
+[8:25 - 8:26]  Every process can be speeded up.
+[8:26 - 8:31]  And anybody who works in a hospital knows that there's tons of processes that slow people down.
+[8:31 - 8:32]  They still need to be there.
+[8:32 - 8:36]  For example, there's just lots of physical stuff that needs to be moved around the hospital.
+[8:36 - 8:38]  So blood samples need to be moved around the hospital.
+[8:38 - 8:40]  Medications need to be moved around the hospital.
+[8:40 - 8:42]  Shoot, even sheets of paper need to be moved around the hospital.
+[8:43 - 8:45]  And what do they use to move stuff around the hospital?
+[8:45 - 8:47]  The tube system.
+[8:47 - 8:51]  And the tube system is like the bane of my existence.
+[8:51 - 8:52]  It's the bane of so many people's existence.
+[8:52 - 8:55]  It's like, you know, okay, I ordered this medication.
+[8:56 - 8:57]  Pharmacy, you need to tube it up.
+[8:57 - 8:58]  Well, we tubed it up.
+[8:58 - 8:59]  Well, it's not here yet.
+[8:59 - 9:00]  We're finding a tube.
+[9:00 - 9:02]  Oh, well, somebody else already grabbed it out of the tube and put it somewhere.
+[9:02 - 9:14]  Like, specifically, when, like, the time it takes to move something from one part of the hospital to another part of the hospital,
+[9:14 - 9:17]  specifically using the tube system or not using the tube system or whatever,
+[9:17 - 9:20]  it can totally be speeded up because it is not efficient, okay?
+[9:21 - 9:23]  Also, it's the supply cart refill, right?
+[9:23 - 9:30]  So if you need to put in a central line, then typically there'll be like a cart that has all of the supplies that are needed for that.
+[9:30 - 9:34]  And I can't tell you the number of times that myself, you go to these carts and you're like,
+[9:34 - 9:42]  oh, certain stuff's missing, like the size glove I need is missing, or the sterile gown is missing, or the face shield is missing.
+[9:42 - 9:50]  I mean, and so it's like, okay, the acceleration on those carts, those carts can be totally accelerated.
+[9:50 - 9:57]  And so literally, I have spent hours, dozens of hours going around, like searching around the unit
+[9:57 - 10:04]  for the stuff that was not in the supply cart that should have been there for me to put in the central line.
+[10:04 - 10:05]  Okay, number five.
+[10:06 - 10:08]  You can automate things.
+[10:08 - 10:10]  What things don't need to be done by person?
+[10:10 - 10:15]  And here, in a hospital, the automation needs to be done last.
+[10:15 - 10:18]  So again, you want to question the requirements, you want to delete any unnecessary process,
+[10:18 - 10:22]  you want to simplify it not the price, you want to celebrate, and only then do you automate.
+[10:22 - 10:25]  Don't try to automate stuff that shouldn't be done in the first place.
+[10:25 - 10:27]  Elon Musk himself said that was a huge mistake that he made.
+[10:28 - 10:28]  Okay.
+[10:28 - 10:34]  Interestingly, what can be automated in hospitals is actually a lot of data transfer.
+[10:35 - 10:39]  And so I'm not talking about like, you know, sure, you can have robots doing stuff, moving physical items,
+[10:39 - 10:46]  but there are literally people involved with moving data from one system to another system, etc., etc.,
+[10:46 - 10:55]  and it's done manually, and it's done through a process that's referred to as ETL, extraction, transfer, and load.
+[10:56 - 11:05]  And I will tell you that the ETL processes themselves are hugely inefficient and can be dramatically improved.
+[11:05 - 11:13]  We even saw this at Compass, where we had incredibly inefficient ETL processes, but by people processing tools,
+[11:13 - 11:18]  we hired better people, we put in better ETL processes, we had better ETL software.
+[11:18 - 11:26]  Through that, we dramatically improved and automated the number of data transfers that could happen in an automated fashion,
+[11:26 - 11:35]  so that a person didn't even need to touch the data for it to be appropriately and accurately transferred from one system to another.
+[11:35 - 11:36]  Okay.
+[11:36 - 11:47]  Now, the final bow that goes on these five things from Elon Musk is that all managers, by the way, who are doing a lot of this stuff,
+[11:47 - 11:51]  must have hands-on experience.
+[11:52 - 12:02]  So all of the software managers at all of Elon Musk's companies, they have to spend 20% of their time actually coding.
+[12:02 - 12:02]  Okay.
+[12:02 - 12:04]  So what does that mean?
+[12:04 - 12:11]  That means that for many positions of, you know, creating processes and procedures, they relate to patient care.
+[12:11 - 12:15]  The people who do this should have experience taking care of patients.
+[12:16 - 12:18]  And I have seen some wonderful examples of this.
+[12:18 - 12:24]  I have seen fantastic nurse managers who all the nurses love their nurse manager.
+[12:24 - 12:27]  It is a, the floor, it's like a Picasso.
+[12:27 - 12:29]  It is a well-oiled machine.
+[12:29 - 12:39]  And that nurse manager, because nursing is obviously highly specialized too, that nurse oftentimes had a ton of experience in that particular type of nursing,
+[12:39 - 12:44]  like ICU nursing, or cardiac care nursing, or pediatric nursing.
+[12:44 - 12:45]  Okay.
+[12:45 - 12:53]  So I've seen amazing nurse managers because they had specific hands-on experience for the specific type of floor that they were managing.
+[12:53 - 13:03]  Likewise, I have seen a million examples of hospital administrators who have no patient care experience.
+[13:03 - 13:15]  And we need to be asking ourselves, should that be a prerequisite for hospital administration, is that you actually have a patient care experience first?
+[13:15 - 13:18]  You don't have to be a nurse or a doctor.
+[13:19 - 13:24]  There's many other patient care experiences that you can have in a hospital.
+[13:24 - 13:31]  And many of these people that have patient care experience, if you gave them the proper education and training and opportunity,
+[13:31 - 13:43]  could become wonderful managers and could become fantastic arbiters of this process, including the CEO.
+[13:43 - 13:45]  Maybe the CEO.
+[13:45 - 13:49]  Maybe the CEOs themselves need to have had patient care experience.
+[13:49 - 13:55]  It's just a suggestion, a suggestion that Elon Musk himself might have used.
+[13:55 - 13:57]  And that's my point for today.
+[13:57 - 13:59]  Thank you for watching AHELPCAREZ.
+[13:59 - 14:01]  Thank you for watching AHELPCAREZ.

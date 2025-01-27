@@ -1,0 +1,142 @@
+Title: Hospital - Insurance Contracting Part 1: Case Rates and Per Diems Explained
+URL: https://www.youtube.com/watch?v=FpdJ7i--8O4
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Hospital Insurance Contracting. So I'm going to share with you about case rates and per diem contract terms between hospital systems and health insurance carriers and how they specifically negotiate these specific contract terms. I'm going to do something a little different today. I'm going to share with you a clip from a presentation that I have previously made that discusses case rate and per diem contract terms. Thank you for watching. Let's go to the clip. So now we're going to go through the various methodologies. The first methodology, the contracting methodology that we're going to go through, is referred to as the case rate. And I also put per diem on here because per diems are very similar to case rates. So I wanted to cover both of them in this one slide. So just know these are two different specific methodologies. There's a case rate methodology and there's a per diem methodology. And this is typically used for things like hospital based imaging. So if you actually got an MRI or a CT scan at the hospital. Now, not as part of an overall stay, but there's gobs of outpatient imaging that's done at a hospital. Right. So you go in, you get the MRI at the hospital and then you leave or, you know, mammogram or chest x-ray, et cetera. Right. It also is for an inpatient. The per diems are used for typically for inpatient medical stays. So you go in for a pneumonia or acute renal failure or, you know, some intractable nausea, vomiting, you have to be admitted to the hospital. So that's a medical stay. That's typically charged at a per diem. And then some surgeries and some procedures are also charged on a case rate basis. Now, how does this work? So let's use the simple example of an MRI that's actually performed at the hospital. So hospital A, I say, look, we're going to bill $3,000 for the MRI. And the insurance carrier is like, I don't care what you bill for your MRI. Let's negotiate what that allowed amount is going to be, what the case rate is going to be. And so they go back and forth and they say, okay, $2,000 per MRI. That's what our case rate is going to be. And so it's very simple with a case rate. The allowed amount is just equal to the case rate or $2,000. Then that $2,000 gets applied to whatever the plan design is for the individual. It could completely fall to their deductible. It could be some combination of coinsurance and deductible, et cetera. Now at hospital B, they have bill charges of $1,000 for an MRI. And they negotiate a contracted rate or a case rate of $800 for the MRI. And so again, it's very simple in that the allowed amount is just equal to the case rate of $800. So then I ask you this question here at the bottom, which hospital has better savings? Well, of course, hospital A has better savings. If you're a self-funded plan, of course you want all of your employees to go to hospital A because you save $1,000 every time you go to hospital A. You only save a measly $200 when you go to hospital B. So everybody should go to hospital A, right? No, of course not. I was being facetious. Obviously, hospital B is more cost effective. It's less expensive than hospital A because the billed charges are less at that place. Regardless of what the billed charges are, the allowed amount, the $800 is lower. So when you're looking at the value of an insurance contract with a hospital system, the quote unquote discount or the quote unquote savings is not the metric. It is never the metric you want to look at. What you want to look at is the allowed amount. Now, there is allowed amount information that you can look at in your own claims. If you're a self-funded plan, there's a lot of allowed amount information that's available now because this is what actually needs to be posted by law by the hospitals as well. So when they're posting their prices or supposed to be posting their prices, it's those allowed amounts that they should be posted. Now, let me talk about the per diem. The per diem is very similar, except the quote unquote case in the case of a per diem is one day of hospitalization. So if you provide a per diem, let's say it's an inpatient pneumonia, hospital A might bill $3,000 a day for that hospitalization, but they have negotiated a per diem rate of $2,000 a day. Let's say the person turns around real quickly from their pneumonia. They only have a one day hospital stay. Then the allowed amount will be the, the, the allowed amount will be $2,000. Likewise, at hospital B, if they negotiated a per diem case rate of $800 a day, and it was a one day hospital stay, then it would be, and it likewise, if you had two day hospital stays. So if you had a two day hospital stay at hospital A, it would be $4,000. And if you had a two day hospital stay at hospital B, it would be $800. So both note in both of these situations, the billed charges do not matter at all. They do not matter. Now they will matter in subsequent methodologies, but let me pause there because I see some questions have come in and let me, uh, attempt to address them. For a self-funded employer group contract, who is leading the negotiation and whose interest conflicts do they balance? So thank you, John, uh, for your question. Who is negotiating the contract is the insurance carrier or the insurance network. So I was on a panel on, uh, uh, you know, during the pandemic, uh, you know, sort of a zoom, you know, uh, conference with the head of contracting for United healthcare for the Western part of the United States. I think he had responsibility for like four or five States, obviously California being the biggest one. And so he had a small team of small, relatively small compared to the size of UHC that would go out to all the hospitals in his territory and negotiate those contracts. Typically it's about three to four, sometimes five years that they renegotiate these contracts. Now, when they negotiate these contracts, it's like an 18 month process. It is a super long time. So they don't want to do this every year. So typically what they do is they put in, uh, evergreen inflators where they say the overall reimbursement by the insurance on a, on a sort of a, on a unit cost basis, the overall unit cost reimbursement by the insurance carrier to the hospital system will go up by 8% every year or 6% every year or 25% every year. And that's where, if you look on your fully insured renewals, oftentimes you'll see like, okay, well, why is my overall premium going up by 25%? And oftentimes they'll, the insurance carrier will break it out into various categories, whether it be like the demographics of the employees or what they call trend. And what trend is, is essentially a manifestation of what that evergreen inflator is in the contract that the hospitals have negotiated. Now, of course the insurance carrier would want that inflator to be zero, but the hospital's like, look, you know, we got inflation on our side. So you've got to give us, you know, 8% per year, right? And this was even before today, right? So we got, you know, CPI core inflation now at 8%. Now keep in mind, but back when inflation was close to zero, only 2%, the hospitals were still putting in six to 8% inflators into their contracts. So that's why healthcare costs inflation in part was always two to three times overall inflation is because of those contracts and the way they were negotiated. All right. Thank you so much for that question. Now, whose interests are they in? Keep in mind, this is only for the commercial plans. This is not for Medicare Advantage. Okay. So Medicare Advantage, you know, through Blue Cross United, Cigna, Aetna, those contracted rates are very similar to the Medicare rates. So they're anywhere from like 95 to 105% of Medicare. So just know that this does not apply to all, you know, quote unquote, commercial contracting. It's just for the employer sponsored planned contracting. Okay. Thank you for watching the clip today. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:10]  Today's topic is Hospital Insurance Contracting.
+[0:10 - 0:18]  So I'm going to share with you about case rates and per diem contract terms between hospital
+[0:18 - 0:24]  systems and health insurance carriers and how they specifically negotiate these specific
+[0:24 - 0:25]  contract terms.
+[0:25 - 0:27]  I'm going to do something a little different today.
+[0:27 - 0:33]  I'm going to share with you a clip from a presentation that I have previously made that discusses
+[0:33 - 0:36]  case rate and per diem contract terms.
+[0:36 - 0:37]  Thank you for watching.
+[0:37 - 0:39]  Let's go to the clip.
+[0:39 - 0:45]  So now we're going to go through the various methodologies.
+[0:45 - 0:49]  The first methodology, the contracting methodology that we're going to go through, is referred
+[0:49 - 0:51]  to as the case rate.
+[0:51 - 0:56]  And I also put per diem on here because per diems are very similar to case rates.
+[0:56 - 0:59]  So I wanted to cover both of them in this one slide.
+[0:59 - 1:02]  So just know these are two different specific methodologies.
+[1:02 - 1:06]  There's a case rate methodology and there's a per diem methodology.
+[1:06 - 1:10]  And this is typically used for things like hospital based imaging.
+[1:10 - 1:13]  So if you actually got an MRI or a CT scan at the hospital.
+[1:13 - 1:20]  Now, not as part of an overall stay, but there's gobs of outpatient imaging that's done at a
+[1:20 - 1:21]  hospital.
+[1:21 - 1:22]  Right.
+[1:22 - 1:24]  So you go in, you get the MRI at the hospital and then you leave or, you know, mammogram
+[1:24 - 1:26]  or chest x-ray, et cetera.
+[1:26 - 1:27]  Right.
+[1:27 - 1:29]  It also is for an inpatient.
+[1:29 - 1:33]  The per diems are used for typically for inpatient medical stays.
+[1:33 - 1:40]  So you go in for a pneumonia or acute renal failure or, you know, some intractable nausea,
+[1:40 - 1:42]  vomiting, you have to be admitted to the hospital.
+[1:42 - 1:44]  So that's a medical stay.
+[1:45 - 1:46]  That's typically charged at a per diem.
+[1:47 - 1:53]  And then some surgeries and some procedures are also charged on a case rate basis.
+[1:54 - 1:55]  Now, how does this work?
+[1:55 - 2:00]  So let's use the simple example of an MRI that's actually performed at the hospital.
+[2:00 - 2:06]  So hospital A, I say, look, we're going to bill $3,000 for the MRI.
+[2:06 - 2:09]  And the insurance carrier is like, I don't care what you bill for your MRI.
+[2:09 - 2:12]  Let's negotiate what that allowed amount is going to be, what the case rate is going to
+[2:12 - 2:12]  be.
+[2:13 - 2:16]  And so they go back and forth and they say, okay, $2,000 per MRI.
+[2:17 - 2:19]  That's what our case rate is going to be.
+[2:19 - 2:21]  And so it's very simple with a case rate.
+[2:21 - 2:25]  The allowed amount is just equal to the case rate or $2,000.
+[2:26 - 2:31]  Then that $2,000 gets applied to whatever the plan design is for the individual.
+[2:31 - 2:33]  It could completely fall to their deductible.
+[2:33 - 2:36]  It could be some combination of coinsurance and deductible, et cetera.
+[2:37 - 2:43]  Now at hospital B, they have bill charges of $1,000 for an MRI.
+[2:43 - 2:50]  And they negotiate a contracted rate or a case rate of $800 for the MRI.
+[2:50 - 2:56]  And so again, it's very simple in that the allowed amount is just equal to the case rate
+[2:56 - 2:56]  of $800.
+[2:57 - 3:05]  So then I ask you this question here at the bottom, which hospital has better savings?
+[3:06 - 3:10]  Well, of course, hospital A has better savings.
+[3:10 - 3:14]  If you're a self-funded plan, of course you want all of your employees to go to hospital
+[3:14 - 3:20]  A because you save $1,000 every time you go to hospital A. You only save a measly $200
+[3:20 - 3:25]  when you go to hospital B. So everybody should go to hospital A, right?
+[3:25 - 3:26]  No, of course not.
+[3:26 - 3:27]  I was being facetious.
+[3:27 - 3:32]  Obviously, hospital B is more cost effective.
+[3:32 - 3:40]  It's less expensive than hospital A because the billed charges are less at that place.
+[3:40 - 3:46]  Regardless of what the billed charges are, the allowed amount, the $800 is lower.
+[3:46 - 3:56]  So when you're looking at the value of an insurance contract with a hospital system,
+[3:56 - 4:02]  the quote unquote discount or the quote unquote savings is not the metric.
+[4:02 - 4:06]  It is never the metric you want to look at.
+[4:06 - 4:10]  What you want to look at is the allowed amount.
+[4:10 - 4:15]  Now, there is allowed amount information that you can look at in your own claims.
+[4:15 - 4:19]  If you're a self-funded plan, there's a lot of allowed amount information that's available
+[4:19 - 4:26]  now because this is what actually needs to be posted by law by the hospitals as well.
+[4:26 - 4:31]  So when they're posting their prices or supposed to be posting their prices,
+[4:31 - 4:34]  it's those allowed amounts that they should be posted.
+[4:34 - 4:38]  Now, let me talk about the per diem.
+[4:38 - 4:47]  The per diem is very similar, except the quote unquote case in the case of a per diem is one
+[4:47 - 4:48]  day of hospitalization.
+[4:49 - 4:57]  So if you provide a per diem, let's say it's an inpatient pneumonia, hospital A might bill
+[4:57 - 5:06]  $3,000 a day for that hospitalization, but they have negotiated a per diem rate of $2,000 a day.
+[5:06 - 5:08]  Let's say the person turns around real quickly from their pneumonia.
+[5:09 - 5:11]  They only have a one day hospital stay.
+[5:11 - 5:15]  Then the allowed amount will be the, the, the allowed amount will be $2,000.
+[5:15 - 5:22]  Likewise, at hospital B, if they negotiated a per diem case rate of $800 a day, and it was a one day
+[5:22 - 5:25]  hospital stay, then it would be, and it likewise, if you had two day hospital stays.
+[5:25 - 5:29]  So if you had a two day hospital stay at hospital A, it would be $4,000.
+[5:29 - 5:33]  And if you had a two day hospital stay at hospital B, it would be $800.
+[5:33 - 5:40]  So both note in both of these situations, the billed charges do not matter at all.
+[5:40 - 5:42]  They do not matter.
+[5:42 - 5:48]  Now they will matter in subsequent methodologies, but let me pause there because I see some questions
+[5:48 - 5:52]  have come in and let me, uh, attempt to address them.
+[5:52 - 5:58]  For a self-funded employer group contract, who is leading the negotiation and whose interest
+[5:58 - 5:59]  conflicts do they balance?
+[5:59 - 6:01]  So thank you, John, uh, for your question.
+[6:01 - 6:07]  Who is negotiating the contract is the insurance carrier or the insurance network.
+[6:07 - 6:14]  So I was on a panel on, uh, uh, you know, during the pandemic, uh, you know, sort of a zoom,
+[6:15 - 6:22]  you know, uh, conference with the head of contracting for United healthcare for the Western part of
+[6:22 - 6:23]  the United States.
+[6:23 - 6:26]  I think he had responsibility for like four or five States, obviously California being the
+[6:26 - 6:27]  biggest one.
+[6:27 - 6:35]  And so he had a small team of small, relatively small compared to the size of UHC that would
+[6:35 - 6:41]  go out to all the hospitals in his territory and negotiate those contracts.
+[6:42 - 6:49]  Typically it's about three to four, sometimes five years that they renegotiate these contracts.
+[6:49 - 6:53]  Now, when they negotiate these contracts, it's like an 18 month process.
+[6:53 - 6:54]  It is a super long time.
+[6:54 - 6:56]  So they don't want to do this every year.
+[6:56 - 7:04]  So typically what they do is they put in, uh, evergreen inflators where they say the overall
+[7:04 - 7:12]  reimbursement by the insurance on a, on a sort of a, on a unit cost basis, the overall unit cost
+[7:12 - 7:20]  reimbursement by the insurance carrier to the hospital system will go up by 8% every year or 6%
+[7:20 - 7:23]  every year or 25% every year.
+[7:23 - 7:28]  And that's where, if you look on your fully insured renewals, oftentimes you'll see like, okay, well,
+[7:28 - 7:30]  why is my overall premium going up by 25%?
+[7:30 - 7:35]  And oftentimes they'll, the insurance carrier will break it out into various categories,
+[7:35 - 7:38]  whether it be like the demographics of the employees or what they call trend.
+[7:39 - 7:48]  And what trend is, is essentially a manifestation of what that evergreen inflator is in the contract
+[7:48 - 7:49]  that the hospitals have negotiated.
+[7:49 - 7:53]  Now, of course the insurance carrier would want that inflator to be zero, but the hospital's
+[7:53 - 7:56]  like, look, you know, we got inflation on our side.
+[7:56 - 8:00]  So you've got to give us, you know, 8% per year, right?
+[8:00 - 8:01]  And this was even before today, right?
+[8:01 - 8:05]  So we got, you know, CPI core inflation now at 8%.
+[8:05 - 8:11]  Now keep in mind, but back when inflation was close to zero, only 2%, the hospitals were still
+[8:11 - 8:15]  putting in six to 8% inflators into their contracts.
+[8:15 - 8:20]  So that's why healthcare costs inflation in part was always two to three times overall inflation
+[8:20 - 8:25]  is because of those contracts and the way they were negotiated.
+[8:26 - 8:27]  All right.
+[8:27 - 8:28]  Thank you so much for that question.
+[8:29 - 8:30]  Now, whose interests are they in?
+[8:30 - 8:35]  Keep in mind, this is only for the commercial plans.
+[8:35 - 8:37]  This is not for Medicare Advantage.
+[8:37 - 8:37]  Okay.
+[8:37 - 8:40]  So Medicare Advantage, you know, through Blue Cross United, Cigna, Aetna,
+[8:40 - 8:44]  those contracted rates are very similar to the Medicare rates.
+[8:44 - 8:50]  So they're anywhere from like 95 to 105% of Medicare.
+[8:51 - 8:56]  So just know that this does not apply to all, you know, quote unquote, commercial contracting.
+[8:56 - 9:00]  It's just for the employer sponsored planned contracting.
+[9:01 - 9:01]  Okay.
+[9:02 - 9:04]  Thank you for watching the clip today.
+[9:04 - 9:06]  And thank you for watching A Healthcare Z.

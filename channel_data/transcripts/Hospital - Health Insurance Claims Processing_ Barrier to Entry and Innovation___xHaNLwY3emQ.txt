@@ -1,0 +1,47 @@
+Title: Hospital - Health Insurance Claims Processing: Barrier to Entry and Innovation??
+URL: https://www.youtube.com/watch?v=xHaNLwY3emQ
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Insurance Hospital Barriers to Entry. So hospital bill charges are fictitiously high. And I think all of you watchers know this. I think it is generally known in America amongst people in the healthcare industry and it's actually becoming even more well known among the general American population as well. So the bill charges for a hospital are typically discounted about 50% to get down to the reimbursement rate for the insurance company. And that reimbursement rate for the insurance company is like twice as much for Medicare. So that means that the hospital bill charges are like four to eight times the amount that Medicare would pay the hospital. So it's totally ridiculous. Like the hospital would never expect to get paid that amount. So the insurance network discount is necessary. It's required just to process the transaction. Just in order, you can think of the bill charges. It's like a gatekeeper and you've got to get through that gate. And unless you have some sort of computer program or software or whatever to get through that gate, you can't process the transaction. Like it's like an electrical wire that is cut in two. All right. So let me give you some examples. So lab work, the bill charges might be $275 for like a basic metabolic balance, BMP with your sodium and your potassium, et cetera. And like, you guys have probably seen this yourselves, right? And literally the allowed amount is 15 bucks. So like you can't process this transaction at 275. It's essentially like a bad connection between two wires. Okay. A hospital stay for two days bill charges might be $8,000, but then when the network discounts apply, it's 2000. Again, that $2,000 is still like more than twice the Medicare rate, right? So the hospital never expected to get paid a grand. Okay. Next up, an office visit bill charges would be $375. The doctor's office is never expecting to get paid $375 for that 10 minute office visit. They might get 120. So again, unless you have the network discount, you can't even process the transaction. Okay. What does this mean? There are many companies out there. There are TPAs. There are many healthcare startups. I mean, the amount of money that is spent on healthcare startups is in the billions, the billions. And they cannot enter into transactions with hospitals because of the insurance hospital barrier to entry. The wires don't connect. You can't even make a transaction. Now, discounts are essentially, as you've heard me say wires multiple times here, they're essentially like telephone wires, right? And guess what happened to AT&T when they controlled all of the telephone wires? They had to be broken up in the eighties. And I'm sure many of you remember that. Now also, what else doesn't work without wires? Electricity. Okay. We do not have duplication of electrical wires. Like there's one set of wires that goes across the entire country. Okay. We don't, you know, so, okay. So there, they didn't break up the utilities, but they are government regulated utilities. And so here we have a similar set up to the telephone wires and the electrical wires. And yet, they're not being broken up and they're not being regulated the same way utilities being regulated. And I just want to point that out to you today that the discount is really necessary for the transaction. And frankly, currently it's a barrier to entry. And thank you for watching a healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic
+[0:05 - 0:14]  is Insurance Hospital Barriers to Entry. So hospital bill charges are fictitiously high.
+[0:14 - 0:20]  And I think all of you watchers know this. I think it is generally known in America amongst
+[0:20 - 0:24]  people in the healthcare industry and it's actually becoming even more well known among
+[0:24 - 0:30]  the general American population as well. So the bill charges for a hospital are typically
+[0:30 - 0:36]  discounted about 50% to get down to the reimbursement rate for the insurance company. And that reimbursement
+[0:36 - 0:41]  rate for the insurance company is like twice as much for Medicare. So that means that the
+[0:41 - 0:45]  hospital bill charges are like four to eight times the amount that Medicare would pay the
+[0:45 - 0:51]  hospital. So it's totally ridiculous. Like the hospital would never expect to get paid
+[0:51 - 0:58]  that amount. So the insurance network discount is necessary. It's required just to process
+[0:59 - 1:06]  the transaction. Just in order, you can think of the bill charges. It's like a gatekeeper
+[1:06 - 1:10]  and you've got to get through that gate. And unless you have some sort of computer program
+[1:10 - 1:15]  or software or whatever to get through that gate, you can't process the transaction. Like
+[1:15 - 1:20]  it's like an electrical wire that is cut in two. All right. So let me give you some examples.
+[1:20 - 1:27]  So lab work, the bill charges might be $275 for like a basic metabolic balance, BMP with
+[1:27 - 1:32]  your sodium and your potassium, et cetera. And like, you guys have probably seen this yourselves,
+[1:32 - 1:38]  right? And literally the allowed amount is 15 bucks. So like you can't process this transaction
+[1:38 - 1:44]  at 275. It's essentially like a bad connection between two wires. Okay. A hospital stay for two
+[1:44 - 1:49]  days bill charges might be $8,000, but then when the network discounts apply, it's 2000. Again,
+[1:49 - 1:55]  that $2,000 is still like more than twice the Medicare rate, right? So the hospital never expected
+[1:55 - 2:01]  to get paid a grand. Okay. Next up, an office visit bill charges would be $375. The doctor's office is
+[2:01 - 2:08]  never expecting to get paid $375 for that 10 minute office visit. They might get 120. So again,
+[2:08 - 2:13]  unless you have the network discount, you can't even process the transaction. Okay. What does this mean?
+[2:13 - 2:19]  There are many companies out there. There are TPAs. There are many healthcare startups. I mean,
+[2:19 - 2:26]  the amount of money that is spent on healthcare startups is in the billions, the billions. And
+[2:26 - 2:34]  they cannot enter into transactions with hospitals because of the insurance hospital barrier to
+[2:34 - 2:42]  entry. The wires don't connect. You can't even make a transaction. Now, discounts are essentially,
+[2:42 - 2:46]  as you've heard me say wires multiple times here, they're essentially like telephone wires,
+[2:46 - 2:51]  right? And guess what happened to AT&T when they controlled all of the telephone wires?
+[2:51 - 2:56]  They had to be broken up in the eighties. And I'm sure many of you remember that. Now also,
+[2:56 - 3:02]  what else doesn't work without wires? Electricity. Okay. We do not have duplication of electrical
+[3:02 - 3:08]  wires. Like there's one set of wires that goes across the entire country. Okay. We don't, you know,
+[3:08 - 3:14]  so, okay. So there, they didn't break up the utilities, but they are government regulated utilities.
+[3:14 - 3:19]  And so here we have a similar set up to the telephone wires and the electrical wires. And yet,
+[3:19 - 3:24]  they're not being broken up and they're not being regulated the same way utilities being regulated.
+[3:24 - 3:29]  And I just want to point that out to you today that the discount is really necessary for the
+[3:29 - 3:38]  transaction. And frankly, currently it's a barrier to entry. And thank you for watching a healthcare Z.

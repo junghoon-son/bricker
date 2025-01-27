@@ -1,0 +1,594 @@
+Title: Health Insurance Industry Explained--Health Insurance from Job (Employer-Sponsored)
+URL: https://www.youtube.com/watch?v=tQ5aR71jExc
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and today we're going to be discussing employer-sponsored health plans. And as you can see, all employer-sponsored health plans have four parts. So there's the employer, the employees, the insurance carrier slash PBM, and the provider pharmacy. Now, there's a relationship amongst all these four. We're going to go through that now. So, the employer provides health insurance coverage for the employees. The employee then goes to the provider to receive medical care and pick up their prescription. The provider or the pharmacy then files a claim with the insurance company. The insurance company then pays them money back. But the insurance company has to get that money from somewhere. So that's where the employer is paying premium to the insurance company in order for them to then funnel it over to the provider. So, these are the four constituents. You have to know all four of them. Anytime you think about employer-sponsored health plans, think of these four things. Okay. Now, there's also a flow in the opposite direction. So, in other words, the employee is getting care from the provider, but the employee also has to pay the provider the out-of-pocket cost. So, you've got out-of-pocket cost between the employee and the provider. Now, the provider and the pharmacy, they're billing a claim to the insurance, right? So, a claim, a bill is going this way, and then the money is going back this way. Likewise, with the employer, the employer is paying a premium to the insurance company, and then the insurance company is then providing a policy or coverage back over. And then the employee, they're getting the insurance coverage from the employer, but they're typically paying a payroll deduction back to the employer. You know, so a person gets paid 26 times a year. They're getting paid every two weeks. Oftentimes, some of that paycheck is then going out to the employer to pay part of the premium. And it's anywhere from 10% to 20% times even 30% of the premium is actually paid by the employees in terms of their premium contribution. So, the employees are really paying for part of their insurance, not all of their insurance, in a couple of ways. So, one, they're paying the out-of-pocket cost here, and then, two, they're paying part of the premium here. Now, it's important to note that the money here with the insurance company, that's only if it's called, if it's fully insured. Now, there's another situation that's called self-insured that I'm going to talk about next, where the employer actually pays the provider directly and actually bears all the risk. So, that will be our next segment. Thanks so much. Hello, and welcome back. Now, I said in the last segment that we're going to talk about the difference between being self-insured and fully insured. So, all insurance policies have three parts. Those are the risk, the adjudication, and the network. So, what do I mean by that? When you're fully insured, the insurance company, Blue Cross, United, Cigna, or Aetna, all three of those things are assembled within the one insurance company. Meaning, the employer pays the premium to the insurance company, but then the insurance company bears the risk. The average employee costs $10,000 per employee per year in premium. Okay. So, if the insurance company pays out $10,001, then they've lost money on it, right? Because the insurance company's taken all the risk. They don't go back to the employer and be like, ah, we need more premium. No. For that year, the insurance company's taken all the risk. Then there's the adjudication. That's just a fancy word for the insurance company gets claims from the doctor and the hospital and the pharmacy, and then they pay those claims out. So, the process of receiving claims and then paying out money based on those claims, that's called adjudication. Makes sense, right? And the last part is the network, where I'm sure you're familiar with the terms in-network and out-of-network. And basically, when you have this relationship here between the doctors and hospitals and the insurance company, then those doctors and hospitals that are in-network, they then give a discount to the insurance company. Well, let's say the bill for the surgery is $10,000. And the insurance company said, yeah, but we negotiated a discount with you, XYZ Hospital, for 50%. So, we're going to, and that term is called repricing. So, when you reprice based upon the in-network discount, then if you discount it by 50%, let's say that was their contract, was that whatever your billed charges were, we would negotiate it down by 50%. So, then they're going to pay the hospital back $5,000. Now, if it's an out-of-network hospital, the hospital will bill $10,000. The insurance company's like, well, we don't have any network with you. So, then they have to pay them back the full $10,000. So, the risk, the adjudication, and the network, all three of those are living with the insurance company when you're fully insured. Now, when you're self-insured, the adjudication and the network are still with the insurance company. However, the employer maintains all the risk. So, the employer is literally paying out to the doctor and the hospital and the pharmacy. They pay them directly. Well, they don't pay them literally directly. They get the insurance company access to their bank account, and the insurance company wires the correct amount over when they do the adjudication. But the money is literally still, the employer doesn't pay a premium to the insurance company. The employer keeps all that premium money. And then, every time an employee or a family member goes to the doctor, goes to the hospital, the insurance company's wiring the money out of the employer bank account and paying the doctor or the hospital. That's why it's self-insured, because the insurance, the risk, is held by the employer. Now, most employers, once they get over about 200 employees, they tend to be more likely to be self-insured instead of fully insured. And most companies with less than 200 employees, they tend to be fully insured and not self-insured. Now, there's exceptions to this. You can have companies as small as 50 employees that are self-insured, and you can have companies with as many as 1,000 employees that are fully insured. Now, one of the big reasons why an employer would want to be self-insured instead of fully insured is because, for bearing the risk, the insurance company essentially charges an extra 15%, and that's referred to as the medical loss ratio, or the MLR for short, which basically says, for every $100 of premium that we take in, we're going to pay out $85 in claims, and the insurance company's going to keep 15%, $15 out of 100. So you can figure, basically the insurance company's kind of like Visa. They're processing the transaction. Except Visa only takes like, I don't know, 3% or 4%. In this case, the insurance company takes 15%. Now, I'll get into more detail later on, but it's important for you to understand that there's a difference between fully insured and self-insured, and most larger employers are self-insured, and most smaller employers are fully insured. Thank you for watching. Hello, welcome back. Now we're going to talk about network discounts, otherwise known as repricing. So I mentioned that in the previous video. Now we're going to go into more detail around how network discounts and repricing work. So you've got the bill here from the hospital. Now, believe it or not, when I started, it was still 8.5 by 11 sheets of paper that they would trifold, stick in an envelope, and mail to the PO box of the insurance company. Of course, it's all sent electronically these days. It is sent over to the insurance company, and then the insurance company applies, if it's an in-network hospital or doctor, and they're going to apply a discount to it. And then, so the bill going over, that's referred to as the bill charges, then after the discount is applied, and then the amount they paid back, that's referred to as the allowed amount. Okay, so those are important terms, bill charges and allowed amount. Now, let's use a specific example. Let's say it's for a surgery. Let's say it's for a gallbladder surgery. Bill charges might be $10,000, but then the contract between the insurance company network and the hospital says, okay, well, we agreed to a 40% discount off of bill charges, so then the hospital's going to get paid back $6,000. Pretty straightforward, right? Well, it gets complicated. There are many ways that that discount methodology is calculated, and we're going to go through a handful of those. Okay, so the first is called the percent of charge, which is the one that I just went through. I said, okay, whatever your bill charges are, and then we're going to reimburse you back. But the hospitals caught on, and they're like, hmm, well, if we bill $20,000, then you'd have to pay us $12,000 back. So we'll just double our bill charges, and that's what they started doing. And so the insurance company's like, whoa, whoa, whoa, whoa, whoa, you can't, and that's why hospital prices are just like through the roof, because they charge, you know, like $5 for an aspirin, or, you know, $5,000 for an MRI scan, which probably only costs $100 to do. So they do that because they were getting reimbursed a percent of whatever they billed. So that's percent of charge. Now, that's still used today mostly for things like outpatient surgery. Now, so because the insurance carrier's calling, it's okay, we're going to do a fixed case rate, which means that regardless of what you bill, we're going to pay you back a fixed amount for a certain service. And that's often used for imaging. So for like an MRI, instead of it being a 40% discount, they're like, look, we're going to pay you back $2,000. You can bill us $10,000. You can bill us $20,000. You can bill us $3,000. We're going to pay you back $2,000 for every MRI that we do. And that's a fixed case rate. Now, the next one is a per diem. Per diem is like, okay, we're going to pay you based upon the number of days that a person was in the hospital. So this is obviously applied to like inpatient stays. So typically it's about like $3,000 a day. So the total bill charges for a three-day stay might be like $30,000. But the insurance company in the hospital agreed to a $3,000 per diem for a three-day stay. So that's $9,000. So they're like, look, hospital, you bill us for as much as you want. If this patient stays three days, we're going to pay you back $9,000, $3,000 times three days. The final, and there's more to it than this, but these are the ones I'm going to go through. Then the final one is a carve-out. And a carve-out is where a specific implantable or medical device is used. So classic examples like a pacemaker in the heart, or when someone needs spinal surgery, there are like rods and screws that are used as part of that. Or for like a joint replacement, for like a knee or a hip replacement, for the actual implant itself. That is carved out. So the individual pacemaker is carved out. The individual knee or hip implant is carved out. And there's a separate line item in the bill for the carve-out. And there is a separate line item reimbursement for the carve-out. So let's use like a hip replacement as an example. The bill might be a total of like $100,000. And let's say it's a three-day stay for the hip surgery. And so the insurance company is like, okay, well we negotiated a $3,000 a day per diem for the three-day hip replacement. But then the hospital is like, yeah, but you can't pay me nine grand for a hip replacement. This is complicated stuff. You've got to pay us more. So what the hospital did is they negotiated a specific line item for like $30,000 just for the hip implant itself. So the total reimbursement back when you have a carve-out will be the $30,000 for the hip plus the $9,000, $3,000 a day, for the per diem. So it will be a total of $39,000 because of that carve-out. Now, what happens is that the hospital, be it let's say in Chicago or San Diego or New York or wherever it is, they don't just use one contracting methodology. They might use a percent of charge for some of their outpatient surgeries. They might use a case rate for things like their imaging. They might use a per diem for some of their medical stays, like if the person goes in with an ammonia or a skin infection that requires IV antibiotics. And then they'll have a carve-out for their pacemakers and implants. So they use a combination of these. And the combination of these that are done between each hospital and the insurance company are different. In other words, and also the amount is different. So the case rate might be like $2,000 at one hospital for an MRI, but the case rate at another hospital for an MRI might be like $1,000. Likewise, the percentage charge discount on outpatient surgery might be 40% at one hospital and might be 50% at another hospital. But at the end of the day, the total contract that they're shooting for is where the hospital bills the insurance company. And the insurance company, by the time all of this is done, is paying back about half of what the billed charges for are. That's what they're shooting for. The hospital is shooting for getting paid about 50 cents on the dollar. And they use all these contrived machinations to get to that. Now, the other thing that's important to know about this is the bill itself. So we're going to talk a little bit about billing. So, hospital bills are called UB04s. UB stands for universal bill. And the version that we're using today is from 2004. That's why it's called the UB04. And then doctor bills are called HICFA 1500s. So before CMS or Medicare was called CMS, it was called HICFA. And that's why it's called the HICFA 1500. So, facility bills are like hospital bills, are UB04s. And then medical professional fees or doctor fees are HICFA 1500. So there's two types of bills that come across from the provider to the insurance company. Now, on those bills, they've got all sorts of codes. We're going to go through some of those codes now. First of all, all bills, I mean, they've got to have the patient name, the date of birth, it has to have the date of service, yadda, yadda, yadda. Okay. But then it also has to, all bills have to have a diagnosis on it. And that diagnosis has a code. It's the ICD-10 code. ICD stands for international classification of diseases. And it's the 10th revision. We just switched from ICD-9 to ICD-10 in 2015. We had used ICD-9 since the 1970s. So it was only somewhat recently that we switched over to ICD-10. All ICD-10 codes are very recognizable. They're typically three numbers followed by a dot, followed by a combination of four letters and numbers. Now, those four at the end are kind of optional. So it's always the three up front and then a dot and then some combination of four here at the end. Now, so that's like the diagnosis would be like pneumonia. Okay. That was your disease. That was your illness. The procedure is what was done about it. And that's the CPT code. And a CPT code is always five digits. And it's always all numbers. There's no letters. Now, there's a procedure code for MRIs. There's a procedure code for CT scans. There's a procedure code for individual labs. So when you get like a complete blood count, there's a CPT code for that. Now, for an office visit, that's not really a quote-unquote procedure. But that too has a CPT procedure code. It's referred to as an E&M code, an evaluation and management code. But it's still just a CPT code. It's five digits. It starts with the numbers 99. That's how you can always find office visit codes because they start out 99. The DRG is the diagnosis-related groups. DRG codes are only used for inpatient services. So if somebody goes into the hospital for a colonoscopy and leaves the same day, they don't get a DRG. DRG is only when it's done as an inpatient. So at the end of the day, yeah, people use DRG codes. But again, it's not for the vast majority of stuff in hospitals. It's actually done on an outpatient basis, not an inpatient basis. Lastly, we have HCPCS code. HCPCS code. Now, the HCPCS code, believe it or not, with all these codes, there wasn't enough codes. So they added more codes. And so oftentimes they're referred to as J codes, or sometimes they start with a G as well. And those codes are actually used oftentimes for those specific carve-outs. So oftentimes if there's like a specific medication or the implant, the way that the insurance company and the hospital know that there's a carve-out is because they put a specific J code on there. So if your head's not spinning already, I wanted to go through the basics of network discounts and repricing. Thanks so much. All right. Welcome back. Now we're going to talk about the difference between an employer being fully insured and self-funded. Now, I mentioned this previously in the four parts of an employer-sponsored health plan, but we're going to go into it in more detail. Now, if it's fully insured, an employer is paying premium to the insurance company, and the insurance company is taking all the risk. So the employer's premiums are then determined based upon their size. On average, it's about $10,000 per employee per year. That's the average premium. And then typically there are two plan members for every one employee on the plan. Another name for an employee on the plan is a subscriber. So let's say you have a company that has 120 employees, and 100 of those employees are on the health insurance. So there would be 100 subscribers. Now, typically each subscriber on average has about two people total. You've got the subscriber themselves, and then sometimes you've got a spouse, sometimes you just have a child, sometimes you just have a single employee, but then sometimes you've got an employee with a spouse and two, three, four, five kids. So when you average all that out, in general, it's for every one subscriber, there's two members. So that company with 120 employees total with 100 subscribers on the plan will typically have 200 members. Now, again, it's still about $10,000 per subscriber per year. So a company with 100 employees is paying about a million dollars a year in premium to health insurance. Now, a fully insured plan that is community rated typically has 50 or fewer employees. And community rated means that the premiums for the next year are just based upon how the health care expenses and the risks were for all the people kind of in that area, whether it be New York or Dallas or Atlanta or San Francisco. So that's what community rated is. So an individual with small employers' premiums are based upon kind of the companies around them. Now, a partially credible company is typically between 50 and 200 employees on the plan, where the insurance company says, okay, well, you know, your particular company might have, like, really old employees or really sick employees or you just might have, you know, much higher claims. And so some of your premium is going to be based upon the claims experience of you, the specific employer, versus the community rated, it's not based upon your own claims at all. So that's partially credible. Now, when a company is fully credible, that means that all of the premium is based on specifically the claims that that employer generated in the previous year. It's typically for fully insured groups greater than 500. Sometimes it's greater than 800. Sometimes it's only greater than 200. It depends upon the state. It depends upon the insurance company. So in a fully credible group, and remember, there's a medical loss ratio of about 15%, which means that, like, let's say this company with 100 employees on the plan, 100 subscribers, they have a million dollars, and then they end up having $850,000 in claims for you. Well, then they got the 15% medical loss ratio, and in the following year, then the insurance company probably isn't going to raise the premium very much, if at all. Because they can only make that 15%, that $150,000 off of $10 million. Okay, fine. But let's say the employer pays out, excuse me, let's say the employer pays their million dollars of premium, but let's say their claims were actually a million dollars as well. Well, in that case, the insurance company is going to raise the premium, not just by $150,000, because that's what they should have made from the medical loss ratio. They're probably like, well, shoot, you're probably going to run high again in the following year, so we're probably going to charge you, like, $1.3 million for your premiums, so that I, the insurance company, can make up the $150,000 I didn't make the previous time, plus I can make another $150,000 on top of that for what you owe me for this year. So that's a fully credible group, where there are premiums, in this case, the $1.3 million is a reflection of their claims in the previous year, the $1 million. So that's fully insured. So the employer still, the insurance company is still taking the risk, but they're basically going to sock it back to the employer the following year with an increased premium. Now, self-funded, we talked about before how the insurance company still is adjudicating claims, and they're providing a network discount, but all the risk is being borne by the employer. And so your typical company with, like, 200 employees, they're like, okay, I'll bear all the risk. But let's say all the employees are, you know, on a trip together just for fun, and they all have horrible food poisoning, and they're getting hospitalized for a month on end with some sort of, like, horrible E. coli food poisoning. Or let's say one of the employees has a premature baby and is in the NICU for months on end. Or somebody has a skiing accident and ends up, you know, having a concussion, and they're in the ICU unconscious for months on end. Again, so they could have these bills that are huge. You could have a million, an individual person, it's referred to as a claimant, they could have bills over the course of 12 months that add up to $50,000, $100,000, a million dollars. People can have health care expenses that are like a million dollars. And that employer, again, if it's $10,000 per employee, if they got 200 employees, the employer's like, well, we're only going to end up paying, we only estimate that we're going to pay about $2 million dollars out in claims. And so if we have one person alone who costs a million dollars, that's totally going to blow our budget. Like, literally, it could bankrupt the business. So the company is going to go out and they're going to buy what's called reinsurance. And there's two types of reinsurance. Another name for reinsurance is stop loss insurance. So there's specific stop loss insurance and there's aggregate stop loss insurance. Now, specific stop loss insurance, again, you go out to a reinsurance company, and you've never heard of these reinsurance companies before. One of them is called Sun Life. Another one is called QBE. Another one is called Tokyo Marine. Believe it or not, the insurance carriers themselves will sell to self-funded employers. They'll sell just the stop loss insurance. So even if a company is self-funded with Blue Cross, they might actually buy their reinsurance, their stop loss insurance through Blue Cross as well. So you can do that too. But the specific stop loss is on a specific individual. And it says that typically the amount is $100,000, where it says, look, the employer is on the hook for the first $100,000, but if you have one of the situations where you have like a million dollars worth of claims on one person in a year, then the company will pay out the first $100,000, and then the stop loss insurance will pay out the subsequent $900,000 on top of that. So, and the employer has to pay a premium to the stop loss insurance company for that coverage. Now, stop loss insurance ends up being about $6 per employee per month. It's actually the much more expensive of the two. Then there's aggregate stop loss insurance, and aggregate is for the entire group. And I said, okay, well, maybe we didn't have, you know, this like horrible, you know, stomach bug that caused half the company to be hospitalized for months on end. Maybe we didn't have a premature baby. Maybe we didn't have, you know, concussion skiing accident, what have you. But maybe we just had a whole bunch of people that were just kind of sick, and like everybody at the company just got a whole bunch of claims over the course of the year. And again, if we're saying 10,000, the expected amount is $10,000 per employee per year. Again, it's that 200 employee company. So they're expecting $2 million of claims. They might buy, or let's just say it's, I wrote 12 million here. So let's say it's for 1,000 employees. So in this case, for the 1,000 employees, it would be $10 million a year. At $10,000 per employee per year times 1,000 employees. That's $10 million a year that that company would expect to pay out in claims. And they'd say, well, what if we're over that? We're going to get insurance for if the whole group is just over that by a whole bunch. In aggregate, if they're over that amount, we're going to get insurance that. And they'll be like, okay, well, maybe we're going to do it right at $10 million, but maybe we'll do it at $12 million. And we'll buy aggregate insurance such that we'll pay the first $12 million worth of claims. But then after $12 million, then we're going to pay premium, and the re-insurance, the stop-loss re-insurance company will pay the amount after that. Now, the stop-loss insurance is actually fairly cheap because they're able to predict it much better. So they're able to, and it generally groups don't go over. So the stop-loss premium for that is only like $0.50 per employee per month versus like the $6 per employee per month for the specific stop-loss. Okay? So probably more than you ever wanted to know about the difference between fully insured and self-funded, but it's important that we understand the terms community-rated versus fully credible and specific stop-loss versus aggregate stop-loss. Thank you for watching. Okay. This segment's going to be rather brief, but it's important to understand in self-funding the difference between an ASO versus a TPA. We're not going to talk about PBMs now. We're going to talk about that. Okay. So ASO stands for Administrative Services Only. So we talked about when you're self-funded, the employer's taking the risk, right, because they have to pay out of the claims. But the insurance company is still adjudicating the claims. They're taking the claims in from the hospital and the doctor. They're paying out money back to them. And then two, they also have a network, so they're repricing the claim. So when the claim comes in at $1,000, they're discounting it by $500 and then paying out the $500 back, right? So Administrative Services Only is that service that the insurance carriers provided. And that service is provided by Blue Cross, United, Cigna, and Aetna. So Buka, the big four, and believe it or not, about 60% of employees in America actually work for companies that are self-funded. So their insurance card said, you know, if Blue Cross is providing the ASO services, like your insurance card says Blue Cross, but Blue Cross is just the ASO. Blue Cross isn't taking any risk. Your employer is taking it. Now typically the insurance card also, it doesn't say self-funded. It doesn't say Blue Cross ASO. It just says Blue Cross. So everybody thinks, oh, it's the insurance company that's paying the money and, you know, we're going to sock it to the insurance company. You're not socking it to the insurance company at all. For 60% of Americans on self-funded plans, they're just socking it to their job. They're just socking it to their employer. So that's Administrative Services Only. Now the employer, or excuse me, the insurance carrier that's providing those ASO services, they charge about $35 per employee per month for those ASO services. So it's not cheap. Now, as an alternative to an ASO, you can go with a different company that's called a TPA, a third-party administrator. Now a TPA is very similar to an ASO, but the difference is that the ASO is one of those big carriers, Blue Cross, the United Sign of Aetna. It's claims adjudication and it's the network, but in the case of the third-party administrator, then one, they typically only do the administrative services, and then you have to go out and you have to rent a network. Yes, believe it or not, you can actually go out and there's networks that you can just rent. So it's going to get really confusing. So hold on. Now, believe it or not, some of these major insurance companies actually own third-party administrators. So United Healthcare, UHC, owns its own TPA that's called UMR. And guess what network UMR uses? It uses the UHC network. But the difference is that UMR doesn't come with all the bells and whistles, and so it's cheaper. So they'll only charge like $20 per employee per month, and then you've got to pay like an extra $6 for the United Healthcare to rent the UHC network, so you're paying like $26 PEPM instead of the $35. But like I said, you're not getting all the fantastic customer support and case management, disease management, yada, yada, yada. So whether or not those things are valuable is another issue. But the point is that when you're using the UMR TPA, you're typically going out, and the reason why an employer would use UMR instead of UHC is because if you use UMR as a TPA, then it's much more flexible and you can bring in outside programs that you want to use in conjunction with. Like if you wanted to have a carve-out surgery network where you have like a specific surgery center where if the person went to that specific surgery center, then they might have a specific discount for that particular employer, and maybe the out-of-pocket cost of the employee would be like $0, and UMR's like, okay, we're flexible. We can do that for you, XYZ employer. For this particular hospital, we can set it up so that when your employees go there, it'll be zero out-of-pocket cost. If you said that to United Healthcare as an ASO, they'd be like, yeah, we don't do that. That's too customized for us. So that's why you would go with UMR. Now, Meritain is another TPA that's owned by Aetna. So the same sort of relationship between UMR and UHC is between Meritain and Aetna, and they use the Aetna network. Same idea. Now, there's dozens and dozens of other individual TPAs, and a lot of these TPAs, they might have 100 employees or 200 employees. Sometimes these TPAs only have like 50 employees. They're pretty small businesses. One that's in Dallas is called GPA, Group and Pension Administrators. And so here, they just do the claims adjudication. They don't have a network. But believe it or not, Cigna and Aetna actually will rent their networks to TPAs. Blue Cross and United don't do that. But you can actually have, so your insurance card says Cigna, but you're actually, the doctor and the hospital are actually sending the claims to GPA, and then the GPA is using Cigna's network to reprice the claims. So, and GPA or other TPAs, they're like super cheap. They're like $15 per employee per month. But they still got to pay like the $6 to rent the network from Cigna or Aetna. So now you're talking a total of $21 instead of $26 or instead of $35. So typically employers that go with TPAs, they're just like super cheap. Like they don't want to pay anything for their administrative services. Another example of that is web TPA. But like I said, there's dozens of these all over the country. So, I wanted to break down the difference between an ASO and a TPA. And thank you for watching. In our final segment on the basics of how employers sponsored health plans are structured, we're going to talk about captives. Now a captive is a pooled group of employers. So this is where a lot of really small employers, like 10 employees, 15 employees, 15 employees, 100 employees, like they can't go, there's only four major insurance carriers, Blue Cross, Cigna, Aetna. They can't go to them and get very good rates because essentially the insurance company says, you're going to take this rate and do this premium and you're just going to like it. So if they band together, if you got like 100 or 200 or 300 small employers and then they go to the insurance company and say, look, we've got 30,000 lives, 50,000 lives, 100,000 lives, then the insurance company is like, whoa, that's a big, it's like buying in bulk. They're like, well, it's a big group of business, so we'll give you a discount. So that's why you would do a captive because you would want to band together so you could do like group purchasing or a discount purchasing in bulk. So in a fully insured captive, each one of those employers is paying in premium to the captive and then the captive is then taking the risk and then they, the captive itself is self-funded, but each of the individual employers are fully insured. They're just paying out premium and if they have a lot of claims, then that doesn't come back to the employer because the captive has to pay for it. But then you run into this problem here of adverse selection. So oftentimes it is small fully insured companies that have a lot of really sick employees that have really high premiums that are like, huh, our premiums are super high. We should go into one of these captives because then we can do group purchasing and we'll be able to get it for cheaper. So you get, what happens is then you get this adverse selection. So you get all the groups with a lot of sick employees or plan members that join the captive so that the population of the captive ends up being sicker than the general population. So then groups that are like a little less sick are like, hmm, now that we're in this captive, our rates have gone through the roof because of all these other sick groups. So we're going to leave the captive. And that's what's referred to as the death spot, where you have companies that are actually less risky leaving the risk pool, leaving the captive because they can probably get better insurance on their own because they're not as risky as the whole captive is. So what does that do? If you take a group of relatively healthy employees out of the captive, what does that do to the captive? It makes it even more risky. Then some more employers leave that are fairly healthy. It makes the captive even more risky. And so the captive gets more and more expensive as those employers that have healthier employees leave. So that's why a lot of these fully insured captives, they end up imploding. So as an alternative to that, there's Roundstone and then there's Pareto. There's a handful of these self-funded captives. So in a self-funded captive, each individual employer remains self-funded. So in other words, the risk, the majority of the risk is still borne by the employer. The only difference is that there's group purchasing of the stop-loss insurance. So if you've got to go out, I said before that stop-loss insurance is about $6 per employee per month for a specific stop-loss. But if you've got a whole bunch of self-funded employers together, instead of it being 1,000 lives or 2,000 lives, what if it was 50,000 lives or 100,000 lives? Then you could go out to the stop-loss insurance carriers and be like, hey, for 100,000 lives, maybe it'll be $5 per employee per month instead of $6 per employee per month because they're buying in bulk. So you can still get some adverse selection here as well. I won't get into the details of it. But typically these self-funded captives are more self-sustaining because the captive itself is not bearing the risk. The individual employer is bearing the risk. It's important for you to know those names of Roundstone and Pareto because those are probably two of the bigger ones out there. And you might hear the community people talk about captives, so it's important for you to know what they are. Thanks so much for watching.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and today we're going to be discussing employer-sponsored health plans.
+[0:06 - 0:09]  And as you can see, all employer-sponsored health plans have four parts.
+[0:09 - 0:15]  So there's the employer, the employees, the insurance carrier slash PBM, and the provider pharmacy.
+[0:16 - 0:19]  Now, there's a relationship amongst all these four. We're going to go through that now.
+[0:19 - 0:22]  So, the employer provides health insurance coverage for the employees.
+[0:23 - 0:26]  The employee then goes to the provider to receive medical care and pick up their prescription.
+[0:26 - 0:31]  The provider or the pharmacy then files a claim with the insurance company.
+[0:31 - 0:33]  The insurance company then pays them money back.
+[0:34 - 0:35]  But the insurance company has to get that money from somewhere.
+[0:36 - 0:43]  So that's where the employer is paying premium to the insurance company in order for them to then funnel it over to the provider.
+[0:43 - 0:47]  So, these are the four constituents. You have to know all four of them.
+[0:47 - 0:50]  Anytime you think about employer-sponsored health plans, think of these four things.
+[0:50 - 0:53]  Okay. Now, there's also a flow in the opposite direction.
+[0:53 - 1:01]  So, in other words, the employee is getting care from the provider, but the employee also has to pay the provider the out-of-pocket cost.
+[1:01 - 1:03]  So, you've got out-of-pocket cost between the employee and the provider.
+[1:03 - 1:11]  Now, the provider and the pharmacy, they're billing a claim to the insurance, right?
+[1:11 - 1:14]  So, a claim, a bill is going this way, and then the money is going back this way.
+[1:14 - 1:18]  Likewise, with the employer, the employer is paying a premium to the insurance company,
+[1:18 - 1:23]  and then the insurance company is then providing a policy or coverage back over.
+[1:23 - 1:26]  And then the employee, they're getting the insurance coverage from the employer,
+[1:26 - 1:30]  but they're typically paying a payroll deduction back to the employer.
+[1:31 - 1:34]  You know, so a person gets paid 26 times a year.
+[1:34 - 1:35]  They're getting paid every two weeks.
+[1:35 - 1:41]  Oftentimes, some of that paycheck is then going out to the employer to pay part of the premium.
+[1:41 - 1:47]  And it's anywhere from 10% to 20% times even 30% of the premium is actually paid by the employees
+[1:47 - 1:50]  in terms of their premium contribution.
+[1:50 - 1:54]  So, the employees are really paying for part of their insurance, not all of their insurance,
+[1:54 - 1:55]  in a couple of ways.
+[1:55 - 1:57]  So, one, they're paying the out-of-pocket cost here,
+[1:57 - 2:00]  and then, two, they're paying part of the premium here.
+[2:00 - 2:09]  Now, it's important to note that the money here with the insurance company,
+[2:10 - 2:14]  that's only if it's called, if it's fully insured.
+[2:14 - 2:19]  Now, there's another situation that's called self-insured that I'm going to talk about next,
+[2:19 - 2:26]  where the employer actually pays the provider directly and actually bears all the risk.
+[2:26 - 2:28]  So, that will be our next segment.
+[2:28 - 2:29]  Thanks so much.
+[2:30 - 2:33]  Hello, and welcome back.
+[2:33 - 2:36]  Now, I said in the last segment that we're going to talk about the difference
+[2:36 - 2:38]  between being self-insured and fully insured.
+[2:39 - 2:43]  So, all insurance policies have three parts.
+[2:43 - 2:49]  Those are the risk, the adjudication, and the network.
+[2:49 - 2:51]  So, what do I mean by that?
+[2:51 - 2:56]  When you're fully insured, the insurance company, Blue Cross, United, Cigna, or Aetna,
+[2:56 - 3:02]  all three of those things are assembled within the one insurance company.
+[3:02 - 3:08]  Meaning, the employer pays the premium to the insurance company, but then the insurance company bears the risk.
+[3:08 - 3:13]  The average employee costs $10,000 per employee per year in premium.
+[3:13 - 3:14]  Okay.
+[3:14 - 3:20]  So, if the insurance company pays out $10,001, then they've lost money on it, right?
+[3:20 - 3:22]  Because the insurance company's taken all the risk.
+[3:22 - 3:24]  They don't go back to the employer and be like, ah, we need more premium.
+[3:24 - 3:24]  No.
+[3:24 - 3:27]  For that year, the insurance company's taken all the risk.
+[3:28 - 3:29]  Then there's the adjudication.
+[3:29 - 3:36]  That's just a fancy word for the insurance company gets claims from the doctor and the hospital and the pharmacy,
+[3:36 - 3:38]  and then they pay those claims out.
+[3:38 - 3:42]  So, the process of receiving claims and then paying out money based on those claims, that's called adjudication.
+[3:43 - 3:44]  Makes sense, right?
+[3:44 - 3:49]  And the last part is the network, where I'm sure you're familiar with the terms in-network and out-of-network.
+[3:49 - 3:56]  And basically, when you have this relationship here between the doctors and hospitals and the insurance company,
+[3:57 - 4:02]  then those doctors and hospitals that are in-network, they then give a discount to the insurance company.
+[4:02 - 4:05]  Well, let's say the bill for the surgery is $10,000.
+[4:06 - 4:11]  And the insurance company said, yeah, but we negotiated a discount with you, XYZ Hospital, for 50%.
+[4:11 - 4:14]  So, we're going to, and that term is called repricing.
+[4:14 - 4:22]  So, when you reprice based upon the in-network discount, then if you discount it by 50%, let's say that was their contract,
+[4:22 - 4:25]  was that whatever your billed charges were, we would negotiate it down by 50%.
+[4:25 - 4:29]  So, then they're going to pay the hospital back $5,000.
+[4:29 - 4:34]  Now, if it's an out-of-network hospital, the hospital will bill $10,000.
+[4:34 - 4:36]  The insurance company's like, well, we don't have any network with you.
+[4:37 - 4:39]  So, then they have to pay them back the full $10,000.
+[4:39 - 4:46]  So, the risk, the adjudication, and the network, all three of those are living with the insurance company when you're fully insured.
+[4:46 - 4:53]  Now, when you're self-insured, the adjudication and the network are still with the insurance company.
+[4:54 - 4:58]  However, the employer maintains all the risk.
+[4:58 - 5:04]  So, the employer is literally paying out to the doctor and the hospital and the pharmacy.
+[5:05 - 5:06]  They pay them directly.
+[5:06 - 5:07]  Well, they don't pay them literally directly.
+[5:08 - 5:16]  They get the insurance company access to their bank account, and the insurance company wires the correct amount over when they do the adjudication.
+[5:16 - 5:20]  But the money is literally still, the employer doesn't pay a premium to the insurance company.
+[5:20 - 5:22]  The employer keeps all that premium money.
+[5:22 - 5:27]  And then, every time an employee or a family member goes to the doctor, goes to the hospital,
+[5:27 - 5:32]  the insurance company's wiring the money out of the employer bank account and paying the doctor or the hospital.
+[5:32 - 5:38]  That's why it's self-insured, because the insurance, the risk, is held by the employer.
+[5:38 - 5:45]  Now, most employers, once they get over about 200 employees, they tend to be more likely to be self-insured instead of fully insured.
+[5:45 - 5:49]  And most companies with less than 200 employees, they tend to be fully insured and not self-insured.
+[5:50 - 5:50]  Now, there's exceptions to this.
+[5:51 - 5:54]  You can have companies as small as 50 employees that are self-insured,
+[5:54 - 5:58]  and you can have companies with as many as 1,000 employees that are fully insured.
+[5:58 - 6:06]  Now, one of the big reasons why an employer would want to be self-insured instead of fully insured
+[6:06 - 6:15]  is because, for bearing the risk, the insurance company essentially charges an extra 15%,
+[6:15 - 6:20]  and that's referred to as the medical loss ratio, or the MLR for short,
+[6:20 - 6:27]  which basically says, for every $100 of premium that we take in, we're going to pay out $85 in claims,
+[6:28 - 6:32]  and the insurance company's going to keep 15%, $15 out of 100.
+[6:33 - 6:35]  So you can figure, basically the insurance company's kind of like Visa.
+[6:36 - 6:37]  They're processing the transaction.
+[6:37 - 6:40]  Except Visa only takes like, I don't know, 3% or 4%.
+[6:40 - 6:44]  In this case, the insurance company takes 15%.
+[6:44 - 6:48]  Now, I'll get into more detail later on, but it's important for you to understand
+[6:48 - 6:51]  that there's a difference between fully insured and self-insured,
+[6:52 - 6:57]  and most larger employers are self-insured, and most smaller employers are fully insured.
+[6:57 - 6:58]  Thank you for watching.
+[6:59 - 7:01]  Hello, welcome back.
+[7:01 - 7:07]  Now we're going to talk about network discounts, otherwise known as repricing.
+[7:07 - 7:08]  So I mentioned that in the previous video.
+[7:08 - 7:13]  Now we're going to go into more detail around how network discounts and repricing work.
+[7:13 - 7:16]  So you've got the bill here from the hospital.
+[7:17 - 7:21]  Now, believe it or not, when I started, it was still 8.5 by 11 sheets of paper
+[7:21 - 7:25]  that they would trifold, stick in an envelope, and mail to the PO box of the insurance company.
+[7:25 - 7:27]  Of course, it's all sent electronically these days.
+[7:28 - 7:31]  It is sent over to the insurance company, and then the insurance company applies,
+[7:31 - 7:33]  if it's an in-network hospital or doctor,
+[7:34 - 7:36]  and they're going to apply a discount to it.
+[7:36 - 7:40]  And then, so the bill going over, that's referred to as the bill charges,
+[7:41 - 7:44]  then after the discount is applied, and then the amount they paid back,
+[7:44 - 7:46]  that's referred to as the allowed amount.
+[7:46 - 7:49]  Okay, so those are important terms, bill charges and allowed amount.
+[7:49 - 7:51]  Now, let's use a specific example.
+[7:51 - 7:52]  Let's say it's for a surgery.
+[7:52 - 7:53]  Let's say it's for a gallbladder surgery.
+[7:54 - 7:55]  Bill charges might be $10,000,
+[7:55 - 8:00]  but then the contract between the insurance company network and the hospital says,
+[8:00 - 8:04]  okay, well, we agreed to a 40% discount off of bill charges,
+[8:04 - 8:06]  so then the hospital's going to get paid back $6,000.
+[8:07 - 8:08]  Pretty straightforward, right?
+[8:08 - 8:10]  Well, it gets complicated.
+[8:10 - 8:16]  There are many ways that that discount methodology is calculated,
+[8:16 - 8:18]  and we're going to go through a handful of those.
+[8:18 - 8:20]  Okay, so the first is called the percent of charge,
+[8:20 - 8:21]  which is the one that I just went through.
+[8:21 - 8:23]  I said, okay, whatever your bill charges are,
+[8:25 - 8:28]  and then we're going to reimburse you back.
+[8:28 - 8:30]  But the hospitals caught on, and they're like,
+[8:30 - 8:33]  hmm, well, if we bill $20,000,
+[8:34 - 8:37]  then you'd have to pay us $12,000 back.
+[8:37 - 8:39]  So we'll just double our bill charges,
+[8:39 - 8:41]  and that's what they started doing.
+[8:41 - 8:43]  And so the insurance company's like, whoa, whoa, whoa, whoa, whoa,
+[8:43 - 8:46]  you can't, and that's why hospital prices are just like through the roof,
+[8:47 - 8:51]  because they charge, you know, like $5 for an aspirin,
+[8:51 - 8:55]  or, you know, $5,000 for an MRI scan,
+[8:55 - 8:56]  which probably only costs $100 to do.
+[8:57 - 9:01]  So they do that because they were getting reimbursed a percent of whatever they billed.
+[9:01 - 9:03]  So that's percent of charge.
+[9:03 - 9:07]  Now, that's still used today mostly for things like outpatient surgery.
+[9:08 - 9:10]  Now, so because the insurance carrier's calling,
+[9:10 - 9:11]  it's okay, we're going to do a fixed case rate,
+[9:11 - 9:14]  which means that regardless of what you bill,
+[9:14 - 9:18]  we're going to pay you back a fixed amount for a certain service.
+[9:18 - 9:19]  And that's often used for imaging.
+[9:19 - 9:22]  So for like an MRI, instead of it being a 40% discount,
+[9:22 - 9:24]  they're like, look, we're going to pay you back $2,000.
+[9:24 - 9:26]  You can bill us $10,000.
+[9:26 - 9:27]  You can bill us $20,000.
+[9:27 - 9:28]  You can bill us $3,000.
+[9:29 - 9:32]  We're going to pay you back $2,000 for every MRI that we do.
+[9:32 - 9:34]  And that's a fixed case rate.
+[9:35 - 9:36]  Now, the next one is a per diem.
+[9:37 - 9:39]  Per diem is like, okay, we're going to pay you
+[9:39 - 9:42]  based upon the number of days that a person was in the hospital.
+[9:42 - 9:44]  So this is obviously applied to like inpatient stays.
+[9:45 - 9:47]  So typically it's about like $3,000 a day.
+[9:48 - 9:52]  So the total bill charges for a three-day stay might be like $30,000.
+[9:53 - 9:57]  But the insurance company in the hospital agreed to a $3,000 per diem
+[9:57 - 9:58]  for a three-day stay.
+[9:59 - 10:00]  So that's $9,000.
+[10:01 - 10:03]  So they're like, look, hospital, you bill us for as much as you want.
+[10:04 - 10:07]  If this patient stays three days, we're going to pay you back $9,000,
+[10:07 - 10:08]  $3,000 times three days.
+[10:09 - 10:11]  The final, and there's more to it than this,
+[10:11 - 10:12]  but these are the ones I'm going to go through.
+[10:12 - 10:14]  Then the final one is a carve-out.
+[10:15 - 10:20]  And a carve-out is where a specific implantable or medical device is used.
+[10:20 - 10:22]  So classic examples like a pacemaker in the heart,
+[10:23 - 10:25]  or when someone needs spinal surgery,
+[10:25 - 10:28]  there are like rods and screws that are used as part of that.
+[10:28 - 10:31]  Or for like a joint replacement, for like a knee or a hip replacement,
+[10:31 - 10:34]  for the actual implant itself.
+[10:35 - 10:37]  That is carved out.
+[10:37 - 10:39]  So the individual pacemaker is carved out.
+[10:39 - 10:43]  The individual knee or hip implant is carved out.
+[10:43 - 10:47]  And there's a separate line item in the bill for the carve-out.
+[10:47 - 10:51]  And there is a separate line item reimbursement for the carve-out.
+[10:51 - 10:54]  So let's use like a hip replacement as an example.
+[10:54 - 10:58]  The bill might be a total of like $100,000.
+[10:58 - 11:04]  And let's say it's a three-day stay for the hip surgery.
+[11:04 - 11:06]  And so the insurance company is like,
+[11:06 - 11:12]  okay, well we negotiated a $3,000 a day per diem for the three-day hip replacement.
+[11:12 - 11:13]  But then the hospital is like, yeah,
+[11:14 - 11:16]  but you can't pay me nine grand for a hip replacement.
+[11:16 - 11:17]  This is complicated stuff.
+[11:17 - 11:18]  You've got to pay us more.
+[11:18 - 11:21]  So what the hospital did is they negotiated a specific line item
+[11:21 - 11:26]  for like $30,000 just for the hip implant itself.
+[11:27 - 11:30]  So the total reimbursement back when you have a carve-out
+[11:30 - 11:36]  will be the $30,000 for the hip plus the $9,000, $3,000 a day,
+[11:36 - 11:37]  for the per diem.
+[11:37 - 11:40]  So it will be a total of $39,000 because of that carve-out.
+[11:41 - 11:44]  Now, what happens is that the hospital,
+[11:44 - 11:49]  be it let's say in Chicago or San Diego or New York or wherever it is,
+[11:50 - 11:52]  they don't just use one contracting methodology.
+[11:53 - 11:55]  They might use a percent of charge for some of their outpatient surgeries.
+[11:56 - 11:58]  They might use a case rate for things like their imaging.
+[11:59 - 12:01]  They might use a per diem for some of their medical stays,
+[12:01 - 12:04]  like if the person goes in with an ammonia or a skin infection
+[12:04 - 12:06]  that requires IV antibiotics.
+[12:06 - 12:12]  And then they'll have a carve-out for their pacemakers and implants.
+[12:13 - 12:14]  So they use a combination of these.
+[12:14 - 12:18]  And the combination of these that are done between each hospital
+[12:18 - 12:19]  and the insurance company are different.
+[12:20 - 12:22]  In other words, and also the amount is different.
+[12:22 - 12:26]  So the case rate might be like $2,000 at one hospital for an MRI,
+[12:26 - 12:29]  but the case rate at another hospital for an MRI might be like $1,000.
+[12:30 - 12:33]  Likewise, the percentage charge discount on outpatient surgery might be 40%
+[12:33 - 12:36]  at one hospital and might be 50% at another hospital.
+[12:37 - 12:44]  But at the end of the day, the total contract that they're shooting for is
+[12:44 - 12:48]  where the hospital bills the insurance company.
+[12:49 - 12:51]  And the insurance company, by the time all of this is done,
+[12:52 - 12:56]  is paying back about half of what the billed charges for are.
+[12:56 - 12:57]  That's what they're shooting for.
+[12:57 - 13:00]  The hospital is shooting for getting paid about 50 cents on the dollar.
+[13:00 - 13:03]  And they use all these contrived machinations to get to that.
+[13:04 - 13:09]  Now, the other thing that's important to know about this is the bill itself.
+[13:09 - 13:11]  So we're going to talk a little bit about billing.
+[13:11 - 13:15]  So, hospital bills are called UB04s.
+[13:15 - 13:16]  UB stands for universal bill.
+[13:16 - 13:19]  And the version that we're using today is from 2004.
+[13:19 - 13:20]  That's why it's called the UB04.
+[13:21 - 13:25]  And then doctor bills are called HICFA 1500s.
+[13:25 - 13:29]  So before CMS or Medicare was called CMS, it was called HICFA.
+[13:29 - 13:31]  And that's why it's called the HICFA 1500.
+[13:31 - 13:35]  So, facility bills are like hospital bills, are UB04s.
+[13:35 - 13:40]  And then medical professional fees or doctor fees are HICFA 1500.
+[13:40 - 13:43]  So there's two types of bills that come across from the provider
+[13:43 - 13:45]  to the insurance company.
+[13:45 - 13:48]  Now, on those bills, they've got all sorts of codes.
+[13:48 - 13:50]  We're going to go through some of those codes now.
+[13:50 - 13:53]  First of all, all bills, I mean, they've got to have the patient name,
+[13:53 - 13:56]  the date of birth, it has to have the date of service, yadda, yadda, yadda.
+[13:56 - 13:56]  Okay.
+[13:57 - 14:00]  But then it also has to, all bills have to have a diagnosis on it.
+[14:00 - 14:01]  And that diagnosis has a code.
+[14:01 - 14:02]  It's the ICD-10 code.
+[14:03 - 14:05]  ICD stands for international classification of diseases.
+[14:06 - 14:07]  And it's the 10th revision.
+[14:07 - 14:10]  We just switched from ICD-9 to ICD-10 in 2015.
+[14:11 - 14:14]  We had used ICD-9 since the 1970s.
+[14:14 - 14:18]  So it was only somewhat recently that we switched over to ICD-10.
+[14:18 - 14:20]  All ICD-10 codes are very recognizable.
+[14:21 - 14:24]  They're typically three numbers followed by a dot,
+[14:24 - 14:28]  followed by a combination of four letters and numbers.
+[14:29 - 14:31]  Now, those four at the end are kind of optional.
+[14:31 - 14:33]  So it's always the three up front and then a dot
+[14:33 - 14:36]  and then some combination of four here at the end.
+[14:36 - 14:41]  Now, so that's like the diagnosis would be like pneumonia.
+[14:41 - 14:41]  Okay.
+[14:41 - 14:42]  That was your disease.
+[14:42 - 14:43]  That was your illness.
+[14:44 - 14:47]  The procedure is what was done about it.
+[14:47 - 14:49]  And that's the CPT code.
+[14:49 - 14:50]  And a CPT code is always five digits.
+[14:51 - 14:52]  And it's always all numbers.
+[14:53 - 14:54]  There's no letters.
+[14:54 - 14:56]  Now, there's a procedure code for MRIs.
+[14:56 - 14:59]  There's a procedure code for CT scans.
+[14:59 - 15:01]  There's a procedure code for individual labs.
+[15:01 - 15:04]  So when you get like a complete blood count, there's a CPT code for that.
+[15:04 - 15:07]  Now, for an office visit, that's not really a quote-unquote procedure.
+[15:08 - 15:10]  But that too has a CPT procedure code.
+[15:11 - 15:14]  It's referred to as an E&M code, an evaluation and management code.
+[15:14 - 15:15]  But it's still just a CPT code.
+[15:15 - 15:16]  It's five digits.
+[15:16 - 15:18]  It starts with the numbers 99.
+[15:18 - 15:22]  That's how you can always find office visit codes because they start out 99.
+[15:23 - 15:26]  The DRG is the diagnosis-related groups.
+[15:26 - 15:29]  DRG codes are only used for inpatient services.
+[15:29 - 15:33]  So if somebody goes into the hospital for a colonoscopy and leaves the same day, they don't get a DRG.
+[15:34 - 15:37]  DRG is only when it's done as an inpatient.
+[15:37 - 15:41]  So at the end of the day, yeah, people use DRG codes.
+[15:41 - 15:44]  But again, it's not for the vast majority of stuff in hospitals.
+[15:44 - 15:46]  It's actually done on an outpatient basis, not an inpatient basis.
+[15:47 - 15:48]  Lastly, we have HCPCS code.
+[15:49 - 15:50]  HCPCS code.
+[15:50 - 15:54]  Now, the HCPCS code, believe it or not, with all these codes, there wasn't enough codes.
+[15:54 - 15:56]  So they added more codes.
+[15:56 - 16:00]  And so oftentimes they're referred to as J codes, or sometimes they start with a G as well.
+[16:00 - 16:04]  And those codes are actually used oftentimes for those specific carve-outs.
+[16:04 - 16:09]  So oftentimes if there's like a specific medication or the implant, the way that the insurance company
+[16:09 - 16:13]  and the hospital know that there's a carve-out is because they put a specific J code on there.
+[16:13 - 16:18]  So if your head's not spinning already, I wanted to go through the basics of network discounts
+[16:18 - 16:19]  and repricing.
+[16:20 - 16:20]  Thanks so much.
+[16:22 - 16:22]  All right.
+[16:22 - 16:23]  Welcome back.
+[16:23 - 16:29]  Now we're going to talk about the difference between an employer being fully insured and self-funded.
+[16:29 - 16:35]  Now, I mentioned this previously in the four parts of an employer-sponsored health plan,
+[16:35 - 16:37]  but we're going to go into it in more detail.
+[16:37 - 16:41]  Now, if it's fully insured, an employer is paying premium to the insurance company,
+[16:41 - 16:43]  and the insurance company is taking all the risk.
+[16:44 - 16:52]  So the employer's premiums are then determined based upon their size.
+[16:52 - 16:56]  On average, it's about $10,000 per employee per year.
+[16:56 - 16:58]  That's the average premium.
+[16:58 - 17:03]  And then typically there are two plan members for every one employee on the plan.
+[17:03 - 17:06]  Another name for an employee on the plan is a subscriber.
+[17:06 - 17:12]  So let's say you have a company that has 120 employees, and 100 of those employees are on the health insurance.
+[17:12 - 17:14]  So there would be 100 subscribers.
+[17:14 - 17:18]  Now, typically each subscriber on average has about two people total.
+[17:18 - 17:21]  You've got the subscriber themselves, and then sometimes you've got a spouse, sometimes you just have a child,
+[17:22 - 17:27]  sometimes you just have a single employee, but then sometimes you've got an employee with a spouse and two, three, four, five kids.
+[17:27 - 17:33]  So when you average all that out, in general, it's for every one subscriber, there's two members.
+[17:34 - 17:41]  So that company with 120 employees total with 100 subscribers on the plan will typically have 200 members.
+[17:42 - 17:47]  Now, again, it's still about $10,000 per subscriber per year.
+[17:47 - 17:51]  So a company with 100 employees is paying about a million dollars a year in premium to health insurance.
+[17:51 - 17:57]  Now, a fully insured plan that is community rated typically has 50 or fewer employees.
+[17:57 - 18:05]  And community rated means that the premiums for the next year are just based upon how the health care expenses
+[18:05 - 18:13]  and the risks were for all the people kind of in that area, whether it be New York or Dallas or Atlanta or San Francisco.
+[18:14 - 18:15]  So that's what community rated is.
+[18:15 - 18:23]  So an individual with small employers' premiums are based upon kind of the companies around them.
+[18:24 - 18:31]  Now, a partially credible company is typically between 50 and 200 employees on the plan,
+[18:31 - 18:36]  where the insurance company says, okay, well, you know, your particular company might have, like,
+[18:36 - 18:42]  really old employees or really sick employees or you just might have, you know, much higher claims.
+[18:42 - 18:48]  And so some of your premium is going to be based upon the claims experience of you, the specific employer,
+[18:49 - 18:53]  versus the community rated, it's not based upon your own claims at all.
+[18:54 - 18:55]  So that's partially credible.
+[18:56 - 19:04]  Now, when a company is fully credible, that means that all of the premium is based on specifically the claims
+[19:04 - 19:08]  that that employer generated in the previous year.
+[19:08 - 19:10]  It's typically for fully insured groups greater than 500.
+[19:10 - 19:11]  Sometimes it's greater than 800.
+[19:12 - 19:13]  Sometimes it's only greater than 200.
+[19:13 - 19:14]  It depends upon the state.
+[19:14 - 19:16]  It depends upon the insurance company.
+[19:16 - 19:22]  So in a fully credible group, and remember, there's a medical loss ratio of about 15%,
+[19:22 - 19:29]  which means that, like, let's say this company with 100 employees on the plan,
+[19:29 - 19:31]  100 subscribers, they have a million dollars,
+[19:31 - 19:38]  and then they end up having $850,000 in claims for you.
+[19:38 - 19:41]  Well, then they got the 15% medical loss ratio,
+[19:42 - 19:47]  and in the following year, then the insurance company probably isn't going to raise the premium very much,
+[19:47 - 19:48]  if at all.
+[19:48 - 19:54]  Because they can only make that 15%, that $150,000 off of $10 million.
+[19:54 - 19:55]  Okay, fine.
+[19:55 - 20:02]  But let's say the employer pays out, excuse me, let's say the employer pays their million dollars of premium,
+[20:02 - 20:07]  but let's say their claims were actually a million dollars as well.
+[20:07 - 20:12]  Well, in that case, the insurance company is going to raise the premium,
+[20:13 - 20:18]  not just by $150,000, because that's what they should have made from the medical loss ratio.
+[20:18 - 20:24]  They're probably like, well, shoot, you're probably going to run high again in the following year,
+[20:24 - 20:29]  so we're probably going to charge you, like, $1.3 million for your premiums,
+[20:29 - 20:34]  so that I, the insurance company, can make up the $150,000 I didn't make the previous time,
+[20:34 - 20:39]  plus I can make another $150,000 on top of that for what you owe me for this year.
+[20:39 - 20:43]  So that's a fully credible group, where there are premiums, in this case,
+[20:43 - 20:49]  the $1.3 million is a reflection of their claims in the previous year, the $1 million.
+[20:50 - 20:51]  So that's fully insured.
+[20:51 - 20:54]  So the employer still, the insurance company is still taking the risk,
+[20:54 - 20:59]  but they're basically going to sock it back to the employer the following year with an increased premium.
+[20:59 - 21:05]  Now, self-funded, we talked about before how the insurance company still is adjudicating claims,
+[21:05 - 21:08]  and they're providing a network discount, but all the risk is being borne by the employer.
+[21:08 - 21:14]  And so your typical company with, like, 200 employees, they're like, okay, I'll bear all the risk.
+[21:14 - 21:21]  But let's say all the employees are, you know, on a trip together just for fun,
+[21:21 - 21:25]  and they all have horrible food poisoning, and they're getting hospitalized for a month on end
+[21:25 - 21:28]  with some sort of, like, horrible E. coli food poisoning.
+[21:28 - 21:33]  Or let's say one of the employees has a premature baby and is in the NICU for months on end.
+[21:33 - 21:38]  Or somebody has a skiing accident and ends up, you know, having a concussion,
+[21:38 - 21:41]  and they're in the ICU unconscious for months on end.
+[21:41 - 21:44]  Again, so they could have these bills that are huge.
+[21:44 - 21:47]  You could have a million, an individual person, it's referred to as a claimant,
+[21:47 - 21:57]  they could have bills over the course of 12 months that add up to $50,000, $100,000, a million dollars.
+[21:57 - 22:00]  People can have health care expenses that are like a million dollars.
+[22:00 - 22:05]  And that employer, again, if it's $10,000 per employee, if they got 200 employees,
+[22:06 - 22:08]  the employer's like, well, we're only going to end up paying,
+[22:08 - 22:14]  we only estimate that we're going to pay about $2 million dollars out in claims.
+[22:15 - 22:19]  And so if we have one person alone who costs a million dollars,
+[22:19 - 22:20]  that's totally going to blow our budget.
+[22:21 - 22:23]  Like, literally, it could bankrupt the business.
+[22:23 - 22:28]  So the company is going to go out and they're going to buy what's called reinsurance.
+[22:28 - 22:29]  And there's two types of reinsurance.
+[22:29 - 22:33]  Another name for reinsurance is stop loss insurance.
+[22:33 - 22:36]  So there's specific stop loss insurance and there's aggregate stop loss insurance.
+[22:37 - 22:41]  Now, specific stop loss insurance, again, you go out to a reinsurance company,
+[22:41 - 22:43]  and you've never heard of these reinsurance companies before.
+[22:43 - 22:45]  One of them is called Sun Life.
+[22:45 - 22:46]  Another one is called QBE.
+[22:46 - 22:47]  Another one is called Tokyo Marine.
+[22:48 - 22:52]  Believe it or not, the insurance carriers themselves will sell to self-funded employers.
+[22:52 - 22:54]  They'll sell just the stop loss insurance.
+[22:54 - 22:57]  So even if a company is self-funded with Blue Cross,
+[22:57 - 23:02]  they might actually buy their reinsurance, their stop loss insurance through Blue Cross as well.
+[23:02 - 23:03]  So you can do that too.
+[23:03 - 23:07]  But the specific stop loss is on a specific individual.
+[23:07 - 23:10]  And it says that typically the amount is $100,000,
+[23:11 - 23:14]  where it says, look, the employer is on the hook for the first $100,000,
+[23:14 - 23:18]  but if you have one of the situations where you have like a million dollars worth of claims
+[23:18 - 23:23]  on one person in a year, then the company will pay out the first $100,000,
+[23:24 - 23:28]  and then the stop loss insurance will pay out the subsequent $900,000 on top of that.
+[23:28 - 23:33]  So, and the employer has to pay a premium to the stop loss insurance company for that coverage.
+[23:33 - 23:39]  Now, stop loss insurance ends up being about $6 per employee per month.
+[23:39 - 23:41]  It's actually the much more expensive of the two.
+[23:41 - 23:46]  Then there's aggregate stop loss insurance, and aggregate is for the entire group.
+[23:46 - 23:50]  And I said, okay, well, maybe we didn't have, you know, this like horrible,
+[23:50 - 23:58]  you know, stomach bug that caused half the company to be hospitalized for months on end.
+[23:58 - 24:00]  Maybe we didn't have a premature baby.
+[24:00 - 24:03]  Maybe we didn't have, you know, concussion skiing accident, what have you.
+[24:03 - 24:06]  But maybe we just had a whole bunch of people that were just kind of sick,
+[24:06 - 24:10]  and like everybody at the company just got a whole bunch of claims over the course of the year.
+[24:10 - 24:14]  And again, if we're saying 10,000, the expected amount is $10,000 per employee per year.
+[24:14 - 24:16]  Again, it's that 200 employee company.
+[24:16 - 24:18]  So they're expecting $2 million of claims.
+[24:18 - 24:23]  They might buy, or let's just say it's, I wrote 12 million here.
+[24:23 - 24:25]  So let's say it's for 1,000 employees.
+[24:25 - 24:30]  So in this case, for the 1,000 employees, it would be $10 million a year.
+[24:30 - 24:33]  At $10,000 per employee per year times 1,000 employees.
+[24:33 - 24:36]  That's $10 million a year that that company would expect to pay out in claims.
+[24:36 - 24:38]  And they'd say, well, what if we're over that?
+[24:38 - 24:44]  We're going to get insurance for if the whole group is just over that by a whole bunch.
+[24:44 - 24:47]  In aggregate, if they're over that amount, we're going to get insurance that.
+[24:47 - 24:50]  And they'll be like, okay, well, maybe we're going to do it right at $10 million,
+[24:50 - 24:51]  but maybe we'll do it at $12 million.
+[24:52 - 24:56]  And we'll buy aggregate insurance such that we'll pay the first $12 million worth of claims.
+[24:56 - 24:59]  But then after $12 million, then we're going to pay premium,
+[24:59 - 25:03]  and the re-insurance, the stop-loss re-insurance company will pay the amount after that.
+[25:03 - 25:08]  Now, the stop-loss insurance is actually fairly cheap because they're able to predict it much better.
+[25:08 - 25:11]  So they're able to, and it generally groups don't go over.
+[25:11 - 25:16]  So the stop-loss premium for that is only like $0.50 per employee per month
+[25:16 - 25:20]  versus like the $6 per employee per month for the specific stop-loss.
+[25:20 - 25:20]  Okay?
+[25:21 - 25:26]  So probably more than you ever wanted to know about the difference between fully insured and self-funded,
+[25:26 - 25:30]  but it's important that we understand the terms community-rated versus fully credible
+[25:30 - 25:32]  and specific stop-loss versus aggregate stop-loss.
+[25:32 - 25:33]  Thank you for watching.
+[25:33 - 25:35]  Okay.
+[25:36 - 25:40]  This segment's going to be rather brief, but it's important to understand in self-funding
+[25:40 - 25:43]  the difference between an ASO versus a TPA.
+[25:44 - 25:46]  We're not going to talk about PBMs now.
+[25:46 - 25:47]  We're going to talk about that.
+[25:47 - 25:47]  Okay.
+[25:48 - 25:51]  So ASO stands for Administrative Services Only.
+[25:51 - 25:54]  So we talked about when you're self-funded, the employer's taking the risk, right,
+[25:54 - 25:56]  because they have to pay out of the claims.
+[25:56 - 25:59]  But the insurance company is still adjudicating the claims.
+[25:59 - 26:01]  They're taking the claims in from the hospital and the doctor.
+[26:01 - 26:04]  They're paying out money back to them.
+[26:04 - 26:07]  And then two, they also have a network, so they're repricing the claim.
+[26:08 - 26:11]  So when the claim comes in at $1,000, they're discounting it by $500
+[26:11 - 26:13]  and then paying out the $500 back, right?
+[26:13 - 26:18]  So Administrative Services Only is that service that the insurance carriers provided.
+[26:18 - 26:22]  And that service is provided by Blue Cross, United, Cigna, and Aetna.
+[26:22 - 26:30]  So Buka, the big four, and believe it or not, about 60% of employees in America
+[26:30 - 26:33]  actually work for companies that are self-funded.
+[26:34 - 26:39]  So their insurance card said, you know, if Blue Cross is providing the ASO services,
+[26:39 - 26:45]  like your insurance card says Blue Cross, but Blue Cross is just the ASO.
+[26:45 - 26:47]  Blue Cross isn't taking any risk.
+[26:47 - 26:49]  Your employer is taking it.
+[26:49 - 26:51]  Now typically the insurance card also, it doesn't say self-funded.
+[26:52 - 26:53]  It doesn't say Blue Cross ASO.
+[26:53 - 26:54]  It just says Blue Cross.
+[26:54 - 26:57]  So everybody thinks, oh, it's the insurance company that's paying the money
+[26:57 - 27:00]  and, you know, we're going to sock it to the insurance company.
+[27:00 - 27:02]  You're not socking it to the insurance company at all.
+[27:02 - 27:06]  For 60% of Americans on self-funded plans, they're just socking it to their job.
+[27:06 - 27:07]  They're just socking it to their employer.
+[27:08 - 27:10]  So that's Administrative Services Only.
+[27:10 - 27:15]  Now the employer, or excuse me, the insurance carrier that's providing those ASO services,
+[27:15 - 27:21]  they charge about $35 per employee per month for those ASO services.
+[27:21 - 27:22]  So it's not cheap.
+[27:22 - 27:28]  Now, as an alternative to an ASO, you can go with a different company that's called a TPA,
+[27:28 - 27:29]  a third-party administrator.
+[27:30 - 27:37]  Now a TPA is very similar to an ASO, but the difference is that the ASO is one of those big carriers,
+[27:37 - 27:38]  Blue Cross, the United Sign of Aetna.
+[27:38 - 27:44]  It's claims adjudication and it's the network, but in the case of the third-party administrator,
+[27:44 - 27:49]  then one, they typically only do the administrative services,
+[27:49 - 27:52]  and then you have to go out and you have to rent a network.
+[27:52 - 27:56]  Yes, believe it or not, you can actually go out and there's networks that you can just rent.
+[27:57 - 27:59]  So it's going to get really confusing.
+[27:59 - 28:00]  So hold on.
+[28:00 - 28:06]  Now, believe it or not, some of these major insurance companies actually own third-party administrators.
+[28:06 - 28:11]  So United Healthcare, UHC, owns its own TPA that's called UMR.
+[28:12 - 28:15]  And guess what network UMR uses?
+[28:15 - 28:17]  It uses the UHC network.
+[28:17 - 28:24]  But the difference is that UMR doesn't come with all the bells and whistles, and so it's cheaper.
+[28:24 - 28:27]  So they'll only charge like $20 per employee per month,
+[28:28 - 28:34]  and then you've got to pay like an extra $6 for the United Healthcare to rent the UHC network,
+[28:34 - 28:37]  so you're paying like $26 PEPM instead of the $35.
+[28:38 - 28:43]  But like I said, you're not getting all the fantastic customer support and case management, disease management, yada, yada, yada.
+[28:43 - 28:46]  So whether or not those things are valuable is another issue.
+[28:46 - 28:51]  But the point is that when you're using the UMR TPA, you're typically going out,
+[28:51 - 28:56]  and the reason why an employer would use UMR instead of UHC is because if you use UMR as a TPA,
+[28:56 - 29:02]  then it's much more flexible and you can bring in outside programs that you want to use in conjunction with.
+[29:02 - 29:07]  Like if you wanted to have a carve-out surgery network where you have like a specific surgery center
+[29:07 - 29:10]  where if the person went to that specific surgery center,
+[29:10 - 29:13]  then they might have a specific discount for that particular employer,
+[29:13 - 29:16]  and maybe the out-of-pocket cost of the employee would be like $0,
+[29:17 - 29:18]  and UMR's like, okay, we're flexible.
+[29:19 - 29:20]  We can do that for you, XYZ employer.
+[29:20 - 29:24]  For this particular hospital, we can set it up so that when your employees go there,
+[29:24 - 29:25]  it'll be zero out-of-pocket cost.
+[29:25 - 29:28]  If you said that to United Healthcare as an ASO, they'd be like, yeah, we don't do that.
+[29:29 - 29:31]  That's too customized for us.
+[29:31 - 29:33]  So that's why you would go with UMR.
+[29:33 - 29:38]  Now, Meritain is another TPA that's owned by Aetna.
+[29:38 - 29:42]  So the same sort of relationship between UMR and UHC is between Meritain and Aetna,
+[29:42 - 29:44]  and they use the Aetna network.
+[29:44 - 29:45]  Same idea.
+[29:45 - 29:49]  Now, there's dozens and dozens of other individual TPAs,
+[29:49 - 29:52]  and a lot of these TPAs, they might have 100 employees or 200 employees.
+[29:52 - 29:54]  Sometimes these TPAs only have like 50 employees.
+[29:54 - 29:55]  They're pretty small businesses.
+[29:55 - 29:58]  One that's in Dallas is called GPA, Group and Pension Administrators.
+[29:59 - 30:02]  And so here, they just do the claims adjudication.
+[30:02 - 30:03]  They don't have a network.
+[30:03 - 30:09]  But believe it or not, Cigna and Aetna actually will rent their networks to TPAs.
+[30:09 - 30:11]  Blue Cross and United don't do that.
+[30:11 - 30:14]  But you can actually have, so your insurance card says Cigna,
+[30:14 - 30:20]  but you're actually, the doctor and the hospital are actually sending the claims to GPA,
+[30:21 - 30:24]  and then the GPA is using Cigna's network to reprice the claims.
+[30:25 - 30:28]  So, and GPA or other TPAs, they're like super cheap.
+[30:28 - 30:30]  They're like $15 per employee per month.
+[30:30 - 30:34]  But they still got to pay like the $6 to rent the network from Cigna or Aetna.
+[30:34 - 30:38]  So now you're talking a total of $21 instead of $26 or instead of $35.
+[30:38 - 30:41]  So typically employers that go with TPAs, they're just like super cheap.
+[30:41 - 30:44]  Like they don't want to pay anything for their administrative services.
+[30:44 - 30:46]  Another example of that is web TPA.
+[30:46 - 30:49]  But like I said, there's dozens of these all over the country.
+[30:49 - 30:54]  So, I wanted to break down the difference between an ASO and a TPA.
+[30:54 - 30:55]  And thank you for watching.
+[30:57 - 31:03]  In our final segment on the basics of how employers sponsored health plans are structured,
+[31:03 - 31:04]  we're going to talk about captives.
+[31:05 - 31:08]  Now a captive is a pooled group of employers.
+[31:08 - 31:14]  So this is where a lot of really small employers, like 10 employees, 15 employees, 15 employees, 100 employees,
+[31:14 - 31:19]  like they can't go, there's only four major insurance carriers, Blue Cross, Cigna, Aetna.
+[31:19 - 31:24]  They can't go to them and get very good rates because essentially the insurance company says,
+[31:24 - 31:27]  you're going to take this rate and do this premium and you're just going to like it.
+[31:27 - 31:33]  So if they band together, if you got like 100 or 200 or 300 small employers
+[31:33 - 31:40]  and then they go to the insurance company and say, look, we've got 30,000 lives, 50,000 lives, 100,000 lives,
+[31:40 - 31:44]  then the insurance company is like, whoa, that's a big, it's like buying in bulk.
+[31:44 - 31:46]  They're like, well, it's a big group of business, so we'll give you a discount.
+[31:46 - 31:51]  So that's why you would do a captive because you would want to band together
+[31:51 - 31:54]  so you could do like group purchasing or a discount purchasing in bulk.
+[31:55 - 32:00]  So in a fully insured captive, each one of those employers is paying in premium to the captive
+[32:00 - 32:08]  and then the captive is then taking the risk and then they, the captive itself is self-funded,
+[32:09 - 32:11]  but each of the individual employers are fully insured.
+[32:11 - 32:15]  They're just paying out premium and if they have a lot of claims,
+[32:15 - 32:18]  then that doesn't come back to the employer because the captive has to pay for it.
+[32:19 - 32:21]  But then you run into this problem here of adverse selection.
+[32:21 - 32:30]  So oftentimes it is small fully insured companies that have a lot of really sick employees
+[32:30 - 32:35]  that have really high premiums that are like, huh, our premiums are super high.
+[32:36 - 32:40]  We should go into one of these captives because then we can do group purchasing
+[32:40 - 32:42]  and we'll be able to get it for cheaper.
+[32:43 - 32:46]  So you get, what happens is then you get this adverse selection.
+[32:46 - 32:50]  So you get all the groups with a lot of sick employees or plan members that join the captive
+[32:50 - 32:55]  so that the population of the captive ends up being sicker than the general population.
+[32:55 - 33:02]  So then groups that are like a little less sick are like, hmm, now that we're in this captive,
+[33:03 - 33:07]  our rates have gone through the roof because of all these other sick groups.
+[33:07 - 33:08]  So we're going to leave the captive.
+[33:08 - 33:10]  And that's what's referred to as the death spot,
+[33:10 - 33:16]  where you have companies that are actually less risky leaving the risk pool,
+[33:16 - 33:22]  leaving the captive because they can probably get better insurance on their own
+[33:22 - 33:24]  because they're not as risky as the whole captive is.
+[33:24 - 33:25]  So what does that do?
+[33:25 - 33:28]  If you take a group of relatively healthy employees out of the captive,
+[33:29 - 33:30]  what does that do to the captive?
+[33:30 - 33:31]  It makes it even more risky.
+[33:32 - 33:34]  Then some more employers leave that are fairly healthy.
+[33:34 - 33:36]  It makes the captive even more risky.
+[33:36 - 33:40]  And so the captive gets more and more expensive as those employers
+[33:40 - 33:43]  that have healthier employees leave.
+[33:44 - 33:47]  So that's why a lot of these fully insured captives, they end up imploding.
+[33:47 - 33:52]  So as an alternative to that, there's Roundstone and then there's Pareto.
+[33:52 - 33:55]  There's a handful of these self-funded captives.
+[33:55 - 33:59]  So in a self-funded captive, each individual employer remains self-funded.
+[34:00 - 34:04]  So in other words, the risk, the majority of the risk is still borne by the employer.
+[34:04 - 34:08]  The only difference is that there's group purchasing of the stop-loss insurance.
+[34:08 - 34:14]  So if you've got to go out, I said before that stop-loss insurance is about $6 per employee per month
+[34:14 - 34:15]  for a specific stop-loss.
+[34:15 - 34:19]  But if you've got a whole bunch of self-funded employers together,
+[34:19 - 34:22]  instead of it being 1,000 lives or 2,000 lives,
+[34:22 - 34:24]  what if it was 50,000 lives or 100,000 lives?
+[34:25 - 34:28]  Then you could go out to the stop-loss insurance carriers and be like,
+[34:28 - 34:33]  hey, for 100,000 lives, maybe it'll be $5 per employee per month
+[34:33 - 34:35]  instead of $6 per employee per month because they're buying in bulk.
+[34:35 - 34:38]  So you can still get some adverse selection here as well.
+[34:38 - 34:40]  I won't get into the details of it.
+[34:40 - 34:43]  But typically these self-funded captives are more self-sustaining
+[34:43 - 34:45]  because the captive itself is not bearing the risk.
+[34:46 - 34:48]  The individual employer is bearing the risk.
+[34:48 - 34:51]  It's important for you to know those names of Roundstone and Pareto
+[34:51 - 34:54]  because those are probably two of the bigger ones out there.
+[34:54 - 34:56]  And you might hear the community people talk about captives,
+[34:56 - 34:58]  so it's important for you to know what they are.
+[34:59 - 35:00]  Thanks so much for watching.

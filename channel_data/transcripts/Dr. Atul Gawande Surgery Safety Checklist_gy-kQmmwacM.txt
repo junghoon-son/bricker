@@ -1,0 +1,104 @@
+Title: Dr. Atul Gawande Surgery Safety Checklist
+URL: https://www.youtube.com/watch?v=gy-kQmmwacM
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Dr. Atul Gawande and his book The Checklist Manifesto. Now if we work in healthcare we have to know who Dr. Atul Gawande is. He's up there with Dr. Vivian Lee and Dr. Marty McCarrick. He is one of the most famous physicians in America and we're going to talk about why. So he is a surgeon. He's also a professor at the Harvard School of Medicine. He's been writing for the Atlantic for years now and he's famous for many reasons but one of the reasons is because of the World Health Organization checklist study that he did in that published in 2009 where he created a surgical safety checklist along collaborative surgeons all over the world and they tested that checklist in eight hospitals because believe it or not as complex as surgery is there was no like standardized practice of hey do we make sure we got the right patient on the right side of things do we have all of our instruments and do we have the antibiotics and do we got everything is everybody coordinated does everybody know what's going on like surgery is incredibly complicated there was no process for making sure that all the i's were dotted and the t's were crossed. Dr. Gawande and his colleagues said let's make that list. Now they tested it at hospitals in the Philippines, the UK, Tanzania, Seattle, a variety of other places. They did it in rich countries. They did it in poor countries. They did it in urban hospitals. They did it in rural hospitals. It was a 19-step checklist that believe it or not only took a couple minutes to go through. Again making sure it was the right patient. Making sure it was the right side of the body. Let's say the left lung or the right lung or the right kidney or the left kidney. Making sure the person received prophylactic antibiotics so that it would reduce the risk of a surgical site infection. They did something fascinating. One of the steps was that everybody in the operating room needed to introduce themselves by name and say what their role was. I did my surgery rotation in medical school in 2003, well before this checklist and I was shocked to learn nobody knew anybody's name. The surgeon would just say anesthesia, tell me this. Circulating nurse, tell me that. Scrub nurse, do this. Like no one knew each other's names. It was unreal. You can imagine the teamwork was a little challenging when nobody even knew each other's names. Just like random people with a bunch of masks on would show up in the operating room. Okay, so they found as a result of implementing this checklist that mortality went down from 1.5% to 0.8%. And the complication rate of these surgeries went down from 11% to 7%. In other words, the mortality rate went down by almost half and the complication rate went down by almost half. I mean, that is unreal. If that was a new medication or surgical device that had those types of outcomes, it would be ingenious. It would also be probably incredibly expensive, by the way. This checklist is free. Okay, now this checklist is so good that it has been adopted by 90% of hospitals and surgeons in America. Let's not talk about the other 10% who haven't done it, but 90% have adopted this. So surgery is much safer. Surgery is 50% safer. It has 50% fewer complications now than it did back in 2003 when I did my surgery rotation. Because of Dr. Atul Gawande and his colleagues. I mean, it saved probably millions of lives across the world. Now, airlines. Dr. Gawande makes a great point in his book, Checklist Manifesto. Airlines have checklists. They've had them for years. Restaurants have checklists in the back to make sure they're following the recipe and getting the food out, etc., etc. Construction has checklists, whether it be for skyscrapers or homes. They have checklists too. So why in the world would healthcare and medicine and surgery not use checklists? Because believe me, we don't use checklists in other places in medicine as well. It's not just in surgery. Okay, well, it's because you don't want to use a checklist, right? They're a pain. They take time. They're kind of boring. They're sort of an insult to your ego. Okay, well, listen. Airlines, restaurants, and construction, they only use checklists because they have to. Because they are highly competitive. And if they don't use checklists to produce the product or service consistently and excellently, then their customers are going to go someplace else. And also, they're regulated to do so. So the airlines have the FAA and the NTSB to investigate crashes. Restaurants, highly competitive business. And they have the, like, health department and construction. Again, you've got to compete to bid on projects. And then you have building codes. So it's the anvil of competition and regulation that, frankly, has been lacking in health care. And you say, oh, well, we have competition and regulation in health care. Yes, but obviously not enough. Not enough if it didn't produce checklists. Okay, so in health care, why, you know, what does this get down to? This gets down to essentially, you know what fee-for-service really is? It's unaccountable payment. We shouldn't even call it fee-for-service anymore. We should call it. We have an unaccountable payment system for health care in America. Dr. Marty McCary, with his book Unaccountable, he totally had it right. And in fact, Dr. Gawande even accepted the job at Haven with Amazon, Perkshire & Chase, specifically because he knew that he had to impact the way people were paid in order to achieve what he wanted to achieve in improving health care quality. Aha! He knew it himself that Dr. Gawande did. Now, of course, it's not really a checklist. What are we talking about here today? We're talking about the entire discipline of industrial engineering. It's an entire academic discipline. It is one of the four or five major forms of engineering. You've got mechanical, you've got electrical, you've got civil, and you've got industrial. It's the fourth largest one in the country. Okay. It has the Institute of Industrial and Systems Engineering. It has an international organization which defines industrial engineering as the design, improvement, and installation of integrated systems of people, materials, information, and equipment. What does that sound like? That sounds exactly like health care. So we don't just need checklists. The entire regiment, the entire discipline of industrial engineering has tremendous opportunity to apply to health care. And it's not. And why is it not? Because health care has not been put up against the forces of competition and regulation in an unaccountable payment system. If you had an unaccountable payment system for airlines, restaurants, and construction, they wouldn't have industrial engineering either. So, before we get all bent out of shape about checklists and industrial engineering, seems like we've got to work on the payment. Yet another theme here we constantly talk about at A Health Care Z. And that's my point for today. Thank you for watching.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:06]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Dr. Atul
+[0:06 - 0:12]  Gawande and his book The Checklist Manifesto. Now if we work in healthcare we have to know who Dr.
+[0:12 - 0:18]  Atul Gawande is. He's up there with Dr. Vivian Lee and Dr. Marty McCarrick. He is one of the most
+[0:18 - 0:24]  famous physicians in America and we're going to talk about why. So he is a surgeon. He's also a
+[0:24 - 0:30]  professor at the Harvard School of Medicine. He's been writing for the Atlantic for years now and
+[0:30 - 0:35]  he's famous for many reasons but one of the reasons is because of the World Health Organization
+[0:35 - 0:43]  checklist study that he did in that published in 2009 where he created a surgical safety checklist
+[0:43 - 0:49]  along collaborative surgeons all over the world and they tested that checklist in eight hospitals
+[0:49 - 0:55]  because believe it or not as complex as surgery is there was no like standardized practice of hey
+[0:55 - 0:59]  do we make sure we got the right patient on the right side of things do we have all of our instruments
+[0:59 - 1:03]  and do we have the antibiotics and do we got everything is everybody coordinated does everybody
+[1:03 - 1:09]  know what's going on like surgery is incredibly complicated there was no process for making sure
+[1:09 - 1:15]  that all the i's were dotted and the t's were crossed. Dr. Gawande and his colleagues said let's make that list.
+[1:15 - 1:22]  Now they tested it at hospitals in the Philippines, the UK, Tanzania, Seattle, a variety of other places.
+[1:22 - 1:28]  They did it in rich countries. They did it in poor countries. They did it in urban hospitals. They did it in rural hospitals.
+[1:28 - 1:33]  It was a 19-step checklist that believe it or not only took a couple minutes to go through.
+[1:33 - 1:40]  Again making sure it was the right patient. Making sure it was the right side of the body. Let's say the left lung or the right lung or the right kidney or the left kidney.
+[1:40 - 1:46]  Making sure the person received prophylactic antibiotics so that it would reduce the risk of a surgical site infection.
+[1:46 - 1:57]  They did something fascinating. One of the steps was that everybody in the operating room needed to introduce themselves by name and say what their role was.
+[1:57 - 2:05]  I did my surgery rotation in medical school in 2003, well before this checklist and I was shocked to learn nobody knew anybody's name.
+[2:05 - 2:11]  The surgeon would just say anesthesia, tell me this. Circulating nurse, tell me that. Scrub nurse, do this.
+[2:12 - 2:20]  Like no one knew each other's names. It was unreal. You can imagine the teamwork was a little challenging when nobody even knew each other's names.
+[2:20 - 2:24]  Just like random people with a bunch of masks on would show up in the operating room.
+[2:24 - 2:32]  Okay, so they found as a result of implementing this checklist that mortality went down from 1.5% to 0.8%.
+[2:32 - 2:37]  And the complication rate of these surgeries went down from 11% to 7%.
+[2:37 - 2:45]  In other words, the mortality rate went down by almost half and the complication rate went down by almost half.
+[2:45 - 2:53]  I mean, that is unreal. If that was a new medication or surgical device that had those types of outcomes, it would be ingenious.
+[2:53 - 2:57]  It would also be probably incredibly expensive, by the way. This checklist is free.
+[2:58 - 3:06]  Okay, now this checklist is so good that it has been adopted by 90% of hospitals and surgeons in America.
+[3:06 - 3:11]  Let's not talk about the other 10% who haven't done it, but 90% have adopted this.
+[3:11 - 3:20]  So surgery is much safer. Surgery is 50% safer. It has 50% fewer complications now than it did back in 2003 when I did my surgery rotation.
+[3:20 - 3:26]  Because of Dr. Atul Gawande and his colleagues. I mean, it saved probably millions of lives across the world.
+[3:27 - 3:31]  Now, airlines. Dr. Gawande makes a great point in his book, Checklist Manifesto.
+[3:31 - 3:33]  Airlines have checklists. They've had them for years.
+[3:33 - 3:39]  Restaurants have checklists in the back to make sure they're following the recipe and getting the food out, etc., etc.
+[3:39 - 3:45]  Construction has checklists, whether it be for skyscrapers or homes. They have checklists too.
+[3:45 - 3:52]  So why in the world would healthcare and medicine and surgery not use checklists?
+[3:52 - 3:57]  Because believe me, we don't use checklists in other places in medicine as well. It's not just in surgery.
+[3:57 - 4:01]  Okay, well, it's because you don't want to use a checklist, right?
+[4:01 - 4:05]  They're a pain. They take time. They're kind of boring.
+[4:05 - 4:07]  They're sort of an insult to your ego.
+[4:07 - 4:12]  Okay, well, listen. Airlines, restaurants, and construction, they only use checklists because they have to.
+[4:12 - 4:14]  Because they are highly competitive.
+[4:14 - 4:20]  And if they don't use checklists to produce the product or service consistently and excellently,
+[4:21 - 4:22]  then their customers are going to go someplace else.
+[4:23 - 4:25]  And also, they're regulated to do so.
+[4:25 - 4:30]  So the airlines have the FAA and the NTSB to investigate crashes.
+[4:31 - 4:33]  Restaurants, highly competitive business.
+[4:33 - 4:37]  And they have the, like, health department and construction.
+[4:37 - 4:39]  Again, you've got to compete to bid on projects.
+[4:39 - 4:40]  And then you have building codes.
+[4:40 - 4:47]  So it's the anvil of competition and regulation that, frankly, has been lacking in health care.
+[4:47 - 4:49]  And you say, oh, well, we have competition and regulation in health care.
+[4:50 - 4:52]  Yes, but obviously not enough.
+[4:53 - 4:57]  Not enough if it didn't produce checklists.
+[4:57 - 5:00]  Okay, so in health care, why, you know, what does this get down to?
+[5:00 - 5:03]  This gets down to essentially, you know what fee-for-service really is?
+[5:03 - 5:04]  It's unaccountable payment.
+[5:05 - 5:06]  We shouldn't even call it fee-for-service anymore.
+[5:07 - 5:07]  We should call it.
+[5:07 - 5:10]  We have an unaccountable payment system for health care in America.
+[5:10 - 5:13]  Dr. Marty McCary, with his book Unaccountable, he totally had it right.
+[5:13 - 5:19]  And in fact, Dr. Gawande even accepted the job at Haven with Amazon, Perkshire & Chase,
+[5:20 - 5:25]  specifically because he knew that he had to impact the way people were paid
+[5:25 - 5:28]  in order to achieve what he wanted to achieve in improving health care quality.
+[5:29 - 5:29]  Aha!
+[5:29 - 5:32]  He knew it himself that Dr. Gawande did.
+[5:32 - 5:34]  Now, of course, it's not really a checklist.
+[5:34 - 5:35]  What are we talking about here today?
+[5:35 - 5:39]  We're talking about the entire discipline of industrial engineering.
+[5:39 - 5:41]  It's an entire academic discipline.
+[5:41 - 5:45]  It is one of the four or five major forms of engineering.
+[5:45 - 5:48]  You've got mechanical, you've got electrical, you've got civil, and you've got industrial.
+[5:48 - 5:49]  It's the fourth largest one in the country.
+[5:50 - 5:50]  Okay.
+[5:50 - 5:55]  It has the Institute of Industrial and Systems Engineering.
+[5:55 - 6:00]  It has an international organization which defines industrial engineering as the design,
+[6:00 - 6:09]  improvement, and installation of integrated systems of people, materials, information, and equipment.
+[6:10 - 6:11]  What does that sound like?
+[6:11 - 6:14]  That sounds exactly like health care.
+[6:14 - 6:16]  So we don't just need checklists.
+[6:17 - 6:24]  The entire regiment, the entire discipline of industrial engineering has tremendous opportunity
+[6:24 - 6:26]  to apply to health care.
+[6:26 - 6:27]  And it's not.
+[6:27 - 6:28]  And why is it not?
+[6:28 - 6:32]  Because health care has not been put up against the forces of competition and regulation in
+[6:32 - 6:33]  an unaccountable payment system.
+[6:33 - 6:37]  If you had an unaccountable payment system for airlines, restaurants, and construction,
+[6:38 - 6:40]  they wouldn't have industrial engineering either.
+[6:40 - 6:44]  So, before we get all bent out of shape about checklists and industrial engineering,
+[6:44 - 6:46]  seems like we've got to work on the payment.
+[6:46 - 6:49]  Yet another theme here we constantly talk about at A Health Care Z.
+[6:49 - 6:50]  And that's my point for today.
+[6:51 - 6:51]  Thank you for watching.

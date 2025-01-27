@@ -1,0 +1,54 @@
+Title: Hospital Cross Subsidization: Overcharge Commercial Health Insurance to Pay for Medicare & Medicaid
+URL: https://www.youtube.com/watch?v=Y4_SZJsFSNE
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today we're going to be discussing hospital cross subsidization. So it's a well known fact that Medicare and Medicaid under reimburse hospital systems for the care they provide and that hospital systems then have commercial insurance patients then overpay for the care that they provide to them and so that's where you get the cross subsidization from, right? So you're subsidizing the underpayment by Medicare and Medicaid by having the commercial insurance overpay and that's just how hospital finance in America works. Okay, now let's get into some specific numbers. These statistics are actually from the American Hospital Association themselves and I will leave the links in the show notes. And so you can see here that Medicare and Medicaid underpay by 13%. Okay, well how much care is actually provided by Medicare and Medicaid? Well total hospital expense, 60% came in from Medicare and Medicaid patients. Okay, so 60% of the hospitals told businesses from Medicare and Medicaid. Alright, now there's Medicare and Medicaid, there's commercial insurance, but then there's also just non-payment. There's a lot of patients that come in that just don't pay at all. That's uncompensated care and that totaled $38 billion. Okay, now if we're going to figure that out as a percentage, we need to know total hospital expense. Well that's reported by the American Hospital Association. So total hospital expense was $900 billion. Okay, so uncompensated care is $38 billion divided by the $900 billion, that gets you 4.2%. So in other words, the hospital gets 60% of their business from Medicare and Medicaid and 4.2% of their business from people that just don't pay at all. Okay, great. Now hospitals still make money. They still have a profit margin. Even non-profit hospitals still have a profit margin. What is that profit margin? That was reported by the American Hospital Association as well. It was 7.7%. So knowing what their expense is and knowing what their profit margin is, you can then solve for, okay, well what was total hospital revenue? And that was $975 billion. Okay, now let's break it down by Medicare and Medicaid in terms of specific dollar amounts. Okay, so that means that $540 billion of hospital revenue was from, excuse me, of hospital care was from Medicare and Medicaid. And that hospital revenue from Medicare and Medicaid was only $470 billion, right? Because Medicare and Medicaid undercompensate for the care. So they only paid $470 billion for the $540 billion of care that was provided for them. Okay, now that means that commercial insurance revenue for those hospitals was $505 billion, right? Because you got $975 billion total. You're only getting $470 billion from Medicare and Medicaid, uncompensated care, they're not getting paid anything. So that gives you the $505 billion of revenue. Now how much care are those hospital systems providing for, what's the expense for that $505 billion? Well, it's only 36% of care, right? Because we know 60% of care is from Medicare and Medicaid. We know 4% of care is uncompensated. So that means that 36% of care, 36% of expense is from commercially insured patients. Okay, great. That's $322 billion. Now then doing the math on the $505 billion of revenue and the $322 billion of expense, that means the punchline is commercial insurance overpays by 57%. Now all these numbers are approximations, right? Because the fact that Medicare and Medicaid both undercompensate by 13%, somewhat of a coincidence, the fact that the care from Medicare and Medicaid is 60%, that's a very round number. Maybe it's 58, maybe it's 62. Okay, but the point is, is that Medicare and Medicaid underpay and commercial insurance, which is really employers in America with their premiums, or if they're self-funded, they're actually paying up the claims themselves. So employers and employees in America overpay by 57% to make up for the fact that Medicare and Medicaid and uncompensated care underpays the hospitals. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today we're
+[0:04 - 0:10]  going to be discussing hospital cross subsidization. So it's a well known fact that Medicare and
+[0:10 - 0:16]  Medicaid under reimburse hospital systems for the care they provide and that hospital systems
+[0:16 - 0:21]  then have commercial insurance patients then overpay for the care that they provide to
+[0:21 - 0:25]  them and so that's where you get the cross subsidization from, right? So you're subsidizing
+[0:25 - 0:30]  the underpayment by Medicare and Medicaid by having the commercial insurance overpay and
+[0:30 - 0:35]  that's just how hospital finance in America works. Okay, now let's get into some specific
+[0:35 - 0:40]  numbers. These statistics are actually from the American Hospital Association themselves
+[0:40 - 0:45]  and I will leave the links in the show notes. And so you can see here that Medicare and Medicaid
+[0:45 - 0:52]  underpay by 13%. Okay, well how much care is actually provided by Medicare and Medicaid?
+[0:52 - 0:59]  Well total hospital expense, 60% came in from Medicare and Medicaid patients. Okay, so 60%
+[0:59 - 1:02]  of the hospitals told businesses from Medicare and Medicaid. Alright, now there's Medicare
+[1:02 - 1:05]  and Medicaid, there's commercial insurance, but then there's also just non-payment. There's
+[1:05 - 1:10]  a lot of patients that come in that just don't pay at all. That's uncompensated care and that
+[1:10 - 1:15]  totaled $38 billion. Okay, now if we're going to figure that out as a percentage, we need to
+[1:15 - 1:20]  know total hospital expense. Well that's reported by the American Hospital Association. So total
+[1:20 - 1:26]  hospital expense was $900 billion. Okay, so uncompensated care is $38 billion divided by
+[1:26 - 1:31]  the $900 billion, that gets you 4.2%. So in other words, the hospital gets 60% of their
+[1:31 - 1:34]  business from Medicare and Medicaid and 4.2% of their business from people that just don't
+[1:34 - 1:40]  pay at all. Okay, great. Now hospitals still make money. They still have a profit margin.
+[1:40 - 1:44]  Even non-profit hospitals still have a profit margin. What is that profit margin? That was reported
+[1:44 - 1:52]  by the American Hospital Association as well. It was 7.7%. So knowing what their expense is
+[1:52 - 1:55]  and knowing what their profit margin is, you can then solve for, okay, well what was total
+[1:55 - 2:02]  hospital revenue? And that was $975 billion. Okay, now let's break it down by Medicare and Medicaid
+[2:02 - 2:10]  in terms of specific dollar amounts. Okay, so that means that $540 billion of hospital revenue
+[2:10 - 2:17]  was from, excuse me, of hospital care was from Medicare and Medicaid. And that hospital revenue
+[2:17 - 2:23]  from Medicare and Medicaid was only $470 billion, right? Because Medicare and Medicaid undercompensate
+[2:23 - 2:27]  for the care. So they only paid $470 billion for the $540 billion of care that was provided
+[2:27 - 2:35]  for them. Okay, now that means that commercial insurance revenue for those hospitals was $505 billion,
+[2:35 - 2:40]  right? Because you got $975 billion total. You're only getting $470 billion from Medicare and Medicaid,
+[2:40 - 2:46]  uncompensated care, they're not getting paid anything. So that gives you the $505 billion of
+[2:46 - 2:51]  revenue. Now how much care are those hospital systems providing for, what's the expense for
+[2:51 - 2:58]  that $505 billion? Well, it's only 36% of care, right? Because we know 60% of care is from Medicare
+[2:58 - 3:04]  and Medicaid. We know 4% of care is uncompensated. So that means that 36% of care, 36% of expense
+[3:04 - 3:12]  is from commercially insured patients. Okay, great. That's $322 billion. Now then doing the
+[3:12 - 3:18]  math on the $505 billion of revenue and the $322 billion of expense, that means the punchline
+[3:18 - 3:26]  is commercial insurance overpays by 57%. Now all these numbers are approximations, right? Because
+[3:26 - 3:31]  the fact that Medicare and Medicaid both undercompensate by 13%, somewhat of a coincidence, the fact that
+[3:31 - 3:37]  the care from Medicare and Medicaid is 60%, that's a very round number. Maybe it's 58, maybe it's
+[3:37 - 3:46]  62. Okay, but the point is, is that Medicare and Medicaid underpay and commercial insurance,
+[3:46 - 3:52]  which is really employers in America with their premiums, or if they're self-funded, they're
+[3:52 - 3:57]  actually paying up the claims themselves. So employers and employees in America overpay
+[3:57 - 4:04]  by 57% to make up for the fact that Medicare and Medicaid and uncompensated care underpays
+[4:04 - 4:08]  the hospitals. And that's my point for today. Thank you for watching A Healthcare Z.

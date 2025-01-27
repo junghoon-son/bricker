@@ -1,0 +1,202 @@
+Title: Prior Authorization in Healthcare - How Big Is It?
+URL: https://www.youtube.com/watch?v=KB5xpZE683k
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is prior authorization. How big is it and why is this important? Now, this is hot off the presses from the Journal of the American Medical Association, obviously one of the most prominent medical journals in the world, from May 28th of 2021. It is a study that is authored by Dr. Aaron Schwartz. He's the first author, there's multiple authors on it. He himself is a physician with the University of Pennsylvania. Okay, so very prominent medical school and university in the Ivy League. Okay, so interestingly, this study about prior authorizations is actually paid for in part by CVS Aetna and the NIH and the Rappaport Foundation. We'll get into kind of how that's relevant as we go through the talk here. So how extensive is prior authorization in medical practice? Believe it or not, there's not a lot of information about it. It's kind of unclear, which is odd because it's kind of controversial. Doctors hate it. So you would think that there would be more research on prior authorizations. And so in the introduction to this study, it says, hey, it's kind of unclear how extensive prior authorization is. What's the scope? So let's study it. So what they did is they looked at the 1,151 CPT and HCPCS codes that require prior authorization under CVS Aetna. And they said, okay, well, let's take those and then apply them to Medicare Part B. And by the way, it's important to note here, because this will be relevant for commercially insured folks as well, because the prior authorization requirements for Aetna Medicare Advantage plans are the exact same prior authorizations that are required for their commercially insured plans as well. They don't use two sets. They only use one set. So now they applied these codes to a sample of 20% of traditional Medicare Part B for just one year for 2017. But that's still a ton of claims, right? It's millions and millions of claims. So why did they do this? Because Medicare Part B is the outpatient services. Okay, so it's the physician visits, but then it's also all the outpatient radiology, any outpatient tests like echocardiograms or cardiac nuclear stress tests. It also is the outpatient infusion of any medications. It's also the outpatient cancer treatment like radiation oncology is also under Medicare Part B. Okay, so it does not include the Medicare Part D drugs that you would get at the pharmacy that would require prior authorization. It's not any inpatient stuff, because that's Medicare Part A. So this is only outpatient traditional Medicare. And they said, okay, well, traditional Part B Medicare doesn't have any prior authorization requirements. So what if, hypothetically, we apply Aetna's 1,151 codes, which by the way, that's a lot of codes. What if we apply that to the Medicare Part B population under traditional Medicare and see how many services and what type of services would be impacted? So they basically took those 1,151 codes and laid it on top of and looked at it through the lens of those Medicare Part B claims. And here's what they found. So 41% of the Medicare Part B beneficiaries, or I'm just calling them patients here, from 2017 would be affected. 41%. 41%. So it wouldn't affect the majority, but pretty close. So a significant minority of people on Medicare Part B would be affected, 41%. And of those affected, so about 60% wouldn't be affected at all, right? But 41%. Of those affected, they had a median number of five prior authorizations per year. Okay. So half the people had less than five prior authorizations a year, and half the people had more than five prior authorizations per year. Okay. One would argue five prior authorizations, fairly significant. Now, 25% of all Part B spending was subject to some type of prior authorization, which ended up being 14 million services. Now, that's a lot of services. That's a significant chunk of Part B spending. So this is fascinating, right? This in and of itself is fascinating. This says, look, like, one of the things I was scratching my head around here is, okay, why are they applying Aetna's prior authorization requirements to Medicare Part B? Like, why don't they just look at Aetna's claims and say, okay, of Aetna's Medicare Advantage claims, 1%, because they didn't release that. They didn't show that data. They didn't want to do that, right? So, you know, arguably, like, Aetna. So Aetna's number four when it comes to Medicare Advantage plans, right? So they don't do a ton of it, right? So United is number one. Humana's number two. All the Blue Cross plans combined are number three. Aetna's number four. They're about 10% of all Medicare Advantage. UHC is the big 800-pound gorilla. They have by far the most. So they know. They know what percentage of their Medicare Advantage claims undergo prior authorization. And they also know what percentage are overturned versus allowed to go through by the doctor. They're not releasing that information. So this study is just saying that 25% of all spending would be subjected to prior authorization. This study is not saying whether Aetna would approve or not approve of the clinical situation. They're not even saying that. So it's interesting that they have to go through this, like, roundabout way of studying the scope or how big prior authorization is. When the companies that do the prior authorization, when the health insurance companies that do the prior authorization, they know the answer to this question. And yet, in order for us in the public to have some idea around the extent, we have to apply it to Medicare Part B claims. Okay? So that's one thing that's important to understand here. Okay. Next up, what are the types of services that are subject to prior authorization? Okay. Interestingly, the largest group was outpatient RX. What does that mean? So that's typically infusions and injections that are given in the doctor's office. Okay. And it was 35% of the services, but it was 57% of the money. So in other words, there's a lot of outpatient drug prior authorization. And this is important for commercial plans because your RX spending for outpatient claims goes under your medical spend. It does not go underneath your pharmacy spend. So you think, oh, 25% of your spend is on drugs. That's only stuff that's coming through the pharmacy. You still have a huge chunk of pharmacy spend that's coming through on the medical claims in the form of all these outpatient prescriptions. Okay? So, and oh, by the way, and we'll get to this in a minute with the CVS-Aetna thing, like, the PBM is still involved with, like, Aetna and CVS are still involved with getting rebate payments on drugs that are administered in the outpatient setting. Okay? So not just applied to pharmacy. It also applies to outpatient setting drugs as well as far as those rebates, i.e., commission payments to the PBM. Okay. Next up. So what were the specific drugs? EPO, which is used to treat anemia in people who are receiving chemotherapy for cancer. It's an injection. Okay. It's fairly expensive. Okay. ILEA, which is an injection into the eye by an ophthalmologist for macular degeneration. Okay. Which, for commercial people, this wouldn't affect them that much because macular degeneration is much more of a disease for seniors, not so much commercially insured folks. I mean, it's some, but that would be a big difference. And then also Rituxan. So notice two out of the top three, and actually the third out of the top four, are all cancer-related. Okay? For medical services, so if you took the remaining 35%, okay, you know, remaining 65%, okay, 37% of the 65% was in radiology. So that's a big medical area, so non-Rx area, radiology, and then musculoskeletal. That really means orthopedics and neurosurgery spine, okay? So those are the other big areas that it's impacted. Okay. So then let's look at the flip side. What kind of doctors are impacted? So not just what type of patients, but what type of doctors are impacted by prior authorization? Okay. So on average, 56% of physicians would do one or more prior authorizations during a year. But it heavily stratifies. In other words, there's some physicians that do a lot of prior authorizations, and there's some that do very little. Okay. And on the high end is radiation oncology. So this is where you're going to be zapping the tumor with radiation. It's done, you know, you have to do it multiple days in a row for multiple weeks. Typically done, the big ones are prostate cancer, breast cancer, colon cancer, lung cancer. Okay. So all of these require prior authorization. So you see the radiation oncologists are doing it a lot. Next up, it's actually the cardiologists. Note that cardiologists isn't up here, right? But the reason is, is because of the medical services, cardiac echocardiograms, and then nuclear stress tests are, require prior authorization. So all the cardiologists that order all these nuclear stress tests and echocardiograms, they're having to go through the prior authorization process. And then on the low end, it was psychiatry and pathology. So there's somewhere it's like less than 10% of the psychiatrists and pathologists actually ever are involved in a prior authorization. So if you ask a psychiatrist, hey, you got a problem with prior authorization, or if you ask a pathologist, hey, you got a problem with prior authorization, they'll be like, no, not really. Now, I want to pause and get back to the beginning of, hey, why was this study paid for by CVS-Aetna? Well, listen, I don't know. I mean, it seems kind of odd, right? Why would CVS-Aetna want to be highlighting something that, like, people hate? Patients hate prior authorization. Doctors hate prior authorization. So why in the world would CVS-Aetna want to highlight prior authorization specifically around Medicare Advantage? And this is my thought. It's because what does CVS-Aetna have? It has the largest PBM in the country. And right now, all the PBMs, so Optum, Express Scripts, which is now under Cigna, and CVS-Caremark-Aetna, all three of them are under intense scrutiny because do they really lower health care costs? Are they actually acting like Rx salesmen? Because you have to understand that the PBM business model has an underlying conflict of interest where the pharmaceutical companies themselves are paying the PBM to restrict access to the drugs that the pharmaceutical company makes. That seems kind of odd. Why would a pharmaceutical company pay a middleman to restrict access to their own medications? They're inhibiting sales. That's the conflict of interest. Are they really doing their job? And so what I think Aetna is trying to, and CVS is trying to get across here is to say, look, we're really doing our job. We're really controlling health care costs. Look, 25% of Part B spend would be subjected to our prior authorizations. Look, we are on the side of cost containment. We do not raise the health care costs. That's debatable. But I think the other thing that's interesting here, too, is here you have money from the industry funding the study, and it's being mixed up with federal government funding, too, with NIH funding. So here we are as taxpayers. Our money is going to support an industry-sponsored study as well. And I'm not here to make a value judgment about that today, but I'm here to make you aware of it. So there's a ton to unpack from this study that I think is relevant to all of us in health care finance. So I wanted to bring it to you today. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:05 - 0:07]  Today's topic is prior authorization.
+[0:08 - 0:12]  How big is it and why is this important?
+[0:12 - 0:17]  Now, this is hot off the presses from the Journal of the American Medical Association,
+[0:17 - 0:20]  obviously one of the most prominent medical journals in the world,
+[0:20 - 0:23]  from May 28th of 2021.
+[0:23 - 0:27]  It is a study that is authored by Dr. Aaron Schwartz.
+[0:27 - 0:30]  He's the first author, there's multiple authors on it.
+[0:30 - 0:34]  He himself is a physician with the University of Pennsylvania.
+[0:34 - 0:37]  Okay, so very prominent medical school and university in the Ivy League.
+[0:38 - 0:41]  Okay, so interestingly, this study about prior authorizations
+[0:41 - 0:47]  is actually paid for in part by CVS Aetna and the NIH and the Rappaport Foundation.
+[0:47 - 0:50]  We'll get into kind of how that's relevant as we go through the talk here.
+[0:50 - 0:56]  So how extensive is prior authorization in medical practice?
+[0:56 - 0:59]  Believe it or not, there's not a lot of information about it.
+[0:59 - 1:02]  It's kind of unclear, which is odd because it's kind of controversial.
+[1:03 - 1:04]  Doctors hate it.
+[1:04 - 1:07]  So you would think that there would be more research on prior authorizations.
+[1:07 - 1:10]  And so in the introduction to this study, it says,
+[1:10 - 1:13]  hey, it's kind of unclear how extensive prior authorization is.
+[1:14 - 1:14]  What's the scope?
+[1:15 - 1:16]  So let's study it.
+[1:16 - 1:23]  So what they did is they looked at the 1,151 CPT and HCPCS codes
+[1:23 - 1:28]  that require prior authorization under CVS Aetna.
+[1:28 - 1:34]  And they said, okay, well, let's take those and then apply them to Medicare Part B.
+[1:35 - 1:37]  And by the way, it's important to note here,
+[1:37 - 1:39]  because this will be relevant for commercially insured folks as well,
+[1:39 - 1:45]  because the prior authorization requirements for Aetna Medicare Advantage plans
+[1:45 - 1:49]  are the exact same prior authorizations that are required for their commercially insured plans as well.
+[1:50 - 1:50]  They don't use two sets.
+[1:51 - 1:51]  They only use one set.
+[1:52 - 2:02]  So now they applied these codes to a sample of 20% of traditional Medicare Part B
+[2:02 - 2:04]  for just one year for 2017.
+[2:04 - 2:07]  But that's still a ton of claims, right?
+[2:07 - 2:09]  It's millions and millions of claims.
+[2:09 - 2:11]  So why did they do this?
+[2:11 - 2:14]  Because Medicare Part B is the outpatient services.
+[2:14 - 2:16]  Okay, so it's the physician visits,
+[2:16 - 2:18]  but then it's also all the outpatient radiology,
+[2:18 - 2:22]  any outpatient tests like echocardiograms or cardiac nuclear stress tests.
+[2:23 - 2:25]  It also is the outpatient infusion of any medications.
+[2:25 - 2:31]  It's also the outpatient cancer treatment like radiation oncology is also under Medicare Part B.
+[2:31 - 2:37]  Okay, so it does not include the Medicare Part D drugs that you would get at the pharmacy
+[2:37 - 2:38]  that would require prior authorization.
+[2:39 - 2:42]  It's not any inpatient stuff, because that's Medicare Part A.
+[2:42 - 2:45]  So this is only outpatient traditional Medicare.
+[2:45 - 2:50]  And they said, okay, well, traditional Part B Medicare doesn't have any prior authorization requirements.
+[2:50 - 2:59]  So what if, hypothetically, we apply Aetna's 1,151 codes, which by the way, that's a lot of codes.
+[2:59 - 3:04]  What if we apply that to the Medicare Part B population under traditional Medicare
+[3:04 - 3:09]  and see how many services and what type of services would be impacted?
+[3:09 - 3:20]  So they basically took those 1,151 codes and laid it on top of and looked at it through the lens of those Medicare Part B claims.
+[3:20 - 3:22]  And here's what they found.
+[3:22 - 3:32]  So 41% of the Medicare Part B beneficiaries, or I'm just calling them patients here, from 2017 would be affected.
+[3:32 - 3:33]  41%.
+[3:33 - 3:34]  41%.
+[3:34 - 3:37]  So it wouldn't affect the majority, but pretty close.
+[3:37 - 3:42]  So a significant minority of people on Medicare Part B would be affected, 41%.
+[3:42 - 3:47]  And of those affected, so about 60% wouldn't be affected at all, right?
+[3:47 - 3:47]  But 41%.
+[3:47 - 3:53]  Of those affected, they had a median number of five prior authorizations per year.
+[3:53 - 3:53]  Okay.
+[3:54 - 3:57]  So half the people had less than five prior authorizations a year,
+[3:57 - 4:00]  and half the people had more than five prior authorizations per year.
+[4:00 - 4:00]  Okay.
+[4:01 - 4:04]  One would argue five prior authorizations, fairly significant.
+[4:04 - 4:15]  Now, 25% of all Part B spending was subject to some type of prior authorization,
+[4:15 - 4:19]  which ended up being 14 million services.
+[4:19 - 4:21]  Now, that's a lot of services.
+[4:21 - 4:24]  That's a significant chunk of Part B spending.
+[4:24 - 4:26]  So this is fascinating, right?
+[4:26 - 4:28]  This in and of itself is fascinating.
+[4:28 - 4:32]  This says, look, like, one of the things I was scratching my head around here is,
+[4:32 - 4:38]  okay, why are they applying Aetna's prior authorization requirements to Medicare Part B?
+[4:38 - 4:42]  Like, why don't they just look at Aetna's claims and say,
+[4:42 - 4:47]  okay, of Aetna's Medicare Advantage claims, 1%, because they didn't release that.
+[4:48 - 4:49]  They didn't show that data.
+[4:49 - 4:51]  They didn't want to do that, right?
+[4:51 - 4:54]  So, you know, arguably, like, Aetna.
+[4:54 - 4:57]  So Aetna's number four when it comes to Medicare Advantage plans, right?
+[4:57 - 4:58]  So they don't do a ton of it, right?
+[4:58 - 5:00]  So United is number one.
+[5:00 - 5:01]  Humana's number two.
+[5:01 - 5:03]  All the Blue Cross plans combined are number three.
+[5:04 - 5:04]  Aetna's number four.
+[5:05 - 5:06]  They're about 10% of all Medicare Advantage.
+[5:07 - 5:10]  UHC is the big 800-pound gorilla.
+[5:10 - 5:11]  They have by far the most.
+[5:11 - 5:12]  So they know.
+[5:12 - 5:16]  They know what percentage of their Medicare Advantage claims undergo prior authorization.
+[5:16 - 5:23]  And they also know what percentage are overturned versus allowed to go through by the doctor.
+[5:23 - 5:24]  They're not releasing that information.
+[5:25 - 5:30]  So this study is just saying that 25% of all spending would be subjected to prior authorization.
+[5:30 - 5:35]  This study is not saying whether Aetna would approve or not approve of the clinical situation.
+[5:35 - 5:36]  They're not even saying that.
+[5:36 - 5:43]  So it's interesting that they have to go through this, like, roundabout way of studying the scope or how big prior authorization is.
+[5:43 - 5:47]  When the companies that do the prior authorization, when the health insurance companies that do the prior authorization,
+[5:48 - 5:50]  they know the answer to this question.
+[5:50 - 5:57]  And yet, in order for us in the public to have some idea around the extent, we have to apply it to Medicare Part B claims.
+[5:57 - 5:57]  Okay?
+[5:57 - 5:59]  So that's one thing that's important to understand here.
+[5:59 - 6:00]  Okay.
+[6:00 - 6:06]  Next up, what are the types of services that are subject to prior authorization?
+[6:06 - 6:06]  Okay.
+[6:07 - 6:11]  Interestingly, the largest group was outpatient RX.
+[6:11 - 6:12]  What does that mean?
+[6:12 - 6:17]  So that's typically infusions and injections that are given in the doctor's office.
+[6:17 - 6:17]  Okay.
+[6:17 - 6:23]  And it was 35% of the services, but it was 57% of the money.
+[6:23 - 6:27]  So in other words, there's a lot of outpatient drug prior authorization.
+[6:27 - 6:39]  And this is important for commercial plans because your RX spending for outpatient claims goes under your medical spend.
+[6:39 - 6:42]  It does not go underneath your pharmacy spend.
+[6:42 - 6:44]  So you think, oh, 25% of your spend is on drugs.
+[6:45 - 6:46]  That's only stuff that's coming through the pharmacy.
+[6:46 - 6:53]  You still have a huge chunk of pharmacy spend that's coming through on the medical claims in the form of all these outpatient prescriptions.
+[6:53 - 6:53]  Okay?
+[6:53 - 7:10]  So, and oh, by the way, and we'll get to this in a minute with the CVS-Aetna thing, like, the PBM is still involved with, like, Aetna and CVS are still involved with getting rebate payments on drugs that are administered in the outpatient setting.
+[7:10 - 7:10]  Okay?
+[7:10 - 7:11]  So not just applied to pharmacy.
+[7:12 - 7:17]  It also applies to outpatient setting drugs as well as far as those rebates, i.e., commission payments to the PBM.
+[7:17 - 7:18]  Okay.
+[7:18 - 7:18]  Next up.
+[7:19 - 7:21]  So what were the specific drugs?
+[7:21 - 7:25]  EPO, which is used to treat anemia in people who are receiving chemotherapy for cancer.
+[7:25 - 7:26]  It's an injection.
+[7:26 - 7:26]  Okay.
+[7:26 - 7:27]  It's fairly expensive.
+[7:28 - 7:28]  Okay.
+[7:28 - 7:33]  ILEA, which is an injection into the eye by an ophthalmologist for macular degeneration.
+[7:33 - 7:33]  Okay.
+[7:34 - 7:41]  Which, for commercial people, this wouldn't affect them that much because macular degeneration is much more of a disease for seniors, not so much commercially insured folks.
+[7:41 - 7:43]  I mean, it's some, but that would be a big difference.
+[7:43 - 7:44]  And then also Rituxan.
+[7:44 - 7:50]  So notice two out of the top three, and actually the third out of the top four, are all cancer-related.
+[7:50 - 7:50]  Okay?
+[7:51 - 8:02]  For medical services, so if you took the remaining 35%, okay, you know, remaining 65%, okay, 37% of the 65% was in radiology.
+[8:02 - 8:05]  So that's a big medical area, so non-Rx area, radiology, and then musculoskeletal.
+[8:06 - 8:08]  That really means orthopedics and neurosurgery spine, okay?
+[8:08 - 8:11]  So those are the other big areas that it's impacted.
+[8:11 - 8:11]  Okay.
+[8:11 - 8:13]  So then let's look at the flip side.
+[8:13 - 8:15]  What kind of doctors are impacted?
+[8:16 - 8:20]  So not just what type of patients, but what type of doctors are impacted by prior authorization?
+[8:20 - 8:21]  Okay.
+[8:21 - 8:28]  So on average, 56% of physicians would do one or more prior authorizations during a year.
+[8:29 - 8:30]  But it heavily stratifies.
+[8:30 - 8:35]  In other words, there's some physicians that do a lot of prior authorizations, and there's some that do very little.
+[8:35 - 8:35]  Okay.
+[8:35 - 8:38]  And on the high end is radiation oncology.
+[8:38 - 8:41]  So this is where you're going to be zapping the tumor with radiation.
+[8:41 - 8:45]  It's done, you know, you have to do it multiple days in a row for multiple weeks.
+[8:45 - 8:51]  Typically done, the big ones are prostate cancer, breast cancer, colon cancer, lung cancer.
+[8:51 - 8:52]  Okay.
+[8:52 - 8:53]  So all of these require prior authorization.
+[8:54 - 8:56]  So you see the radiation oncologists are doing it a lot.
+[8:56 - 8:58]  Next up, it's actually the cardiologists.
+[8:58 - 9:01]  Note that cardiologists isn't up here, right?
+[9:01 - 9:10]  But the reason is, is because of the medical services, cardiac echocardiograms, and then nuclear stress tests are, require prior authorization.
+[9:10 - 9:17]  So all the cardiologists that order all these nuclear stress tests and echocardiograms, they're having to go through the prior authorization process.
+[9:17 - 9:21]  And then on the low end, it was psychiatry and pathology.
+[9:21 - 9:27]  So there's somewhere it's like less than 10% of the psychiatrists and pathologists actually ever are involved in a prior authorization.
+[9:27 - 9:35]  So if you ask a psychiatrist, hey, you got a problem with prior authorization, or if you ask a pathologist, hey, you got a problem with prior authorization, they'll be like, no, not really.
+[9:36 - 9:46]  Now, I want to pause and get back to the beginning of, hey, why was this study paid for by CVS-Aetna?
+[9:46 - 9:48]  Well, listen, I don't know.
+[9:48 - 9:49]  I mean, it seems kind of odd, right?
+[9:49 - 9:54]  Why would CVS-Aetna want to be highlighting something that, like, people hate?
+[9:54 - 9:55]  Patients hate prior authorization.
+[9:56 - 9:57]  Doctors hate prior authorization.
+[9:57 - 10:05]  So why in the world would CVS-Aetna want to highlight prior authorization specifically around Medicare Advantage?
+[10:05 - 10:07]  And this is my thought.
+[10:07 - 10:11]  It's because what does CVS-Aetna have?
+[10:11 - 10:13]  It has the largest PBM in the country.
+[10:13 - 10:26]  And right now, all the PBMs, so Optum, Express Scripts, which is now under Cigna, and CVS-Caremark-Aetna, all three of them are under intense scrutiny because do they really lower health care costs?
+[10:26 - 10:30]  Are they actually acting like Rx salesmen?
+[10:30 - 10:42]  Because you have to understand that the PBM business model has an underlying conflict of interest where the pharmaceutical companies themselves are paying the PBM to restrict access to the drugs that the pharmaceutical company makes.
+[10:42 - 10:44]  That seems kind of odd.
+[10:45 - 10:52]  Why would a pharmaceutical company pay a middleman to restrict access to their own medications?
+[10:52 - 10:53]  They're inhibiting sales.
+[10:53 - 10:54]  That's the conflict of interest.
+[10:54 - 10:56]  Are they really doing their job?
+[10:56 - 11:02]  And so what I think Aetna is trying to, and CVS is trying to get across here is to say, look, we're really doing our job.
+[11:02 - 11:04]  We're really controlling health care costs.
+[11:04 - 11:08]  Look, 25% of Part B spend would be subjected to our prior authorizations.
+[11:08 - 11:10]  Look, we are on the side of cost containment.
+[11:10 - 11:13]  We do not raise the health care costs.
+[11:15 - 11:16]  That's debatable.
+[11:17 - 11:27]  But I think the other thing that's interesting here, too, is here you have money from the industry funding the study, and it's being mixed up with federal government funding, too, with NIH funding.
+[11:27 - 11:29]  So here we are as taxpayers.
+[11:30 - 11:35]  Our money is going to support an industry-sponsored study as well.
+[11:35 - 11:40]  And I'm not here to make a value judgment about that today, but I'm here to make you aware of it.
+[11:40 - 11:45]  So there's a ton to unpack from this study that I think is relevant to all of us in health care finance.
+[11:46 - 11:47]  So I wanted to bring it to you today.
+[11:47 - 11:49]  And thank you for watching A Healthcare Z.

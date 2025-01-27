@@ -15,6 +15,9 @@ wheels/
 # Notebooks
 notebooks/
 
-# Transcripts
-transcripts/
+# Data
+audio/
+videos/
 
+# Logs
+channel_transcriber.log

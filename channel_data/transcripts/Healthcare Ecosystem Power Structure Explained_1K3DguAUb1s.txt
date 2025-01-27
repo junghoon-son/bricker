@@ -1,0 +1,373 @@
+Title: Healthcare Ecosystem Power Structure Explained
+URL: https://www.youtube.com/watch?v=1K3DguAUb1s
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is employee healthcare ecosystem power structure. Now, that's a mouthful, but it's super important in every industry, including employee benefits and health insurance and employer-sponsored health plans, to understand that that industry has a power structure and how you, as an incumbent or as a potential disruptor, how you fit or don't fit into that power structure. So we're going to talk about that today. Now, what I have here is a graph of popularity on the y-axis and on the x-axis is over time, starting in 2000 and going out into the future, into 2025. And what we have here are bumps of various disruptors in the employer-sponsored health plan space. So going back to, believe it or not, to the early 2000s, the big thing was disease management, as sort of highlighted by companies like Active Health Matters and Health Dialogue, or like two of the prototypical disease management companies. So fine. So disease management was all the rage for employer-sponsored health plans as far as their, quote-unquote, cost-containment efforts go, as, quote-unquote, disruptors go. Okay. But then it faded. And then something else grew. And that something else that grew next was wellness programs. Around 2010 to 2015, as disease management was waning, that's when wellness programs were growing like weeds. Sort of the quintessential wellness programs were things like Red Brick Health and Virgin Pulse, right? Who, by the way, merged together, right? So wellness was all the rage. And this is when we were starting out at Compass. And we would be with employers, and we would be with brokers consultants, and they'd be like, yeah, your navigation solution, that's cute, but we're really into wellness. That's what we're doing. Okay, fine. Okay. But wellness then peaked as well, and then it waned too. Then the next thing that rose is what we're in now, which are the point solutions. What are point solutions? These are companies that address very narrow, specific clinical needs within an employer-sponsored health plan's population. So some examples would be like condition-specific point solutions for diabetes, mental health, musculoskeletal, maternity. And so within diabetes, obviously one of the biggest names was Livanga. Within mental health, there's big names there as well. Within MSK, you've got Hinge Health is one of the big names. Within maternity, you've got Ovia and a bunch of others. So we are now in the point solution. We're getting up, right? Again, these dates are approximations. So do I know that point solutions are going to peak in 2025 exactly? No. But the point is, is that we've seen this movie before with disease management and wellness. And guess what? It's probably going to happen again with point solutions. And then something else is going to pop up after point solutions as well. So I'm scratching my head here. Why are we seeing this repeated pattern of, quote-unquote, disruptors, of, quote-unquote, cost containment solutions? They never hang around. They peak, and then they go away. Why is that? Well, every single one of these, disease management, wellness, and now point solutions, they all have death by low utilization. Disease management programs are notorious for like less than 4% utilization. Employer wellness programs were notorious for very poor utilization numbers. Point solutions today are having huge struggles with low utilization. So all of these programs sound great, but they all die because the employees and the plan members don't use them. Okay. So that then brings me to the overall healthcare ecosystem. Who does stay? Who stays all the time? And I'm going to call those people who stay all the time in the ecosystem, who don't come and go, as the table of power. And there's three seats at that table of power. There is the plan sponsor. There's the employer themselves. And it's typically a combination of the head of HR, the head of comp and benefits, the CFO. Right? There's typically like a team, depending upon the employer size. And then you have the consultant and the broker, who are essentially acting as the aggregator of the employee health plan, putting all the pieces together. And then you have the carrier, which is the actual platform on which the employee health plan runs. Now, of course, within the consultant and the broker world, you have, and actually within all these worlds, then you then have actually a hierarchy among plan sponsors. You have a hierarchy among consultants and brokers, and you have a hierarchy among carriers. And this is a Jeffrey Moore framework, because all communities have hierarchies, right? We're kind of like apes out in the jungle. Okay? And Jeffrey Moore actually uses that analogy. He says, look, all communities, they've got gorillas at the top, chimpanzees in the middle, and monkeys at the bottom of that hierarchy. And so in the employer-sponsored health plan world, the big gorillas are the large national accounts. And then the mid-market are the chimpanzees. And then small market is the monkeys. Likewise, in the consultant broker world, the, you know, of course, other people would disagree with my categorization here, but that's okay. Everybody's got their own opinion, right? The big gorillas in the consulting world are Aon, Willis Towers Watson, and Mercer. And guess what? Those are the consultants that do the majority of the consulting for the big national accounts. Okay, then you have the chimpanzees, and they're like your Loctons, and your Gallaghers, and your USIs, maybe your Alliance, and your Holmes Murphys, all of these like, okay, sometimes referred to as super regional brokerages. And then you've got your monkeys, which might be a bunch of like smaller brokerages that are, you know, all over the place. I'd say, you know, again, I'm not trying to be disparaging, but like, like, McGowan Bravebender is like a perfect example of a monkey. They're hugely dominant in Dayton, Ohio, but they're not all over the country, okay? So my point is, is that, you know, you can be still highly successful as a gorilla, or as a chimpanzee, or as a monkey, but there's no way that McGowan Bravebender is doing huge national accounts, and there's no way that Aon is doing a little printing shop with 25 people in Dayton, Ohio, right? That's just not how the ecosystem works. Okay, and then finally, on the carrier side, of course, you also have gorillas, and chimpanzees, and monkeys. And of course, the gorillas, actually, I'm going to say there's really only two gorillas. You know who those two gorillas are? Those two gorillas are United and all the Blue Cross plans. Those are really the gorillas, okay? And then I would even say that, to a certain extent, CVS Health, Aetna, and Cigna, they're kind of chimpanzees. And then who are all the monkeys? All the monkeys are all the TPAs out there, right? So they're all kind of scrounging around, trying to get the, you know, to a certain extent, the scraps of the self-funded plans. But at the end of the day, the vast majority of big national accounts, they use big ASO carriers. They don't use TPAs. And you might get some mid-market chimpanzees that use TPAs. And you might get some self-funded groups of like 100 to 200, you know, monkeys that are using TPAs. But the point is, is that these seats at the table of power are occupied by these three entities, who each have their own hierarchical structure. Okay, that exists. That always exists. That probably always will exist. What comes and goes? Everything else. These fourth, all these fourth parties. My old company, Compass Included, was a fourth party. That's why over here on the side, I added, who was kind of sitting on the side of the table, is the HRIS system and the bed admin system. Because to a certain extent, the plan sponsor needs a platform to do a lot of the integration of the other carrier stuff too, right? Because you've got Pucars United, Cigna, Aetna, but they're not doing dental. They're not doing vision. They're not doing STD. They're not doing LTD, right? So you've got these other vendors as well, which, oh, by the way, you also have gorillas, chimpanzees, and monkeys within that as well, right? So obviously, like for vision, it's VSP and IMED are the gorillas of vision. And then for dental, obviously, you've got like MetLife and Delta Dental that are like the gorillas of dental, right? So it keeps, and then there's other groups, yada, yada, yada. Okay, so fine. So that's why we hitched our wagon to a bed admin platform in Light Solutions. And Light Solutions is way connected in with a whole bunch of HRIS systems. So we knew as a company that we were not going to exist as a fourth party and that we needed to attach ourselves to this ecosystem to people who are always going to be at the table. Okay, and that's fine. You're saying to yourself, yeah, but I work at a point solution or I'm a startup and I'm going to create the new next wave of things that comes about. Okay, is it pop this? And by the way, this relationship here is a natural business to business relationship. This exists in enterprise software all over the place. For example, there are platforms like SAP and Oracle and then there are integration business to business services like Accenture and Cognizant and all these other sort of customization companies. And that's exactly what the consultant broker are. The consultants and the brokers, they're like Accenture and Cognizant. They're the customization integrators at the individual employer level. And then the carriers are like SAP and Oracle. They're the big platforms. Now notice that the Accenture doesn't create its own platform and the platforms don't create their own Accenture. So they're separate worlds, just like you have here. They're separate worlds. Now, when it comes to innovation, notice you're not going to really get innovation on the broker consulting side because that's business services. And typically you don't get venture capital and private equity investing into services because it doesn't scale and its profit margins aren't as high as the platform. So can you still have an incredibly successful business on the services side and that's integrator function? Of course. But just know that that's just not where the startup ecosystem is because all the VCs and private equity firms and all the people providing the capital are like, we don't invest in services. That's not what we do. They invest in platforms because they're highly scalable. Okay, so fine. So what are some examples in the business world, business-to-business enterprise software world, where the platforms have been disrupted? Okay, so if you want a seat at the table, if you really want high utilization, if you really want to be, because of course the carriers, they hate all these guys. The carriers hate disease management, they hate wellness, and they hate point solutions. So what do they do? They're either going to buy them or they're going to build them, right? So Aetna bought Active Health Matters, right? And in terms of like all the carriers, they started offering their own wellness services. Likewise, a lot of the consultants and brokers, they also started offering a lot of their own wellness services. So like the people at the table of power are either going to buy or they're going to build that fourth party. The fourth party is a temporary organization that is not allowed to exist for a prolonged period of time in the ecosystem. It's only these three, okay? So just know that, right? So that, and that's true in the enterprise software space too. And that's where you have disruptors who said, look, we're going to replace the platform. And one of the most successful companies that has done that is Salesforce.com. It's one of the largest software companies in America. I would highly encourage you to read the book Behind the Cloud by Mark Benioff. It's actually highly instructional for how healthcare startups can disrupt health insurance carriers. Okay, as far as I'm concerned, Mark Benioff, it's not necessarily a household name. He's not Steve Jobs or Elon Musk, but Mark Benioff is a genius, okay? He built Salesforce.com from scratch with no private equity or venture capital, okay? He tried to raise venture capital. He was unsuccessful. He said, screw it. I'm going to make this company succeed anyway, okay? Hugely successful, okay? Next up, AWS. Shoot, they're selling books and like, oh, you know, like dimmer switches online, right? And they're like, we're going to get into enterprise cloud software. And guess what? They totally did. And they ate the lunch. I mean, would SAP and Oracle, do they wish they could have had what AWS had? Yes, and they totally missed the boat and they got schooled, right? And both these solutions, Salesforce and AWS, sort of the classic combination of the improved value proposition, it ain't rocket science. It's better, faster, cheaper, okay? So Salesforce.com was better, faster, cheaper. AWS was better, faster, cheaper. So can the carriers be like replaced at this seat at the table? Absolutely they can. With better, faster, cheaper solutions, and I guarantee you that the broker consultant integrators, believe me, they are looking for something else other than the carriers, okay? In fact, that's why the carriers have to pay the broker consultants. They got to pay them override payments to keep them loyal. If the carriers were really that awesome, they wouldn't have to pay the broker consultants override payments, okay? So the point is, is that as you're thinking about starting a business, as you're thinking about, okay, am I one of these fourth party thingamabobbers? Just know that, you know, can I do be successful? Sure, but you're kind of temporary. You're not going to hang around for forever. Like if you want to make temporary change, then you need to unseat the carrier. Or, I mean, if you're not going to go the VC private equity route, then sure, you can unseat the broker consultant, but just understand, like the battle that you're getting into if you're going to go into this war. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:11]  Today's topic is employee healthcare ecosystem power structure.
+[0:11 - 0:15]  Now, that's a mouthful, but it's super important in every industry,
+[0:15 - 0:20]  including employee benefits and health insurance and employer-sponsored health plans,
+[0:20 - 0:24]  to understand that that industry has a power structure
+[0:24 - 0:29]  and how you, as an incumbent or as a potential disruptor,
+[0:29 - 0:32]  how you fit or don't fit into that power structure.
+[0:33 - 0:34]  So we're going to talk about that today.
+[0:34 - 0:40]  Now, what I have here is a graph of popularity on the y-axis
+[0:40 - 0:45]  and on the x-axis is over time, starting in 2000 and going out into the future, into 2025.
+[0:45 - 0:49]  And what we have here are bumps of various disruptors
+[0:49 - 0:54]  in the employer-sponsored health plan space.
+[0:54 - 0:58]  So going back to, believe it or not, to the early 2000s,
+[0:59 - 1:01]  the big thing was disease management,
+[1:01 - 1:07]  as sort of highlighted by companies like Active Health Matters and Health Dialogue,
+[1:07 - 1:10]  or like two of the prototypical disease management companies.
+[1:10 - 1:11]  So fine.
+[1:11 - 1:14]  So disease management was all the rage for employer-sponsored health plans
+[1:14 - 1:16]  as far as their, quote-unquote, cost-containment efforts go,
+[1:17 - 1:18]  as, quote-unquote, disruptors go.
+[1:18 - 1:18]  Okay.
+[1:18 - 1:20]  But then it faded.
+[1:20 - 1:22]  And then something else grew.
+[1:22 - 1:25]  And that something else that grew next was wellness programs.
+[1:25 - 1:30]  Around 2010 to 2015, as disease management was waning,
+[1:30 - 1:33]  that's when wellness programs were growing like weeds.
+[1:33 - 1:37]  Sort of the quintessential wellness programs were things like Red Brick Health
+[1:37 - 1:40]  and Virgin Pulse, right?
+[1:40 - 1:42]  Who, by the way, merged together, right?
+[1:42 - 1:43]  So wellness was all the rage.
+[1:43 - 1:45]  And this is when we were starting out at Compass.
+[1:45 - 1:48]  And we would be with employers, and we would be with brokers consultants,
+[1:48 - 1:51]  and they'd be like, yeah, your navigation solution, that's cute,
+[1:51 - 1:52]  but we're really into wellness.
+[1:52 - 1:53]  That's what we're doing.
+[1:53 - 1:54]  Okay, fine.
+[1:54 - 1:55]  Okay.
+[1:55 - 1:58]  But wellness then peaked as well, and then it waned too.
+[1:59 - 2:02]  Then the next thing that rose is what we're in now,
+[2:02 - 2:04]  which are the point solutions.
+[2:04 - 2:05]  What are point solutions?
+[2:06 - 2:11]  These are companies that address very narrow, specific clinical needs
+[2:11 - 2:15]  within an employer-sponsored health plan's population.
+[2:15 - 2:20]  So some examples would be like condition-specific point solutions for diabetes,
+[2:21 - 2:25]  mental health, musculoskeletal, maternity.
+[2:26 - 2:30]  And so within diabetes, obviously one of the biggest names was Livanga.
+[2:31 - 2:34]  Within mental health, there's big names there as well.
+[2:35 - 2:38]  Within MSK, you've got Hinge Health is one of the big names.
+[2:38 - 2:42]  Within maternity, you've got Ovia and a bunch of others.
+[2:42 - 2:46]  So we are now in the point solution.
+[2:46 - 2:47]  We're getting up, right?
+[2:47 - 2:51]  Again, these dates are approximations.
+[2:51 - 2:55]  So do I know that point solutions are going to peak in 2025 exactly?
+[2:55 - 2:56]  No.
+[2:56 - 2:59]  But the point is, is that we've seen this movie before
+[2:59 - 3:02]  with disease management and wellness.
+[3:02 - 3:02]  And guess what?
+[3:02 - 3:05]  It's probably going to happen again with point solutions.
+[3:05 - 3:09]  And then something else is going to pop up after point solutions as well.
+[3:09 - 3:11]  So I'm scratching my head here.
+[3:11 - 3:17]  Why are we seeing this repeated pattern of, quote-unquote, disruptors,
+[3:17 - 3:19]  of, quote-unquote, cost containment solutions?
+[3:20 - 3:21]  They never hang around.
+[3:22 - 3:24]  They peak, and then they go away.
+[3:25 - 3:25]  Why is that?
+[3:26 - 3:28]  Well, every single one of these, disease management, wellness, and now point solutions,
+[3:28 - 3:30]  they all have death by low utilization.
+[3:31 - 3:35]  Disease management programs are notorious for like less than 4% utilization.
+[3:35 - 3:40]  Employer wellness programs were notorious for very poor utilization numbers.
+[3:40 - 3:44]  Point solutions today are having huge struggles with low utilization.
+[3:44 - 3:46]  So all of these programs sound great,
+[3:46 - 3:52]  but they all die because the employees and the plan members don't use them.
+[3:52 - 3:52]  Okay.
+[3:52 - 3:56]  So that then brings me to the overall healthcare ecosystem.
+[3:57 - 3:58]  Who does stay?
+[3:59 - 4:00]  Who stays all the time?
+[4:00 - 4:05]  And I'm going to call those people who stay all the time in the ecosystem,
+[4:05 - 4:08]  who don't come and go, as the table of power.
+[4:09 - 4:11]  And there's three seats at that table of power.
+[4:12 - 4:13]  There is the plan sponsor.
+[4:14 - 4:15]  There's the employer themselves.
+[4:15 - 4:19]  And it's typically a combination of the head of HR, the head of comp and benefits, the CFO.
+[4:19 - 4:19]  Right?
+[4:20 - 4:22]  There's typically like a team, depending upon the employer size.
+[4:22 - 4:25]  And then you have the consultant and the broker,
+[4:26 - 4:31]  who are essentially acting as the aggregator of the employee health plan,
+[4:31 - 4:32]  putting all the pieces together.
+[4:32 - 4:34]  And then you have the carrier,
+[4:35 - 4:40]  which is the actual platform on which the employee health plan runs.
+[4:40 - 4:44]  Now, of course, within the consultant and the broker world,
+[4:44 - 4:48]  you have, and actually within all these worlds,
+[4:48 - 4:52]  then you then have actually a hierarchy among plan sponsors.
+[4:52 - 4:54]  You have a hierarchy among consultants and brokers,
+[4:54 - 4:56]  and you have a hierarchy among carriers.
+[4:57 - 4:59]  And this is a Jeffrey Moore framework,
+[5:00 - 5:03]  because all communities have hierarchies, right?
+[5:03 - 5:07]  We're kind of like apes out in the jungle.
+[5:08 - 5:08]  Okay?
+[5:08 - 5:10]  And Jeffrey Moore actually uses that analogy.
+[5:10 - 5:11]  He says, look, all communities,
+[5:11 - 5:13]  they've got gorillas at the top,
+[5:13 - 5:14]  chimpanzees in the middle,
+[5:14 - 5:16]  and monkeys at the bottom of that hierarchy.
+[5:16 - 5:18]  And so in the employer-sponsored health plan world,
+[5:19 - 5:21]  the big gorillas are the large national accounts.
+[5:22 - 5:24]  And then the mid-market are the chimpanzees.
+[5:25 - 5:27]  And then small market is the monkeys.
+[5:27 - 5:30]  Likewise, in the consultant broker world,
+[5:30 - 5:31]  the, you know, of course,
+[5:31 - 5:35]  other people would disagree with my categorization here,
+[5:35 - 5:35]  but that's okay.
+[5:35 - 5:37]  Everybody's got their own opinion, right?
+[5:37 - 5:39]  The big gorillas in the consulting world
+[5:39 - 5:43]  are Aon, Willis Towers Watson, and Mercer.
+[5:43 - 5:43]  And guess what?
+[5:44 - 5:46]  Those are the consultants that do the majority of the consulting
+[5:46 - 5:48]  for the big national accounts.
+[5:48 - 5:49]  Okay, then you have the chimpanzees,
+[5:49 - 5:51]  and they're like your Loctons,
+[5:51 - 5:53]  and your Gallaghers, and your USIs,
+[5:54 - 5:56]  maybe your Alliance, and your Holmes Murphys,
+[5:56 - 5:57]  all of these like, okay,
+[5:57 - 6:00]  sometimes referred to as super regional brokerages.
+[6:00 - 6:02]  And then you've got your monkeys,
+[6:03 - 6:07]  which might be a bunch of like smaller brokerages
+[6:07 - 6:09]  that are, you know, all over the place.
+[6:09 - 6:11]  I'd say, you know, again, I'm not trying to be disparaging,
+[6:11 - 6:14]  but like, like, McGowan Bravebender is like a perfect example of a monkey.
+[6:14 - 6:16]  They're hugely dominant in Dayton, Ohio,
+[6:17 - 6:18]  but they're not all over the country, okay?
+[6:18 - 6:20]  So my point is, is that, you know,
+[6:20 - 6:23]  you can be still highly successful as a gorilla,
+[6:24 - 6:26]  or as a chimpanzee, or as a monkey,
+[6:26 - 6:28]  but there's no way that McGowan Bravebender
+[6:28 - 6:29]  is doing huge national accounts,
+[6:29 - 6:32]  and there's no way that Aon is doing
+[6:32 - 6:35]  a little printing shop with 25 people in Dayton, Ohio, right?
+[6:35 - 6:36]  That's just not how the ecosystem works.
+[6:36 - 6:38]  Okay, and then finally, on the carrier side,
+[6:38 - 6:40]  of course, you also have gorillas,
+[6:40 - 6:41]  and chimpanzees, and monkeys.
+[6:41 - 6:42]  And of course, the gorillas,
+[6:42 - 6:44]  actually, I'm going to say there's really only two gorillas.
+[6:45 - 6:46]  You know who those two gorillas are?
+[6:46 - 6:50]  Those two gorillas are United and all the Blue Cross plans.
+[6:50 - 6:52]  Those are really the gorillas, okay?
+[6:52 - 6:54]  And then I would even say that, to a certain extent,
+[6:54 - 6:56]  CVS Health, Aetna, and Cigna,
+[6:56 - 6:58]  they're kind of chimpanzees.
+[6:58 - 7:00]  And then who are all the monkeys?
+[7:00 - 7:03]  All the monkeys are all the TPAs out there, right?
+[7:03 - 7:05]  So they're all kind of scrounging around,
+[7:05 - 7:07]  trying to get the, you know, to a certain extent,
+[7:07 - 7:09]  the scraps of the self-funded plans.
+[7:09 - 7:10]  But at the end of the day,
+[7:10 - 7:12]  the vast majority of big national accounts,
+[7:12 - 7:14]  they use big ASO carriers.
+[7:14 - 7:15]  They don't use TPAs.
+[7:15 - 7:19]  And you might get some mid-market chimpanzees that use TPAs.
+[7:19 - 7:22]  And you might get some self-funded groups of like 100 to 200,
+[7:23 - 7:25]  you know, monkeys that are using TPAs.
+[7:25 - 7:30]  But the point is, is that these seats at the table of power
+[7:30 - 7:32]  are occupied by these three entities,
+[7:32 - 7:36]  who each have their own hierarchical structure.
+[7:36 - 7:38]  Okay, that exists.
+[7:38 - 7:40]  That always exists.
+[7:40 - 7:43]  That probably always will exist.
+[7:43 - 7:46]  What comes and goes?
+[7:47 - 7:48]  Everything else.
+[7:48 - 7:51]  These fourth, all these fourth parties.
+[7:52 - 7:55]  My old company, Compass Included, was a fourth party.
+[7:55 - 7:58]  That's why over here on the side, I added,
+[7:58 - 8:00]  who was kind of sitting on the side of the table,
+[8:01 - 8:03]  is the HRIS system and the bed admin system.
+[8:03 - 8:04]  Because to a certain extent,
+[8:04 - 8:06]  the plan sponsor needs a platform
+[8:06 - 8:10]  to do a lot of the integration of the other carrier stuff too, right?
+[8:10 - 8:12]  Because you've got Pucars United, Cigna, Aetna,
+[8:12 - 8:14]  but they're not doing dental.
+[8:14 - 8:15]  They're not doing vision.
+[8:15 - 8:16]  They're not doing STD.
+[8:16 - 8:17]  They're not doing LTD, right?
+[8:17 - 8:20]  So you've got these other vendors as well,
+[8:20 - 8:21]  which, oh, by the way,
+[8:21 - 8:22]  you also have gorillas, chimpanzees,
+[8:22 - 8:24]  and monkeys within that as well, right?
+[8:24 - 8:26]  So obviously, like for vision,
+[8:26 - 8:28]  it's VSP and IMED are the gorillas of vision.
+[8:28 - 8:29]  And then for dental,
+[8:30 - 8:32]  obviously, you've got like MetLife and Delta Dental
+[8:32 - 8:34]  that are like the gorillas of dental, right?
+[8:34 - 8:36]  So it keeps, and then there's other groups, yada, yada, yada.
+[8:37 - 8:37]  Okay, so fine.
+[8:38 - 8:40]  So that's why we hitched our wagon
+[8:40 - 8:44]  to a bed admin platform in Light Solutions.
+[8:45 - 8:47]  And Light Solutions is way connected in
+[8:47 - 8:49]  with a whole bunch of HRIS systems.
+[8:49 - 8:51]  So we knew as a company
+[8:51 - 8:53]  that we were not going to exist as a fourth party
+[8:53 - 8:55]  and that we needed to attach ourselves
+[8:55 - 8:56]  to this ecosystem
+[8:56 - 8:59]  to people who are always going to be at the table.
+[8:59 - 9:01]  Okay, and that's fine.
+[9:02 - 9:02]  You're saying to yourself,
+[9:03 - 9:04]  yeah, but I work at a point solution
+[9:04 - 9:05]  or I'm a startup
+[9:05 - 9:10]  and I'm going to create the new next wave of things
+[9:10 - 9:11]  that comes about.
+[9:12 - 9:13]  Okay, is it pop this?
+[9:13 - 9:14]  And by the way,
+[9:14 - 9:15]  this relationship here
+[9:15 - 9:18]  is a natural business to business relationship.
+[9:18 - 9:21]  This exists in enterprise software all over the place.
+[9:22 - 9:22]  For example,
+[9:22 - 9:25]  there are platforms like SAP and Oracle
+[9:25 - 9:29]  and then there are integration business to business services
+[9:29 - 9:32]  like Accenture and Cognizant
+[9:32 - 9:34]  and all these other sort of customization companies.
+[9:34 - 9:36]  And that's exactly what the consultant broker are.
+[9:36 - 9:38]  The consultants and the brokers,
+[9:38 - 9:39]  they're like Accenture and Cognizant.
+[9:40 - 9:42]  They're the customization integrators
+[9:42 - 9:43]  at the individual employer level.
+[9:43 - 9:46]  And then the carriers are like SAP and Oracle.
+[9:46 - 9:47]  They're the big platforms.
+[9:47 - 9:50]  Now notice that the Accenture
+[9:51 - 9:52]  doesn't create its own platform
+[9:52 - 9:54]  and the platforms don't create their own Accenture.
+[9:54 - 9:55]  So they're separate worlds,
+[9:55 - 9:56]  just like you have here.
+[9:56 - 9:57]  They're separate worlds.
+[9:57 - 9:59]  Now, when it comes to innovation,
+[10:00 - 10:02]  notice you're not going to really get innovation
+[10:02 - 10:03]  on the broker consulting side
+[10:03 - 10:05]  because that's business services.
+[10:06 - 10:08]  And typically you don't get venture capital
+[10:08 - 10:10]  and private equity investing into services
+[10:10 - 10:11]  because it doesn't scale
+[10:11 - 10:13]  and its profit margins aren't as high
+[10:13 - 10:14]  as the platform.
+[10:14 - 10:18]  So can you still have an incredibly successful business
+[10:18 - 10:19]  on the services side
+[10:19 - 10:21]  and that's integrator function?
+[10:21 - 10:22]  Of course.
+[10:22 - 10:23]  But just know that that's just not
+[10:23 - 10:25]  where the startup ecosystem is
+[10:25 - 10:28]  because all the VCs and private equity firms
+[10:28 - 10:29]  and all the people providing the capital are like,
+[10:30 - 10:31]  we don't invest in services.
+[10:31 - 10:32]  That's not what we do.
+[10:33 - 10:34]  They invest in platforms
+[10:34 - 10:35]  because they're highly scalable.
+[10:36 - 10:36]  Okay, so fine.
+[10:36 - 10:39]  So what are some examples in the business world,
+[10:39 - 10:41]  business-to-business enterprise software world,
+[10:41 - 10:44]  where the platforms have been disrupted?
+[10:44 - 10:47]  Okay, so if you want a seat at the table,
+[10:47 - 10:49]  if you really want high utilization,
+[10:49 - 10:50]  if you really want to be,
+[10:50 - 10:52]  because of course the carriers,
+[10:52 - 10:53]  they hate all these guys.
+[10:53 - 10:54]  The carriers hate disease management,
+[10:54 - 10:55]  they hate wellness,
+[10:55 - 10:56]  and they hate point solutions.
+[10:56 - 10:57]  So what do they do?
+[10:57 - 10:57]  They're either going to buy them
+[10:57 - 10:59]  or they're going to build them, right?
+[10:59 - 11:03]  So Aetna bought Active Health Matters, right?
+[11:04 - 11:05]  And in terms of like all the carriers,
+[11:05 - 11:08]  they started offering their own wellness services.
+[11:08 - 11:10]  Likewise, a lot of the consultants and brokers,
+[11:10 - 11:11]  they also started offering
+[11:11 - 11:12]  a lot of their own wellness services.
+[11:12 - 11:15]  So like the people at the table of power
+[11:15 - 11:16]  are either going to buy
+[11:16 - 11:18]  or they're going to build that fourth party.
+[11:19 - 11:21]  The fourth party is a temporary organization
+[11:21 - 11:24]  that is not allowed to exist
+[11:24 - 11:26]  for a prolonged period of time in the ecosystem.
+[11:27 - 11:28]  It's only these three, okay?
+[11:29 - 11:30]  So just know that, right?
+[11:30 - 11:32]  So that,
+[11:32 - 11:35]  and that's true in the enterprise software space too.
+[11:35 - 11:37]  And that's where you have disruptors
+[11:37 - 11:37]  who said,
+[11:37 - 11:39]  look, we're going to replace the platform.
+[11:39 - 11:41]  And one of the most successful companies
+[11:41 - 11:43]  that has done that is Salesforce.com.
+[11:43 - 11:47]  It's one of the largest software companies in America.
+[11:47 - 11:50]  I would highly encourage you to read the book
+[11:50 - 11:52]  Behind the Cloud by Mark Benioff.
+[11:52 - 11:53]  It's actually highly instructional
+[11:53 - 11:55]  for how healthcare startups
+[11:55 - 11:57]  can disrupt health insurance carriers.
+[11:57 - 11:58]  Okay, as far as I'm concerned,
+[11:58 - 11:59]  Mark Benioff,
+[11:59 - 12:00]  it's not necessarily a household name.
+[12:01 - 12:02]  He's not Steve Jobs or Elon Musk,
+[12:02 - 12:04]  but Mark Benioff is a genius, okay?
+[12:04 - 12:07]  He built Salesforce.com from scratch
+[12:07 - 12:10]  with no private equity or venture capital, okay?
+[12:10 - 12:11]  He tried to raise venture capital.
+[12:11 - 12:12]  He was unsuccessful.
+[12:12 - 12:13]  He said, screw it.
+[12:13 - 12:15]  I'm going to make this company succeed anyway, okay?
+[12:16 - 12:17]  Hugely successful, okay?
+[12:17 - 12:19]  Next up, AWS.
+[12:19 - 12:21]  Shoot, they're selling books
+[12:21 - 12:23]  and like, oh, you know,
+[12:24 - 12:26]  like dimmer switches online, right?
+[12:27 - 12:27]  And they're like,
+[12:27 - 12:29]  we're going to get into enterprise cloud software.
+[12:29 - 12:30]  And guess what?
+[12:30 - 12:31]  They totally did.
+[12:31 - 12:32]  And they ate the lunch.
+[12:32 - 12:34]  I mean, would SAP and Oracle,
+[12:34 - 12:37]  do they wish they could have had what AWS had?
+[12:37 - 12:39]  Yes, and they totally missed the boat
+[12:39 - 12:41]  and they got schooled, right?
+[12:41 - 12:42]  And both these solutions,
+[12:42 - 12:43]  Salesforce and AWS,
+[12:44 - 12:45]  sort of the classic combination
+[12:45 - 12:47]  of the improved value proposition,
+[12:47 - 12:48]  it ain't rocket science.
+[12:49 - 12:50]  It's better, faster, cheaper, okay?
+[12:50 - 12:52]  So Salesforce.com was better, faster, cheaper.
+[12:52 - 12:54]  AWS was better, faster, cheaper.
+[12:54 - 12:58]  So can the carriers be like replaced
+[12:58 - 12:59]  at this seat at the table?
+[13:00 - 13:01]  Absolutely they can.
+[13:01 - 13:03]  With better, faster, cheaper solutions,
+[13:03 - 13:04]  and I guarantee you
+[13:04 - 13:06]  that the broker consultant integrators,
+[13:07 - 13:07]  believe me,
+[13:07 - 13:08]  they are looking for something else
+[13:08 - 13:10]  other than the carriers, okay?
+[13:10 - 13:11]  In fact, that's why the carriers
+[13:11 - 13:13]  have to pay the broker consultants.
+[13:13 - 13:15]  They got to pay them override payments
+[13:15 - 13:16]  to keep them loyal.
+[13:17 - 13:18]  If the carriers were really that awesome,
+[13:18 - 13:19]  they wouldn't have to pay
+[13:19 - 13:21]  the broker consultants override payments, okay?
+[13:22 - 13:23]  So the point is,
+[13:23 - 13:25]  is that as you're thinking about starting a business,
+[13:26 - 13:27]  as you're thinking about,
+[13:27 - 13:30]  okay, am I one of these fourth party thingamabobbers?
+[13:31 - 13:32]  Just know that, you know,
+[13:32 - 13:33]  can I do be successful?
+[13:33 - 13:34]  Sure, but you're kind of temporary.
+[13:35 - 13:36]  You're not going to hang around for forever.
+[13:37 - 13:38]  Like if you want to make temporary change,
+[13:38 - 13:41]  then you need to unseat the carrier.
+[13:41 - 13:42]  Or, I mean,
+[13:42 - 13:43]  if you're not going to go
+[13:43 - 13:44]  the VC private equity route,
+[13:44 - 13:44]  then sure,
+[13:44 - 13:46]  you can unseat the broker consultant,
+[13:46 - 13:47]  but just understand,
+[13:47 - 13:49]  like the battle that you're getting into
+[13:49 - 13:51]  if you're going to go into this war.
+[13:51 - 13:53]  And that's my point for today.
+[13:53 - 13:55]  Thank you for watching A Healthcare Z.

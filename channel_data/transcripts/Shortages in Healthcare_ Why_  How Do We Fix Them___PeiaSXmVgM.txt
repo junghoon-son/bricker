@@ -1,0 +1,127 @@
+Title: Shortages in Healthcare: Why?  How Do We Fix Them?
+URL: https://www.youtube.com/watch?v=_PeiaSXmVgM
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic is shortages in health care. So I'm sure many of you have been seeing in the news how there's a shortage of doctors, all different types of doctors, but especially primary care physicians. So it's estimated that there will be a shortage of between 21,000 and 55,000 primary care physicians by 2033, just nine short years away. Shoot, today, people are having a hard time making an appointment with a primary care physician because there's a shortage of them. Likewise, I'm sure many of you have been seeing in the news or have been experiencing in your own health care a shortage of nurses where there is an estimate that there is going to be approximately 195,000 open nursing positions per year that need to be filled, but there's demand for them to be filled, but there's not supply. There's not of people. There's a shortage of people that want to be nurses to fill those job openings. So let's talk about shortages because we got a lot of shortages in health care. And in order to understand shortages, then you have to understand the basic economic supply and demand curves, right? So the law and supply and demand is what determines shortages in health care. Now, you don't have to understand the law of supply and demand, but I would argue that if you're like an educated adult, then you need to understand the law of supply and demand. So I'm sorry, this is just one of these things that you just need to know as an adult. Okay, how do you draw it? You draw a y-axis and an x-axis. Okay, on the y-axis, you have price. On the x-axis, you have quantity. Then you draw a downward sloping demand curve and an upward sloping supply curve, and they intersect. And where they intersect, that's called the equilibrium. And the price where they intersect is the equilibrium price. In other words, that's the price that is, in this case, since we're talking about jobs, right? So this is the price for labor. In other words, your wage. So the price for labor is your wage. So where the demand curve and the supply curve intersect, that determines the wage. Is the nurse going to make $75,000 or $50,000 or $100,000? Is the primary care physician going to make $150,000 or $200,000 or $250,000, right? That is determined by the intersection of the supply and demand curve. Okay, now down to the quantity. Well, how many people are going to become doctors? Well, how many people are going to become primary care physicians? How many people are going to go into nursing? Okay, that is the quantity, the number of people working at those jobs, the number of hours that they work. Okay, that's going to be the equilibrium quantity of, is going to be determined by the intersection of the price of quiet. Okay, whew, you're like, this is so boring. This is like some high school, college class. Please get to the point already. Okay, if you have an artificially low set price, by definition, you will have a shortage because the amount supplied will be back here. The amount demanded will be way up here. And so the difference between here, the amount supplied at that artificially low price, and here, the amount demanded at that artificially low price gives you the shortage, right? So that much nursing or that much primary care, that's what's supplied at the artificially low price. But this is how much is demanded by patients, etc. Okay, so fine. So by definition, if you have an artificially low set price, you will have a shortage. End of story. So anytime you see a shortage anywhere, you should say to yourself, aha, there's an artificially low set price. So you have rationing. By definition, when you have shortages, you have rationing. And there's two types of rationing. There is a queue. There is a wait list. It's first come first serve, right? By definition, if there's not enough, you gotta wait. Okay, or two, there's price rationing, which is okay, well, if you don't want to wait, then you pay more. So in other words, it allows the price to go from the artificially low price up to the equilibrium price. So here in America, in the free market for like, let's say at the grocery store, we do largely do price rationing, right? Well, we you know, you pay more for your bananas or your bread, and they supply the bananas and the bread, and then you get this equilibrium, there's enough bananas and bread, and people pay for it, right? Whereas like back in the 20th century, with like, you know, Maoism and, you know, and communism and Marxism, right? What did they have? They had artificially low set prices. So they didn't have enough bananas and bread. So there was a shortage, right? Okay, so there was a waitlist, there was a queue. All right, so that exists in healthcare across the planet. Okay, the important thing about shortages in healthcare in America is that healthcare in America is filled with both queue rationing and price rationing. It's not a question of one, it's not a question of the other, both exist. Okay, now, this happens all over the world. Let me give you an example. The British National Health Service, so in the United Kingdom, they have the British National Health Services, which has artificially low set prices, because the government sets the prices for what they pay the doctors and the nurses or whatever. But, and so there, what do they have in the British National Health Service? They have queues, they got lots of lines. Okay, but in the UK, they don't have one, but they rather have two healthcare systems. That's right. In Great Britain, they also have a private pay healthcare system, where the doctors are allowed to set a certain amount of time. It's like 20% of their time for people who can pay. They can essentially skip the line by paying. So, in other words, they use price to ration for like 20% of their office visits. Okay, so it's a combination of a queue, first come, first serve in Great Britain, and price rationing based on the ability to pay. Now, just north up of the border, up in Canada, Canada, the whole price rationing thing, against the wall. Everybody in Canada has to wait in a queue on a first come, first serve basis. And I'll tell you a specific story about a wait list. We had an employee at Compass who was Canadian. She lived in America. She was married to an American guy. Her sister was still living in Canada, and her Canadian sister's small child was having some lung problems. Needed to see a pediatric pulmonologist. And so the two sisters are talking. The Canadian sister says, you know, it's May. I couldn't get an appointment until September. And the American sister says, I can't believe that till September. That's outrageous. That's June, July, August, September. That's four months from now. And the Canadian sister said, no, it's not September of this year. It's September of next year. What? So the woman, the Canadian woman's child didn't have to wait four months. The Canadian woman's child had to wait 16 months for a pediatric pulmonology appointment. Okay. So everyone says, okay, well, you know, it's affordable, et cetera, et cetera. But just know that there is, if you're going to set artificially low prices, then by definition, you will have a wait list and you will have children waiting 16 months for pediatric pulmonologists. Okay. I'm not, I'm not trying to be alarmist here, but we just need to understand that, you know, we talk about how expensive healthcare is in America. Listen, and that's bad, but listen, 18 month waiting lists or 16 month waiting lists, they're bad too. Again, the point of this video today is not to debate which is better or worse. The point is, is that shortages exist as a result of artificially low prices. By definition, you will either have a wait list queue or price rationing. There's no other way. And specifically, let's look at how it relates to the severity. I told you there was a mix in America. Let's look at the severity of illness in America. So let's look at trauma. Okay. So in a traumatic situation, the demand curve is perfectly inelastic. It goes up and down. You're going to demand services for that trauma, no matter what. Let's specifically use your hand getting caught in a lawnmower, because that's actually a real example. This is a real example for the County in Texas, where I live, where there's about a million people. And there is only one hand surgeon that takes weekend call in this entire County of 1 million people. So if one guy sticks his hand in the lawnmower, which by the way, this happened and has to go to the hospital on the weekend, there's only one guy for a million people to do something about that. Now, let's say two people put their hands in the lawnmower on the weekends. Those two people, they have to wait because there is an artificially low set price for trauma surgery. Okay. So why? Because we have government payment and third party insurance company payment for these services. Okay. It's not self-pay. It's not private pay. So there is no equilibrium price. By definition, there is a shortage. And by definition, when there's a shortage, then it's going to become first come first serve. When there is no opportunity, you can't like pay the hand surgeon more. There's no opportunity to do price rationing. It's not even an option, right? So there now, but we have a completely opposite situation in America as well for healthcare. It's called LASIK eye surgery. That's right. You go to the ophthalmologist, you can have vision correction, laser surgery on your eyes. So you don't need your glasses anymore. That is completely self-pay by the patient. There's no third party payment. The government doesn't pay for it. Insurance companies don't pay for it. And as a result, there is an equilibrium between the supply of ophthalmologists performing LASIK eye surgery and the demand for LASIK eye surgery. There is no shortage of LASIK eye surgery. You want to get your LASIK eye surgery done? You can totally get it done. You might not be able to afford it, in which case you won't demand it. But if you want it and you're willing to pay for it, you can get it. Now, there's pros and cons to each. I'm sure that there are people that want to have LASIK eye surgery that can't afford to have it, so they don't. And then likewise, there are people here who get their hands stuck in a lawnmower who have to wait hours, maybe even days, to get their hand operated on because of this artificially low set price. So again, the point of this video is not to quote-unquote solve this issue. Okay, these quote-unquote issues will never be solved. But the point is, is that it's not complicated. The underlying cause of it is not complicated. The underlying cause of a shortage is an artificially low set price. And then there are subsequently two forms of rationing, a queue or price rationing. And so we individually, as people, and collectively, as companies, and collectively, as states, and collectively, as a country, need to decide, okay, in which medical situations are we willing to put up with a queue? And in which medical situations are we willing to pay a higher price to not have a queue? And that is the lens through which we can clearly look at a variety of healthcare services. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's
+[0:04 - 0:11]  topic is shortages in health care. So I'm sure many of you have been seeing in the news
+[0:11 - 0:15]  how there's a shortage of doctors, all different types of doctors, but especially primary care
+[0:15 - 0:22]  physicians. So it's estimated that there will be a shortage of between 21,000 and 55,000
+[0:22 - 0:29]  primary care physicians by 2033, just nine short years away. Shoot, today, people are
+[0:29 - 0:33]  having a hard time making an appointment with a primary care physician because there's
+[0:33 - 0:38]  a shortage of them. Likewise, I'm sure many of you have been seeing in the news or have
+[0:38 - 0:42]  been experiencing in your own health care a shortage of nurses where there is an estimate
+[0:42 - 0:52]  that there is going to be approximately 195,000 open nursing positions per year that need to
+[0:52 - 0:58]  be filled, but there's demand for them to be filled, but there's not supply. There's not
+[0:58 - 1:03]  of people. There's a shortage of people that want to be nurses to fill those job openings.
+[1:03 - 1:10]  So let's talk about shortages because we got a lot of shortages in health care. And in order
+[1:10 - 1:18]  to understand shortages, then you have to understand the basic economic supply and demand curves,
+[1:18 - 1:25]  right? So the law and supply and demand is what determines shortages in health care. Now,
+[1:25 - 1:30]  you don't have to understand the law of supply and demand, but I would argue that if you're like an
+[1:30 - 1:35]  educated adult, then you need to understand the law of supply and demand. So I'm sorry,
+[1:35 - 1:41]  this is just one of these things that you just need to know as an adult. Okay, how do you draw it?
+[1:41 - 1:49]  You draw a y-axis and an x-axis. Okay, on the y-axis, you have price. On the x-axis, you have quantity.
+[1:49 - 1:57]  Then you draw a downward sloping demand curve and an upward sloping supply curve, and they intersect.
+[1:57 - 2:02]  And where they intersect, that's called the equilibrium. And the price where they intersect
+[2:02 - 2:08]  is the equilibrium price. In other words, that's the price that is, in this case, since we're talking
+[2:08 - 2:15]  about jobs, right? So this is the price for labor. In other words, your wage. So the price for labor is
+[2:15 - 2:21]  your wage. So where the demand curve and the supply curve intersect, that determines the wage. Is the
+[2:21 - 2:27]  nurse going to make $75,000 or $50,000 or $100,000? Is the primary care physician going to make $150,000
+[2:27 - 2:33]  or $200,000 or $250,000, right? That is determined by the intersection of the supply and demand curve.
+[2:33 - 2:39]  Okay, now down to the quantity. Well, how many people are going to become doctors? Well, how many people
+[2:39 - 2:43]  are going to become primary care physicians? How many people are going to go into nursing? Okay,
+[2:43 - 2:48]  that is the quantity, the number of people working at those jobs, the number of hours that they work.
+[2:48 - 2:54]  Okay, that's going to be the equilibrium quantity of, is going to be determined by the intersection
+[2:54 - 2:58]  of the price of quiet. Okay, whew, you're like, this is so boring. This is like some high school,
+[2:58 - 3:04]  college class. Please get to the point already. Okay, if you have an artificially low set price,
+[3:04 - 3:10]  by definition, you will have a shortage because the amount supplied will be back here. The amount
+[3:10 - 3:17]  demanded will be way up here. And so the difference between here, the amount supplied at that artificially
+[3:17 - 3:23]  low price, and here, the amount demanded at that artificially low price gives you the shortage,
+[3:23 - 3:28]  right? So that much nursing or that much primary care, that's what's supplied at the artificially
+[3:28 - 3:34]  low price. But this is how much is demanded by patients, etc. Okay, so fine. So by definition,
+[3:34 - 3:44]  if you have an artificially low set price, you will have a shortage. End of story. So anytime you see a
+[3:44 - 3:50]  shortage anywhere, you should say to yourself, aha, there's an artificially low set price. So you have
+[3:50 - 3:56]  rationing. By definition, when you have shortages, you have rationing. And there's two types of
+[3:56 - 4:03]  rationing. There is a queue. There is a wait list. It's first come first serve, right? By definition,
+[4:04 - 4:12]  if there's not enough, you gotta wait. Okay, or two, there's price rationing, which is okay, well,
+[4:12 - 4:16]  if you don't want to wait, then you pay more. So in other words, it allows the price to go from
+[4:16 - 4:24]  the artificially low price up to the equilibrium price. So here in America, in the free market for
+[4:24 - 4:32]  like, let's say at the grocery store, we do largely do price rationing, right? Well, we you know, you
+[4:32 - 4:36]  pay more for your bananas or your bread, and they supply the bananas and the bread, and then you get
+[4:36 - 4:41]  this equilibrium, there's enough bananas and bread, and people pay for it, right? Whereas like back in
+[4:41 - 4:47]  the 20th century, with like, you know, Maoism and, you know, and communism and Marxism, right? What did
+[4:47 - 4:51]  they have? They had artificially low set prices. So they didn't have enough bananas and bread. So there
+[4:51 - 4:57]  was a shortage, right? Okay, so there was a waitlist, there was a queue. All right, so that exists in
+[4:57 - 5:05]  healthcare across the planet. Okay, the important thing about shortages in healthcare in America is
+[5:05 - 5:12]  that healthcare in America is filled with both queue rationing and price rationing. It's not a question
+[5:12 - 5:19]  of one, it's not a question of the other, both exist. Okay, now, this happens all over the world.
+[5:19 - 5:23]  Let me give you an example. The British National Health Service, so in the United Kingdom, they have
+[5:23 - 5:28]  the British National Health Services, which has artificially low set prices, because the government
+[5:28 - 5:33]  sets the prices for what they pay the doctors and the nurses or whatever. But, and so there, what do
+[5:33 - 5:38]  they have in the British National Health Service? They have queues, they got lots of lines. Okay, but in
+[5:38 - 5:43]  the UK, they don't have one, but they rather have two healthcare systems. That's right. In Great Britain,
+[5:43 - 5:49]  they also have a private pay healthcare system, where the doctors are allowed to set a certain amount of
+[5:49 - 5:57]  time. It's like 20% of their time for people who can pay. They can essentially skip the line by
+[5:57 - 6:03]  paying. So, in other words, they use price to ration for like 20% of their office visits. Okay,
+[6:03 - 6:11]  so it's a combination of a queue, first come, first serve in Great Britain, and price rationing
+[6:11 - 6:14]  based on the ability to pay. Now, just north up of the border, up in Canada,
+[6:14 - 6:22]  Canada, the whole price rationing thing, against the wall. Everybody in Canada has to wait in a queue
+[6:22 - 6:27]  on a first come, first serve basis. And I'll tell you a specific story about a wait list. We had an
+[6:27 - 6:32]  employee at Compass who was Canadian. She lived in America. She was married to an American guy.
+[6:32 - 6:39]  Her sister was still living in Canada, and her Canadian sister's small child was having some
+[6:39 - 6:45]  lung problems. Needed to see a pediatric pulmonologist. And so the two sisters are talking.
+[6:45 - 6:52]  The Canadian sister says, you know, it's May. I couldn't get an appointment until September.
+[6:52 - 6:57]  And the American sister says, I can't believe that till September. That's outrageous. That's
+[6:57 - 7:03]  June, July, August, September. That's four months from now. And the Canadian sister said, no,
+[7:03 - 7:13]  it's not September of this year. It's September of next year. What? So the woman, the Canadian woman's
+[7:13 - 7:19]  child didn't have to wait four months. The Canadian woman's child had to wait 16 months for a pediatric
+[7:19 - 7:24]  pulmonology appointment. Okay. So everyone says, okay, well, you know, it's affordable, et cetera,
+[7:25 - 7:29]  et cetera. But just know that there is, if you're going to set artificially low prices,
+[7:29 - 7:35]  then by definition, you will have a wait list and you will have children waiting 16 months for
+[7:35 - 7:41]  pediatric pulmonologists. Okay. I'm not, I'm not trying to be alarmist here, but we just need to
+[7:41 - 7:45]  understand that, you know, we talk about how expensive healthcare is in America. Listen,
+[7:45 - 7:51]  and that's bad, but listen, 18 month waiting lists or 16 month waiting lists, they're bad too. Again,
+[7:51 - 7:57]  the point of this video today is not to debate which is better or worse. The point is, is that
+[7:57 - 8:06]  shortages exist as a result of artificially low prices. By definition, you will either have a
+[8:06 - 8:15]  wait list queue or price rationing. There's no other way. And specifically, let's look at how it
+[8:15 - 8:22]  relates to the severity. I told you there was a mix in America. Let's look at the severity of illness
+[8:22 - 8:27]  in America. So let's look at trauma. Okay. So in a traumatic situation, the demand curve is perfectly
+[8:27 - 8:32]  inelastic. It goes up and down. You're going to demand services for that trauma, no matter what.
+[8:32 - 8:39]  Let's specifically use your hand getting caught in a lawnmower, because that's actually a real example.
+[8:39 - 8:45]  This is a real example for the County in Texas, where I live, where there's about a million people.
+[8:45 - 8:53]  And there is only one hand surgeon that takes weekend call in this entire County of 1 million people.
+[8:53 - 9:00]  So if one guy sticks his hand in the lawnmower, which by the way, this happened and has to go to
+[9:00 - 9:06]  the hospital on the weekend, there's only one guy for a million people to do something about that.
+[9:06 - 9:13]  Now, let's say two people put their hands in the lawnmower on the weekends. Those two people,
+[9:13 - 9:22]  they have to wait because there is an artificially low set price for trauma surgery. Okay. So why?
+[9:22 - 9:26]  Because we have government payment and third party insurance company payment for these services. Okay.
+[9:27 - 9:34]  It's not self-pay. It's not private pay. So there is no equilibrium price. By definition, there is a shortage.
+[9:34 - 9:38]  And by definition, when there's a shortage, then it's going to become first come first serve.
+[9:38 - 9:43]  When there is no opportunity, you can't like pay the hand surgeon more. There's no opportunity to do
+[9:43 - 9:49]  price rationing. It's not even an option, right? So there now, but we have a completely opposite
+[9:49 - 9:54]  situation in America as well for healthcare. It's called LASIK eye surgery. That's right. You go to
+[9:54 - 9:59]  the ophthalmologist, you can have vision correction, laser surgery on your eyes. So you don't need your
+[9:59 - 10:06]  glasses anymore. That is completely self-pay by the patient. There's no third party payment. The
+[10:06 - 10:10]  government doesn't pay for it. Insurance companies don't pay for it. And as a result,
+[10:11 - 10:16]  there is an equilibrium between the supply of ophthalmologists performing LASIK eye surgery
+[10:16 - 10:22]  and the demand for LASIK eye surgery. There is no shortage of LASIK eye surgery. You want to get
+[10:22 - 10:26]  your LASIK eye surgery done? You can totally get it done. You might not be able to afford it,
+[10:26 - 10:33]  in which case you won't demand it. But if you want it and you're willing to pay for it, you can get it.
+[10:33 - 10:37]  Now, there's pros and cons to each. I'm sure that there are people that want to have LASIK
+[10:37 - 10:43]  eye surgery that can't afford to have it, so they don't. And then likewise, there are people here
+[10:43 - 10:50]  who get their hands stuck in a lawnmower who have to wait hours, maybe even days, to get their hand
+[10:50 - 10:57]  operated on because of this artificially low set price. So again, the point of this video is not to
+[10:57 - 11:03]  quote-unquote solve this issue. Okay, these quote-unquote issues will never be solved. But
+[11:03 - 11:10]  the point is, is that it's not complicated. The underlying cause of it is not complicated. The
+[11:10 - 11:16]  underlying cause of a shortage is an artificially low set price. And then there are subsequently
+[11:16 - 11:23]  two forms of rationing, a queue or price rationing. And so we individually, as people,
+[11:23 - 11:30]  and collectively, as companies, and collectively, as states, and collectively, as a country, need to
+[11:30 - 11:37]  decide, okay, in which medical situations are we willing to put up with a queue? And in which medical
+[11:37 - 11:46]  situations are we willing to pay a higher price to not have a queue? And that is the lens through which
+[11:46 - 11:53]  we can clearly look at a variety of healthcare services. And that's my point for today. Thank you for
+[11:53 - 11:54]  watching A Healthcare Z.

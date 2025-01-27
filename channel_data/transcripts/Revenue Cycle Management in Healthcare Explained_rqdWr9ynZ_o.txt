@@ -1,0 +1,158 @@
+Title: Revenue Cycle Management in Healthcare Explained
+URL: https://www.youtube.com/watch?v=rqdWr9ynZ_o
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Revenue Cycle Management, also known as RCM, in healthcare. What in the world is Revenue Cycle Management? It's getting the bills paid for providers, for hospitals and doctors and physical therapists and occupational therapists, ambulatory surgery centers, imaging centers, etc. In healthcare, for providers, getting the bills paid is super hard and it's super complicated. And I'm sorry, if you work in healthcare in any way, shape or form, then you have to understand what Revenue Cycle Management is. Now, it is a $29 billion a year industry that is growing at over 13% per year. So it is a growth industry because, you know, the entire healthcare industry is $4.5 trillion and it takes $229 billion to actually get the bills paid for the $4.5 trillion. And as the healthcare costs continue to grow, then the Revenue Cycle Management, in order to be able to get the bills paid, grows as well at 13% per year. It's a huge industry. Okay, so what is the Revenue Cycle? Of course, it has the word cycle, so you got to draw a circle, right? Okay, but here's the first trick. It's not really a cycle. It's really more like a line, okay? This circle here should really be a line because the circle to me kind of implies like the seasons, like winter, spring, summer, fall, winter, spring, summer, fall. Okay, the Revenue Cycle doesn't do that. It really starts with the pre-registration of the patient, which is like, okay, well, they're like making an appointment, right? So they'll get like basic information, your name, date of birth, your insurance information. Okay, then there's the actual registration when the person shows up. And that's a big deal, right? Because, you know, first and foremost, on January 1, a lot of people's insurance changes. And so for everybody that's scheduled an appointment and did pre-registration in December, and then they show up for registration in January, it's like, well, stuff changed. You used to have Blue Cross last year. This year, you've got United. Last year, you had a $2,000 deductible. This year, you got a $4,000 deductible, right? So things change. So that's why there's a big difference between pre-registration and registration because things change. Okay. Then the person actually gets their medical service in here, okay, during what's referred to as charge capture. So this is where, when the person is getting their services done, literally, you know, the nurses and the techs are literally like scanning in different pieces of equipment and needles that they're using. And then the doctor is writing things, you know, prescription orders. And so the pharmacy is, you know, scanning in like, you know, Tylenol and chemotherapy and everything in between. And they're like billing like blocks of OR time. And all of that then gets put into all the documentation from the physician then goes into the medical record. Now, while the person is getting service, especially if it's an inpatient hospital stay, then it'll also go through utilization review. Because the insurance company, and I have a whole other video that I will leave a link to in the show notes. Because during a multi-day or multi-week hospital stay, if the person has private commercial insurance, either through their job or through Medicare Advantage, then the insurance company, Bluegrass United, et cetera, then they're going to say like, okay, well, we'll approve you for like three days for your congestive heart failure or for three days for your pneumonia. But then after three days, well, then the hospital and the insurance company have to be like, well, you know, Eric hasn't been getting better. We think we need an extra, you know, more time with him. And the insurance company says, okay, well, what's the clinical situation? Okay, we'll give him another two days. Okay, so that's the process of utilization review in brief that goes on like during a multi-day hospital stay. And then you get to coding. So this is where what is actually typed or written in the chart goes to the medical records department. And they will then apply the ICD-10 diagnosis code and the CPT codes and the HCPCS codes, which again, I've made a whole video about coding, which I will leave a link to in the show notes as well. And this gets into sometimes you'll hear this buzzword, CDI. What in the world is CDI? It is clinical documentation integrity. Okay, so that's sort of like hospital provider speak for like maximizing the codes for the documentation and maximizing the documentation for what actually clinically occurred during the visit. So the big one here was like sepsis. So me as a physician, I might not have used the word sepsis in the chart. And I would have a hospital employee come to me and like, Dr. Bricker, you need to write sepsis in the chart. And I'm like, okay. So I wrote sepsis in the chart. And then the coder would be like, aha, I see the word sepsis in the chart. Therefore, I can code for sepsis. And because you can code for sepsis, then they would get reimbursed more. Again, that's an overly simplistic way of describing clinical documentation integrity. But it's a huge deal because the hospital wants to maximize the coding so they can get paid as much as possible without, you know, while walking the fine line of up coding. In other words, coding for things that didn't actually happen or for coding for things that were really not as severe as they said it were. So I'm going to get into a lot of trouble for saying that because the CDI people are going to say, we never up code. And then the insurance companies and the employers are going to be like, oh, there's tons of up coding. I'm not here to debate that. You folks can debate that amongst yourselves. Okay. Next, you have claim submission, right? So this gets into the whole, like, you know, the change healthcare thing. Okay. So how are the claims actually submitted? They're submitted through a clearinghouse. Change Healthcare is one of the big clearinghouses that just got hacked. It's owned by United Healthcare. And then so it goes to that clearinghouse and then it goes out to all the different payers, right? Because you've got your traditional Medicare, then you've got all these different Medicare Advantage plans, then you've got your commercial insurers, then you have Medicaid. So you've got a gazillion different payers that each hospital system is going to be submitting claims out to. And then there's remittance processing, right? So a lot of times the payers are like, okay, we're going to pay you back every two weeks. And they'll send a remittance or sort of the hospital equivalent of an EOB, an explanation of benefits. Okay. You billed us $100,000 for this stay, but we get a 50% discount. So we're only, you're only due 50,000, but the patient has a $10,000 deductible. So we, the insurance company, we're going to pay you 40 grand off of that $100,000 to billed charges. And you need to go after the patient for their $10,000 deductible. Okay. That's remittance processing. It's actually incredibly complicated. Okay. Then there's follow-up. Okay. Because guess what? This is, this has been like, literally, I used to be a hospital revenue cycle consultant back in the late nineties, literally 26 years ago. And from talking to people that work in RCM today, and from like what I read about revenue cycle management, like the problems that existed in 1998 are largely still the same today, which is that this claim submission and remittance process is filled with delays and denials by the insurance carrier. Now, of course, the insurance carrier would say, but all these denials and delays, they're appropriate. And all the hospitals will say all these denials and delays, they are inappropriate. I'm not here to debate that. That was the exact same argument that was going on in 1998. And 26 years later, it's exactly the same. It has not changed. So what happens is, is that the hospital has literally hundreds, hundreds of employees that are responsible for then following up with the insurance company. Why haven't you paid? Why didn't you pay us enough? Why haven't you paid? Why didn't you pay us enough? It's all done by phone. Okay. It's the most labor intensive, ridiculous process humanly possible. And it can be done very well by some hospital systems and by some physician practices, and it can be done horribly by other physician practices. Okay. Then you have the patient collection. I talked about that $10,000 deductible that the patient owed in that particular situation. So then the hospital's like, okay, we got to bill the patient for the 10 grand and we got to collect the 10 grand from the patient. So there's a whole patient collection part as well. And then it stops because that's that bill. That's that bill getting paid for that one particular stay. Okay. And then it starts all over again for a different bill. So each bill, each service has its own like revenue cycle, if you will. Okay. The revenue cycle management market is incredibly fragmented. There's a Becker's list of 354 revenue cycle management firms. Okay. How many insurance carriers are there? There's not 354 insurance carriers. Okay. So there are gobs of revenue cycle management companies. It's a highly fragmatic, highly fragmented industry. Okay. What does that mean when an industry is fragmented? Like it actually tells us something about that industry. Like what's another fragmented industry? Like the restaurant industry, right? There's gazillions of industry. Someone once told me that there are a million restaurants in New York city alone. Okay. What does that mean? One, low barriers to entry. Okay. It's fairly easy to hang a shingle and be a revenue cycle management company. What else does a fragmented industry tell you? A highly inconsistent service. Okay. There are restaurants that are amazing. There are restaurants that are awful. And there's a gazillion restaurants in between. Okay. Likewise is true with revenue cycle management firms. There are revenue cycle management firms that are amazing. And there are revenue cycle management firms that are completely incompetent. And there's a ton that are in between. So the performance and the skill and the outcome of a revenue cycle management firm is highly variable because there's so many of them. Okay. So which gets us to the outcome. How do you measure getting the bills paid? It is measured very specifically with something that is referred to by the accounts receivable and the accounts receivable days. So the accounts receivable is if you add up all the bills that the hospital or the physician practice has sent out, but they haven't gotten paid on yet. Those are the accounts receivable. That's basically the money that they think that they are owed. Those are the bills that have been sent out that haven't been paid. And typically accounts receivable is then sort of adjusted in days. And what you do is, is you take the average daily revenue that the hospital system will bill and you divide the total amount that they are owed in their accounts receivable by that amount. So in other words, and then you get the sort of the range for the accounts receivable days is 30 to 70. Okay. Which means that, okay, we're going to actually go through some math and examples. So sort of like a large, but not, you know, a relatively large, large, but not like super huge hospital system in America does like $3 billion a year in revenue. Well, if you take $3 billion and you divide it by 365 days in a year, that means on average, the hospital bills out $8.2 million a day. Like a medium-sized hospital system in America sends out $8.2 million worth of bills per day. That's a lot of money per day. And so if they have 30 days worth of accounts receivable, in other words, their AR days are at 30, then you take the 8.2 million times the 30 days. That means that the hospital has $246 million of unpaid bills. But then it also ranges up to 70. By the way, this 30 to 70 range, exactly the same that it was in 1998 when I started doing RCM. So in terms of like the outcome of RCM, again, like the range hasn't changed in 26 years. Okay. So now at the upper end, at the 70 days, you take the 8.2 million, you multiply it by 70. That's $574 million of unpaid bills. Well, that's a huge difference. And so hospitals that are like, and physician practices that are not in good shape, have like $574 million worth of bills that have not been paid. And if they can get their bills paid faster and get their AR days down to $246 million, well, if you take the 574, you'd be a minus the $246 million. That is $328 million of unpaid bills that the hospitals can then have in their bank account instead of floating around in the health insurance bank accounts. And that's called cashflow, right? So basically by improving the revenue cycle through revenue cycle management vendors, you can decrease your AR days and improve your cashflow by upwards of $328 million if you're like a medium-sized hospital system. So this is a huge getting bills paid in healthcare. And listen, this is the punchline. Okay. This process is super complicated. It takes a lot of skill, a lot of acumen. And frankly, a lot of physician practices just can't do this. And they can't hire vendors that can do this again, because the vendors are highly variable. So that's why a lot of physician practices are like, man, our accounts receivable days are through the roof. We're just going to sell our practice to the hospital system because the hospital system, if they're good, has enough resources. I mean, literally like these hospital systems have like a thousand employees that just do this. Okay. And, you know, in addition to their revenue cycle management vendor that they use. Okay. So that's the reason why, one of the reasons why so many physician practices are selling to hospital systems is because they, as a physician practice, can't do their own revenue cycle management because it's too complicated and they're screwing it up because the insurance carrier is just like not paying them. And so they're like, well, we just have to sell to the hospital system. So the hospital system can take over collecting our professional fees. And that's what we need to do to stay financially viable. So there you have it. Revenue cycle management summarized. And thank you for watching a healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic
+[0:05 - 0:13]  is Revenue Cycle Management, also known as RCM, in healthcare. What in the world is
+[0:13 - 0:19]  Revenue Cycle Management? It's getting the bills paid for providers, for hospitals and
+[0:19 - 0:24]  doctors and physical therapists and occupational therapists, ambulatory surgery centers, imaging
+[0:24 - 0:32]  centers, etc. In healthcare, for providers, getting the bills paid is super hard and it's
+[0:32 - 0:37]  super complicated. And I'm sorry, if you work in healthcare in any way, shape or form, then
+[0:37 - 0:45]  you have to understand what Revenue Cycle Management is. Now, it is a $29 billion a year industry
+[0:45 - 0:54]  that is growing at over 13% per year. So it is a growth industry because, you know, the
+[0:54 - 1:01]  entire healthcare industry is $4.5 trillion and it takes $229 billion to actually get the
+[1:01 - 1:07]  bills paid for the $4.5 trillion. And as the healthcare costs continue to grow, then the
+[1:07 - 1:14]  Revenue Cycle Management, in order to be able to get the bills paid, grows as well at 13%
+[1:14 - 1:20]  per year. It's a huge industry. Okay, so what is the Revenue Cycle? Of course, it has the word
+[1:20 - 1:25]  cycle, so you got to draw a circle, right? Okay, but here's the first trick. It's not really
+[1:25 - 1:29]  a cycle. It's really more like a line, okay? This circle here should really be a line because
+[1:29 - 1:33]  the circle to me kind of implies like the seasons, like winter, spring, summer, fall,
+[1:33 - 1:37]  winter, spring, summer, fall. Okay, the Revenue Cycle doesn't do that. It really starts with
+[1:37 - 1:42]  the pre-registration of the patient, which is like, okay, well, they're like making an appointment,
+[1:42 - 1:47]  right? So they'll get like basic information, your name, date of birth, your insurance information.
+[1:47 - 1:51]  Okay, then there's the actual registration when the person shows up. And that's a big deal,
+[1:51 - 1:56]  right? Because, you know, first and foremost, on January 1, a lot of people's insurance changes.
+[1:57 - 2:01]  And so for everybody that's scheduled an appointment and did pre-registration in December,
+[2:01 - 2:06]  and then they show up for registration in January, it's like, well, stuff changed. You used to have
+[2:06 - 2:11]  Blue Cross last year. This year, you've got United. Last year, you had a $2,000 deductible. This year,
+[2:11 - 2:15]  you got a $4,000 deductible, right? So things change. So that's why there's a big difference
+[2:15 - 2:21]  between pre-registration and registration because things change. Okay. Then the person actually
+[2:21 - 2:29]  gets their medical service in here, okay, during what's referred to as charge capture.
+[2:29 - 2:35]  So this is where, when the person is getting their services done, literally, you know, the nurses
+[2:35 - 2:40]  and the techs are literally like scanning in different pieces of equipment and needles that
+[2:40 - 2:44]  they're using. And then the doctor is writing things, you know, prescription orders. And so the
+[2:44 - 2:50]  pharmacy is, you know, scanning in like, you know, Tylenol and chemotherapy and everything in
+[2:50 - 2:57]  between. And they're like billing like blocks of OR time. And all of that then gets put into
+[2:57 - 3:03]  all the documentation from the physician then goes into the medical record. Now, while the person is
+[3:03 - 3:08]  getting service, especially if it's an inpatient hospital stay, then it'll also go through utilization
+[3:08 - 3:13]  review. Because the insurance company, and I have a whole other video that I will leave a link to
+[3:13 - 3:19]  in the show notes. Because during a multi-day or multi-week hospital stay, if the person has
+[3:19 - 3:23]  private commercial insurance, either through their job or through Medicare Advantage, then the
+[3:23 - 3:27]  insurance company, Bluegrass United, et cetera, then they're going to say like, okay, well, we'll
+[3:27 - 3:32]  approve you for like three days for your congestive heart failure or for three days for your pneumonia.
+[3:32 - 3:36]  But then after three days, well, then the hospital and the insurance company have to be like, well,
+[3:37 - 3:41]  you know, Eric hasn't been getting better. We think we need an extra, you know, more time with him.
+[3:41 - 3:44]  And the insurance company says, okay, well, what's the clinical situation? Okay, we'll give him
+[3:44 - 3:50]  another two days. Okay, so that's the process of utilization review in brief that goes on like
+[3:50 - 3:56]  during a multi-day hospital stay. And then you get to coding. So this is where what is actually
+[3:56 - 4:02]  typed or written in the chart goes to the medical records department. And they will then apply the
+[4:02 - 4:08]  ICD-10 diagnosis code and the CPT codes and the HCPCS codes, which again, I've made a whole video
+[4:08 - 4:13]  about coding, which I will leave a link to in the show notes as well. And this gets into sometimes
+[4:13 - 4:20]  you'll hear this buzzword, CDI. What in the world is CDI? It is clinical documentation integrity.
+[4:20 - 4:29]  Okay, so that's sort of like hospital provider speak for like maximizing the codes for the documentation
+[4:29 - 4:35]  and maximizing the documentation for what actually clinically occurred during the visit.
+[4:35 - 4:40]  So the big one here was like sepsis. So me as a physician, I might not have used the word sepsis
+[4:40 - 4:45]  in the chart. And I would have a hospital employee come to me and like, Dr. Bricker, you need to write
+[4:45 - 4:51]  sepsis in the chart. And I'm like, okay. So I wrote sepsis in the chart. And then the coder would be like,
+[4:51 - 4:56]  aha, I see the word sepsis in the chart. Therefore, I can code for sepsis. And because you can code for
+[4:56 - 5:02]  sepsis, then they would get reimbursed more. Again, that's an overly simplistic way of describing
+[5:02 - 5:08]  clinical documentation integrity. But it's a huge deal because the hospital wants to maximize
+[5:08 - 5:14]  the coding so they can get paid as much as possible without, you know, while walking the fine line
+[5:14 - 5:21]  of up coding. In other words, coding for things that didn't actually happen or for coding for things
+[5:21 - 5:27]  that were really not as severe as they said it were. So I'm going to get into a lot of trouble
+[5:27 - 5:32]  for saying that because the CDI people are going to say, we never up code. And then the insurance
+[5:32 - 5:36]  companies and the employers are going to be like, oh, there's tons of up coding. I'm not here to
+[5:36 - 5:41]  debate that. You folks can debate that amongst yourselves. Okay. Next, you have claim submission,
+[5:41 - 5:47]  right? So this gets into the whole, like, you know, the change healthcare thing. Okay. So how are the
+[5:47 - 5:51]  claims actually submitted? They're submitted through a clearinghouse. Change Healthcare is one of the big
+[5:51 - 5:56]  clearinghouses that just got hacked. It's owned by United Healthcare. And then so it goes to that
+[5:56 - 6:00]  clearinghouse and then it goes out to all the different payers, right? Because you've got your
+[6:00 - 6:03]  traditional Medicare, then you've got all these different Medicare Advantage plans, then you've
+[6:03 - 6:07]  got your commercial insurers, then you have Medicaid. So you've got a gazillion different payers
+[6:07 - 6:11]  that each hospital system is going to be submitting claims out to. And then there's remittance
+[6:11 - 6:15]  processing, right? So a lot of times the payers are like, okay, we're going to pay you back every two
+[6:15 - 6:19]  weeks. And they'll send a remittance or sort of the hospital equivalent of an EOB, an explanation
+[6:19 - 6:27]  of benefits. Okay. You billed us $100,000 for this stay, but we get a 50% discount. So we're only,
+[6:28 - 6:34]  you're only due 50,000, but the patient has a $10,000 deductible. So we, the insurance company,
+[6:34 - 6:39]  we're going to pay you 40 grand off of that $100,000 to billed charges. And you need to go after the
+[6:39 - 6:43]  patient for their $10,000 deductible. Okay. That's remittance processing. It's actually incredibly
+[6:43 - 6:49]  complicated. Okay. Then there's follow-up. Okay. Because guess what? This is, this has been like,
+[6:49 - 6:53]  literally, I used to be a hospital revenue cycle consultant back in the late nineties,
+[6:53 - 6:59]  literally 26 years ago. And from talking to people that work in RCM today, and from like what I read
+[6:59 - 7:05]  about revenue cycle management, like the problems that existed in 1998 are largely still the same today,
+[7:05 - 7:11]  which is that this claim submission and remittance process is filled with delays and denials by the
+[7:11 - 7:16]  insurance carrier. Now, of course, the insurance carrier would say, but all these denials and
+[7:16 - 7:20]  delays, they're appropriate. And all the hospitals will say all these denials and delays, they are
+[7:20 - 7:26]  inappropriate. I'm not here to debate that. That was the exact same argument that was going on in 1998.
+[7:27 - 7:32]  And 26 years later, it's exactly the same. It has not changed. So what happens is, is that the hospital
+[7:32 - 7:41]  has literally hundreds, hundreds of employees that are responsible for then following up with the
+[7:41 - 7:44]  insurance company. Why haven't you paid? Why didn't you pay us enough? Why haven't you paid? Why didn't
+[7:44 - 7:50]  you pay us enough? It's all done by phone. Okay. It's the most labor intensive, ridiculous process
+[7:50 - 7:55]  humanly possible. And it can be done very well by some hospital systems and by some physician
+[7:55 - 8:00]  practices, and it can be done horribly by other physician practices. Okay. Then you have the patient
+[8:00 - 8:04]  collection. I talked about that $10,000 deductible that the patient owed in that particular situation.
+[8:04 - 8:08]  So then the hospital's like, okay, we got to bill the patient for the 10 grand and we got to collect the
+[8:08 - 8:13]  10 grand from the patient. So there's a whole patient collection part as well. And then it stops
+[8:13 - 8:19]  because that's that bill. That's that bill getting paid for that one particular stay. Okay. And then
+[8:19 - 8:24]  it starts all over again for a different bill. So each bill, each service has its own like revenue
+[8:24 - 8:31]  cycle, if you will. Okay. The revenue cycle management market is incredibly fragmented. There's a Becker's
+[8:31 - 8:39]  list of 354 revenue cycle management firms. Okay. How many insurance carriers are there?
+[8:40 - 8:46]  There's not 354 insurance carriers. Okay. So there are gobs of revenue cycle management companies.
+[8:46 - 8:51]  It's a highly fragmatic, highly fragmented industry. Okay. What does that mean when an industry is
+[8:51 - 8:55]  fragmented? Like it actually tells us something about that industry. Like what's another fragmented
+[8:55 - 9:00]  industry? Like the restaurant industry, right? There's gazillions of industry. Someone once told
+[9:00 - 9:05]  me that there are a million restaurants in New York city alone. Okay. What does that mean? One,
+[9:05 - 9:11]  low barriers to entry. Okay. It's fairly easy to hang a shingle and be a revenue cycle management
+[9:11 - 9:18]  company. What else does a fragmented industry tell you? A highly inconsistent service. Okay. There are
+[9:18 - 9:23]  restaurants that are amazing. There are restaurants that are awful. And there's a gazillion restaurants in
+[9:23 - 9:27]  between. Okay. Likewise is true with revenue cycle management firms. There are revenue cycle
+[9:27 - 9:32]  management firms that are amazing. And there are revenue cycle management firms that are completely
+[9:32 - 9:38]  incompetent. And there's a ton that are in between. So the performance and the skill and the outcome of
+[9:38 - 9:44]  a revenue cycle management firm is highly variable because there's so many of them. Okay. So which gets
+[9:44 - 9:51]  us to the outcome. How do you measure getting the bills paid? It is measured very specifically with
+[9:51 - 9:56]  something that is referred to by the accounts receivable and the accounts receivable days. So the
+[9:56 - 10:01]  accounts receivable is if you add up all the bills that the hospital or the physician practice has sent
+[10:01 - 10:07]  out, but they haven't gotten paid on yet. Those are the accounts receivable. That's basically the money
+[10:07 - 10:11]  that they think that they are owed. Those are the bills that have been sent out that haven't been paid.
+[10:12 - 10:19]  And typically accounts receivable is then sort of adjusted in days. And what you do is, is you take
+[10:19 - 10:27]  the average daily revenue that the hospital system will bill and you divide the total amount that they
+[10:27 - 10:37]  are owed in their accounts receivable by that amount. So in other words, and then you get the sort of the
+[10:37 - 10:42]  range for the accounts receivable days is 30 to 70. Okay. Which means that, okay, we're going to
+[10:42 - 10:48]  actually go through some math and examples. So sort of like a large, but not, you know, a relatively large,
+[10:48 - 10:55]  large, but not like super huge hospital system in America does like $3 billion a year in revenue.
+[10:55 - 11:04]  Well, if you take $3 billion and you divide it by 365 days in a year, that means on average,
+[11:04 - 11:12]  the hospital bills out $8.2 million a day. Like a medium-sized hospital system in America
+[11:12 - 11:20]  sends out $8.2 million worth of bills per day. That's a lot of money per day. And so if they have
+[11:20 - 11:26]  30 days worth of accounts receivable, in other words, their AR days are at 30, then you take the
+[11:26 - 11:33]  8.2 million times the 30 days. That means that the hospital has $246 million of unpaid bills.
+[11:33 - 11:41]  But then it also ranges up to 70. By the way, this 30 to 70 range, exactly the same that it was in 1998
+[11:41 - 11:48]  when I started doing RCM. So in terms of like the outcome of RCM, again, like the range hasn't changed
+[11:48 - 11:54]  in 26 years. Okay. So now at the upper end, at the 70 days, you take the 8.2 million, you multiply it by
+[11:54 - 12:01]  70. That's $574 million of unpaid bills. Well, that's a huge difference. And so hospitals that
+[12:01 - 12:07]  are like, and physician practices that are not in good shape, have like $574 million worth of bills
+[12:07 - 12:13]  that have not been paid. And if they can get their bills paid faster and get their AR days down to
+[12:13 - 12:22]  $246 million, well, if you take the 574, you'd be a minus the $246 million. That is $328 million
+[12:22 - 12:29]  of unpaid bills that the hospitals can then have in their bank account instead of floating around in
+[12:29 - 12:36]  the health insurance bank accounts. And that's called cashflow, right? So basically by improving
+[12:36 - 12:43]  the revenue cycle through revenue cycle management vendors, you can decrease your AR days and improve
+[12:43 - 12:51]  your cashflow by upwards of $328 million if you're like a medium-sized hospital system.
+[12:51 - 13:00]  So this is a huge getting bills paid in healthcare. And listen, this is the punchline. Okay. This
+[13:00 - 13:05]  process is super complicated. It takes a lot of skill, a lot of acumen. And frankly, a lot of
+[13:05 - 13:10]  physician practices just can't do this. And they can't hire vendors that can do this again, because
+[13:10 - 13:14]  the vendors are highly variable. So that's why a lot of physician practices are like, man, our accounts
+[13:14 - 13:18]  receivable days are through the roof. We're just going to sell our practice to the hospital system
+[13:18 - 13:24]  because the hospital system, if they're good, has enough resources. I mean, literally like these
+[13:24 - 13:30]  hospital systems have like a thousand employees that just do this. Okay. And, you know, in addition
+[13:30 - 13:39]  to their revenue cycle management vendor that they use. Okay. So that's the reason why, one of the
+[13:39 - 13:43]  reasons why so many physician practices are selling to hospital systems is because they, as a physician
+[13:43 - 13:47]  practice, can't do their own revenue cycle management because it's too complicated and they're
+[13:47 - 13:51]  screwing it up because the insurance carrier is just like not paying them. And so they're like,
+[13:51 - 13:55]  well, we just have to sell to the hospital system. So the hospital system can take over collecting our
+[13:55 - 14:01]  professional fees. And that's what we need to do to stay financially viable. So there you have it.
+[14:01 - 14:05]  Revenue cycle management summarized. And thank you for watching a healthcare Z.

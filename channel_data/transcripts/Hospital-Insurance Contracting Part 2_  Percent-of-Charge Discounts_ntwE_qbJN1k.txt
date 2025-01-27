@@ -1,0 +1,86 @@
+Title: Hospital-Insurance Contracting Part 2:  Percent-of-Charge Discounts
+URL: https://www.youtube.com/watch?v=ntwE_qbJN1k
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic is Hospital Insurance Contracting Part 2. So today we're going to be discussing the next contracting methodology that hospital systems and insurance carriers use when they're negotiating prices. And that contracting methodology is referred to as percent of charge and it's part of a larger presentation that I've made. And so here's a clip from that presentation about percent of charge discounts. Percent of charge. Now this gets a little bit more complicated. We're going to have to do a little bit of math, so bear with me. So percent of charge is used for, a lot of times it's used for surgery, both inpatient and outpatient. Sometimes it's used for procedures as well, like EP stands for electrophysiology. So one of the more common electrophysiology procedures that cardiologists do in the cath lab is called an ablation for atrial fibrillation. So that would be an EP procedure. Likewise, cardiac catheterization is sometimes a bill of the percent of charge basis. I will tell you that from my conversations, the amount of services that are now reimbursed on a percent of charge basis is lower now than it used to be in the past. Hospitals really like percent of charge contract terms. Insurance carriers really do not like percent of charge contract terms. So to the extent that the hospital system is very large and has a lot of contracting clout, and to the extent that the insurance carrier is not as large and does not have as much contracting clout, then they will have more percent of charge terms within their contract. And they still absolutely exist. Now some folks have told me that, you know, that they haven't seen it in a while, et cetera, et cetera. But believe me, I've talked to other people who say, oh yeah, we absolutely still have percentage charge contracts. So let me give you an example. Let's say it is a laparoscopic cholecystectomy, an outpatient gallbladder surgery. Typically you do not stay overnight at the hospital. Many of these laparoscopic gallbladder surgeries are done outpatient. They send you home in, now keep in mind, it's still outpatient if they send you home in 23 hours. So you might quote unquote stay overnight at the hospital, but it's still considered an outpatient stay because it was not over 24 hours. So hospital A, let's say for this gallbladder surgery, will bill $9,000. Now in this case, the billed charges matter because hospital A has negotiated a 50% reimbursement. In other words, a 50% discount off of billed charges. So the allowed amount is real simple. It's just 9,000 times 0.5 and you get $4,500. Now hospital B bills $4,000 for a laparoscopic cholecystectomy, a gallbladder surgery. And the hospital has negotiated a 75% reimbursement rate. In other words, only a 25% discount. And so you just take the, the 0.75 reimbursement rate times the 4,000, and that gets you to an allowed amount of $3,000. So I will ask all of you the same question, which hospital has better savings? Well, of course it's hospital A. You want all of your employees to go to hospital A. They got a 50% discount at hospital A. You only got a measly 25% discount at hospital B. Everybody should go to hospital A. No, of course, again, I'm being facetious. No, because look at those allowed amounts. Hospital A gave the insurance carrier a quote unquote bigger discount, but they look at that. Their billed charges are more than twice as much for the same procedure for them because the way hospitals do not need to structure their charge masters the same way. So just like the insurance contracts for the carriers are highly secretive. The charge masters at the hospital systems are highly secretive and they spend a lot of time and analysis around how they build their charges on their charge master. Okay. So again, you don't want to look at the specific discount amount. What you want to look at is the specific allowed amount. That's what matters. Now, as you can imagine, if you're a hospital for both A or B, you can imagine what they do to their billed charges specifically for services that are reimbursed on a percentage charge discount, right? Because hospital A is like, well, shoot, I don't have to renegotiate my contract. And if I increase my billed charges from $9,000 to $18,000, then without any renegotiation at all, I can start getting paid nine grand for every gallbladder surgery. Likewise, hospital B can be like, well, instead of charging $4,000 for a gallbladder surgery, why don't we just start charging $8,000 for a gallbladder surgery? And we can start getting paid $6,000 for every single gallbladder surgery. And so this percent of charge methodology is part of the reason why hospital charge masters bear absolutely no resemblance to the actual cost of care. That's why you get $5 aspirins. Aspirins don't cause $5. It's because the charge masters are strategically formulated to maximize reimbursement. Now, more on this later, but I wanted to stop there and go to your questions. Brian, thank you for your question. Do they negotiate the billed or allowed amount or discounts? So in the case here of a percent of charge, Brian, they are only negotiating the percent of charge, only negotiating the discount. And again, that allowed amount can change depending upon what the billed charges are. So you can see from a hospital perspective, they would prefer this type of contract term and an insurance carrier would not like this contract term. If you had an insurance carrier that had a ton of clout and you had a little, pretty small hospital system, like that insurance carrier would be like, look, we are not going to have any percentage charge terms in that, in our contract with you, little tiny hospital. And the little tiny hospital might be like, okay, but they might have the flip opposite conversation. If it's a huge, huge hospital system and it's a smaller insurance network and the hospital's going to be like, look, for all gallbladder surgeries, you're just going to need to give us a percent of charge. And the insurance carrier is like, I don't really like that, but I got to do it. Okay. Now, next question here. Thank you, Jared, for this question. Do the hospitals have the ability to change their charge master price while they are in an evergreen clause multi-year contract? The short answer is yes, they can. Now, yes. And this is to Max's point. I rarely see percentage charge reimbursement anymore. Max, I get it. I've heard that from many folks, but I just want to tell you they still do exist. So I don't want to say that they don't exist because they still do. Now here's the issue. This essentially is a landmine within this contract term is essentially a landmine within in your health plan. You don't know where you don't know what diagnoses have this landmine. You don't know what facilities have this landmine, but if you get a plan member that has one of these diagnoses at one of these facilities, you've essentially stepped on a landmine. So in terms of like risk management, just know this is where you have existing risk within your contracts. More on this later. Thank you for watching this video about percent of charge discounts and thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's
+[0:05 - 0:13]  topic is Hospital Insurance Contracting Part 2. So today we're going to be discussing the
+[0:13 - 0:18]  next contracting methodology that hospital systems and insurance carriers use when they're
+[0:18 - 0:24]  negotiating prices. And that contracting methodology is referred to as percent of charge and it's
+[0:24 - 0:29]  part of a larger presentation that I've made. And so here's a clip from that presentation
+[0:29 - 0:37]  about percent of charge discounts. Percent of charge. Now this gets a little bit more
+[0:37 - 0:41]  complicated. We're going to have to do a little bit of math, so bear with me. So percent of
+[0:41 - 0:47]  charge is used for, a lot of times it's used for surgery, both inpatient and outpatient.
+[0:47 - 0:51]  Sometimes it's used for procedures as well, like EP stands for electrophysiology. So one
+[0:51 - 0:58]  of the more common electrophysiology procedures that cardiologists do in the cath lab is called
+[0:58 - 1:03]  an ablation for atrial fibrillation. So that would be an EP procedure. Likewise, cardiac
+[1:03 - 1:10]  catheterization is sometimes a bill of the percent of charge basis. I will tell you that from my
+[1:10 - 1:16]  conversations, the amount of services that are now reimbursed on a percent of charge basis is
+[1:16 - 1:24]  lower now than it used to be in the past. Hospitals really like percent of charge contract terms. Insurance
+[1:24 - 1:29]  carriers really do not like percent of charge contract terms. So to the extent that the hospital
+[1:29 - 1:35]  system is very large and has a lot of contracting clout, and to the extent that the insurance carrier
+[1:35 - 1:43]  is not as large and does not have as much contracting clout, then they will have more percent of charge
+[1:43 - 1:51]  terms within their contract. And they still absolutely exist. Now some folks have told me that, you know,
+[1:51 - 1:54]  that they haven't seen it in a while, et cetera, et cetera. But believe me, I've talked to other
+[1:54 - 1:59]  people who say, oh yeah, we absolutely still have percentage charge contracts. So let me give you
+[1:59 - 2:05]  an example. Let's say it is a laparoscopic cholecystectomy, an outpatient gallbladder surgery.
+[2:05 - 2:10]  Typically you do not stay overnight at the hospital. Many of these laparoscopic gallbladder surgeries are
+[2:10 - 2:15]  done outpatient. They send you home in, now keep in mind, it's still outpatient if they send you home in 23
+[2:15 - 2:20]  hours. So you might quote unquote stay overnight at the hospital, but it's still considered an outpatient
+[2:20 - 2:27]  stay because it was not over 24 hours. So hospital A, let's say for this gallbladder surgery,
+[2:27 - 2:32]  will bill $9,000. Now in this case, the billed charges matter because hospital A has negotiated
+[2:32 - 2:39]  a 50% reimbursement. In other words, a 50% discount off of billed charges. So the allowed amount is real
+[2:39 - 2:49]  simple. It's just 9,000 times 0.5 and you get $4,500. Now hospital B bills $4,000 for a
+[2:49 - 2:56]  laparoscopic cholecystectomy, a gallbladder surgery. And the hospital has negotiated a 75%
+[2:57 - 3:04]  reimbursement rate. In other words, only a 25% discount. And so you just take the, the 0.75
+[3:04 - 3:12]  reimbursement rate times the 4,000, and that gets you to an allowed amount of $3,000. So I will ask all of
+[3:12 - 3:21]  you the same question, which hospital has better savings? Well, of course it's hospital A. You want
+[3:21 - 3:25]  all of your employees to go to hospital A. They got a 50% discount at hospital A. You only got a
+[3:25 - 3:33]  measly 25% discount at hospital B. Everybody should go to hospital A. No, of course, again,
+[3:33 - 3:40]  I'm being facetious. No, because look at those allowed amounts. Hospital A gave the insurance
+[3:40 - 3:45]  carrier a quote unquote bigger discount, but they look at that. Their billed charges are more than
+[3:45 - 3:52]  twice as much for the same procedure for them because the way hospitals do not need to structure
+[3:52 - 3:57]  their charge masters the same way. So just like the insurance contracts for the carriers are highly
+[3:57 - 4:03]  secretive. The charge masters at the hospital systems are highly secretive and they spend a lot
+[4:03 - 4:13]  of time and analysis around how they build their charges on their charge master. Okay. So again,
+[4:13 - 4:19]  you don't want to look at the specific discount amount. What you want to look at is the specific
+[4:20 - 4:26]  allowed amount. That's what matters. Now, as you can imagine, if you're a hospital for both A or B,
+[4:26 - 4:32]  you can imagine what they do to their billed charges specifically for services that are
+[4:32 - 4:35]  reimbursed on a percentage charge discount, right? Because hospital A is like, well, shoot,
+[4:35 - 4:43]  I don't have to renegotiate my contract. And if I increase my billed charges from $9,000 to $18,000,
+[4:43 - 4:49]  then without any renegotiation at all, I can start getting paid nine grand for every
+[4:50 - 4:55]  gallbladder surgery. Likewise, hospital B can be like, well, instead of charging $4,000 for a gallbladder
+[4:55 - 5:00]  surgery, why don't we just start charging $8,000 for a gallbladder surgery? And we can start getting
+[5:00 - 5:09]  paid $6,000 for every single gallbladder surgery. And so this percent of charge methodology is part of
+[5:09 - 5:18]  the reason why hospital charge masters bear absolutely no resemblance to the actual cost of
+[5:18 - 5:27]  care. That's why you get $5 aspirins. Aspirins don't cause $5. It's because the charge masters are
+[5:27 - 5:38]  strategically formulated to maximize reimbursement. Now, more on this later, but I wanted to stop there
+[5:38 - 5:40]  and go to your questions.
+[5:40 - 5:47]  Brian, thank you for your question. Do they negotiate the billed or allowed amount or discounts?
+[5:47 - 5:56]  So in the case here of a percent of charge, Brian, they are only negotiating the percent of charge,
+[5:56 - 6:04]  only negotiating the discount. And again, that allowed amount can change depending upon what the
+[6:04 - 6:09]  billed charges are. So you can see from a hospital perspective, they would prefer this type of contract
+[6:09 - 6:14]  term and an insurance carrier would not like this contract term. If you had an insurance carrier
+[6:14 - 6:18]  that had a ton of clout and you had a little, pretty small hospital system, like that insurance
+[6:18 - 6:22]  carrier would be like, look, we are not going to have any percentage charge terms in that, in our
+[6:22 - 6:27]  contract with you, little tiny hospital. And the little tiny hospital might be like, okay, but they
+[6:27 - 6:33]  might have the flip opposite conversation. If it's a huge, huge hospital system and it's a smaller
+[6:33 - 6:37]  insurance network and the hospital's going to be like, look, for all gallbladder surgeries, you're just
+[6:37 - 6:40]  going to need to give us a percent of charge. And the insurance carrier is like, I don't really like
+[6:40 - 6:48]  that, but I got to do it. Okay. Now, next question here. Thank you, Jared, for this question.
+[6:48 - 6:52]  Do the hospitals have the ability to change their charge master price while they are in an
+[6:53 - 6:57]  evergreen clause multi-year contract? The short answer is yes, they can. Now,
+[6:57 - 7:08]  yes. And this is to Max's point. I rarely see percentage charge reimbursement anymore. Max,
+[7:08 - 7:12]  I get it. I've heard that from many folks, but I just want to tell you they still do exist. So I
+[7:12 - 7:16]  don't want to say that they don't exist because they still do. Now here's the issue.
+[7:17 - 7:24]  This essentially is a landmine within this contract term is essentially a landmine within
+[7:24 - 7:29]  in your health plan. You don't know where you don't know what diagnoses have this landmine.
+[7:29 - 7:35]  You don't know what facilities have this landmine, but if you get a plan member that has one of these
+[7:35 - 7:41]  diagnoses at one of these facilities, you've essentially stepped on a landmine. So in terms
+[7:41 - 7:48]  of like risk management, just know this is where you have existing risk within your contracts. More on this later.
+[7:48 - 8:06]  Thank you for watching this video about percent of charge discounts and thank you for watching A Healthcare Z.

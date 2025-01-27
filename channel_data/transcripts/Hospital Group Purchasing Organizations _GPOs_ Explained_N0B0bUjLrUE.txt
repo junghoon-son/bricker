@@ -1,0 +1,130 @@
+Title: Hospital Group Purchasing Organizations (GPOs) Explained
+URL: https://www.youtube.com/watch?v=N0B0bUjLrUE
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Hospital Group Purchasing Organizations or GPOs. So if we work in healthcare, we have to know what a GPO is because this is one of the acronyms that is just kind of thrown around all the time. And so it's important for us to actually know what these are. So GPOs are collective buyers in the hospital or the healthcare system supply chain. Now, all the supplies at a hospital, including the medications and like the hospital beds and the linens and the gauze and the surgical supplies, you add all that up, that's about 33% of a hospital spend. The largest expenditure is actually labor for a hospital, but all this supply stuff, it's number two. It's about $240 billion, probably more than that now. This estimate was from a few years ago. Total, that's spent by Hospitals in America on their supply chain. So it's significant, right? Now, we're talking about meds, OR supplies, even cleaning supplies, right? So now, the big players in the GPO industry are Premier, which does $1.3 billion a year in revenue. It's a publicly traded company. It actually has a market capitalization of $4.3 billion. And also Vizient, which has $714 million. Now, there's only a handful of other big GPOs, so there's not a ton of them out there. Okay. Now, how do the GPOs make money? They get paid about a 1.5 to 3% quote unquote administrative fee from the manufacturers. And that percent is a percent of what the manufacturers sell to the hospitals, right? So the GPO is going to be trying to negotiate down lower prices. But, at the same time, the manufacturer is paying the GPO a percent of sales. So even though it's called an admin fee, it kind of sounds like a commission, right? And anybody who works in sales knows that a commission structure is created to incentivize sales. Okay. We're going to get to that in a little bit. Now, and also membership dues, right? So hospitals have to pay dues to Premier, Vizient, etc. to be a member of this group purchasing organization. It's not that complicated. You and I use a group purchasing organization like every week. It's called a grocery store, right? So, obviously, like hospitals buy a ton of stuff. And it's just a lot easier for them to go through the quote unquote grocery store of a GPO as they're having to go to every single individual manufacturer to set up their own contracts and their own supply sort of distribution supply chain. Okay. Next up. So, now we get into some interesting legal stuff. Okay. So the GPOs fall into what is referred to as safe harbor from the anti-kickback statute. So we're going to get into Medicare regulatory history. Again, one of the most boring topics ever. So, when Medicare was first passed in the 1960s, they literally used to reimburse doctors and hospitals on a cost plus basis. In other words, whatever it costs the hospital, Medicare would say, well, we'll just add a certain percent to that and that's what we'll pay you. So, guess what that did to hospital costs? Hospital costs went through the roof, right? Because if you're getting paid 10% on $1,000, well, shoot, you're just going to double your price to $2,000 so you can get paid 10% on $2,000 instead of $1,000, right? So, and oh, by the way, what was, and then they had this anti-kickback statute put in place in 1977 to say that because what was happening was that pharmaceutical companies and device manufacturers, et cetera, were sort of incentivizing or giving kickbacks to the hospitals for raising their costs, right? Because the more the hospital costs were, the more they would get paid and then the more that the vendor would get paid. And so, they said, you know, Medicare was like, well, you can't do kickbacks anymore, right? And so, to a certain extent, that point was made moot by what was referred to as the prospective payment system in the 1980s where Medicare reimbursement was totally reformed where Medicare said instead of doing it on a cost plus basis, it's going to be based on a certain diagnosis, we're going to pay you X amount of money for that diagnosis. So, in other words, it was sort of a fixed fee. So, it didn't matter what the hospital's cost was. Okay, so fine. So, the Department of Health and Human Services basically went to the Department of Justice and said, look, you know, because of this, then this whole, like, anti-kickback statute doesn't really make sense for these group purchasing organization, grocery store sort of folks, because we as Medicare, we're just going to pay the hospital the same amount no matter what. So, if they do want to use a group purchasing organization that's getting paid an extra 3%, then it doesn't bother Medicare at all, because we're paying a fixed amount, X, per pneumonia, or per kidney failure. Like, it doesn't matter. And so, that's where this quote-unquote safe harbor from the anti-kickback statute came in. It said, look, is it potentially a conflict of interest for a collective buyer to be paid a percentage commission by the manufacturers themselves? Sure, that's potentially a conflict of interest. But Medicare's like, we don't really care because we're paying a fixed amount because of perspective payment. And so, that's the historical basis for why GPOs have this quote-unquote safe harbor from the anti-kickback statute. More than you ever wanted to know. Okay, so, but there's still complaints about GPOs. Okay, one of the complaints about GPOs is that it's quote-unquote pay to play. In other words, there's sort of a, there's sort of space on the shelves at the GPO grocery store, if you will. And in order to get onto that shelf space, then the, you know, the manufacturers might pay to be put on that shelf space. Or they just might have very, must have larger discounts. And so, as a result, they get the shelf space that other folks don't. And so, this is where it said, okay, well, is the GPO essentially anti-competitive for small and newer manufacturers who don't have the volume or just don't have the ability to pay to get the shelf space? Okay, so that's one complaint against GPOs. Another complaint against GPOs is that they're not financially aligned to reduce costs for the hospital. Again, they're getting paid a percent of what the manufacturer sells to the hospital. So, financially, the GPO wants the manufacturer to sell as much as humanly possible to the hospital. Now, on a cost per unit basis, it might be lower. But, they want to sell as much as possible to them. Okay, now, so the question becomes then, are there different hospitals that do things differently? Because they are health plans themselves. In other words, are the hospitals acting irrationally by using a GPO? Well, if they're taking in premium and taking on risk, then they would be the quote-unquote most rational in their supply chain. So, I wanted to look at some of those hospitals. And sure enough, UPMC and Intermountain Healthcare, which run their own health plans, actually do their GPOs a little differently. With UPMC actually having its own sort of analytics, AI company that analyzes all the contracts to see which sort of GPO arrangements are most beneficial and which ones are not. And frankly, they shouldn't use. And likewise, Intermountain Healthcare used to own a GPO. So, they recently sold it, but they actually were like, well listen, we're just going to do it ourselves. We're not even going to use an external GPO. So, the GPO industry is complicated, but if we work in healthcare, we have to understand just a little bit of it. And that's my point for today. Thank you for watching a Healthcare Z. Keep going. Let's see. Let's see.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:10]  Today's topic is Hospital Group Purchasing Organizations or GPOs.
+[0:10 - 0:14]  So if we work in healthcare, we have to know what a GPO is because this is one of the acronyms
+[0:14 - 0:17]  that is just kind of thrown around all the time.
+[0:17 - 0:20]  And so it's important for us to actually know what these are.
+[0:20 - 0:26]  So GPOs are collective buyers in the hospital or the healthcare system supply chain.
+[0:26 - 0:31]  Now, all the supplies at a hospital, including the medications and like the hospital beds
+[0:31 - 0:35]  and the linens and the gauze and the surgical supplies, you add all that up, that's about
+[0:35 - 0:37]  33% of a hospital spend.
+[0:37 - 0:42]  The largest expenditure is actually labor for a hospital, but all this supply stuff, it's
+[0:42 - 0:43]  number two.
+[0:43 - 0:46]  It's about $240 billion, probably more than that now.
+[0:46 - 0:48]  This estimate was from a few years ago.
+[0:48 - 0:52]  Total, that's spent by Hospitals in America on their supply chain.
+[0:52 - 0:53]  So it's significant, right?
+[0:53 - 0:58]  Now, we're talking about meds, OR supplies, even cleaning supplies, right?
+[0:58 - 1:04]  So now, the big players in the GPO industry are Premier, which does $1.3 billion a year
+[1:04 - 1:05]  in revenue.
+[1:05 - 1:06]  It's a publicly traded company.
+[1:06 - 1:09]  It actually has a market capitalization of $4.3 billion.
+[1:09 - 1:12]  And also Vizient, which has $714 million.
+[1:12 - 1:17]  Now, there's only a handful of other big GPOs, so there's not a ton of them out there.
+[1:17 - 1:18]  Okay.
+[1:18 - 1:19]  Now, how do the GPOs make money?
+[1:19 - 1:27]  They get paid about a 1.5 to 3% quote unquote administrative fee from the manufacturers.
+[1:27 - 1:32]  And that percent is a percent of what the manufacturers sell to the hospitals, right?
+[1:32 - 1:37]  So the GPO is going to be trying to negotiate down lower prices.
+[1:37 - 1:43]  But, at the same time, the manufacturer is paying the GPO a percent of sales.
+[1:43 - 1:48]  So even though it's called an admin fee, it kind of sounds like a commission, right?
+[1:48 - 1:54]  And anybody who works in sales knows that a commission structure is created to incentivize
+[1:54 - 1:55]  sales.
+[1:55 - 1:56]  Okay.
+[1:56 - 1:57]  We're going to get to that in a little bit.
+[1:57 - 1:59]  Now, and also membership dues, right?
+[1:59 - 2:05]  So hospitals have to pay dues to Premier, Vizient, etc. to be a member of this group purchasing
+[2:05 - 2:06]  organization.
+[2:06 - 2:07]  It's not that complicated.
+[2:07 - 2:10]  You and I use a group purchasing organization like every week.
+[2:10 - 2:13]  It's called a grocery store, right?
+[2:13 - 2:20]  So, obviously, like hospitals buy a ton of stuff.
+[2:20 - 2:25]  And it's just a lot easier for them to go through the quote unquote grocery store of
+[2:25 - 2:29]  a GPO as they're having to go to every single individual manufacturer to set up their own
+[2:29 - 2:33]  contracts and their own supply sort of distribution supply chain.
+[2:33 - 2:34]  Okay.
+[2:34 - 2:35]  Next up.
+[2:35 - 2:37]  So, now we get into some interesting legal stuff.
+[2:37 - 2:38]  Okay.
+[2:38 - 2:43]  So the GPOs fall into what is referred to as safe harbor from the anti-kickback statute.
+[2:43 - 2:49]  So we're going to get into Medicare regulatory history.
+[2:49 - 2:51]  Again, one of the most boring topics ever.
+[2:51 - 2:56]  So, when Medicare was first passed in the 1960s, they literally used to reimburse doctors
+[2:56 - 2:58]  and hospitals on a cost plus basis.
+[2:58 - 3:02]  In other words, whatever it costs the hospital, Medicare would say, well, we'll just add a certain
+[3:02 - 3:04]  percent to that and that's what we'll pay you.
+[3:04 - 3:06]  So, guess what that did to hospital costs?
+[3:06 - 3:08]  Hospital costs went through the roof, right?
+[3:08 - 3:12]  Because if you're getting paid 10% on $1,000, well, shoot, you're just going to double your
+[3:12 - 3:16]  price to $2,000 so you can get paid 10% on $2,000 instead of $1,000, right?
+[3:16 - 3:21]  So, and oh, by the way, what was, and then they had this anti-kickback statute put in
+[3:21 - 3:27]  place in 1977 to say that because what was happening was that pharmaceutical companies
+[3:27 - 3:33]  and device manufacturers, et cetera, were sort of incentivizing or giving kickbacks to
+[3:33 - 3:35]  the hospitals for raising their costs, right?
+[3:35 - 3:39]  Because the more the hospital costs were, the more they would get paid and then the more
+[3:39 - 3:41]  that the vendor would get paid.
+[3:41 - 3:45]  And so, they said, you know, Medicare was like, well, you can't do kickbacks anymore,
+[3:45 - 3:46]  right?
+[3:46 - 3:51]  And so, to a certain extent, that point was made moot by what was referred to as the
+[3:51 - 3:55]  prospective payment system in the 1980s where Medicare reimbursement was totally reformed
+[3:55 - 3:58]  where Medicare said instead of doing it on a cost plus basis, it's going to be based
+[3:58 - 4:03]  on a certain diagnosis, we're going to pay you X amount of money for that diagnosis.
+[4:03 - 4:05]  So, in other words, it was sort of a fixed fee.
+[4:05 - 4:07]  So, it didn't matter what the hospital's cost was.
+[4:07 - 4:08]  Okay, so fine.
+[4:08 - 4:12]  So, the Department of Health and Human Services basically went to the Department of Justice
+[4:12 - 4:18]  and said, look, you know, because of this, then this whole, like, anti-kickback statute
+[4:18 - 4:22]  doesn't really make sense for these group purchasing organization, grocery store sort
+[4:22 - 4:27]  of folks, because we as Medicare, we're just going to pay the hospital the same amount
+[4:27 - 4:28]  no matter what.
+[4:28 - 4:33]  So, if they do want to use a group purchasing organization that's getting paid an extra 3%,
+[4:33 - 4:38]  then it doesn't bother Medicare at all, because we're paying a fixed amount, X, per pneumonia,
+[4:38 - 4:40]  or per kidney failure.
+[4:40 - 4:41]  Like, it doesn't matter.
+[4:41 - 4:46]  And so, that's where this quote-unquote safe harbor from the anti-kickback statute came in.
+[4:46 - 4:54]  It said, look, is it potentially a conflict of interest for a collective buyer to be paid a percentage commission
+[4:54 - 4:56]  by the manufacturers themselves?
+[4:56 - 4:58]  Sure, that's potentially a conflict of interest.
+[4:58 - 5:03]  But Medicare's like, we don't really care because we're paying a fixed amount because of perspective payment.
+[5:03 - 5:10]  And so, that's the historical basis for why GPOs have this quote-unquote safe harbor from the anti-kickback statute.
+[5:10 - 5:12]  More than you ever wanted to know.
+[5:12 - 5:15]  Okay, so, but there's still complaints about GPOs.
+[5:15 - 5:19]  Okay, one of the complaints about GPOs is that it's quote-unquote pay to play.
+[5:19 - 5:25]  In other words, there's sort of a, there's sort of space on the shelves at the GPO grocery store, if you will.
+[5:25 - 5:33]  And in order to get onto that shelf space, then the, you know, the manufacturers might pay to be put on that shelf space.
+[5:33 - 5:36]  Or they just might have very, must have larger discounts.
+[5:36 - 5:41]  And so, as a result, they get the shelf space that other folks don't.
+[5:41 - 5:48]  And so, this is where it said, okay, well, is the GPO essentially anti-competitive for small and newer manufacturers
+[5:48 - 5:52]  who don't have the volume or just don't have the ability to pay to get the shelf space?
+[5:52 - 5:54]  Okay, so that's one complaint against GPOs.
+[5:54 - 5:59]  Another complaint against GPOs is that they're not financially aligned to reduce costs for the hospital.
+[5:59 - 6:04]  Again, they're getting paid a percent of what the manufacturer sells to the hospital.
+[6:04 - 6:11]  So, financially, the GPO wants the manufacturer to sell as much as humanly possible to the hospital.
+[6:11 - 6:15]  Now, on a cost per unit basis, it might be lower.
+[6:15 - 6:18]  But, they want to sell as much as possible to them.
+[6:18 - 6:23]  Okay, now, so the question becomes then, are there different hospitals that do things differently?
+[6:23 - 6:27]  Because they are health plans themselves.
+[6:27 - 6:31]  In other words, are the hospitals acting irrationally by using a GPO?
+[6:31 - 6:37]  Well, if they're taking in premium and taking on risk, then they would be the quote-unquote most rational in their supply chain.
+[6:37 - 6:39]  So, I wanted to look at some of those hospitals.
+[6:39 - 6:47]  And sure enough, UPMC and Intermountain Healthcare, which run their own health plans, actually do their GPOs a little differently.
+[6:47 - 6:57]  With UPMC actually having its own sort of analytics, AI company that analyzes all the contracts to see which sort of GPO arrangements are most beneficial and which ones are not.
+[6:57 - 6:58]  And frankly, they shouldn't use.
+[6:58 - 7:01]  And likewise, Intermountain Healthcare used to own a GPO.
+[7:01 - 7:06]  So, they recently sold it, but they actually were like, well listen, we're just going to do it ourselves.
+[7:06 - 7:08]  We're not even going to use an external GPO.
+[7:08 - 7:15]  So, the GPO industry is complicated, but if we work in healthcare, we have to understand just a little bit of it.
+[7:15 - 7:16]  And that's my point for today.
+[7:16 - 7:18]  Thank you for watching a Healthcare Z.
+[7:18 - 7:19]  Keep going.
+[7:19 - 7:20]  Let's see.
+[7:20 - 7:21]  Let's see.

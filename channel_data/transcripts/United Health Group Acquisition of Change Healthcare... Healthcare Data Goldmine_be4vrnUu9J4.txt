@@ -1,0 +1,222 @@
+Title: United Health Group Acquisition of Change Healthcare... Healthcare Data Goldmine
+URL: https://www.youtube.com/watch?v=be4vrnUu9J4
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is UnitedHealth Group acquisition of Change Healthcare is approved. That's right. Now in September of 2022, it was just announced that the $7.8 billion purchase of Change Healthcare by UnitedHealth Group was just approved by a federal court in Washington, D.C. And why was it even in federal court in Washington, D.C.? Because the Department of Justice was trying to block United's acquisition of Change Healthcare on antitrust grounds. Now, apparently the federal judge did not side with the Department of Justice and found in favor of United so United can now go ahead with its acquisition of Change Healthcare. Which begs the question, what in the world is Change Healthcare? And why would the Department of Justice even care about this? And why would United even want to buy Change Healthcare in the first place? Let's answer those questions. So, it's a story, right? Everything in healthcare is complicated. I gotta tell you a story. It goes back to the beginning of the internet. Back in the late 90s, there was this company called WebMD. And, you know, they had a bunch of health information on the internet. You could look up symptoms like a sore throat or whatever. But then they actually had a division within WebMD that actually started to allow hospitals and doctors to electronically bill health insurance companies through the internet. Because, believe it or not, back in the late 90s, you got like an 8.5 by 11 tri-fold sheet of paper and you put it in an envelope. You had to mail it to the insurance company in order to get paid. I started out as a hospital finance consultant back in the 90s. And we had stacks and stacks of paper bills. And, in fact, like Medicare was the only electronic payer in the country at that time. Everybody else, it was still hard copy. So, with the internet, we're like, well, this is incredibly inefficient. Let's do it electronically. So, that's what WebMD started to do. And then they split it off into two separate companies, right? Because it was kind of the healthcare information company, sore throats on the internet sort of stuff. That was WebMD. So, then they changed that electronic billing interface company. They changed that name to MDion. And MDion grew to be a huge multi-billion dollar organization. And then, in 2015, they changed their name to Change Healthcare. So, Change Healthcare hasn't been around for that long. Change Healthcare was a small company. MDion bought Change Healthcare for more like $135 million. Then they bought this little itsy-bitsy teeny company. And then they changed their name from their big, huge, multi-billion dollar company to this little bitty company name. They just adopted the name. And the reason I know Change Healthcare is because Change Healthcare did price transparency. They were a competitor to my previous company, Compass Professional Health Services. And so, then when MDion bought Change Healthcare, we're like, what's going on? Because we're like, that's not what MDion does. MDion does all the billing between the docs and hospitals and the insurance companies. Okay. So, anyway. So, MDion, now Change Healthcare, is the billing clearinghouse between 5,500 hospitals in America, 800,000 doctors in America, and when they need to send their bills through to the payers, to the health insurance companies. MDion, Change Healthcare, does that with 2,100 connections to the various insurance payers in America. Blue Cross United, Cigna, Aetna, their various HMO, PPO, Medicare Advantage plans, you name it. So, what's 5,500 hospitals called? The vast majority of hospitals in America. What's 800,000 doctors called? The vast majority of doctors in America. There's about a million doctors in America. So, that means 8 out of 10, about 80% of doctors in America send their professional billing claims to get paid through Change Healthcare. The majority of hospitals send their claims through Change Healthcare to the insurance payers. Now, that means that it could be Mass General in New England. It could be Jackson Memorial in Miami. It could be Cedar Sinai in Los Angeles. All these doctors, and they're going through to Blue Cross United, Cigna, and Aetna. Okay, so United is now going to own the claims clearinghouse for all those payers going through. Now, if I was CVS Aetna and the Blue Cross plans and Cigna, I might be scratching my head about that. Because now, all the claims from all the docs have to go through one of my competitors. So, and then all the remittances go back as well. In other words, it's like, okay, you know, we paid on this claim, we didn't pay on this claim. We paid this much on this claim, we didn't pay that much. Which is super helpful, right? Because then you're going to know, not only the bill charge is coming through, but you're going to know the allowed amounts going back. Because, again, through Change Healthcare, the payers have to give basically, it's basically the equivalent of an EOB. Back to the hospital system and back to the doctor to explain why, okay, you were billed, you know, you billed $1,000, of which we took a $500 discount off of. We're paying you $400, and you got to go for $100 after the patient, right? So that's going to come back through Change Healthcare as well. Now, why would United want Change Healthcare? Why would they want it? They said in the court, the report from the court, was that United wanted to, quote, unquote, diversify its businesses. That's why I wanted to buy Change Healthcare. Keep in mind, Change Healthcare only does, in 2021, they only did $3.1 billion of revenue, versus United Health Group's $288 billion of revenue. Okay, what's that called? No, barely over 1%. Change Healthcare, when you add their revenue to United Health Group's revenue, it's like barely 1%. Okay, fine. So, and then not only is it 1%, I mean, it's like a rounding error in terms of United's revenue, Change was also growing much more slowly than United. So Change Healthcare's earnings growth was only projected to be about 6% to 8% per year, and in fact, in the last two quarters, their earnings actually shrunk compared to the previous year's quarter. Whereas United Health Group's earnings grew by about 13% last year, and United's track record is actually 20-plus percent per year earnings growth. So United is much bigger and is growing faster, and they bought this little company that is much smaller and isn't growing nearly as fast. So it must not be about the money. So what's it about? Well, maybe it's about the data. Maybe it's about the data that's going through there, because what do you have in that data? You've got the patient IDs. I mean, it knows that it's Dr. Eric Bricker. It knows that it's Jane Smith or John. You know, it knows who you are, okay? It also knows the provider ID, so it knows specifically the hospital. It knows specifically the ambulatory surgery center. I mean, you name it. It knows which specific facility it's coming from or doctor's practice, etc., etc. It has the diagnosis on there. Is it for diabetes? Is it for gallbladder surgery? And it was the procedures that were done. Was it an appendectomy? Was it a coronary artery bypass graft? Was it just a strep throat swab? Okay, and then it's got the bill charges, and it's got the allowed amount. And again, it's for all payers. So United's going to have all that information. And interestingly, that was one of the reasons why the Department of Justice was like, well, we've got to block this for antitrust purposes. You can't have United knowing all this information for CVS Aetna and all the Blue Cross plans and for Cigna. He can't let United have all that information. You know what United's answer was in the lawsuit? We already have that information. Well, hold on a second. Hold the boat. I'm not sure that Cigna and CVS Aetna and Blue Cross would actually agree that United already had all that information. But regardless, what could you do? Why would United or any health insurance company be interested in all that data? Well, there's a ton of things you can do with it. Let's go through some potential things you could do with it now. One, it would allow United to make much lower price quotes on fully insured groups that they were competing for. Let me explain that. So right now, when an insurance broker goes out to quote a group, they've got to have the census for the employees, and they've got to have their zip code, and they've got to have their gender, and they've got to have their age. But United and all the insurance carriers, they don't know, hey, does this person have cancer? Was this person just diagnosed with breast cancer, and they're going to have ongoing treatment? Does this person have diabetes, and they're in the hospital every month for a non-healing foot ulcer? Okay, they don't know that. But with that data from Change Healthcare, now they do know that. And what that means is that, let's say a group has Blue Cross fully insured, and the broker goes out and shops that. There are a lot of fully insured groups where the insurance carrier makes a lot of money off that fully insured group from the loss ratio because the people aren't that sick. And so United could come in and be, hey, for those sick groups. We could actually even offer a lower premium because we know, because we can actuarial, we can underwrite. We know because we know so much more clinical data about that group. Then we can come in with an even more competitive price than what the existing health insurance carrier might have. They have much better information than they do currently when they're quoting fully insured information. Okay, so that's one thing that you could use the data for. Likewise, they could also look at the data and, you know, the broker comes out to them with a quote, and they can look at the group and then look at the clinical history, the billing history for that group and be like, whoa, we're not even going to quote on this group because they got crazy sick people. And you can kind of tell by the age and the gender and the zip code, but you get a much more detailed view when you actually know who's got cancer and who's got diabetes, et cetera, et cetera. Okay, next up. So for their Medicare Advantage plans, and that's just, okay, that's relevant to employer-sponsored health plans, but that's not really where the money is for United Health Group. The money for United Health Group is really in their Medicare Advantage, right? Their Medicare Advantage business is huge, and it's growing really fast, and that's the engine for growth for United. It's really their Medicare Advantage plans. Holds true for the Blue Cross plans and Cigna and CVS N2, they talk about their government programs on their investor earnings call as being the main engine for their growth. And, yeah, commercial's still there, but it's really government programs is the main driver of revenue and earnings growth for insurance carriers. So how could you use this data for Medicare Advantage? Well, there are, because all the baby boomers are turning 65, you have 10,000 people a day who are now qualifying for Medicare because they're turning 65. So right now for Medicare Advantage, you've got this big black hole where you don't know their clinical history before they sign up for a Medicare Advantage plan. But if you had this data, then literally by household, you could find the really healthy people who are turning 65. And you could specifically market to them and market to those households, and you could much more target your sales and marketing activities to the types of beneficiaries that you would want to have on your Medicare Advantage plan. And you can kind of do that now, again, based on, like, zip code, like there's various other demographics that you could use. But you could actually now look at their clinical history to figure out if you would want to go after them for signing them up for your Medicare Advantage plan. Gives you a huge advantage in signing up Medicare Advantage plan. Likewise, if there are particular people who you know, again, you know, they're on dialysis, you know, they, you know, but they're on dialysis, but they're not on Medicare. They're yet, you know, maybe they're, you know, they still have an opportunity. Yeah, dialysis is a bad example. You know, let's say they're super sick and they're in the hospital all the time. Okay. So you'd be like, okay, I don't want to market to that person because I don't, because I know that whatever I'm getting from the government, thousand bucks a month, in no way is going to be able to cover that person because they're on a super expensive medication or they get hospitalized all the time. They got real bad COPD. That's probably a better example. Okay. So, and keep in mind, United signs up a third of every single new Medicare Advantage person every year. So that 10,000 is all Medicare folks. So right now it's 50-50. So about 5,000 folks a day are on, are signing up for Medicare Advantage plans. And United's getting a third of that 5,000. So they're still getting thousands of people a day that are signing up on United and they can more specifically target them now. Potentially. This is all theoretical. Okay. And then finally, you could, United could create a really high performance network because not only do you know the individuals, but you also know how many procedures and tests, you know, all of the ordering habits and the procedure habits and the clinical practice of all the physicians. Right now, United knows that for all the United claims coming through, but it's got big holes for all the claims that the doctors are sending out to Blue Cross and Aetna and Cigna. And so now they can see all that and they can say, okay, well, we know that this orthopedist over here that like nine times out of 10, they end up taking to the patient to the OR. Or if you see a gastroenterologist as a new patient, this particular GI doc literally takes them to get a scope every time. Or if you go to see this cardiologist, this cardiologist like literally does a nuclear stress test for eight grand for like every single new patient person that comes into his office. Now those are extreme. And those are the outliers, you know, bell-shaped curve. But that's where, what if you could take out those 2%, 3% of doctors that order gobs of tests and do gobs of procedures that might arguably be too much? Well then shoot, you'd only have to narrow that network a very minuscule amount. Like you as a patient or as an employer, like you would barely even notice it. Like your employees wouldn't be up in arms about it. It wouldn't be a quote-unquote narrow network because you've only gotten rid of like 2% or 3% of the doctors. But you've gotten rid of 2% or 3% of the doctors that order a vast majority more tests and procedures than their peers. And so that high-performance network would be the best of both worlds. It would be more cost-effective and it wouldn't be that narrow. So you wouldn't have to deal with a whole bunch of out-of-network doctors. So again, that's all theoretical and I'm just getting warmed up. There's gobs of other ways you could use this data. If you had the commercially insured data for every single commercial life in America to then analyze, and you were a health insurance company, you could do gobs of things with it. And so that's potentially why, this is just in my opinion, that's potentially why United was so interested in the acquisition of Change Healthcare, and why the Department of Justice was trying to stop it. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:05 - 0:12]  Today's topic is UnitedHealth Group acquisition of Change Healthcare is approved.
+[0:12 - 0:12]  That's right.
+[0:13 - 0:24]  Now in September of 2022, it was just announced that the $7.8 billion purchase of Change Healthcare
+[0:24 - 0:30]  by UnitedHealth Group was just approved by a federal court in Washington, D.C.
+[0:30 - 0:33]  And why was it even in federal court in Washington, D.C.?
+[0:33 - 0:39]  Because the Department of Justice was trying to block United's acquisition of Change Healthcare
+[0:39 - 0:42]  on antitrust grounds.
+[0:43 - 0:51]  Now, apparently the federal judge did not side with the Department of Justice and found in favor of United
+[0:51 - 0:55]  so United can now go ahead with its acquisition of Change Healthcare.
+[0:55 - 0:59]  Which begs the question, what in the world is Change Healthcare?
+[0:59 - 1:02]  And why would the Department of Justice even care about this?
+[1:02 - 1:07]  And why would United even want to buy Change Healthcare in the first place?
+[1:07 - 1:08]  Let's answer those questions.
+[1:09 - 1:11]  So, it's a story, right?
+[1:11 - 1:12]  Everything in healthcare is complicated.
+[1:12 - 1:13]  I gotta tell you a story.
+[1:13 - 1:16]  It goes back to the beginning of the internet.
+[1:16 - 1:20]  Back in the late 90s, there was this company called WebMD.
+[1:20 - 1:23]  And, you know, they had a bunch of health information on the internet.
+[1:23 - 1:26]  You could look up symptoms like a sore throat or whatever.
+[1:26 - 1:34]  But then they actually had a division within WebMD that actually started to allow hospitals
+[1:34 - 1:40]  and doctors to electronically bill health insurance companies through the internet.
+[1:40 - 1:47]  Because, believe it or not, back in the late 90s, you got like an 8.5 by 11 tri-fold sheet of paper
+[1:47 - 1:48]  and you put it in an envelope.
+[1:48 - 1:51]  You had to mail it to the insurance company in order to get paid.
+[1:52 - 1:55]  I started out as a hospital finance consultant back in the 90s.
+[1:55 - 1:58]  And we had stacks and stacks of paper bills.
+[1:58 - 2:05]  And, in fact, like Medicare was the only electronic payer in the country at that time.
+[2:05 - 2:07]  Everybody else, it was still hard copy.
+[2:07 - 2:09]  So, with the internet, we're like, well, this is incredibly inefficient.
+[2:09 - 2:10]  Let's do it electronically.
+[2:11 - 2:13]  So, that's what WebMD started to do.
+[2:14 - 2:17]  And then they split it off into two separate companies, right?
+[2:17 - 2:22]  Because it was kind of the healthcare information company, sore throats on the internet sort of stuff.
+[2:22 - 2:23]  That was WebMD.
+[2:23 - 2:28]  So, then they changed that electronic billing interface company.
+[2:28 - 2:29]  They changed that name to MDion.
+[2:30 - 2:34]  And MDion grew to be a huge multi-billion dollar organization.
+[2:35 - 2:41]  And then, in 2015, they changed their name to Change Healthcare.
+[2:42 - 2:44]  So, Change Healthcare hasn't been around for that long.
+[2:45 - 2:46]  Change Healthcare was a small company.
+[2:46 - 2:49]  MDion bought Change Healthcare for more like $135 million.
+[2:50 - 2:52]  Then they bought this little itsy-bitsy teeny company.
+[2:52 - 2:59]  And then they changed their name from their big, huge, multi-billion dollar company to this little bitty company name.
+[2:59 - 3:01]  They just adopted the name.
+[3:01 - 3:05]  And the reason I know Change Healthcare is because Change Healthcare did price transparency.
+[3:06 - 3:10]  They were a competitor to my previous company, Compass Professional Health Services.
+[3:11 - 3:15]  And so, then when MDion bought Change Healthcare, we're like, what's going on?
+[3:15 - 3:18]  Because we're like, that's not what MDion does.
+[3:18 - 3:22]  MDion does all the billing between the docs and hospitals and the insurance companies.
+[3:22 - 3:22]  Okay.
+[3:23 - 3:23]  So, anyway.
+[3:23 - 3:34]  So, MDion, now Change Healthcare, is the billing clearinghouse between 5,500 hospitals in America,
+[3:35 - 3:39]  800,000 doctors in America,
+[3:39 - 3:45]  and when they need to send their bills through to the payers, to the health insurance companies.
+[3:49 - 3:55]  MDion, Change Healthcare, does that with 2,100 connections to the various insurance payers in America.
+[3:55 - 4:01]  Blue Cross United, Cigna, Aetna, their various HMO, PPO, Medicare Advantage plans, you name it.
+[4:01 - 4:04]  So, what's 5,500 hospitals called?
+[4:05 - 4:07]  The vast majority of hospitals in America.
+[4:07 - 4:10]  What's 800,000 doctors called?
+[4:10 - 4:11]  The vast majority of doctors in America.
+[4:12 - 4:13]  There's about a million doctors in America.
+[4:14 - 4:23]  So, that means 8 out of 10, about 80% of doctors in America send their professional billing claims to get paid through Change Healthcare.
+[4:23 - 4:29]  The majority of hospitals send their claims through Change Healthcare to the insurance payers.
+[4:29 - 4:35]  Now, that means that it could be Mass General in New England.
+[4:35 - 4:38]  It could be Jackson Memorial in Miami.
+[4:38 - 4:43]  It could be Cedar Sinai in Los Angeles.
+[4:43 - 4:49]  All these doctors, and they're going through to Blue Cross United, Cigna, and Aetna.
+[4:49 - 4:59]  Okay, so United is now going to own the claims clearinghouse for all those payers going through.
+[5:00 - 5:08]  Now, if I was CVS Aetna and the Blue Cross plans and Cigna, I might be scratching my head about that.
+[5:08 - 5:12]  Because now, all the claims from all the docs have to go through one of my competitors.
+[5:13 - 5:15]  So, and then all the remittances go back as well.
+[5:15 - 5:18]  In other words, it's like, okay, you know, we paid on this claim, we didn't pay on this claim.
+[5:18 - 5:20]  We paid this much on this claim, we didn't pay that much.
+[5:20 - 5:21]  Which is super helpful, right?
+[5:21 - 5:26]  Because then you're going to know, not only the bill charge is coming through, but you're going to know the allowed amounts going back.
+[5:26 - 5:32]  Because, again, through Change Healthcare, the payers have to give basically, it's basically the equivalent of an EOB.
+[5:32 - 5:38]  Back to the hospital system and back to the doctor to explain why, okay, you were billed, you know, you billed $1,000,
+[5:38 - 5:41]  of which we took a $500 discount off of.
+[5:41 - 5:45]  We're paying you $400, and you got to go for $100 after the patient, right?
+[5:45 - 5:48]  So that's going to come back through Change Healthcare as well.
+[5:48 - 5:56]  Now, why would United want Change Healthcare?
+[5:56 - 5:56]  Why would they want it?
+[5:57 - 6:03]  They said in the court, the report from the court, was that United wanted to, quote, unquote, diversify its businesses.
+[6:03 - 6:04]  That's why I wanted to buy Change Healthcare.
+[6:05 - 6:10]  Keep in mind, Change Healthcare only does, in 2021, they only did $3.1 billion of revenue,
+[6:10 - 6:13]  versus United Health Group's $288 billion of revenue.
+[6:13 - 6:14]  Okay, what's that called?
+[6:14 - 6:16]  No, barely over 1%.
+[6:16 - 6:21]  Change Healthcare, when you add their revenue to United Health Group's revenue, it's like barely 1%.
+[6:21 - 6:22]  Okay, fine.
+[6:22 - 6:28]  So, and then not only is it 1%, I mean, it's like a rounding error in terms of United's revenue,
+[6:29 - 6:32]  Change was also growing much more slowly than United.
+[6:32 - 6:37]  So Change Healthcare's earnings growth was only projected to be about 6% to 8% per year,
+[6:37 - 6:42]  and in fact, in the last two quarters, their earnings actually shrunk compared to the previous year's quarter.
+[6:42 - 6:47]  Whereas United Health Group's earnings grew by about 13% last year,
+[6:48 - 6:52]  and United's track record is actually 20-plus percent per year earnings growth.
+[6:53 - 6:56]  So United is much bigger and is growing faster,
+[6:56 - 7:01]  and they bought this little company that is much smaller and isn't growing nearly as fast.
+[7:02 - 7:03]  So it must not be about the money.
+[7:04 - 7:04]  So what's it about?
+[7:05 - 7:06]  Well, maybe it's about the data.
+[7:06 - 7:09]  Maybe it's about the data that's going through there,
+[7:09 - 7:10]  because what do you have in that data?
+[7:10 - 7:11]  You've got the patient IDs.
+[7:12 - 7:16]  I mean, it knows that it's Dr. Eric Bricker.
+[7:16 - 7:18]  It knows that it's Jane Smith or John.
+[7:18 - 7:20]  You know, it knows who you are, okay?
+[7:20 - 7:24]  It also knows the provider ID, so it knows specifically the hospital.
+[7:24 - 7:27]  It knows specifically the ambulatory surgery center.
+[7:27 - 7:28]  I mean, you name it.
+[7:28 - 7:32]  It knows which specific facility it's coming from or doctor's practice, etc., etc.
+[7:33 - 7:35]  It has the diagnosis on there.
+[7:35 - 7:36]  Is it for diabetes?
+[7:36 - 7:37]  Is it for gallbladder surgery?
+[7:37 - 7:39]  And it was the procedures that were done.
+[7:39 - 7:40]  Was it an appendectomy?
+[7:40 - 7:42]  Was it a coronary artery bypass graft?
+[7:42 - 7:44]  Was it just a strep throat swab?
+[7:44 - 7:47]  Okay, and then it's got the bill charges, and it's got the allowed amount.
+[7:47 - 7:48]  And again, it's for all payers.
+[7:48 - 7:50]  So United's going to have all that information.
+[7:51 - 7:54]  And interestingly, that was one of the reasons why the Department of Justice was like,
+[7:54 - 7:56]  well, we've got to block this for antitrust purposes.
+[7:56 - 8:02]  You can't have United knowing all this information for CVS Aetna and all the Blue Cross plans and for Cigna.
+[8:02 - 8:04]  He can't let United have all that information.
+[8:04 - 8:05]  You know what United's answer was in the lawsuit?
+[8:06 - 8:07]  We already have that information.
+[8:07 - 8:09]  Well, hold on a second.
+[8:09 - 8:10]  Hold the boat.
+[8:10 - 8:18]  I'm not sure that Cigna and CVS Aetna and Blue Cross would actually agree that United already had all that information.
+[8:19 - 8:21]  But regardless, what could you do?
+[8:21 - 8:26]  Why would United or any health insurance company be interested in all that data?
+[8:26 - 8:28]  Well, there's a ton of things you can do with it.
+[8:28 - 8:31]  Let's go through some potential things you could do with it now.
+[8:31 - 8:46]  One, it would allow United to make much lower price quotes on fully insured groups that they were competing for.
+[8:46 - 8:47]  Let me explain that.
+[8:47 - 8:57]  So right now, when an insurance broker goes out to quote a group, they've got to have the census for the employees, and they've got to have their zip code, and they've got to have their gender, and they've got to have their age.
+[8:57 - 9:03]  But United and all the insurance carriers, they don't know, hey, does this person have cancer?
+[9:04 - 9:07]  Was this person just diagnosed with breast cancer, and they're going to have ongoing treatment?
+[9:08 - 9:13]  Does this person have diabetes, and they're in the hospital every month for a non-healing foot ulcer?
+[9:13 - 9:15]  Okay, they don't know that.
+[9:15 - 9:19]  But with that data from Change Healthcare, now they do know that.
+[9:20 - 9:25]  And what that means is that, let's say a group has Blue Cross fully insured, and the broker goes out and shops that.
+[9:26 - 9:35]  There are a lot of fully insured groups where the insurance carrier makes a lot of money off that fully insured group from the loss ratio because the people aren't that sick.
+[9:36 - 9:40]  And so United could come in and be, hey, for those sick groups.
+[9:40 - 9:47]  We could actually even offer a lower premium because we know, because we can actuarial, we can underwrite.
+[9:47 - 9:50]  We know because we know so much more clinical data about that group.
+[9:51 - 9:58]  Then we can come in with an even more competitive price than what the existing health insurance carrier might have.
+[9:58 - 10:02]  They have much better information than they do currently when they're quoting fully insured information.
+[10:03 - 10:06]  Okay, so that's one thing that you could use the data for.
+[10:06 - 10:19]  Likewise, they could also look at the data and, you know, the broker comes out to them with a quote, and they can look at the group and then look at the clinical history, the billing history for that group and be like, whoa, we're not even going to quote on this group because they got crazy sick people.
+[10:19 - 10:27]  And you can kind of tell by the age and the gender and the zip code, but you get a much more detailed view when you actually know who's got cancer and who's got diabetes, et cetera, et cetera.
+[10:27 - 10:28]  Okay, next up.
+[10:28 - 10:36]  So for their Medicare Advantage plans, and that's just, okay, that's relevant to employer-sponsored health plans, but that's not really where the money is for United Health Group.
+[10:36 - 10:39]  The money for United Health Group is really in their Medicare Advantage, right?
+[10:39 - 10:46]  Their Medicare Advantage business is huge, and it's growing really fast, and that's the engine for growth for United.
+[10:46 - 10:48]  It's really their Medicare Advantage plans.
+[10:48 - 10:58]  Holds true for the Blue Cross plans and Cigna and CVS N2, they talk about their government programs on their investor earnings call as being the main engine for their growth.
+[10:58 - 11:05]  And, yeah, commercial's still there, but it's really government programs is the main driver of revenue and earnings growth for insurance carriers.
+[11:05 - 11:09]  So how could you use this data for Medicare Advantage?
+[11:09 - 11:19]  Well, there are, because all the baby boomers are turning 65, you have 10,000 people a day who are now qualifying for Medicare because they're turning 65.
+[11:20 - 11:31]  So right now for Medicare Advantage, you've got this big black hole where you don't know their clinical history before they sign up for a Medicare Advantage plan.
+[11:31 - 11:40]  But if you had this data, then literally by household, you could find the really healthy people who are turning 65.
+[11:41 - 11:55]  And you could specifically market to them and market to those households, and you could much more target your sales and marketing activities to the types of beneficiaries that you would want to have on your Medicare Advantage plan.
+[11:55 - 12:02]  And you can kind of do that now, again, based on, like, zip code, like there's various other demographics that you could use.
+[12:02 - 12:11]  But you could actually now look at their clinical history to figure out if you would want to go after them for signing them up for your Medicare Advantage plan.
+[12:11 - 12:13]  Gives you a huge advantage in signing up Medicare Advantage plan.
+[12:14 - 12:21]  Likewise, if there are particular people who you know, again, you know, they're on dialysis, you know, they, you know, but they're on dialysis, but they're not on Medicare.
+[12:21 - 12:24]  They're yet, you know, maybe they're, you know, they still have an opportunity.
+[12:24 - 12:25]  Yeah, dialysis is a bad example.
+[12:26 - 12:28]  You know, let's say they're super sick and they're in the hospital all the time.
+[12:28 - 12:28]  Okay.
+[12:29 - 12:41]  So you'd be like, okay, I don't want to market to that person because I don't, because I know that whatever I'm getting from the government, thousand bucks a month, in no way is going to be able to cover that person because they're on a super expensive medication or they get hospitalized all the time.
+[12:41 - 12:43]  They got real bad COPD.
+[12:43 - 12:44]  That's probably a better example.
+[12:44 - 12:45]  Okay.
+[12:45 - 12:54]  So, and keep in mind, United signs up a third of every single new Medicare Advantage person every year.
+[12:54 - 12:56]  So that 10,000 is all Medicare folks.
+[12:56 - 12:57]  So right now it's 50-50.
+[12:57 - 13:03]  So about 5,000 folks a day are on, are signing up for Medicare Advantage plans.
+[13:03 - 13:06]  And United's getting a third of that 5,000.
+[13:06 - 13:13]  So they're still getting thousands of people a day that are signing up on United and they can more specifically target them now.
+[13:13 - 13:14]  Potentially.
+[13:14 - 13:15]  This is all theoretical.
+[13:15 - 13:15]  Okay.
+[13:15 - 13:35]  And then finally, you could, United could create a really high performance network because not only do you know the individuals, but you also know how many procedures and tests, you know, all of the ordering habits and the procedure habits and the clinical practice of all the physicians.
+[13:35 - 13:47]  Right now, United knows that for all the United claims coming through, but it's got big holes for all the claims that the doctors are sending out to Blue Cross and Aetna and Cigna.
+[13:47 - 13:57]  And so now they can see all that and they can say, okay, well, we know that this orthopedist over here that like nine times out of 10, they end up taking to the patient to the OR.
+[13:57 - 14:04]  Or if you see a gastroenterologist as a new patient, this particular GI doc literally takes them to get a scope every time.
+[14:04 - 14:13]  Or if you go to see this cardiologist, this cardiologist like literally does a nuclear stress test for eight grand for like every single new patient person that comes into his office.
+[14:13 - 14:14]  Now those are extreme.
+[14:14 - 14:16]  And those are the outliers, you know, bell-shaped curve.
+[14:17 - 14:28]  But that's where, what if you could take out those 2%, 3% of doctors that order gobs of tests and do gobs of procedures that might arguably be too much?
+[14:28 - 14:34]  Well then shoot, you'd only have to narrow that network a very minuscule amount.
+[14:34 - 14:38]  Like you as a patient or as an employer, like you would barely even notice it.
+[14:38 - 14:40]  Like your employees wouldn't be up in arms about it.
+[14:40 - 14:44]  It wouldn't be a quote-unquote narrow network because you've only gotten rid of like 2% or 3% of the doctors.
+[14:44 - 14:53]  But you've gotten rid of 2% or 3% of the doctors that order a vast majority more tests and procedures than their peers.
+[14:54 - 14:58]  And so that high-performance network would be the best of both worlds.
+[14:58 - 15:01]  It would be more cost-effective and it wouldn't be that narrow.
+[15:01 - 15:04]  So you wouldn't have to deal with a whole bunch of out-of-network doctors.
+[15:04 - 15:07]  So again, that's all theoretical and I'm just getting warmed up.
+[15:07 - 15:09]  There's gobs of other ways you could use this data.
+[15:09 - 15:17]  If you had the commercially insured data for every single commercial life in America to then analyze,
+[15:17 - 15:21]  and you were a health insurance company, you could do gobs of things with it.
+[15:21 - 15:24]  And so that's potentially why, this is just in my opinion,
+[15:24 - 15:28]  that's potentially why United was so interested in the acquisition of Change Healthcare,
+[15:29 - 15:31]  and why the Department of Justice was trying to stop it.
+[15:31 - 15:32]  And that's my point for today.
+[15:33 - 15:34]  Thank you for watching A Healthcare Z.

@@ -1,0 +1,136 @@
+Title: Musculoskeletal Patient Progression - How Acute and Chronic Orthopedic Issues Are Addressed
+URL: https://www.youtube.com/watch?v=0Ho2NfBqLIA
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing the musculoskeletal patient progression. So this is last in the series of three major diagnostic categories for employer, the first one being cancer, the second one being cardiac, and now the third one being musculoskeletal. Now typically, musculoskeletal symptoms will initially manifest themselves as pain and decreased mobility. Sometimes it's only pain, sometimes it's only decreased mobility, but typically it's a combination of the two. And that's a big deal. The discomfort and the suffering that occur with pain and decreased mobility are a big deal. And also the other health problems that come as a consequence, especially of decreased mobility, are things like weight gain, which comes with then concomitant diabetes. There are major problems in regards to even like pressure ulcers if your decreased mobility is severe enough. Okay, so movement is a big deal. Now, it typically manifests itself in two ways. There, it's either acute or it's chronic pain and decreased mobility. Now, acute is typically in the form of an acute injury like a fracture or a tear of a ligament with a prototypical one being like the ACL tear from something like a sports accident. Okay? Now, then you have chronic, which is typically in the form of degenerative joint disease, or what is abbreviated DJD, which is also another way of saying osteoarthritis. Okay, so this is not rheumatoid arthritis, but arthritis is swelling and inflammation of the joints, and it is due to degeneration. In other words, it's wear and tear in old age. All right. Where does this typically happen? It happens in the weight-bearing joints of the spine, the knees, and the hips. So, yes, the spine is actually a joint, right? Because you have all these vertebrae, and your spine obviously moves, and so, and obviously, your spine bears weight. So, your spine is actually a huge weight-bearing joint or multiple joints. Now, we're going to spend the rest of the time talking about the patient progression for here, for chronic DJD, and not for acute, because this is the area that involves most of an employer's spend and their employees when they have challenges. Okay. Now, they will either find their way to a primary care physician, or they will go to an orthopedist, or they will go to, sometimes, to a neurosurgeon, because neurosurgeons, actually, the majority of what they do actually relates to the spine. It's not as much the brain. It's much more so with the spine. Okay. And even if they go to the PCP, PCPs are notoriously not so hot at diagnosis and treatment of chronic degenerative joint disease. So, it's highly likely that they would end up referring one to an orthopedist. That's just my opinion. Other people might think differently. Now, when that orthopedist or that neurosurgeon does the initial evaluation, almost by de facto, they are going to order imaging in the form of either an MRI or a CT scan. The most common ones being, there's actually only four of them that are incredibly common. They are MRI without contrast for the lower extremity, MRI of the lumbar spine without IV contrast spine, MRI of the cervical spine without contrast side. And then if they're evaluating scoliosis, they might also do the thoracic spine as well. I will add plain x-rays in there too, but I didn't write that down because those are typically pretty inexpensive. They can be anywhere from $150 to $250, whereas the MRIs and the CTs, the advanced imaging, can be on the order of $1,500, $2,000, $3,000. Okay, so after the imaging is done, then it'll be this decision tree right here of whether it's just medication therapy, physical therapy, or pain management. Now, medication therapy, I also include like in-office injections. So it's very common for the orthopedist or the neurosurgeon to then do an in-office steroid injection into the knee or to the hip. They also have what we refer to as hyaluronic acids. So you can think of that as like the grease or the lubricant within a joint. So they'll do injections of that as well, physical therapy. And then the pain management doctor, pain management is actually a subspecialty of anesthesia, but a fair number of PM&R, physical medicine and rehabilitation doctors also do pain management as well. And they will also do injections of joints. And when I say injections of joints, that includes injections of the spine, cervical spine and lumbar spine as well. Okay, so that's one branch point. And then the next branch point is, or they'll take you to surgery. Okay, and typically that surgery is done on the lumbar spine, the cervical spine, or for scoliosis for spine surgery. And again, that can either be performed by orthospine. So again, there's general orthopedics. And oftentimes here, a person will be referred to a quote unquote general orthopedist. But typically, if one requires spine surgery, there actually is a subspecialty of orthopedics, which is orthopedic spine, and then neurosurgery as well. So those are the two areas that typically we'll do. They will do like laminectomies or discectomies. They will do fusions. Okay, so those are the, and then for scoliosis, I put that on there because there is more and more adult treatment of scoliosis, which is a lateral curvature of the spine. And it involves essentially breaking almost the entire back and then realigning it and re-straightening it and putting tons of rods in to a new straightened spine. So it is incredibly expensive. It's typically over a six-figure hospital stay over well over $100,000. It involves an ICU stay. Oftentimes people are in the hospital for a week. And so I've seen these more and more in the claims of employers. Now, or the other weight-bearing joints will be the knees and the hips. And that's where you could actually get a joint replacement. A knee replacement is a TKA or a total knee arthroplasty. Arthroplasty means to change the joint. So they're changing the joint because they're putting an artificial joint in. And then a THA, which is a total hip arthroplasty. Now, you can go to just a general orthopedist for this. They oftentimes will do joint replacement. However, there actually are orthopedists that have gone on and done a fellowship specifically in hip and knee arthroplasty or joint replacements. So just know that those are your typical choices that you'll have. Then you'll go back typically to medical management, physical therapy afterwards, maybe even, again, a lot of times the spine surgery may not be successful. You may have pain. So oftentimes these folks go back to pain doctors after that and then ultimately back home to the primary care physician. So at the end of the day, this patient progression for musculoskeletal, it's actually not that complicated. It's like, okay, is it acute or chronic? And then if it's chronic, do you go see a PCP first or do you go straight to somebody who's going to intervene? And then if you go to somebody who intervenes, you're going to get imaging. And then you're going to make a decision based upon that imaging and the exam and the symptoms of, okay, is it medical management or is it surgery? And then if it's surgery, is it like on the spine or is it on the knee? And that's kind of it. Like it is not, now this is obviously, you know, like bone cancer. There's other things as well. But at the end of the day, it's actually fairly straightforward and similar to cardiac and similar to cancer. It actually places within this flow that employers can intervene to increase the quality and decrease the cost of the musculoskeletal care of their employees. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:09]  Today we're going to be discussing the musculoskeletal patient progression.
+[0:09 - 0:14]  So this is last in the series of three major diagnostic categories for employer,
+[0:14 - 0:16]  the first one being cancer, the second one being cardiac,
+[0:16 - 0:18]  and now the third one being musculoskeletal.
+[0:19 - 0:25]  Now typically, musculoskeletal symptoms will initially manifest themselves as pain and decreased mobility.
+[0:26 - 0:28]  Sometimes it's only pain, sometimes it's only decreased mobility,
+[0:28 - 0:30]  but typically it's a combination of the two.
+[0:31 - 0:32]  And that's a big deal.
+[0:32 - 0:38]  The discomfort and the suffering that occur with pain and decreased mobility are a big deal.
+[0:39 - 0:42]  And also the other health problems that come as a consequence,
+[0:42 - 0:46]  especially of decreased mobility, are things like weight gain,
+[0:47 - 0:49]  which comes with then concomitant diabetes.
+[0:50 - 0:55]  There are major problems in regards to even like pressure ulcers if your decreased mobility is severe enough.
+[0:55 - 0:57]  Okay, so movement is a big deal.
+[0:57 - 1:00]  Now, it typically manifests itself in two ways.
+[1:00 - 1:03]  There, it's either acute or it's chronic pain and decreased mobility.
+[1:04 - 1:08]  Now, acute is typically in the form of an acute injury like a fracture or a tear of a ligament
+[1:08 - 1:13]  with a prototypical one being like the ACL tear from something like a sports accident.
+[1:13 - 1:13]  Okay?
+[1:14 - 1:18]  Now, then you have chronic, which is typically in the form of degenerative joint disease,
+[1:18 - 1:23]  or what is abbreviated DJD, which is also another way of saying osteoarthritis.
+[1:23 - 1:28]  Okay, so this is not rheumatoid arthritis, but arthritis is swelling and inflammation of the joints,
+[1:28 - 1:30]  and it is due to degeneration.
+[1:30 - 1:33]  In other words, it's wear and tear in old age.
+[1:33 - 1:34]  All right.
+[1:34 - 1:35]  Where does this typically happen?
+[1:35 - 1:40]  It happens in the weight-bearing joints of the spine, the knees, and the hips.
+[1:40 - 1:42]  So, yes, the spine is actually a joint, right?
+[1:42 - 1:47]  Because you have all these vertebrae, and your spine obviously moves, and so, and obviously,
+[1:47 - 1:48]  your spine bears weight.
+[1:49 - 1:53]  So, your spine is actually a huge weight-bearing joint or multiple joints.
+[1:54 - 1:57]  Now, we're going to spend the rest of the time talking about the patient progression for here,
+[1:57 - 2:04]  for chronic DJD, and not for acute, because this is the area that involves most of an employer's
+[2:04 - 2:06]  spend and their employees when they have challenges.
+[2:06 - 2:07]  Okay.
+[2:07 - 2:12]  Now, they will either find their way to a primary care physician, or they will go to an orthopedist,
+[2:12 - 2:16]  or they will go to, sometimes, to a neurosurgeon, because neurosurgeons, actually, the majority
+[2:16 - 2:19]  of what they do actually relates to the spine.
+[2:19 - 2:20]  It's not as much the brain.
+[2:20 - 2:22]  It's much more so with the spine.
+[2:22 - 2:22]  Okay.
+[2:23 - 2:29]  And even if they go to the PCP, PCPs are notoriously not so hot at diagnosis and treatment of chronic
+[2:29 - 2:30]  degenerative joint disease.
+[2:30 - 2:35]  So, it's highly likely that they would end up referring one to an orthopedist.
+[2:35 - 2:35]  That's just my opinion.
+[2:35 - 2:36]  Other people might think differently.
+[2:37 - 2:43]  Now, when that orthopedist or that neurosurgeon does the initial evaluation, almost by de facto,
+[2:43 - 2:47]  they are going to order imaging in the form of either an MRI or a CT scan.
+[2:47 - 2:51]  The most common ones being, there's actually only four of them that are incredibly common.
+[2:52 - 3:00]  They are MRI without contrast for the lower extremity, MRI of the lumbar spine without IV contrast
+[3:00 - 3:03]  spine, MRI of the cervical spine without contrast side.
+[3:03 - 3:07]  And then if they're evaluating scoliosis, they might also do the thoracic spine as well.
+[3:08 - 3:11]  I will add plain x-rays in there too, but I didn't write that down because those are
+[3:11 - 3:12]  typically pretty inexpensive.
+[3:13 - 3:21]  They can be anywhere from $150 to $250, whereas the MRIs and the CTs, the advanced imaging, can
+[3:21 - 3:24]  be on the order of $1,500, $2,000, $3,000.
+[3:24 - 3:29]  Okay, so after the imaging is done, then it'll be this decision tree right here of whether
+[3:29 - 3:32]  it's just medication therapy, physical therapy, or pain management.
+[3:32 - 3:36]  Now, medication therapy, I also include like in-office injections.
+[3:36 - 3:41]  So it's very common for the orthopedist or the neurosurgeon to then do an in-office steroid
+[3:41 - 3:42]  injection into the knee or to the hip.
+[3:42 - 3:46]  They also have what we refer to as hyaluronic acids.
+[3:46 - 3:49]  So you can think of that as like the grease or the lubricant within a joint.
+[3:50 - 3:54]  So they'll do injections of that as well, physical therapy.
+[3:54 - 3:59]  And then the pain management doctor, pain management is actually a subspecialty of anesthesia, but
+[3:59 - 4:04]  a fair number of PM&R, physical medicine and rehabilitation doctors also do pain management
+[4:04 - 4:05]  as well.
+[4:05 - 4:09]  And they will also do injections of joints.
+[4:09 - 4:13]  And when I say injections of joints, that includes injections of the spine, cervical spine
+[4:13 - 4:15]  and lumbar spine as well.
+[4:15 - 4:16]  Okay, so that's one branch point.
+[4:16 - 4:19]  And then the next branch point is, or they'll take you to surgery.
+[4:19 - 4:24]  Okay, and typically that surgery is done on the lumbar spine, the cervical spine, or for
+[4:24 - 4:27]  scoliosis for spine surgery.
+[4:27 - 4:30]  And again, that can either be performed by orthospine.
+[4:30 - 4:31]  So again, there's general orthopedics.
+[4:31 - 4:36]  And oftentimes here, a person will be referred to a quote unquote general orthopedist.
+[4:36 - 4:41]  But typically, if one requires spine surgery, there actually is a subspecialty of orthopedics,
+[4:41 - 4:44]  which is orthopedic spine, and then neurosurgery as well.
+[4:44 - 4:47]  So those are the two areas that typically we'll do.
+[4:47 - 4:50]  They will do like laminectomies or discectomies.
+[4:51 - 4:52]  They will do fusions.
+[4:53 - 4:57]  Okay, so those are the, and then for scoliosis, I put that on there because there is more and
+[4:57 - 5:02]  more adult treatment of scoliosis, which is a lateral curvature of the spine.
+[5:02 - 5:08]  And it involves essentially breaking almost the entire back and then realigning it and
+[5:08 - 5:13]  re-straightening it and putting tons of rods in to a new straightened spine.
+[5:14 - 5:15]  So it is incredibly expensive.
+[5:15 - 5:21]  It's typically over a six-figure hospital stay over well over $100,000.
+[5:21 - 5:22]  It involves an ICU stay.
+[5:23 - 5:24]  Oftentimes people are in the hospital for a week.
+[5:24 - 5:28]  And so I've seen these more and more in the claims of employers.
+[5:28 - 5:32]  Now, or the other weight-bearing joints will be the knees and the hips.
+[5:32 - 5:34]  And that's where you could actually get a joint replacement.
+[5:34 - 5:37]  A knee replacement is a TKA or a total knee arthroplasty.
+[5:38 - 5:39]  Arthroplasty means to change the joint.
+[5:39 - 5:42]  So they're changing the joint because they're putting an artificial joint in.
+[5:42 - 5:45]  And then a THA, which is a total hip arthroplasty.
+[5:45 - 5:48]  Now, you can go to just a general orthopedist for this.
+[5:48 - 5:51]  They oftentimes will do joint replacement.
+[5:51 - 5:56]  However, there actually are orthopedists that have gone on and done a fellowship specifically
+[5:56 - 5:59]  in hip and knee arthroplasty or joint replacements.
+[6:00 - 6:02]  So just know that those are your typical choices that you'll have.
+[6:02 - 6:07]  Then you'll go back typically to medical management, physical therapy afterwards, maybe even, again,
+[6:07 - 6:10]  a lot of times the spine surgery may not be successful.
+[6:10 - 6:11]  You may have pain.
+[6:11 - 6:16]  So oftentimes these folks go back to pain doctors after that and then ultimately back home
+[6:16 - 6:17]  to the primary care physician.
+[6:17 - 6:22]  So at the end of the day, this patient progression for musculoskeletal, it's actually not that
+[6:22 - 6:23]  complicated.
+[6:23 - 6:24]  It's like, okay, is it acute or chronic?
+[6:24 - 6:27]  And then if it's chronic, do you go see a PCP first or do you go straight to somebody
+[6:27 - 6:28]  who's going to intervene?
+[6:29 - 6:31]  And then if you go to somebody who intervenes, you're going to get imaging.
+[6:31 - 6:36]  And then you're going to make a decision based upon that imaging and the exam and the symptoms
+[6:36 - 6:39]  of, okay, is it medical management or is it surgery?
+[6:39 - 6:42]  And then if it's surgery, is it like on the spine or is it on the knee?
+[6:42 - 6:43]  And that's kind of it.
+[6:43 - 6:46]  Like it is not, now this is obviously, you know, like bone cancer.
+[6:46 - 6:47]  There's other things as well.
+[6:47 - 6:52]  But at the end of the day, it's actually fairly straightforward and similar to cardiac
+[6:52 - 6:53]  and similar to cancer.
+[6:53 - 7:01]  It actually places within this flow that employers can intervene to increase the quality and decrease
+[7:01 - 7:05]  the cost of the musculoskeletal care of their employees.
+[7:05 - 7:06]  And that's my point for today.
+[7:06 - 7:08]  Thank you for watching A Healthcare Z.

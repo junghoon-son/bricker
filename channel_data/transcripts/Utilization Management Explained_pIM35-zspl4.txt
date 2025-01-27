@@ -1,0 +1,286 @@
+Title: Utilization Management Explained
+URL: https://www.youtube.com/watch?v=pIM35-zspl4
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is utilization management, oftentimes abbreviated UM. If you work in healthcare and health insurance, then you have to know what utilization management is. It's essentially a fundamental in how the money works in healthcare. So what is utilization management? It is what is called managing bed days at a hospital. What in the world does that mean? So, believe it or not, a hospital actually has to go to the commercial insurance payer for the individual, Blue Cross United, Cigna, Aetna, Medicare Advantage plan, what have you, and say, hey, so-and-so is here and they have to get approval for payment for a certain number of days at the hospital. The insurance company doesn't just say, okay, the person's in the hospital, we'll just pay for it. They say, okay, so-and-so is in the hospital, we'll pay for it for a day or two days or five days. So it's based upon clinical criteria. So literally there are utilization management, sometimes they're called case management nurses, at the hospital that literally phone call and give report. They like pull the chart, you know, on the computer, they like literally pull the paper chart, and they read the doctor's notes and they tell the insurance company what's going on with the patient. And they say, okay, the person's not got pneumonia, and the insurance company says, okay, well, we'll approve you for three days. Or they've got a cellulitis, which is a skin infection, we'll approve you for two days. Or a scoliosis surgery, which is more significant, we'll approve you for five days. Now, let's say the person has to stay for more than three days for your pneumonia. I mean, nobody can predict the future. The insurance company can't predict the future. The doctor can't predict the future. I mean, if I can only tell you how many times I admitted a patient with pneumonia, and then all of a sudden their stay took a turn for the worse. Like, sometimes that happens. Their heart might go into atrial fibrillation with rapid ventricular response, which then causes pulmonary edema, which worsens their oxygenation status. And all of that could happen on hospital day three, when we're about to send them home. Oh, you're looking great, Mr. or Mrs. Smith. Oh, no. You're an AFib with RVR, and you've got new pulmonary edema. Guess what? There's no way you're going to be able to be discharged to home. So I write that in my note. I put in the orders for, you know, diltiazem, drip, or whatever. And then the nurse from the hospital has to call them, the insurance company again, and say, oh, you know, so-and-so, Mr. so-and-so, Mrs. so-and-so, they're not doing so, yada, yada, yada. And then the insurance has to approve them for, like, more days. Oh, AFib with RVR, with pulmonary edema. Okay. Now we'll give you an extra two days on top of the original three days. Okay. So, like, you literally have to go through this whole rigmarole. Now, to make things even worse, it doesn't always happen. The hospital doesn't always have their act together. So sometimes the person stays for five days. They only got to approve for three days. So when the hospital bills the insurance company, the insurance company pays for three days, denies the last two. So there's a remaining patient balance gets what the hospital does with those remaining two days. They automatically bill the patient. And so the patient's like, oh, look at this, a bill for $20,000 that I was not expecting. By the way, the No Surprises Act doesn't stop this from happening at all. So believe me, people will still get surprise bills after the No Surprises Act because of the denial of bed days because of utilization management from the insurance company. Okay. So there's a couple of ways that people generally get into the hospital. One is through ER admits, right? They would either admit them to medicine typically, or sometimes they would admit them to surgery. Now, there, the hospital has to go through a process called insurance notification, right? Because you don't know in advance that Mr. Smith's going to be in the hospital. They just come into the ER. And this causes a problem because people are admitted to the hospital seven days a week, 24 hours a day. These case management nurses do not work typically on weekends and holidays, and they don't work overnight. So you end up getting this backlog over the nights and weekends and holidays. So this whole process of notification doesn't happen smoothly. So sometimes the patient gets admitted, and they turn around real quick, and they get discharged. And the hospital, like, never even notified the insurance company that the patient was even there. But then they go ahead and they bill the insurance company anyway. And then the insurance company automatically denies it for lack of notification. So it is not a smooth process, okay? Next up, then there's also elective inpatient surgeries. Now, elective doesn't necessarily mean optional. Like, you could have colon cancer and need a hemicolectomy, which is half of your colon taken out, to remove the colon cancer. Okay, that's elective surgery. Okay, it's not optional, but it's not emergency surgery. So it's still considered elective. Okay, well, there, or even for, like, that scoliosis surgery example, you've got to get prior authorization. And when they prior authorize you, again, they're giving you authorization for a certain number of days. They're not saying, oh, well, you can just have as long of a stay in the hospital as you want. They're like, okay, you're approved for the scoliosis surgery, but you're only getting five days for that. And again, if the person's scoliosis surgery has a complication or whatever, you can call back and ask for more days beyond the five. Oh, by the way, the insurance company doesn't have to give you more days. They could be like, like, no, like the patient doesn't fulfill requirements for hospitalization anymore. So, yeah, they're in for five days. You're asking for more. But guess what? We're not going to approve that. Like, we don't have to approve that if we don't want to. So they'll deny it. Okay. So that begs the question, then, where do these numbers come from? Who decides pneumonias, three days, seven cellulitis, you know, two days, scoliosis, fighting? Like, who decides that? There are two major companies in America that provide that. They are Interqual and MCG Care Guidelines. Now, Interqual, anecdotally from the people that I talked to on the insurance and the hospital side, Interqual seems to be the one that's used more frequently. Now, Interqual, interestingly, is owned by Change Healthcare, which was recently bought by Optum, which is owned by United Health Group. So there you go. The largest provider of utilization management standard approval days in America is United Health Group. Interqual used to be a part of McKesson for decades. It was a part of McKesson. McKesson, Fortune 10 company in America, healthcare company. And then McKesson ended up selling it. It was kind of complicated, but actually not too many years ago. In the somewhat recent past, it was like five years ago, they sold it to Change Healthcare, and then Change Healthcare got bought by United Health Group. So a lot of the Interqual employees have been there, and they've got a long history with McKesson, and you'll see that they worked at Change Healthcare for like five years. Okay, so Interqual says that, okay, when they did this, it's evidence-based. All over the Interqual website, the evidence-based is everywhere. Okay, they don't say what the evidence is. They have some sort of circular framework that describes it in general, but they don't say specifically. They talk about literature reviews, but they don't say specifically. You can't say, okay, for pneumonia, what is the specific criteria? What are the studies? What is the evidence that you used for pneumonia? It's proprietary. You can't find it. They say that they use a thousand doctor reviewers, and it's not just, excuse me, clinical reviewers, and it's not just doctors. They also use registered non-physicians. I'm not sure what a registered non-physician is. Maybe registered nurse, but they just lump a thousand doctors and a thousand non-registered physicians together. Is it 200 doctors and 800 of the other? Is it 800 doctors, 200 of the other? Is it 999 doctors and just one of the other? They don't break it down. It's impossible to know how many of these people are doctors and how many of these are registered non-physicians, whatever that is. Okay, so who are these people? Interqual is not a nameless, faceless organization. It's people. People. It's Laura Coghlan. Okay, Laura Coghlan is the vice president of strategy there. Seems to be one of the highest level people that I could find at Interqual. She's got a BSN. Okay, there's no evidence of any clinical experience on her end on LinkedIn. Maybe she does. I'm not saying that she doesn't, but she doesn't list it anywhere in her profile. There's a woman by the name of Dr. Monique Johanan, who until very recently was the chief medical officer of Interqual. She went to Brown for medical school. And then she did an internal medicine residency in Boston. So it's like, I would encourage you to look up who these people are. It's not that hard to find them on LinkedIn. What's interesting is that, one, there's not a lot of them. So if you look up people on LinkedIn who work at Interqual, here's an incredibly large and powerful organization within healthcare. Like, it's really hard to find people. No, you're not required to put your information on LinkedIn. No one's requiring you to do that. I'm just saying, the people who work at Interqual are not on LinkedIn for the most part. Now, next up, MCG Care Guidelines, which is their sort of the competing firm. So typically a health insurance company, they will either use Interqual or the MCG Care Guidelines. And again, it used to be called the Milliman Care Guidelines, because it used to be owned by Milliman. But then Milliman sold it to Hearst. And now they just call it MCG Care Guidelines. So in other words, it's like the Milliman Care Guidelines care guidelines is kind of like what it's saying. Okay, but Milliman is no longer used in the title. It's just called MCG Care Guidelines, which is owned by Hearst Health. I've got another video about Hearst and Hearst Health. That's right. The Hearst, the media company that owns the St. Louis newspaper and the Houston Chronicle. It's a media company. Oh, by the way, they just happen to do utilization management, bed day standardization in America. Okay. Now, why am I making a big deal out of this? Like, why does it matter? Okay. Traditional Medicare doesn't do this. This does not exist for traditional Medicare. If you have traditional Medicare, there is no utilization management. If you have traditional Medicare, the nurse doesn't call Medicare and ask for bed days from traditional Medicare. No. Instead, traditional Medicare uses diagnosis-related group, DRG, prospective payment. This is, look, you got pneumonia? You stay as long as you want. Look, we're only going to pay you X number of dollars for that pneumonia. Five grand. You stay for a day. You stay for 100 days. You're getting five grand. So they just cut off how much they're going to pay you. And they say, look, we're not going to argue about bed days. You keep them as long as you clinically think is necessary. But we're only going to pay you X amount, independent of how long they stay. But this whole process of utilization management is applied to commercial insurance for employer-sponsored health insurance fans. So Blue Cars, United, Cigna, Aetna, through your job. You're a state employee. You're a firefighter. You're a police officer. You're a university professor. You're a school teacher. You're a construction worker. You're a software programmer. You get it. You name it. You're a health insurance company employee yourself. You yourself. It's your own health insurance company. You got utilization management for your own health insurance. Okay? Now, commercial insurance spends about $2,000 per member per year on inpatient services. And that's the most recent year I could find, which was 2016. In 2016, there were 150 million Americans, roughly half of Americans that received their health insurance coverage through employer-sponsored insurance. So if you take the $2,000 per person per year times the 150 million people, that gets you $300 billion that was spent on inpatient care in 2016, the most recent year I could find. Now, Medicare spends, traditional Medicare spends about $110 billion per year on inpatient care. That was per 2020. So I couldn't find exact years to match up. Okay. Now, keep in mind, Medicare Advantage uses utilization management. And let's say that Medicare and Medicare Advantage has about half, equal numbers of people on traditional Medicare and Medicare Advantage. So let's just assume that Medicare Advantage plans have about the same amount that they spend on inpatient care. Yeah, maybe it's a little less because they're doing better, keeping people healthy, yada, yada, yada. But let's just assume for round numbers that it's about $100 billion. If traditional Medicare is spending $110 billion, Medicare Advantage is spending $100 billion. So if you take the $300 billion from the employer-sponsored commercially insured plans, plus the $100 billion from the Medicare Advantage plans, that means $400 billion a year of spending runs through utilization management. Wow. $400 billion a year of spending runs through this process that is controlled by Laura Coghlan, Monique Yohanan, and their colleagues at both Interqual and MCG Care Guidelines. I would argue that these thousand doctors and registered non-physicians, these thousand, there's about a million doctors in America, okay? These thousand people are probably the most powerful people in healthcare in America. They are hugely responsible for how $400 billion a year is spent on hospital services. Okay. That is a huge deal. Very little is known about these companies. Very little is known about these people. And they have huge financial impacts on hospital care. Now, who's the grand high arbiter that made Interqual and MCG Care Guidelines made them king? Who made them king? Nobody made them king. The hospitals, when they negotiate their contracts with the insurance companies, the insurance companies said, you've got to agree to our utilization management. Guess what? The hospitals agree to it. The hospitals could reject this. The hospitals could reject this. Now, obviously, this is very onerous on the hospitals. So I would argue that the insurance carriers are really sticklers about utilization management being in the contract. If you're a hospital negotiator, like, you would want to negotiate out having to do this. But they haven't. The hospitals have not walked away from this utilization management process. I'm not saying go without any utilization management process. Maybe replace it with something else. There could be a third option. You could call it MCG Qual or InterCare or whatever. But, like, the fact that these two are the only two shows a lack of competition. There should be more competition in creating these number of days. Competition's good, right? Why in the world do we only have two organizations creating these number of days? Because hospitals in America have accepted that. I don't know why. Maybe you know why. Leave a comment in the show notes. Help us out. But if we work in healthcare and healthcare finance, we have to understand utilization management. That's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:05 - 0:10]  Today's topic is utilization management, oftentimes abbreviated UM.
+[0:11 - 0:16]  If you work in healthcare and health insurance, then you have to know what utilization management is.
+[0:16 - 0:21]  It's essentially a fundamental in how the money works in healthcare.
+[0:21 - 0:23]  So what is utilization management?
+[0:23 - 0:27]  It is what is called managing bed days at a hospital.
+[0:27 - 0:29]  What in the world does that mean?
+[0:29 - 0:37]  So, believe it or not, a hospital actually has to go to the commercial insurance payer for the individual,
+[0:37 - 0:40]  Blue Cross United, Cigna, Aetna, Medicare Advantage plan, what have you,
+[0:40 - 0:49]  and say, hey, so-and-so is here and they have to get approval for payment for a certain number of days at the hospital.
+[0:49 - 0:53]  The insurance company doesn't just say, okay, the person's in the hospital, we'll just pay for it.
+[0:53 - 0:59]  They say, okay, so-and-so is in the hospital, we'll pay for it for a day or two days or five days.
+[1:00 - 1:02]  So it's based upon clinical criteria.
+[1:02 - 1:08]  So literally there are utilization management, sometimes they're called case management nurses,
+[1:08 - 1:14]  at the hospital that literally phone call and give report.
+[1:14 - 1:18]  They like pull the chart, you know, on the computer, they like literally pull the paper chart,
+[1:19 - 1:25]  and they read the doctor's notes and they tell the insurance company what's going on with the patient.
+[1:26 - 1:30]  And they say, okay, the person's not got pneumonia, and the insurance company says, okay, well, we'll approve you for three days.
+[1:30 - 1:34]  Or they've got a cellulitis, which is a skin infection, we'll approve you for two days.
+[1:34 - 1:40]  Or a scoliosis surgery, which is more significant, we'll approve you for five days.
+[1:40 - 1:44]  Now, let's say the person has to stay for more than three days for your pneumonia.
+[1:44 - 1:46]  I mean, nobody can predict the future.
+[1:47 - 1:48]  The insurance company can't predict the future.
+[1:49 - 1:51]  The doctor can't predict the future.
+[1:51 - 1:55]  I mean, if I can only tell you how many times I admitted a patient with pneumonia,
+[1:55 - 1:58]  and then all of a sudden their stay took a turn for the worse.
+[1:58 - 2:01]  Like, sometimes that happens.
+[2:01 - 2:08]  Their heart might go into atrial fibrillation with rapid ventricular response,
+[2:08 - 2:13]  which then causes pulmonary edema, which worsens their oxygenation status.
+[2:13 - 2:17]  And all of that could happen on hospital day three, when we're about to send them home.
+[2:17 - 2:19]  Oh, you're looking great, Mr. or Mrs. Smith.
+[2:19 - 2:20]  Oh, no.
+[2:21 - 2:25]  You're an AFib with RVR, and you've got new pulmonary edema.
+[2:25 - 2:25]  Guess what?
+[2:25 - 2:29]  There's no way you're going to be able to be discharged to home.
+[2:29 - 2:30]  So I write that in my note.
+[2:30 - 2:34]  I put in the orders for, you know, diltiazem, drip, or whatever.
+[2:34 - 2:39]  And then the nurse from the hospital has to call them, the insurance company again,
+[2:39 - 2:44]  and say, oh, you know, so-and-so, Mr. so-and-so, Mrs. so-and-so, they're not doing so, yada, yada, yada.
+[2:44 - 2:47]  And then the insurance has to approve them for, like, more days.
+[2:47 - 2:49]  Oh, AFib with RVR, with pulmonary edema.
+[2:49 - 2:49]  Okay.
+[2:50 - 2:52]  Now we'll give you an extra two days on top of the original three days.
+[2:52 - 2:53]  Okay.
+[2:53 - 2:55]  So, like, you literally have to go through this whole rigmarole.
+[2:55 - 2:59]  Now, to make things even worse, it doesn't always happen.
+[2:59 - 3:00]  The hospital doesn't always have their act together.
+[3:01 - 3:02]  So sometimes the person stays for five days.
+[3:02 - 3:04]  They only got to approve for three days.
+[3:04 - 3:08]  So when the hospital bills the insurance company, the insurance company pays for three days,
+[3:08 - 3:10]  denies the last two.
+[3:10 - 3:15]  So there's a remaining patient balance gets what the hospital does with those remaining two days.
+[3:15 - 3:17]  They automatically bill the patient.
+[3:17 - 3:22]  And so the patient's like, oh, look at this, a bill for $20,000 that I was not expecting.
+[3:22 - 3:26]  By the way, the No Surprises Act doesn't stop this from happening at all.
+[3:26 - 3:32]  So believe me, people will still get surprise bills after the No Surprises Act
+[3:32 - 3:36]  because of the denial of bed days because of utilization management from the insurance company.
+[3:36 - 3:37]  Okay.
+[3:37 - 3:40]  So there's a couple of ways that people generally get into the hospital.
+[3:40 - 3:42]  One is through ER admits, right?
+[3:42 - 3:46]  They would either admit them to medicine typically, or sometimes they would admit them to surgery.
+[3:47 - 3:52]  Now, there, the hospital has to go through a process called insurance notification, right?
+[3:52 - 3:55]  Because you don't know in advance that Mr. Smith's going to be in the hospital.
+[3:55 - 3:57]  They just come into the ER.
+[3:57 - 4:03]  And this causes a problem because people are admitted to the hospital seven days a week, 24 hours a day.
+[4:03 - 4:09]  These case management nurses do not work typically on weekends and holidays, and they don't work overnight.
+[4:10 - 4:14]  So you end up getting this backlog over the nights and weekends and holidays.
+[4:14 - 4:18]  So this whole process of notification doesn't happen smoothly.
+[4:18 - 4:21]  So sometimes the patient gets admitted, and they turn around real quick, and they get discharged.
+[4:22 - 4:26]  And the hospital, like, never even notified the insurance company that the patient was even there.
+[4:26 - 4:29]  But then they go ahead and they bill the insurance company anyway.
+[4:29 - 4:33]  And then the insurance company automatically denies it for lack of notification.
+[4:34 - 4:37]  So it is not a smooth process, okay?
+[4:37 - 4:40]  Next up, then there's also elective inpatient surgeries.
+[4:40 - 4:42]  Now, elective doesn't necessarily mean optional.
+[4:42 - 4:50]  Like, you could have colon cancer and need a hemicolectomy, which is half of your colon taken out, to remove the colon cancer.
+[4:50 - 4:52]  Okay, that's elective surgery.
+[4:52 - 4:54]  Okay, it's not optional, but it's not emergency surgery.
+[4:54 - 4:56]  So it's still considered elective.
+[4:56 - 5:00]  Okay, well, there, or even for, like, that scoliosis surgery example, you've got to get prior authorization.
+[5:01 - 5:05]  And when they prior authorize you, again, they're giving you authorization for a certain number of days.
+[5:05 - 5:08]  They're not saying, oh, well, you can just have as long of a stay in the hospital as you want.
+[5:08 - 5:12]  They're like, okay, you're approved for the scoliosis surgery, but you're only getting five days for that.
+[5:12 - 5:19]  And again, if the person's scoliosis surgery has a complication or whatever, you can call back and ask for more days beyond the five.
+[5:19 - 5:22]  Oh, by the way, the insurance company doesn't have to give you more days.
+[5:22 - 5:27]  They could be like, like, no, like the patient doesn't fulfill requirements for hospitalization anymore.
+[5:28 - 5:29]  So, yeah, they're in for five days.
+[5:29 - 5:30]  You're asking for more.
+[5:30 - 5:30]  But guess what?
+[5:31 - 5:32]  We're not going to approve that.
+[5:32 - 5:34]  Like, we don't have to approve that if we don't want to.
+[5:34 - 5:35]  So they'll deny it.
+[5:36 - 5:36]  Okay.
+[5:36 - 5:41]  So that begs the question, then, where do these numbers come from?
+[5:41 - 5:47]  Who decides pneumonias, three days, seven cellulitis, you know, two days, scoliosis, fighting?
+[5:47 - 5:48]  Like, who decides that?
+[5:48 - 5:52]  There are two major companies in America that provide that.
+[5:52 - 5:55]  They are Interqual and MCG Care Guidelines.
+[5:56 - 5:59]  Now, Interqual, anecdotally from the people that I talked to on the insurance and the hospital side,
+[5:59 - 6:02]  Interqual seems to be the one that's used more frequently.
+[6:02 - 6:09]  Now, Interqual, interestingly, is owned by Change Healthcare, which was recently bought by Optum, which is owned by United Health Group.
+[6:09 - 6:10]  So there you go.
+[6:10 - 6:18]  The largest provider of utilization management standard approval days in America is United Health Group.
+[6:19 - 6:22]  Interqual used to be a part of McKesson for decades.
+[6:23 - 6:24]  It was a part of McKesson.
+[6:24 - 6:27]  McKesson, Fortune 10 company in America, healthcare company.
+[6:28 - 6:30]  And then McKesson ended up selling it.
+[6:31 - 6:33]  It was kind of complicated, but actually not too many years ago.
+[6:34 - 6:37]  In the somewhat recent past, it was like five years ago, they sold it to Change Healthcare,
+[6:37 - 6:40]  and then Change Healthcare got bought by United Health Group.
+[6:41 - 6:47]  So a lot of the Interqual employees have been there, and they've got a long history with McKesson,
+[6:47 - 6:50]  and you'll see that they worked at Change Healthcare for like five years.
+[6:51 - 6:54]  Okay, so Interqual says that, okay, when they did this, it's evidence-based.
+[6:54 - 6:57]  All over the Interqual website, the evidence-based is everywhere.
+[6:57 - 6:59]  Okay, they don't say what the evidence is.
+[6:59 - 7:03]  They have some sort of circular framework that describes it in general,
+[7:03 - 7:05]  but they don't say specifically.
+[7:05 - 7:08]  They talk about literature reviews, but they don't say specifically.
+[7:08 - 7:12]  You can't say, okay, for pneumonia, what is the specific criteria?
+[7:12 - 7:13]  What are the studies?
+[7:13 - 7:17]  What is the evidence that you used for pneumonia?
+[7:17 - 7:18]  It's proprietary.
+[7:18 - 7:19]  You can't find it.
+[7:19 - 7:23]  They say that they use a thousand doctor reviewers,
+[7:23 - 7:25]  and it's not just, excuse me, clinical reviewers,
+[7:25 - 7:26]  and it's not just doctors.
+[7:26 - 7:29]  They also use registered non-physicians.
+[7:29 - 7:31]  I'm not sure what a registered non-physician is.
+[7:31 - 7:35]  Maybe registered nurse, but they just lump a thousand doctors
+[7:35 - 7:39]  and a thousand non-registered physicians together.
+[7:39 - 7:42]  Is it 200 doctors and 800 of the other?
+[7:42 - 7:44]  Is it 800 doctors, 200 of the other?
+[7:44 - 7:47]  Is it 999 doctors and just one of the other?
+[7:47 - 7:48]  They don't break it down.
+[7:48 - 7:50]  It's impossible to know how many of these people are doctors
+[7:50 - 7:53]  and how many of these are registered non-physicians, whatever that is.
+[7:53 - 7:55]  Okay, so who are these people?
+[7:56 - 7:58]  Interqual is not a nameless, faceless organization.
+[7:58 - 7:59]  It's people.
+[8:00 - 8:00]  People.
+[8:01 - 8:02]  It's Laura Coghlan.
+[8:03 - 8:07]  Okay, Laura Coghlan is the vice president of strategy there.
+[8:07 - 8:10]  Seems to be one of the highest level people that I could find at Interqual.
+[8:10 - 8:11]  She's got a BSN.
+[8:12 - 8:16]  Okay, there's no evidence of any clinical experience on her end on LinkedIn.
+[8:17 - 8:18]  Maybe she does.
+[8:18 - 8:21]  I'm not saying that she doesn't, but she doesn't list it anywhere in her profile.
+[8:21 - 8:30]  There's a woman by the name of Dr. Monique Johanan, who until very recently was the chief medical officer of Interqual.
+[8:30 - 8:32]  She went to Brown for medical school.
+[8:32 - 8:35]  And then she did an internal medicine residency in Boston.
+[8:35 - 8:39]  So it's like, I would encourage you to look up who these people are.
+[8:39 - 8:41]  It's not that hard to find them on LinkedIn.
+[8:41 - 8:44]  What's interesting is that, one, there's not a lot of them.
+[8:44 - 8:51]  So if you look up people on LinkedIn who work at Interqual, here's an incredibly large and powerful organization within healthcare.
+[8:51 - 8:53]  Like, it's really hard to find people.
+[8:53 - 8:56]  No, you're not required to put your information on LinkedIn.
+[8:56 - 8:57]  No one's requiring you to do that.
+[8:57 - 9:01]  I'm just saying, the people who work at Interqual are not on LinkedIn for the most part.
+[9:01 - 9:05]  Now, next up, MCG Care Guidelines, which is their sort of the competing firm.
+[9:06 - 9:10]  So typically a health insurance company, they will either use Interqual or the MCG Care Guidelines.
+[9:10 - 9:17]  And again, it used to be called the Milliman Care Guidelines, because it used to be owned by Milliman.
+[9:17 - 9:19]  But then Milliman sold it to Hearst.
+[9:19 - 9:22]  And now they just call it MCG Care Guidelines.
+[9:22 - 9:26]  So in other words, it's like the Milliman Care Guidelines care guidelines is kind of like what it's saying.
+[9:26 - 9:29]  Okay, but Milliman is no longer used in the title.
+[9:29 - 9:32]  It's just called MCG Care Guidelines, which is owned by Hearst Health.
+[9:32 - 9:34]  I've got another video about Hearst and Hearst Health.
+[9:34 - 9:35]  That's right.
+[9:35 - 9:41]  The Hearst, the media company that owns the St. Louis newspaper and the Houston Chronicle.
+[9:41 - 9:43]  It's a media company.
+[9:44 - 9:51]  Oh, by the way, they just happen to do utilization management, bed day standardization in America.
+[9:51 - 9:51]  Okay.
+[9:52 - 9:55]  Now, why am I making a big deal out of this?
+[9:55 - 9:57]  Like, why does it matter?
+[9:57 - 9:57]  Okay.
+[9:58 - 10:00]  Traditional Medicare doesn't do this.
+[10:01 - 10:03]  This does not exist for traditional Medicare.
+[10:03 - 10:06]  If you have traditional Medicare, there is no utilization management.
+[10:06 - 10:10]  If you have traditional Medicare, the nurse doesn't call Medicare and ask for bed days from
+[10:10 - 10:11]  traditional Medicare.
+[10:11 - 10:11]  No.
+[10:12 - 10:17]  Instead, traditional Medicare uses diagnosis-related group, DRG, prospective payment.
+[10:18 - 10:19]  This is, look, you got pneumonia?
+[10:19 - 10:21]  You stay as long as you want.
+[10:21 - 10:24]  Look, we're only going to pay you X number of dollars for that pneumonia.
+[10:25 - 10:25]  Five grand.
+[10:26 - 10:27]  You stay for a day.
+[10:27 - 10:29]  You stay for 100 days.
+[10:29 - 10:30]  You're getting five grand.
+[10:30 - 10:33]  So they just cut off how much they're going to pay you.
+[10:34 - 10:35]  And they say, look, we're not going to argue about bed days.
+[10:35 - 10:37]  You keep them as long as you clinically think is necessary.
+[10:37 - 10:41]  But we're only going to pay you X amount, independent of how long they stay.
+[10:42 - 10:47]  But this whole process of utilization management is applied to commercial insurance for employer-sponsored
+[10:47 - 10:48]  health insurance fans.
+[10:48 - 10:51]  So Blue Cars, United, Cigna, Aetna, through your job.
+[10:51 - 10:52]  You're a state employee.
+[10:52 - 10:52]  You're a firefighter.
+[10:52 - 10:53]  You're a police officer.
+[10:54 - 10:55]  You're a university professor.
+[10:55 - 10:56]  You're a school teacher.
+[10:56 - 10:57]  You're a construction worker.
+[10:57 - 10:59]  You're a software programmer.
+[10:59 - 11:01]  You get it.
+[11:01 - 11:01]  You name it.
+[11:01 - 11:04]  You're a health insurance company employee yourself.
+[11:04 - 11:05]  You yourself.
+[11:05 - 11:06]  It's your own health insurance company.
+[11:06 - 11:08]  You got utilization management for your own health insurance.
+[11:08 - 11:08]  Okay?
+[11:08 - 11:15]  Now, commercial insurance spends about $2,000 per member per year on inpatient services.
+[11:16 - 11:18]  And that's the most recent year I could find, which was 2016.
+[11:18 - 11:25]  In 2016, there were 150 million Americans, roughly half of Americans that received their
+[11:25 - 11:27]  health insurance coverage through employer-sponsored insurance.
+[11:27 - 11:33]  So if you take the $2,000 per person per year times the 150 million people, that gets you
+[11:33 - 11:37]  $300 billion that was spent on inpatient care in 2016, the most recent year I could find.
+[11:38 - 11:44]  Now, Medicare spends, traditional Medicare spends about $110 billion per year on inpatient
+[11:44 - 11:44]  care.
+[11:45 - 11:46]  That was per 2020.
+[11:47 - 11:49]  So I couldn't find exact years to match up.
+[11:49 - 11:49]  Okay.
+[11:49 - 11:53]  Now, keep in mind, Medicare Advantage uses utilization management.
+[11:53 - 11:58]  And let's say that Medicare and Medicare Advantage has about half, equal numbers of people on
+[11:58 - 12:00]  traditional Medicare and Medicare Advantage.
+[12:00 - 12:05]  So let's just assume that Medicare Advantage plans have about the same amount that they
+[12:05 - 12:06]  spend on inpatient care.
+[12:06 - 12:10]  Yeah, maybe it's a little less because they're doing better, keeping people healthy, yada,
+[12:10 - 12:10]  yada, yada.
+[12:10 - 12:14]  But let's just assume for round numbers that it's about $100 billion.
+[12:14 - 12:18]  If traditional Medicare is spending $110 billion, Medicare Advantage is spending $100 billion.
+[12:18 - 12:25]  So if you take the $300 billion from the employer-sponsored commercially insured plans, plus the $100 billion
+[12:25 - 12:34]  from the Medicare Advantage plans, that means $400 billion a year of spending runs through
+[12:34 - 12:36]  utilization management.
+[12:37 - 12:38]  Wow.
+[12:38 - 12:50]  $400 billion a year of spending runs through this process that is controlled by Laura Coghlan,
+[12:51 - 12:58]  Monique Yohanan, and their colleagues at both Interqual and MCG Care Guidelines.
+[12:58 - 13:04]  I would argue that these thousand doctors and registered non-physicians, these thousand,
+[13:05 - 13:07]  there's about a million doctors in America, okay?
+[13:07 - 13:14]  These thousand people are probably the most powerful people in healthcare in America.
+[13:15 - 13:26]  They are hugely responsible for how $400 billion a year is spent on hospital services.
+[13:26 - 13:26]  Okay.
+[13:27 - 13:29]  That is a huge deal.
+[13:30 - 13:31]  Very little is known about these companies.
+[13:31 - 13:34]  Very little is known about these people.
+[13:34 - 13:38]  And they have huge financial impacts on hospital care.
+[13:39 - 13:46]  Now, who's the grand high arbiter that made Interqual and MCG Care Guidelines made them king?
+[13:47 - 13:48]  Who made them king?
+[13:49 - 13:50]  Nobody made them king.
+[13:51 - 13:56]  The hospitals, when they negotiate their contracts with the insurance companies, the insurance companies
+[13:56 - 13:59]  said, you've got to agree to our utilization management.
+[13:59 - 14:00]  Guess what?
+[14:00 - 14:01]  The hospitals agree to it.
+[14:02 - 14:04]  The hospitals could reject this.
+[14:04 - 14:06]  The hospitals could reject this.
+[14:06 - 14:10]  Now, obviously, this is very onerous on the hospitals.
+[14:10 - 14:17]  So I would argue that the insurance carriers are really sticklers about utilization management
+[14:17 - 14:18]  being in the contract.
+[14:19 - 14:25]  If you're a hospital negotiator, like, you would want to negotiate out having to do this.
+[14:25 - 14:27]  But they haven't.
+[14:28 - 14:32]  The hospitals have not walked away from this utilization management process.
+[14:33 - 14:36]  I'm not saying go without any utilization management process.
+[14:36 - 14:39]  Maybe replace it with something else.
+[14:39 - 14:40]  There could be a third option.
+[14:40 - 14:46]  You could call it MCG Qual or InterCare or whatever.
+[14:46 - 14:53]  But, like, the fact that these two are the only two shows a lack of competition.
+[14:53 - 14:57]  There should be more competition in creating these number of days.
+[14:58 - 14:59]  Competition's good, right?
+[15:00 - 15:04]  Why in the world do we only have two organizations creating these number of days?
+[15:04 - 15:07]  Because hospitals in America have accepted that.
+[15:08 - 15:09]  I don't know why.
+[15:09 - 15:10]  Maybe you know why.
+[15:11 - 15:12]  Leave a comment in the show notes.
+[15:13 - 15:13]  Help us out.
+[15:13 - 15:19]  But if we work in healthcare and healthcare finance, we have to understand utilization management.
+[15:19 - 15:20]  That's my point for today.
+[15:21 - 15:22]  Thank you for watching A Healthcare Z.

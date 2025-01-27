@@ -1,0 +1,2239 @@
+Title: Hospital Finance Explained: Billing, Insurance Payment, Prices, Revenue, Charity Care, Cost-Cutting
+URL: https://www.youtube.com/watch?v=O1CGDi50Nys
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing hospital cross subsidization. So it's a well-known fact that Medicare and Medicaid under reimburse hospital systems for the care they provide and that hospital systems then have commercial insurance patients then overpay for the care that they provide to them and so that's where you get the cross subsidization from, right? So you're subsidizing the underpayment by Medicare and Medicaid by having the commercial insurance overpay and that's just how hospital finance in America works. Okay, now let's get into some specific numbers. These statistics are actually from the American Hospital Association themselves and I will leave the links in the show notes. And so you can see here that Medicare and Medicaid underpay by 13%. Okay, well how much care is actually provided by Medicare and Medicaid? Well total hospital expense, 60% came in from Medicare and Medicaid patients. Okay, so 60% of the hospitals told businesses from Medicare and Medicaid. Alright, now there's Medicare and Medicaid, there's commercial insurance, but then there's also just non-payment. There's a lot of patients that come in that just don't pay at all. That's uncompensated care and that totaled $38 billion. Okay, now if we want to figure that out as a percentage, we need to know total hospital expense. Well that's reported by the American Hospital Association and well. So total hospital expense was $900 billion. Okay, so uncompensated care is $38 billion divided by the $900 billion, that gets you 4.2%. So in other words, the hospital gets 60% of their business from Medicare and Medicaid and 4.2% of their business from people that just don't pay at all. Okay, great. Now hospitals still make money, they still have a profit margin. Even non-profit hospitals still have a profit margin. What is that profit margin? That was reported by the American Hospital Association as well. It was 7.7%. So knowing what their expense is and knowing what their profit margin is, you can then solve for, okay, well what was total hospital revenue? And that was $975 billion. Okay, now let's break it down by Medicare and Medicaid in terms of specific dollar amounts. Okay, so that means that $540 billion of hospital revenue was from, excuse me, of hospital care was from Medicare and Medicaid. And that hospital revenue from Medicare and Medicaid was only $470 billion, right? Because Medicare and Medicaid undercompensate for the care. So they only paid $470 billion for the $540 billion of care that was provided for them. Okay, now that means that commercial insurance revenue for those hospitals was $505 billion, right? Because you got $975 billion total, you're only getting $470 billion from Medicare and Medicaid, uncompensated care, they're not getting paid anything. So that gives you the $505 billion of revenue. Now how much care are those hospital systems providing for, what's the expense for that $505 billion? Well, it's only 36% of care, right? Because we know 60% of care is from Medicare and Medicaid. We know 4% of care is uncompensated. So that means that 36% of care, 36% of expense is from commercially insured patients. Okay, great. That's $322 billion. Now then doing the math on the $505 billion of revenue and the $322 billion of expense, that means the punchline is commercial insurance overpays by 57%. Now, all these numbers are approximations, right? Because the fact that Medicare and Medicaid both undercompensate by 13%, somewhat of a coincidence. The fact that the care from Medicare and Medicaid is 60%, I mean, that's a very round number. Maybe it's 58, maybe it's 62. Okay, but the point is, is that Medicare and Medicaid underpay and commercial insurance, which is really employers in America with their premiums, or if they're self-funded, they're actually paying up the claims themselves. So employers and employees in America overpay by 57% to make up for the fact that Medicare and Medicaid and uncompensated care underpays the hospitals. And that's my point for today. Thank you for watching A Healthcare Z. Hello, this is Dr. Eric Bricker, and thank you for watching A Healthcare Z. Today we're going to be discussing hospital accounting. Now this might be the most boring topic ever, but I promise you, if you stay with me till the end, it will become fascinating. Okay, fact number one. Most hospitals do not do cost accounting. What does that mean? Most hospitals do not actually know what it costs them internally to deliver a carpal tunnel release surgery, to deliver a gallbladder surgery, to deliver an MRI, to deliver 30 minutes of time spent in the emergency room. Okay, so there was a fascinating article about this from the New York Times in 2015 that I will put in the show notes. And as far as I'm concerned, this article should be like front page news, like every day for every healthcare publication. It's that big of a deal. Okay, however, this article is about the University of Utah healthcare system, which went through an exercise where they actually figured out how much all of their care actually cost them internally. And guess what they found out? An ER visit cost 82 cents a minute. And time in the operating room for an orthopedic surgery cost $12 a minute. So they actually knew literally what everything in their hospital actually caught them. What cost them? What's that called? Normal. What most normal businesses do. That's what we did at our company. It's what the automobile industry does. If any of you watching this video run a business, you probably know how much it costs you to do various parts of your own business. Okay, that's a good business practice. That is quote unquote highly innovative in healthcare. Okay, fascinating. This was such a huge deal that Michael Porter, who is probably one of the most famous business school professors in America, or even in the world from Harvard University, went to the University of Utah healthcare system to research this. And he said, look, this is amazing. This is the equivalent of like Michael Jordan saying that you are good at basketball. Okay, this is a huge deal. All right. So now, as a result of this, let me go back a point here. As a result of knowing their costs, guess what the University of Utah healthcare system was able to do? They were actually able to lower their costs. So their costs went down about half a percentage point, whereas comparable academic medical centers in their part of the country actually went up by 2.9%. And that makes sense, right? If you're going to control costs and bring costs down, you actually have to know what your costs are. So if the vast majority of hospitals in America don't know what their costs are, then they're going to have a really hard time bringing those costs down. Okay? So that is like a basic fundamental that really everyone needs to understand. Now, I have my own theory, point number four, as to why at the University of Utah, is there something in the water? Do they have something especially smart people there? Look, I'm sure they do have a lot of smart people there. But here's what Utah also has. It also has the Intermountain healthcare system. And Intermountain is like the major competing healthcare system for the University of Utah. Now, Utah is a unique state in that it has about 5 million people. And they're heavily concentrated, as you can imagine, in the Salt Lake City area, somewhat in Provo as well. And so they've got most of their people kind of in one place. And they really only have two major hospital systems for those people. All right. What does Intermountain Healthcare have? It runs its own health plan. You buy Intermountain Healthcare insurance in Utah. And that means that Intermountain Healthcare is collecting premium and delivering care. What does that mean? Intermountain Healthcare is taking on risk. And as a result of that, they have created amazing care pathways. They have protocols. They have been trumpeted by both Democratic and Republican administrations. I mean, they are just known as the best of the best in America when it comes to running a healthcare system. And the University of Utah has to compete with that. Okay? So this is my own theory. But they had to up their game in cost accounting in order to compete with Intermountain. Okay? Guess what other healthcare system in America is thought of as one of the most innovative healthcare systems in America? It's the Geisinger Healthcare system on the eastern side of Pennsylvania in a completely separate part of the country. What does Geisinger have in common with Intermountain Healthcare? It also runs a health plan. It collects premium. It takes on risk. And it provides care. So that is a big deal. And that's why cost accounting is a big deal. And that really gets to the root of so many issues in healthcare. And that is, it's the incentives. Look, when you're incentivized to be a more prudent steward of your healthcare resources, because you're taking on risk, guess what happens? Tons of innovation. Tons of clinical improvement. Tons of increased safety. Tons of increased outcomes. And so necessity is the mother invention. Tons of innovation. And so that is the punchline that I would like to leave you with today. And thank you for watching A Healthcare Z. Hello, this is Dr. Eric Bricker. And thank you for watching A Healthcare Z. Today we're going to be discussing complex patients from the hospital perspective. And I wrote down HCC up here because on the employer, broker benefit consultant, commercial insurance side, they're oftentimes referred to as high cost claimants. Okay. But for a doctor in a hospital, they are never called a high cost claimant. Okay. They're either called a person or a patient or Sue or John. I mean, these are people and they have names and they have lives. And so I think it's very important for everyone that works in healthcare to kind of understand what's going on with these very complex patients. And the reason that we're talking about complex patients is because of point number one, which is the 80-20 rule or what's called the 550 rule, right? So for most commercial insurance plans and employers, 80% of their costs come from 20% of their employees, plan members. And the 550 rule is just a more concentrated version of that, right? Where 5% of the employees or the plan members drive 50% of the costs. Okay. Well, the reverse is true on the hospital side, right? Of the hospital's expenses, it stratifies, right? 80% of the hospital's expenses are spent on 20% of the patients. And it stratifies even more, right? Where about 50% of the hospital's expenses are spent on the 5% of the most complicated patients, okay? And similar to commercially insured patients, they typically fall into several categories. And those are ortho, cardiac, and cancer. Now, I also wrote up here ICU as well. Because there's a lot of cases of what's sepsis, which is a systemic infection that causes you to be unconscious and have very low blood pressure. And also what's called ARDS or acute respiratory syndrome, which is essentially lung failure, okay? And these typically happen, in the next point, they typically happen in the elderly, right? Because at the end of the day, that's really who uses the most healthcare services are the elderly, okay? And who's their payer? It's Medicare or a Medicare Advantage plan, right? So the vast majority, like when I was at the hospital, I used to be a hospitalist. Like the vast majority of the people in the hospital are older. I mean, that's just the way it is, right? Anybody who's ever been to a hospital, it's like most of the people that are older, right? And these are just personal tragedies. And the reason I say personal tragedies is because, well, they're in the hospital because they themselves and or their families, like they want them to live. They want them to get better. They want reduction in pain. They want improved breathing. They want less suffering. And the reason that they're so complex is because that's not happening. They're not getting better. A lot of times, they're getting worse. Like they are, so, you know, sometimes the decision needs to be, okay, well, you know, hospice is a better place for you because it's really, there's really nothing more that we can do. Or maybe it's in the person's advanced directive, what have you. And that's totally fine. But the point is, is that these by and large are very, you know, they're just tragedies. Okay. So let's look at those tragedies in more clinical detail. Okay. So on the orthopedic side, oftentimes it's either going to be a joint replacement, a knee replacement, or a hip replacement. Or one of the biggest things is a fall and a fractured hip. That happens all the time. Okay. That is like 10 times more common than the actual knee or hip replacement. It's actually the, and the actual pinning of the hip is a very brief procedure. However, it's the medical complications that then turn into a tragedy. So one, PE stands for pulmonary embolism. So this is where the person gets a blood clot in their leg, which then travels through their heart to their lungs and causes them to potentially die of essentially lung failure and deoxygenation from the pulmonary embolism. So next is diarrhea. Diarrhea, a lot of times because of the anesthesia or just because of being hospitalized, or a lot of times these people were already in a nursing home environment, they might just have a very sensitive GI tract or even a GI tract infection, which just causes them, you know, not to be graphic, just has diffuse diarrhea that causes dehydration and really electrolyte imbalances, right? So that's where their potassium and their sodium and really their kidney function can be dramatically impacted by this excessive diarrhea. And then also delirium. So with the pain medication, with the anesthesia, with a whole bunch of things, it can cause, and these people oftentimes have some level of dementia, it causes them to become much worse. So they have what's called altered mental status. So they're just confused. I had one guy who literally thought that his call light on the bed was a fishing rod and he was fishing with his call light. And like, it was not funny. Like it was like, this guy was like crazy delirious. And what happens is, is that that might not go away for weeks or months. And oftentimes their mental status, it has a hard time coming back to where it was before. Okay. So again, these are tragedies. These people are in the hospital for weeks or months at a time. Okay. Next for cardiac. So this is often in the form of either an actual heart attack or oftentimes the person will have narrowed arteries. In the vast majority of cases, the person gets cardiac catheterization and a stent. Okay. So most people are not taken to bypass. They're really given a stent. What happens when you get a stent or multiple stents is that you're put on very powerful blood thinners. What then happens? There's oftentimes a lot of bleeding. There can be bleeding at the site where they did the catheterization, which is the groin or the arm. Oftentimes these people have very small ulcers or lesions in their stomach or their intestines. And those start bleeding. And so there you have a very hard problem because you want to take them off the blood thinners so that they stop bleeding. But if you do that, then you might risk recladding the blocked artery that was opened with the stent. And so these people get massive blood transfusions. Sometimes they have complications from the transfusions like volume overload and pulmonary failure. Okay. So tragedy. Okay. A lot of times too they'll have respiratory failure as well. Again, because the fluid status of these cardiac patients is oftentimes very tenuous. And if they get too much fluid, that fluid goes into their lungs. They get something called pulmonary edema. And they then can go into respiratory failure from that where they might have to get CPAP or even be intubated. And you can't get them off the ventilator. So again, these are personal tragedies where these people might end up in the cardiac ICU for weeks or months at a time. Okay. Next up, for cancer. Typically, cancer is put into two main categories. And those are, quote, unquote, liquid tumors like leukemia and lymphoma. And then solid tumors like breast cancer or colon cancer. Okay. So the chemotherapy and the radiation associated with cancer treatment, it dramatically lowers the immune system. So these people are very prone to getting all sorts of weird infections. Really bad, like, fungal and yeast infections even are bad bacterial infections. And so those infections can just be devastating and, again, end up in the ICU or just hospitalized for weeks or months at a time. Also, there's bleeding, right? Because a lot of times the chemotherapy knocks down your platelet count incredibly low. And so these people have a lot of bleeding from low platelets. And then their bone marrow is also so depleted from the chemotherapy that they have a hard time creating new red blood cells. So it's, again, transfusion, transfusion, transfusion, weeks, months in the hospital. And then they oftentimes get GI and sometimes GU or urinary tract blockages as well. So the actual solid tumor, especially in the case of colon cancer, is actually blocking the ability of food and fluid to pass through your GI tract, which is just awful. You get incredibly bloated because your stomach actually produces more than a liter of fluid just on its own every day. And so if your GI tract gets blocked, and even if you don't eat or drink or anything, you still generate all this fluid that gets backed up. And, again, weeks or months in the hospital trying to recover from that. And this is the frequent course of what happens to these patients. Okay. They're in the hospital. They get better enough to no longer need to be in the hospital. And then they are almost never discharged to home. Right? They go to a SNF, a skilled nursing facility, which is essentially a nursing home. Okay? And then what happens? They frequently bounce back. They get readmitted to the hospital. Sometimes within a day. Sometimes within a week. Sometimes within two weeks. And the rule for reimbursement in Medicare is if they come back into the hospital, oftentimes it's within about 30 days. The hospital does not get paid again for that hospitalization. Medicare changed the rules decades ago to say, look, to say, if you're hospitalized for X problem, you get discharged from the hospital, and you come back for the same problem, we as Medicare are not going to pay you again for that readmission. And so sometimes these people will bounce back and then go back to the SNF and then bounce back and then go back to the SNF. And it really happened like seven or eight times. And the hospital is not getting paid for every one of those hospitalizations. And so these are very complex patients. They are absolute tragedies for the people. And frankly, they put the hospital at tremendous financial risk. Because there's no way they're going to get paid enough by Medicare to cover that complexity. And that is one of the root reasons why the hospital has to overcharge commercial insurance is to make up for this. Now, there are other ways to think about this. There are other strategies that other hospital systems have used. That's another conversation for another day. But thank you for watching A Healthcare Z. Hello, this is Dr. Eric Bricker, and thank you for watching A Healthcare Z. Today we're going to be discussing charge capture and the story of sepsis. So first off, charge capture is the translation of the chart or the medical record into billing codes. And by the chart of the medical record, I mean literally, and especially in the case of inpatient stays, there's literally a paper chart like this thick. People still write in it. Even though hospitals have electronic medical records, there are still like daily notes that are taken by hand. And when that is done for that person's stay, then it goes to the medical records department, where literally coders will read what the doctor has written, and they will translate that into the billing codes. And there's very specific rules for what words need to be in the chart in order to have certain billing codes. And that's important because those billing codes then roll up for what are referred to as diagnosis-related groups, or DRGs. And it's DRG codes that are used for inpatient stays. And it's really the basis not only for Medicare reimbursement, but commercial insurance companies use DRGs for reimbursement as well. Okay, now, what does that have to do with sepsis? So sepsis is a systemic infection, typically from a bacteria, but it could be fungal or viral as well. And by systemic, I mean it does things like it gives you a fever, it changes your temperature. It might change your blood pressure, it might drop your blood pressure very low. Sometimes people need to be in the intensive care unit because their blood pressure is so low that they need to be given tons of fluids and special medications. Okay, so you might have like a minor skin infection, or even like a bladder infection. And that historically was not considered sepsis because you wouldn't have these dramatic systemic bodily effects. Okay, now, in 2005, there were 518,000 inpatient stays for sepsis across all age groups. And then in 2014, there were 1.5 million. It tripled! Now, to put that in an even greater context, overall, inpatient stays in America went down by about 6% during that period of time. And all other causes of inpatient stays went down, like heart attack, pneumonia, all went down. The only other category that went up was mental health. And it did not go up, it did not triple the way that sepsis did. So this is very odd and very unique. And oh, by the way, I'll leave the link in the show notes to all the sources. Okay, now, that's fine, but what about like commercially aged people? Commercially insurance-aged people, right? Because that's what we care about on this channel. Okay, in 2005, for 18 to 44-year-olds, sepsis was not even in the top 5 for diagnostic categories for inpatient stays. In 2014, it was number 3 with over 189,000 inpatient stays. In 2005, for 45 to 64-year-olds, so older commercially insured folks, again, sepsis was not even in the top 5 for reasons for inpatient stay. But in 2014, it was number 2. There were 441,000 inpatient stays, almost a half a million inpatient stays for something that wasn't even in the top 5 a few years prior. So what happened? What happened? What happened was the reimbursement for sepsis changed. Reimbursement for sepsis became higher than for other infections. And this happened because of the creation of what we're referred to as the MSDRG, or the medical severity diagnosis related groups that happened in 2007. And so this is where, because I was practicing at the hospital at this time, we were literally coached by the case managers, by the hospital administration, to change the way that we used specific words in the chart, so that medical records could then use this sepsis code. So you might look at the data here and be like, oh, there's an epidemic of sepsis going on here in America, and in fact, that is not the case. Really, the UTIs and the other infections, could they have gone up? Sure, they could have gone up. I don't think they tripled. And in fact, in the sources, I will leave you quotes from, you know, some of the world's foremost experts in this, like Peter Pervos from Johns Hopkins, who I've heard speak on multiple occasions, and they say, yes, it's because of upcoding. And so my point for today is, is one, when you're looking at the medical claims data, beware of medical coding. And then two, also note that changes in reimbursement dramatically change the way that charge capture occurs. And thank you for watching A Healthcare Z. Hello. Thank you for watching A Healthcare Z. And today's topic is a recent RAND study on hospital prices. Now, you'll notice that I have ditched the tie today because I was actually asked by a viewer to do so. So just know that, look, I'm responsive to you people. Okay, first up, the RAND study, which came out, it was on the 11th of May of 2019, said that commercial insurance pays hospitals, on average, 247 per, 241% of what Medicare pays. Now, that's on average. So the other, one of the other points that the RAND study made was that that amount was highly variable by hospital. So they said at the low end, there were some hospitals that charged commercial insurance about 150%, and this is after the discount's been applied, so this is the quote-unquote allowed amount of the true price, all the way up to 400%. So it was, not only was it on average 241%, but it actually was highly variable. Okay, and this is super important because we've known for a long time that commercial insurance plans pay hospitals much more than Medicare pays them. And we're not going to get into the debate today over whether or not Medicare is adequate compensation or is too low, and therefore hospitals have to overcharge commercial insurance in order to make up for the fact that Medicare is not paying enough. Like, that is actually not the topic for today. The topic for today is to say, okay, well, let's look at this data in more detail and see what we as employers can take from it. Okay, so one is that the outpatient services were 293% of Medicare for commercial insurance, and the inpatient services were 204%. In other words, on a relative basis, outpatient services are much more expensive than inpatient services. And that's important because the majority of services at a hospital these days are actually done on an outpatient basis, and especially for commercial insurance employers, in other words, for folks that are, you know, not on Medicare under the age of 65, a lot of their surgeries are done on an outpatient basis as well. So it's just important to know that just because something is quote-unquote outpatient doesn't make it less expensive. In fact, it actually might make it even more expensive. Okay, next. There's a challenge with this particular study as it relates to the basket of services that they looked at, right? Because anytime you're looking at prices, you can't just look at prices across the board. You have to look at prices for the basket of what's provided at that particular hospital, and you also need to look at the basket of what people would actually consume. And oh, by the way, that's exactly what the government does when they're calculating inflation as part of CPI. They're actually looking at a particular basket, and then weight that basket, okay? So we'll talk about that in more detail. So specifically for this RAND study, they looked at ER services, cath lab, endoscopy, labor and delivery, laparoscopic surgeries, CTs and MRIs, orthopedics, mental health, circulation and respiratory. So there are some major holes in the data by hospital and by hospital system. And let's look at two specific hospital systems here in Dallas-Fort Worth that I'm very familiar with. And this is where the great thing about the RAND study is that they actually published the data by hospital, and you can download it on an Excel spreadsheet. And I highly encourage all of you to do this. I'll leave a link in the show notes because you can actually run a ton of analyses yourself on this Excel spreadsheet. Okay, so at Baylor Scott & White, their average for inpatient and outpatient was 255% of Medicare. Now, what did they analyze for that? They analyzed 7,880 claims, which totaled $15.6 million. And I will tell you that Baylor Scott & White is huge. It is enormous. So how enormous is it? Their total revenue in the last six months of 2018 was $4.9 billion. So if you annualize that to $9.8 billion, and then we've talked about this before, but commercial insurance generally makes up about 40% of a hospital's revenue, with Medicare and Medicaid self-pay being the other sources of revenue. So you just take that total revenue, $9.8 billion, you multiply it by 0.4, you get $3.9 billion. Okay, well if you divide the $15.6 million by $3.9 billion, that means of the costs and the prices assessed for the Baylor Scott & White healthcare system by this RAND study, they only looked at 0.4% of the claims cost. Okay, in terms of sample size, I'm just going to go out on a limb and say that's too low. So I think that the RAND study does a great job of saying, look, in aggregate, and this supports something that we've known for a long time, but I think at the individual hospital system level, it's just not a big enough sample size. Okay, let's look at another Dallas-Fort Worth hospital system that I'm also very familiar with, and that's Texas Health Resources. Okay, where they looked at 7,112 claims, totaling $18.2 million. Total revenue for Texas Health Resources was $3.5 billion for nine months, so in order to annualize it, it gets us up to $4.7 billion for a 12-month period of time, multiply that by .4, and that gets you $1.9 billion of commercial insurance reimbursement. So again, you divide the $18.2 million by the $1.9 billion, and that's only 0.96% of all healthcare, commercial insurance, healthcare costs for Texas Health Resources were analyzed by RAND. Again, I would say that's too low, and they found that Texas Health Resources was quote-unquote more relatively expensive. It was 294% of Medicare versus Baylor's 255% of Medicare. Now, my point is, I don't think you can say that. I think you don't know. Like, because the basket is not necessarily representative of what Baylor overall produces, and this basket is also not representative of what an employer buys, and it's also not weighted by what Baylor produces, and it's not weighted by what the employer buys. So Baylor might actually be much higher than 255% of Medicare, or it might be lower. And likewise, Texas Health Resources might be much higher than 294% of Medicare, or it might be much lower. And so, and that's the whole reason why, going back to the example with inflation and the CPI, that's why the CPI basket exists, and that's why it's weighted. And so, all I'm saying today is, is that don't draw conclusions by specific hospital system based upon this study, but on an aggregate level, it is very helpful. And that's my point for today. Thank you for watching A Healthcare Z. Hello, this is Dr. Eric Bricker, and thank you for watching A Healthcare Z. Today we're going to be discussing all or nothing hospital contracts. So, it has been reported in the news site Axios, and in other places as well, that when insurance carriers contract with major hospital systems, that major hospital system says, look, you have to take all of our doctors as in-network, or none of them. So, it's all or nothing. Why is that important? We talked in a previous video about how physician skill falls along a bell-shaped curve, just like it does for anybody else, in any other profession, or even like playing sports, right? And so, here you have the number of physicians on the y-axis, and the number of, the amount of skill on the x-axis, and it follows a bell-shaped curve, right? So, you have the low-skilled physicians down here, and the high-skilled physicians up here. And I think if you talk to most physicians, they would agree, to a certain extent, there's a bell-shaped curve. Okay, how does that matter to employer health plans? So, Walmart, the largest private employer in America, wanted to get rid of these guys. They wanted the bottom five percent of the physicians out of their carrier networks. They wanted them out. And guess what happened? The carriers said no. They said that their contracts forbid this from happening. So, as every other employer in America that is smaller than Walmart, how in the world are they supposed to go to their carrier and ask for them to create, like, client-specific networks or take certain doctors out of the networks when Walmart can't even do it? Okay. Now, I want to contrast that with a different story. And that is the story of the Allegheny County school system. And where is Allegheny County, Pennsylvania? It's Pittsburgh. So, it's the Pittsburgh public school system. Okay. What did they do? They identified, they did the opposite. Instead of wanting to take the bottom five percent out, they identified the top providers in their area associated with one particular hospital system. Okay. They said, look, these folks have the highest skill. Therefore, we are going to create a plan where for seeing that particular, those particular providers, there is no deductible and the plan pays at 100%. For the other in-network physicians, there was a deductible and then the plan paid 80% and then there was your typical out-of-network benefits. Okay. Great. So, in other words, there were three tiers. But instead of getting rid of the bottom five percent, they instead incentivized through plan design going to the top physicians. Okay. Great. What happened? Here's the punchline. Their cost went from $241 million down to $233 million, a decrease of $8 million. Now, yeah, it's only like two or three percent, but the point is is that it didn't go to trend, it didn't stay flat, it actually went down. And so, I think this drives home a couple of points. One is, is that it's probably not likely that the carrier's contracts are going to allow for this type of steerage. So, just know that when you get into the weeds of the contracts, it might not be possible because within a particular health system, there are going to be good doctors and not so good doctors. And so, you're not going to want a whole health system en masse. What you're going to want to do is you're going to really want those best providers that are in there. So, that's number one. Number two is, Allegheny County is similar to John Tornis and the company that solved healthcare with Seragraph in that look. All of their employees were concentrated in one place, which to a certain extent makes it easier to identify these high, let's call them five percenters in their particular area. So, if you're an employer that has a more distributed employee population, which frankly, at the end of the day, unless you're like a municipality or a school system, frankly, your employees are probably going to be spread out more across the country. It's going to make it more challenging to identify those top physicians. Now, again, I will tell you that the company where I used to work, Compass, actually does this, but I'll just leave it at that and say that, look, the bottom line is is that when you are working to decrease health plan costs, higher quality is almost invariably lower cost. Higher skilled physicians is almost invariably lower cost. And there are things that you can do at the employer level, at the brokerage level, at the benefit consultant level to affect change in regards to that. And thank you for watching A Healthcare Z. Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is carriers are contractually bound to do no steerage. Now, what does that mean? So, to start off with, hospitals provide an in-network discount to an insurance carrier network. They say, hey, we've got our bill charges of X and we'll reduce that amount to like one half of X. And the insurance carrier says, oh, great. But then the hospital says, however, that includes all the docs within our hospital system and as you know, hospital systems have become larger and larger from consolidation so this could be like thousands of doctors and that means all of their facilities. So, it's not just one hospital. It's not just two hospitals. Sometimes it's like over a dozen hospitals. Sometimes it's dozens of hospitals. So, to start off with, we need to understand at a basic level that in the world of PPO contracts that that discount is given to the insurance carrier and the insurance carrier has to agree that they got to take the whole kit and caboodle at that hospital system. Okay. What are the ramifications of that? So, this is a quote from 2018 when the Blue Cross Blue Shield of Texas president Dr. Paul Hain was speaking to a very large employer group here in Dallas, Fort Worth and he said that, look, our challenge with negotiating with hospitals has less to do with reimbursement rates and has less to do with the actual dollar amounts themselves and it has more to do with the desire to direct patients. In other words, the insurance carriers didn't like their end of the deal of having to take all the docs and all the facilities because let's just say from a quality perspective, I mean, look, they got the data and they know that some of those doctors are not the type of doctors that they would want to have in their network and they've got some facilities that, whether it be from infection rates or complication rates or readmission rates or whatever, look, I really don't want people necessarily going to that facility and for a carrier the easiest thing to do to not have people go to those facilities or go to those doctors is make them out of network. Okay. So if the carrier could pick and choose which doctors and hospitals that they could steer their members to within a hospital system, then the president of Blue Cross Blue Shield would have never said this quote. Okay. Example number two, Sutter Health, which is a huge hospital system in the San Francisco Bay Area, recently settled an antitrust case with the state of California. So the state of California went after and said, look, you have anticompetitive practices and it was mainly around the fact of Sutter's contracting practices had this all or none, these all or none, no steerage terms. Okay. So in other words, there was no opportunity for in-network or out-of-network steerage for the insurance carriers in the San Francisco Bay Area. You either had to take all the Sutter physicians and all the Sutter facilities or you needed to hit the highway. Okay. And guess what? They settled. The terms, this literally just happened several days ago. The terms are not completely revealed. But the point is, they were going to get, they were going to be, they were being sued for $2.7 billion. Okay. Sutter has $13 billion of revenue a year. Okay. These are substantial sums of money. Again, because of the same issue of not being able to steer. So the point is, is that within a PPO contract, there's really this game of cat and mouse because I've been in many meetings where the carrier representative talks about, oh, how they can identify high quality facilities and doctors, et cetera, et cetera. But just know that for a lot of their contracts with the major hospital systems, that they're contractually prevented from doing steerage. Okay. Now, but you can't do it at the employer level. The biggest example, again, is Walmart, where just recently Walmart came out with the fact that they have a new benefit for their employees where they're going to provide quality scores for physicians in the specialties of primary care, cardiology, gastroenterology, endocrinology, OBGYN, oncology, orthopedics, and pulmonology. Okay. Walmart, the largest employer in America. If their carriers could already do this for them, then why in the world is Walmart having to do it themselves? The reason is is because you can do this at the employer level, but the carriers are contractually bound in their PPO contracts to not do this. Okay. And I'm sure there's some exceptions, yada, yada, yada, but overall that's the case. Now that can be confusing, but that is a super important point for everyone here to understand. So thank you for watching A Healthcare Z. Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing the hidden war for patients and dollars. So before we get started, we have to talk about two euphemisms that are used on the hospital business side. That first one is service lines. So for a hospital, a service line is a clinical department. So a service line might be OBGYN or cancer or orthopedics. Okay. Euphemism number two, profitable payer mix. So hospitals receive payment from a variety of payers, right? So you have commercially insured patients, Medicare, Medicaid, self-paying, which is the uninsured folks. And so a profitable payer mix is a payer mix with more commercially insured patients because those are the ones that the hospital can actually make a profit on and fewer Medicare, Medicaid, and self-insured patients because those are the folks that they make less on or they lose money on. Okay. So with that, there are departments within a hospital system. They're either business development or they're marketing or they're physician liaison. Sometimes they're called the strategy department and they are specifically focused on how to increase patient flow through the profitable service lines. And there's actually a fantastic demonstration of this on YouTube. There's actually a video from the University of Massachusetts healthcare system where they specifically talk about how they do this. Okay. So what happened is that the University of Massachusetts wanted to increase their referrals but they had a problem. And that problem was is that one of their cardiothoracic surgeons left for a competing hospital. So this story is pretty confusing. So I actually drew it down here sort of like X's and O's for a football game. Okay. So here you have UMass and typically a major hospital system they might have one or two or maybe three cardiothoracic surgeons and one of the major procedures that cardiothoracic surgeons do are coronary artery bypass grafts or cabbages. Okay. So here you have two let's say UMass has two cardiothoracic surgeons. Okay. Cardiothoracic surgeon two leaves to go to a competitor hospital. Okay. Why is that a problem? That cardiothoracic surgeon receives its patients or his or her patients from typically from cardiologists. Okay. And so there you have the cardiologist as the C's and there you have the patients as the PT and here you have who their insurance is. So C for commercial insurance and M for Medicare. Okay. So here's the problem. When that cardiothoracic surgeon leaves he takes all of his referral relationships from those cardiologists with him and those cardiologists take all their patient relationships with them as well to the competitor. So guess what the University of Massachusetts did? They specifically identified and targeted those cardiologists that were referring to that particular cardiothoracic surgeon and they formed relationships with them so that they would begin referring patients to their cardiothoracic surgeon that they still had. And oh by the way in the video it talks about how they targeted not only that cardiothoracic surgery program but also orthopedics and cancer. Isn't that interesting? Cardiothoracics cancer and orthopedics. Those are the same three diagnostic categories that are the top three costs for employee health plans. Okay. That is not necessarily a coincidence. So the point here is that patient flow and which doctors patients see and which hospitals that they go to it's not just some sort of like random act of nature that there actually is planning and strategy and data and software and analytics and programs and campaigns behind that. Now I'm not saying that's morally wrong I'm just saying it's happening. And so for all of us who work in employee benefits and with employee sponsored health plans again we need to know that if we as employer health plan sponsors are not actively thinking about what's going on within the hospitals then we are not really doing our health plans the best service that we could. And that's my point for today. Thank you for watching A Healthcare Z. Hello. This is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Profit Pool Consultants and Decreasing Healthcare Costs. So it's based off of a research report from McKinsey & Company which many of you are familiar with but it's essentially one of the smartest management consulting firms known as the leader in the world. It has 127 offices worldwide. It has 27,000 employees. They make $10 billion of revenue per year and they work in industries from technology to retail transportation to of course healthcare as well. Now the most recent report on healthcare that they've published is called The Evolution of Healthcare Provider Profit Pools. Say that 10 times fast. Okay. But this is a fantastic research report. I will leave a link to it in the show notes. I encourage you to read it. They make a very interesting point. They say that 55% of future healthcare profit pools and they're saying through 2021 so they're basically looking at 2017 through 2021 are saying are non-hospital. Non-hospital. That's interesting. What do they mean by that? They mean that 34% of the 55% in other words 34% of the profit growth for healthcare providers will come in the form of on-site clinics, telehealth, primary care providers, behavioral health, retail, PT and OT which is occupational therapy and physical therapy, home health, inventory surgery centers, and dialysis. Okay. Isn't that interesting? The largest areas of provider profit growth are in areas that are meant to decrease healthcare costs. Right? So on-site telehealth, using primary care behavioral, all these things are meant to reduce the use of expensive hospital-based services or prevent people from ever meeting them in the first place. Likewise, PT-OT is an alternative to expensive orthopedic surgeries. Home health is a cheaper location and by ASC they mean non-hospital-owned ASCs in other words independent ASCs and by dialysis I think they mean dialysis centers that are independent and not part of like DaVita and Fresenius in other words they're more cost-effective more reasonable contract rates with insurance carriers. Okay. So, now let's look at the opposite end of the spectrum. Where do they think there is going to be least amount of growth of profit for providers? They think it's going to be in freestanding ERs, imaging, lab, ambulance, chiropractor, skilled nursing facilities, and long-term acute care facilities or known as those LCACs. Isn't that interesting? Because freestanding ERs and imaging those were the two sort of huge cash cows really put up for the past like five, ten years where the hospital systems really pushed down on making a lot and also independent facilities really pushed down on making a lot of money there. So, to a certain extent they kind of burned out and it's been a little excessive but there's an important warning. Of course, they don't phrase it as a warning. They phrase it as an opportunity but there is a very important warning at the bottom of this report and it says that all of these areas of high profit growth create an opportunity for acquisition by the hospitals. Okay? So, the whole point of the whole value proposition of these providers and their ability to, you know, make profits and grow revenue is based upon the fact that they're going to decrease utilization or decrease price or both to create higher value healthcare. Okay? If these agents are bought by a hospital that essentially negates that value proposition because as I said in the previous video and even in this research report it says it creates a referral opportunity. It creates a referral opportunity as I said in the previous video to feed the beast. And I'll give you a specific example of that. So, at Compass we had a major client with like in excess of 10,000 employees that had a huge facility that had an on-site clinic and they had it for years. And that on-site clinic was actually a huge cost driver. They looked at people that were going to that on-site clinic and it turned out that they ended up driving huge costs for their employee health clinic. Why was that? Because the on-site clinic was actually owned by the local hospital system. And so they were driving patient volume from that on-site clinic to the hospital for surgeries, for lab, for imaging. So, the key here is that if these are going to be profit centers that have a value proposition of higher quality and more cost-effective care then to a certain extent they need to remain separate from the hospital. And if you see them connected to the hospital then that might need to be a warning sign that that is actually going to be increasing employer and patient health care costs and not decreasing it. And that's my point for today. Thank you for watching A Healthcare Z. Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing certificate of need or what is referred to as CON. Now, certificate of need is where there is regulation of hospital beds and hospital construction by the state. So, isn't that interesting that there is actually state regulation over the expansion and the construction of new hospitals? Well, why in the world does that exist? Well, it was created about 40 plus years ago in an attempt to control health care costs. The idea being is that well, if you had more hospital beds and more hospitals that they would induce in other words it would be supplier induced demand of health care services and so health care costs would be higher. But, if you look at I won't summarize all the research here but at the end of the day at the end of that it's kind of meh. Like, maybe it did maybe it didn't maybe certificate of need actually even increased the cost of health care it's really not clear. Okay, so let's break it down specifically by state. So, there are 35 states that have certificate of need laws. It doesn't really divide itself by conservative versus liberal states. So, you can see the liberal state of Massachusetts and the conservative state of Alabama both have certificate of need laws which you would think would be more of a, you know liberal democratic initiative for regulation. Okay, now on the opposite side you have 15 states that do not have certificate of need and you have the liberal state of California and the more conservative state of Texas that do not have these laws and you think of more like you know free enterprise and less regulation as being more of a conservative or republican thing. Right? So, this whole certificate of need law thing doesn't necessarily correlate with sort of red state, blue state stuff. Okay, now let's look at it in terms of commercial insurance health care costs by state. And let's look at the 10 most and the 10 least expensive states. So, the 10 most expensive states for health care are New Hampshire, Pennsylvania, Connecticut, New Jersey, West Virginia, New York, Illinois, D.C., Massachusetts and Alaska. Okay, so you can see that two of those high cost states they don't have any certificate of need and eight of those 10 health cost states they do have a certificate of need. So, here the certificate of need was supposed to lower health care costs and the majority of them have that law and you're talking $21,000 per family per year again for commercial insurance. Okay, now for low cost states. The 10 lowest cost states are North Dakota, Idaho, New Mexico, Utah, Iowa, Mississippi, Tennessee, Hawaii, Arkansas and Alabama. Okay, again you kind of see that four of the lowest cost states have no certificate of need law. So, you can like build hospitals expand as much as you want it's not breaking the bank in these states. Likewise, in these low cost states you might say okay, well maybe that certificate of need law is like super effective because it's keeping costs down in Iowa and Hawaii and Tennessee and places like that. Okay, but at the end of the day, again, and oh by the way the family health care cost there is $18,000 per family per year. Okay, so it's like 17% more, $3,000 more per family per year in these high cost states versus these low cost states. So again, I think the most important word on this entire slide is like meh. So, what's the point? The point is is that we all need to be very careful when we think about regulation as a solution to the health care cost problem. Maybe it is a solution, maybe it's not a solution. Maybe the best intended solutions around costs do not have their intended consequence. And that's my point for today. Thank you for watching a healthcare seat. Hello, this is Dr. Eric Bricker and thank you for watching a healthcare seat. Today we're going to be discussing hospital charity care programs or sometimes they're referred to as financial assistance programs. Okay, so not-for-profit hospitals in America are required by the IRS to provide what's called community benefit because these not-for-profit hospitals oftentimes don't have to pay any federal, state or a local tax. In order to qualify for that, they have to provide this community benefit of which charity care or in other words free care for people that qualify is an important part of that. Okay, now there are various eligibility requirements so every hospital has different eligibility requirements. I'm just going to use these as a real life example of a local hospital and their eligibility requirements. Okay, so for this particular hospital system, you have to be a U.S. citizen and you have to live locally in a county where they have a hospital or if you are, if you had emergency services, you don't necessarily have to live in one of those counties. In other words, you could be visiting your grandma and you could be from a different state and you would still qualify but it would have to be for emergency care. Now they do make another exception which is to say that look, if you live outside one of those counties and it's a non-emergency service and there's just no doctors or hospitals that can treat you for your particular condition or disease, then you might still be able to qualify. Okay, so those are basic requirements. Next, it has to be within a certain amount of time, right? So it can't be, it has to be either within the date that it's scheduled or within 365 days of when you received a bill. So you can't go back two years, three years, four years, so time to a certain extent is of the essence in terms of application. Okay, next is the financial eligibility and this is where you need to be able to provide documentation to prove these things. But all that aside, if you're indigent, in other words, if you make less than 200% of the federal poverty limit, which is $51,000 for a family of four, then you will qualify to have your hospital bill paid for. Now, you could have insurance, okay, and it would be the remaining balance after insurance is paid and it would still pay for it if you made, if your family made less than 200% of the federal poverty limit. Guess what? 28% of American households make less than $51,000, make less than 200% of the FPL, okay? So that's a lot of people. So if you're an employer, you probably have some employees that fit into this situation, okay? So let's say you make more than 200% of the FPL. Well, you can qualify for what's referred to as medically indigent as well, where if you make less than 500% of the federal poverty level and the amount you owe is greater than 5% of your annual income, then you would also qualify. So let's run the numbers on that. Okay, so a family of four, 500% of the federal poverty limit is $129,000. So that's for a family of four. That's 75% of households in America. In other words, that's the majority of Americans actually fall into that category and would potentially be eligible. Okay, now 5% of a year's income, let's just say, let's round it to $130,000. So 5% would be $6,500. That means even if you have insurance, if you had an out-of-pocket responsibility in excess of $6,500, then that would be covered at 100% by the hospital's charity care program. So in other words, let's say you had a high deductible plan with a $5,000 deductible and 20% co-insurance, it's very easy to have an orthopedic surgery or even to have a variety of outpatient tests and procedures done where that total bill adds up to in excess of $6,500. So what's some practical information that you can do here? Okay, so the way that you get started in this process is to ask for the hospital's financial counselor. And every hospital I've ever worked in has a financial counselor. And you can either contact them by phone, sometimes you can do a web inquiry, but if the information is not posted on the hospital's website about their charity care program, then what you want to do is you want to call the hospital and ask to speak to a financial counselor to see if you qualify. And that's my point for today. Thank you for watching A Healthcare Z. Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Hospitals Must Survive, But How? And to start off, we need to review some basics of hospital finance. And this actually comes from a previous A Healthcare Z video that's called Hospital Cross-Subsidization. And here we have Medicare and Medicaid and commercial insurance revenue and expense. So let me briefly go over this. Okay, so Medicare and Medicaid provide hospitals in aggregate in America, they pay them about $470 billion. Now, these hospitals, actually, it costs them the expense to take care of all those Medicare and Medicaid folks is $540 billion. So in other words, these hospitals lose money on their Medicare and Medicaid patients. Now, the majority of that is actually Medicare, it's not Medicaid, right? So in other words, the hospitals are underpaid by Medicare and Medicaid by, on average, 15%, all right? And I have sources to these in the previous show notes. Okay, next up. So then commercial insurance, they pay in aggregate U.S. hospitals $505 billion. And the expense for taking care of all those commercially insured patients with Blue Cross, United, Cigna, Aetna, et cetera, et cetera, is $322 billion. So in other words, the commercial insurance overpays by 57%. And then the hospitals then use this overpayment to cross-subsidize the underpayment by Medicare and Medicaid. Okay, this is well established. This is not a new fact. However, there's an excellent article from the Harvard Business Review from 2017 from two gentlemen, actually from a hospital consulting firm called Navigant, that pointed out an excellent point, which I'm sure all of you know as well, that the government money situation for hospitals is going to get worse because there is a 3% increase in Medicare enrollees every year for the next decade. And that only goes down to like a 2.5% increase per year to the point that the 55 million people that are on Medicare today will increase to 81.5 million by the year 2030. Okay, so in other words, all of this underpayment to the hospitals is going to increase because the number of Medicare patients that they're going to have is going to increase. So it's only going to get worse. And so what is going to happen, what has been happening, what can continue to happen is that the cross- subsidization required from commercial insurance to make up for this underpayment is going to increase. It's going to get worse. Essentially, and I'm going to be kind of harsh here, the hospitals are addicted to commercial insurance payments. They're addicted to this relationship. Now, it doesn't have to be that way. And in fact, employers are actually, to a certain extent, we're enabling this behavior. And to a certain extent, the insurance carriers are enabling this behavior. We're letting this happen. So I'm not pointing the finger at hospitals. I'm saying, look, we've got to do two things. We have to, one, stop enabling this behavior. And then, two, offer an alternative. We can't just stop the enablement and just say, figure it out for yourself, hospitals, because you've got to survive. Hospitals are not the enemy. They have to survive. They have to survive in a different way, but they need to survive. And so the authors of this Harvard Review, Harvard Business Review article outlined four ways the hospital's going to do that. So number one, there's actually a 5 to 15% expense reduction opportunity in care and administration by using analytics to decrease waste. Hospitals are, again, not to be overcritical, are cesspools of waste. And if they actually use their data the way most corporations do to analyze that waste, then there's a 5 to 15% reduction expense opportunity for that calculated by them. Okay, next up. There's an opportunity to decrease their corporate service expenses. What do I mean by corporate service expenses? I mean legal, compliance, HR, and IT. Oh, by the way, HR is the health benefits for the employees themselves, because health care for people that work at hospitals is expensive. Okay, so those corporate services are actually 15% of a hospital's overall expenses, and it's been rising at 10% per year. That's the second opportunity. Third opportunity. The supply chain for a hospital, so hospital supplies make up about 15 to 20%, whether that's drug supplies, surgical supplies, etc. 15 to 20% of a hospital's overall expenses. Now, it's incredibly balkanized because the physicians show favoritism to specific vendors, which if you watched my previous video on physician and distributors, sometimes the physicians have partial or complete ownership of those vendors. So they're remunerating themselves through this disparate supply chain relationship. That overcharges for or up charges for various supplies. Okay, that can be streamlined. That can be streamlined. And fourth and final is there is a high degree of variation in the way patients are cared for, where per this article, there is a two to three times difference in the amount of money it takes to treat a controlled patient, in other words, a patient with the same degree of illness, etc., etc., across different doctors within the same hospital. So whether it be like heart failure or diabetes or an infection, etc., there's a huge degree of variation by doctor. And so that is where that can be addressed through standardized protocols, whether they be physician protocols or nursing protocols. We use a ton of protocols at Hopkins. They were great. They were designed by the physicians. They were awesome. Oh, by the way, Geisinger at Intermountain Healthcare, they use a large degree of protocols. It's not bad cookbook medicine. There are clinically justified reasons to go off the protocol, but the point is that you start with the protocol and then you make the conscious decision to go off of it. You don't start in this nebulous, a protocol world. Okay? So the point is, is that we, and oh, by the way, there's an expression for this in healthcare. It's called feeding the beast. Okay? Feeding a large healthcare system. We all know we need to stop feeding the beast, and here are some viable alternatives that we can do instead. And thank you for watching A Healthcare Z. That's a joke. Yeah. Thank you.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:14]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're
+[0:14 - 0:20]  going to be discussing hospital cross subsidization. So it's a well-known fact that Medicare and
+[0:20 - 0:26]  Medicaid under reimburse hospital systems for the care they provide and that hospital systems
+[0:26 - 0:31]  then have commercial insurance patients then overpay for the care that they provide to
+[0:31 - 0:35]  them and so that's where you get the cross subsidization from, right? So you're subsidizing
+[0:35 - 0:40]  the underpayment by Medicare and Medicaid by having the commercial insurance overpay and
+[0:40 - 0:45]  that's just how hospital finance in America works. Okay, now let's get into some specific
+[0:45 - 0:50]  numbers. These statistics are actually from the American Hospital Association themselves
+[0:50 - 0:55]  and I will leave the links in the show notes. And so you can see here that Medicare and Medicaid
+[0:55 - 1:02]  underpay by 13%. Okay, well how much care is actually provided by Medicare and Medicaid?
+[1:02 - 1:09]  Well total hospital expense, 60% came in from Medicare and Medicaid patients. Okay, so 60%
+[1:09 - 1:12]  of the hospitals told businesses from Medicare and Medicaid. Alright, now there's Medicare and
+[1:12 - 1:15]  Medicaid, there's commercial insurance, but then there's also just non-payment. There's
+[1:15 - 1:20]  a lot of patients that come in that just don't pay at all. That's uncompensated care and that
+[1:20 - 1:24]  totaled $38 billion. Okay, now if we want to figure that out as a percentage, we need to
+[1:24 - 1:29]  know total hospital expense. Well that's reported by the American Hospital Association and
+[1:29 - 1:35]  well. So total hospital expense was $900 billion. Okay, so uncompensated care is $38 billion divided
+[1:35 - 1:41]  by the $900 billion, that gets you 4.2%. So in other words, the hospital gets 60% of their
+[1:41 - 1:44]  business from Medicare and Medicaid and 4.2% of their business from people that just don't
+[1:44 - 1:49]  pay at all. Okay, great. Now hospitals still make money, they still have a profit margin.
+[1:49 - 1:54]  Even non-profit hospitals still have a profit margin. What is that profit margin? That was
+[1:54 - 2:01]  reported by the American Hospital Association as well. It was 7.7%. So knowing what their
+[2:01 - 2:04]  expense is and knowing what their profit margin is, you can then solve for, okay, well what
+[2:04 - 2:12]  was total hospital revenue? And that was $975 billion. Okay, now let's break it down by Medicare
+[2:12 - 2:19]  and Medicaid in terms of specific dollar amounts. Okay, so that means that $540 billion of hospital
+[2:19 - 2:26]  revenue was from, excuse me, of hospital care was from Medicare and Medicaid. And that hospital
+[2:26 - 2:31]  revenue from Medicare and Medicaid was only $470 billion, right? Because Medicare and Medicaid
+[2:31 - 2:36]  undercompensate for the care. So they only paid $470 billion for the $540 billion of care that
+[2:36 - 2:43]  was provided for them. Okay, now that means that commercial insurance revenue for those
+[2:43 - 2:48]  hospitals was $505 billion, right? Because you got $975 billion total, you're only getting
+[2:48 - 2:53]  $470 billion from Medicare and Medicaid, uncompensated care, they're not getting paid anything. So that
+[2:53 - 2:59]  gives you the $505 billion of revenue. Now how much care are those hospital systems providing
+[2:59 - 3:06]  for, what's the expense for that $505 billion? Well, it's only 36% of care, right? Because
+[3:06 - 3:11]  we know 60% of care is from Medicare and Medicaid. We know 4% of care is uncompensated. So that
+[3:11 - 3:17]  means that 36% of care, 36% of expense is from commercially insured patients. Okay, great.
+[3:17 - 3:25]  That's $322 billion. Now then doing the math on the $505 billion of revenue and the $322 billion
+[3:25 - 3:34]  of expense, that means the punchline is commercial insurance overpays by 57%. Now, all these numbers
+[3:34 - 3:38]  are approximations, right? Because the fact that Medicare and Medicaid both undercompensate
+[3:38 - 3:43]  by 13%, somewhat of a coincidence. The fact that the care from Medicare and Medicaid is 60%,
+[3:43 - 3:50]  I mean, that's a very round number. Maybe it's 58, maybe it's 62. Okay, but the point is, is
+[3:50 - 3:58]  that Medicare and Medicaid underpay and commercial insurance, which is really employers in America
+[3:58 - 4:04]  with their premiums, or if they're self-funded, they're actually paying up the claims themselves.
+[4:04 - 4:10]  So employers and employees in America overpay by 57% to make up for the fact that Medicare
+[4:10 - 4:15]  and Medicaid and uncompensated care underpays the hospitals. And that's my point for today.
+[4:15 - 4:22]  Thank you for watching A Healthcare Z.
+[4:22 - 4:28]  Hello, this is Dr. Eric Bricker, and thank you for watching A Healthcare Z. Today we're
+[4:28 - 4:35]  going to be discussing hospital accounting. Now this might be the most boring topic ever,
+[4:35 - 4:44]  but I promise you, if you stay with me till the end, it will become fascinating. Okay, fact number one.
+[4:44 - 4:52]  Most hospitals do not do cost accounting. What does that mean? Most hospitals do not actually know
+[4:52 - 5:01]  what it costs them internally to deliver a carpal tunnel release surgery, to deliver a gallbladder surgery,
+[5:01 - 5:09]  to deliver an MRI, to deliver 30 minutes of time spent in the emergency room. Okay, so there was a fascinating article
+[5:09 - 5:14]  about this from the New York Times in 2015 that I will put in the show notes. And as far as I'm concerned,
+[5:14 - 5:22]  this article should be like front page news, like every day for every healthcare publication. It's that big of a deal.
+[5:22 - 5:39]  Okay, however, this article is about the University of Utah healthcare system, which went through an exercise where they actually figured out how much all of their care actually cost them internally.
+[5:39 - 5:52]  And guess what they found out? An ER visit cost 82 cents a minute. And time in the operating room for an orthopedic surgery cost $12 a minute.
+[5:52 - 6:02]  So they actually knew literally what everything in their hospital actually caught them. What cost them? What's that called? Normal. What most normal businesses do.
+[6:02 - 6:09]  That's what we did at our company. It's what the automobile industry does. If any of you watching this video run a business,
+[6:09 - 6:22]  you probably know how much it costs you to do various parts of your own business. Okay, that's a good business practice. That is quote unquote highly innovative in healthcare. Okay, fascinating.
+[6:22 - 6:34]  This was such a huge deal that Michael Porter, who is probably one of the most famous business school professors in America, or even in the world from Harvard University,
+[6:34 - 6:48]  went to the University of Utah healthcare system to research this. And he said, look, this is amazing. This is the equivalent of like Michael Jordan saying that you are good at basketball. Okay, this is a huge deal.
+[6:48 - 6:57]  All right. So now, as a result of this, let me go back a point here. As a result of knowing their costs, guess what the University of Utah healthcare system was able to do?
+[6:57 - 7:09]  They were actually able to lower their costs. So their costs went down about half a percentage point, whereas comparable academic medical centers in their part of the country actually went up by 2.9%.
+[7:09 - 7:17]  And that makes sense, right? If you're going to control costs and bring costs down, you actually have to know what your costs are.
+[7:17 - 7:27]  So if the vast majority of hospitals in America don't know what their costs are, then they're going to have a really hard time bringing those costs down. Okay?
+[7:27 - 7:39]  So that is like a basic fundamental that really everyone needs to understand. Now, I have my own theory, point number four, as to why at the University of Utah, is there something in the water?
+[7:39 - 7:51]  Do they have something especially smart people there? Look, I'm sure they do have a lot of smart people there. But here's what Utah also has. It also has the Intermountain healthcare system.
+[7:51 - 8:07]  And Intermountain is like the major competing healthcare system for the University of Utah. Now, Utah is a unique state in that it has about 5 million people. And they're heavily concentrated, as you can imagine, in the Salt Lake City area, somewhat in Provo as well.
+[8:07 - 8:14]  And so they've got most of their people kind of in one place. And they really only have two major hospital systems for those people.
+[8:14 - 8:30]  All right. What does Intermountain Healthcare have? It runs its own health plan. You buy Intermountain Healthcare insurance in Utah. And that means that Intermountain Healthcare is collecting premium and delivering care.
+[8:30 - 8:47]  What does that mean? Intermountain Healthcare is taking on risk. And as a result of that, they have created amazing care pathways. They have protocols. They have been trumpeted by both Democratic and Republican administrations.
+[8:47 - 8:57]  I mean, they are just known as the best of the best in America when it comes to running a healthcare system. And the University of Utah has to compete with that. Okay? So this is my own theory.
+[8:57 - 9:10]  But they had to up their game in cost accounting in order to compete with Intermountain. Okay? Guess what other healthcare system in America is thought of as one of the most innovative healthcare systems in America?
+[9:10 - 9:20]  It's the Geisinger Healthcare system on the eastern side of Pennsylvania in a completely separate part of the country. What does Geisinger have in common with Intermountain Healthcare?
+[9:20 - 9:32]  It also runs a health plan. It collects premium. It takes on risk. And it provides care. So that is a big deal. And that's why cost accounting is a big deal.
+[9:32 - 9:48]  And that really gets to the root of so many issues in healthcare. And that is, it's the incentives. Look, when you're incentivized to be a more prudent steward of your healthcare resources, because you're taking on risk, guess what happens?
+[9:48 - 9:59]  Tons of innovation. Tons of clinical improvement. Tons of increased safety. Tons of increased outcomes. And so necessity is the mother invention.
+[9:59 - 10:04]  Tons of innovation. And so that is the punchline that I would like to leave you with today. And thank you for watching A Healthcare Z.
+[10:11 - 10:15]  Hello, this is Dr. Eric Bricker. And thank you for watching A Healthcare Z.
+[10:15 - 10:21]  Today we're going to be discussing complex patients from the hospital perspective.
+[10:21 - 10:31]  And I wrote down HCC up here because on the employer, broker benefit consultant, commercial insurance side, they're oftentimes referred to as high cost claimants.
+[10:32 - 10:37]  Okay. But for a doctor in a hospital, they are never called a high cost claimant.
+[10:37 - 10:42]  Okay. They're either called a person or a patient or Sue or John.
+[10:42 - 10:46]  I mean, these are people and they have names and they have lives.
+[10:46 - 10:56]  And so I think it's very important for everyone that works in healthcare to kind of understand what's going on with these very complex patients.
+[10:56 - 11:03]  And the reason that we're talking about complex patients is because of point number one, which is the 80-20 rule or what's called the 550 rule, right?
+[11:03 - 11:11]  So for most commercial insurance plans and employers, 80% of their costs come from 20% of their employees, plan members.
+[11:11 - 11:15]  And the 550 rule is just a more concentrated version of that, right?
+[11:15 - 11:19]  Where 5% of the employees or the plan members drive 50% of the costs.
+[11:19 - 11:22]  Okay. Well, the reverse is true on the hospital side, right?
+[11:23 - 11:25]  Of the hospital's expenses, it stratifies, right?
+[11:26 - 11:30]  80% of the hospital's expenses are spent on 20% of the patients.
+[11:30 - 11:31]  And it stratifies even more, right?
+[11:31 - 11:39]  Where about 50% of the hospital's expenses are spent on the 5% of the most complicated patients, okay?
+[11:39 - 11:44]  And similar to commercially insured patients, they typically fall into several categories.
+[11:45 - 11:47]  And those are ortho, cardiac, and cancer.
+[11:47 - 11:50]  Now, I also wrote up here ICU as well.
+[11:50 - 11:58]  Because there's a lot of cases of what's sepsis, which is a systemic infection that causes you to be unconscious and have very low blood pressure.
+[11:58 - 12:04]  And also what's called ARDS or acute respiratory syndrome, which is essentially lung failure, okay?
+[12:04 - 12:08]  And these typically happen, in the next point, they typically happen in the elderly, right?
+[12:08 - 12:14]  Because at the end of the day, that's really who uses the most healthcare services are the elderly, okay?
+[12:15 - 12:16]  And who's their payer?
+[12:16 - 12:19]  It's Medicare or a Medicare Advantage plan, right?
+[12:19 - 12:23]  So the vast majority, like when I was at the hospital, I used to be a hospitalist.
+[12:23 - 12:26]  Like the vast majority of the people in the hospital are older.
+[12:27 - 12:28]  I mean, that's just the way it is, right?
+[12:28 - 12:32]  Anybody who's ever been to a hospital, it's like most of the people that are older, right?
+[12:32 - 12:35]  And these are just personal tragedies.
+[12:35 - 12:43]  And the reason I say personal tragedies is because, well, they're in the hospital because they themselves and or their families,
+[12:43 - 12:44]  like they want them to live.
+[12:44 - 12:45]  They want them to get better.
+[12:46 - 12:47]  They want reduction in pain.
+[12:47 - 12:49]  They want improved breathing.
+[12:49 - 12:51]  They want less suffering.
+[12:51 - 12:56]  And the reason that they're so complex is because that's not happening.
+[12:56 - 12:58]  They're not getting better.
+[12:58 - 13:00]  A lot of times, they're getting worse.
+[13:00 - 13:04]  Like they are, so, you know, sometimes the decision needs to be, okay, well, you know,
+[13:04 - 13:10]  hospice is a better place for you because it's really, there's really nothing more that we can do.
+[13:10 - 13:12]  Or maybe it's in the person's advanced directive, what have you.
+[13:12 - 13:13]  And that's totally fine.
+[13:13 - 13:18]  But the point is, is that these by and large are very, you know, they're just tragedies.
+[13:19 - 13:19]  Okay.
+[13:19 - 13:21]  So let's look at those tragedies in more clinical detail.
+[13:21 - 13:21]  Okay.
+[13:21 - 13:29]  So on the orthopedic side, oftentimes it's either going to be a joint replacement, a knee replacement, or a hip replacement.
+[13:29 - 13:32]  Or one of the biggest things is a fall and a fractured hip.
+[13:32 - 13:34]  That happens all the time.
+[13:34 - 13:35]  Okay.
+[13:35 - 13:38]  That is like 10 times more common than the actual knee or hip replacement.
+[13:38 - 13:44]  It's actually the, and the actual pinning of the hip is a very brief procedure.
+[13:44 - 13:49]  However, it's the medical complications that then turn into a tragedy.
+[13:49 - 13:51]  So one, PE stands for pulmonary embolism.
+[13:51 - 13:55]  So this is where the person gets a blood clot in their leg, which then travels through their heart to their lungs
+[13:55 - 14:04]  and causes them to potentially die of essentially lung failure and deoxygenation from the pulmonary embolism.
+[14:04 - 14:06]  So next is diarrhea.
+[14:06 - 14:11]  Diarrhea, a lot of times because of the anesthesia or just because of being hospitalized,
+[14:11 - 14:14]  or a lot of times these people were already in a nursing home environment,
+[14:14 - 14:19]  they might just have a very sensitive GI tract or even a GI tract infection,
+[14:19 - 14:24]  which just causes them, you know, not to be graphic, just has diffuse diarrhea that causes dehydration
+[14:24 - 14:26]  and really electrolyte imbalances, right?
+[14:26 - 14:32]  So that's where their potassium and their sodium and really their kidney function can be dramatically impacted
+[14:32 - 14:34]  by this excessive diarrhea.
+[14:34 - 14:36]  And then also delirium.
+[14:36 - 14:42]  So with the pain medication, with the anesthesia, with a whole bunch of things,
+[14:42 - 14:45]  it can cause, and these people oftentimes have some level of dementia,
+[14:46 - 14:48]  it causes them to become much worse.
+[14:48 - 14:50]  So they have what's called altered mental status.
+[14:50 - 14:51]  So they're just confused.
+[14:51 - 14:56]  I had one guy who literally thought that his call light on the bed was a fishing rod
+[14:56 - 14:58]  and he was fishing with his call light.
+[14:58 - 15:00]  And like, it was not funny.
+[15:00 - 15:03]  Like it was like, this guy was like crazy delirious.
+[15:03 - 15:06]  And what happens is, is that that might not go away for weeks or months.
+[15:07 - 15:11]  And oftentimes their mental status, it has a hard time coming back to where it was before.
+[15:11 - 15:11]  Okay.
+[15:11 - 15:12]  So again, these are tragedies.
+[15:13 - 15:15]  These people are in the hospital for weeks or months at a time.
+[15:15 - 15:16]  Okay.
+[15:16 - 15:17]  Next for cardiac.
+[15:17 - 15:21]  So this is often in the form of either an actual heart attack
+[15:21 - 15:24]  or oftentimes the person will have narrowed arteries.
+[15:24 - 15:28]  In the vast majority of cases, the person gets cardiac catheterization and a stent.
+[15:28 - 15:28]  Okay.
+[15:28 - 15:30]  So most people are not taken to bypass.
+[15:30 - 15:32]  They're really given a stent.
+[15:32 - 15:37]  What happens when you get a stent or multiple stents is that you're put on very powerful blood thinners.
+[15:37 - 15:38]  What then happens?
+[15:38 - 15:40]  There's oftentimes a lot of bleeding.
+[15:40 - 15:44]  There can be bleeding at the site where they did the catheterization, which is the groin or the arm.
+[15:45 - 15:49]  Oftentimes these people have very small ulcers or lesions in their stomach or their intestines.
+[15:49 - 15:50]  And those start bleeding.
+[15:50 - 15:57]  And so there you have a very hard problem because you want to take them off the blood thinners so that they stop bleeding.
+[15:58 - 16:03]  But if you do that, then you might risk recladding the blocked artery that was opened with the stent.
+[16:03 - 16:06]  And so these people get massive blood transfusions.
+[16:07 - 16:10]  Sometimes they have complications from the transfusions like volume overload and pulmonary failure.
+[16:11 - 16:11]  Okay.
+[16:11 - 16:13]  So tragedy.
+[16:13 - 16:13]  Okay.
+[16:14 - 16:16]  A lot of times too they'll have respiratory failure as well.
+[16:16 - 16:21]  Again, because the fluid status of these cardiac patients is oftentimes very tenuous.
+[16:21 - 16:23]  And if they get too much fluid, that fluid goes into their lungs.
+[16:24 - 16:25]  They get something called pulmonary edema.
+[16:25 - 16:31]  And they then can go into respiratory failure from that where they might have to get CPAP or even be intubated.
+[16:31 - 16:33]  And you can't get them off the ventilator.
+[16:33 - 16:40]  So again, these are personal tragedies where these people might end up in the cardiac ICU for weeks or months at a time.
+[16:40 - 16:40]  Okay.
+[16:40 - 16:42]  Next up, for cancer.
+[16:42 - 16:46]  Typically, cancer is put into two main categories.
+[16:46 - 16:49]  And those are, quote, unquote, liquid tumors like leukemia and lymphoma.
+[16:49 - 16:52]  And then solid tumors like breast cancer or colon cancer.
+[16:52 - 16:53]  Okay.
+[16:53 - 16:58]  So the chemotherapy and the radiation associated with cancer treatment, it dramatically lowers the immune system.
+[16:58 - 17:02]  So these people are very prone to getting all sorts of weird infections.
+[17:02 - 17:08]  Really bad, like, fungal and yeast infections even are bad bacterial infections.
+[17:08 - 17:14]  And so those infections can just be devastating and, again, end up in the ICU or just hospitalized for weeks or months at a time.
+[17:14 - 17:15]  Also, there's bleeding, right?
+[17:15 - 17:19]  Because a lot of times the chemotherapy knocks down your platelet count incredibly low.
+[17:19 - 17:22]  And so these people have a lot of bleeding from low platelets.
+[17:22 - 17:28]  And then their bone marrow is also so depleted from the chemotherapy that they have a hard time creating new red blood cells.
+[17:28 - 17:33]  So it's, again, transfusion, transfusion, transfusion, weeks, months in the hospital.
+[17:33 - 17:38]  And then they oftentimes get GI and sometimes GU or urinary tract blockages as well.
+[17:38 - 17:49]  So the actual solid tumor, especially in the case of colon cancer, is actually blocking the ability of food and fluid to pass through your GI tract, which is just awful.
+[17:49 - 17:55]  You get incredibly bloated because your stomach actually produces more than a liter of fluid just on its own every day.
+[17:55 - 18:02]  And so if your GI tract gets blocked, and even if you don't eat or drink or anything, you still generate all this fluid that gets backed up.
+[18:02 - 18:06]  And, again, weeks or months in the hospital trying to recover from that.
+[18:06 - 18:09]  And this is the frequent course of what happens to these patients.
+[18:09 - 18:10]  Okay.
+[18:10 - 18:11]  They're in the hospital.
+[18:11 - 18:15]  They get better enough to no longer need to be in the hospital.
+[18:15 - 18:17]  And then they are almost never discharged to home.
+[18:18 - 18:18]  Right?
+[18:18 - 18:22]  They go to a SNF, a skilled nursing facility, which is essentially a nursing home.
+[18:23 - 18:23]  Okay?
+[18:23 - 18:24]  And then what happens?
+[18:24 - 18:26]  They frequently bounce back.
+[18:26 - 18:27]  They get readmitted to the hospital.
+[18:28 - 18:29]  Sometimes within a day.
+[18:29 - 18:29]  Sometimes within a week.
+[18:29 - 18:30]  Sometimes within two weeks.
+[18:30 - 18:34]  And the rule for reimbursement in Medicare is if they come back into the hospital,
+[18:34 - 18:37]  oftentimes it's within about 30 days.
+[18:37 - 18:41]  The hospital does not get paid again for that hospitalization.
+[18:42 - 18:46]  Medicare changed the rules decades ago to say, look, to say, if you're hospitalized for X problem,
+[18:47 - 18:49]  you get discharged from the hospital, and you come back for the same problem,
+[18:49 - 18:52]  we as Medicare are not going to pay you again for that readmission.
+[18:52 - 18:56]  And so sometimes these people will bounce back and then go back to the SNF and then bounce back
+[18:56 - 18:57]  and then go back to the SNF.
+[18:57 - 18:59]  And it really happened like seven or eight times.
+[18:59 - 19:03]  And the hospital is not getting paid for every one of those hospitalizations.
+[19:03 - 19:05]  And so these are very complex patients.
+[19:05 - 19:08]  They are absolute tragedies for the people.
+[19:08 - 19:12]  And frankly, they put the hospital at tremendous financial risk.
+[19:12 - 19:18]  Because there's no way they're going to get paid enough by Medicare to cover that complexity.
+[19:18 - 19:24]  And that is one of the root reasons why the hospital has to overcharge commercial insurance
+[19:24 - 19:25]  is to make up for this.
+[19:26 - 19:28]  Now, there are other ways to think about this.
+[19:28 - 19:31]  There are other strategies that other hospital systems have used.
+[19:32 - 19:34]  That's another conversation for another day.
+[19:34 - 19:36]  But thank you for watching A Healthcare Z.
+[19:42 - 19:46]  Hello, this is Dr. Eric Bricker, and thank you for watching A Healthcare Z.
+[19:46 - 19:51]  Today we're going to be discussing charge capture and the story of sepsis.
+[19:51 - 20:00]  So first off, charge capture is the translation of the chart or the medical record into billing codes.
+[20:01 - 20:04]  And by the chart of the medical record, I mean literally, and especially in the case of inpatient stays,
+[20:05 - 20:07]  there's literally a paper chart like this thick.
+[20:07 - 20:08]  People still write in it.
+[20:08 - 20:14]  Even though hospitals have electronic medical records, there are still like daily notes that are taken by hand.
+[20:14 - 20:19]  And when that is done for that person's stay, then it goes to the medical records department,
+[20:19 - 20:24]  where literally coders will read what the doctor has written, and they will translate that into the billing codes.
+[20:25 - 20:30]  And there's very specific rules for what words need to be in the chart in order to have certain billing codes.
+[20:30 - 20:36]  And that's important because those billing codes then roll up for what are referred to as diagnosis-related groups, or DRGs.
+[20:36 - 20:39]  And it's DRG codes that are used for inpatient stays.
+[20:39 - 20:42]  And it's really the basis not only for Medicare reimbursement,
+[20:42 - 20:46]  but commercial insurance companies use DRGs for reimbursement as well.
+[20:46 - 20:48]  Okay, now, what does that have to do with sepsis?
+[20:49 - 20:56]  So sepsis is a systemic infection, typically from a bacteria, but it could be fungal or viral as well.
+[20:56 - 20:59]  And by systemic, I mean it does things like it gives you a fever, it changes your temperature.
+[20:59 - 21:03]  It might change your blood pressure, it might drop your blood pressure very low.
+[21:03 - 21:07]  Sometimes people need to be in the intensive care unit because their blood pressure is so low
+[21:07 - 21:09]  that they need to be given tons of fluids and special medications.
+[21:10 - 21:14]  Okay, so you might have like a minor skin infection, or even like a bladder infection.
+[21:15 - 21:21]  And that historically was not considered sepsis because you wouldn't have these dramatic systemic bodily effects.
+[21:21 - 21:31]  Okay, now, in 2005, there were 518,000 inpatient stays for sepsis across all age groups.
+[21:31 - 21:35]  And then in 2014, there were 1.5 million.
+[21:36 - 21:37]  It tripled!
+[21:37 - 21:45]  Now, to put that in an even greater context, overall, inpatient stays in America went down by about 6% during that period of time.
+[21:45 - 21:51]  And all other causes of inpatient stays went down, like heart attack, pneumonia, all went down.
+[21:51 - 21:54]  The only other category that went up was mental health.
+[21:54 - 21:58]  And it did not go up, it did not triple the way that sepsis did.
+[21:58 - 22:00]  So this is very odd and very unique.
+[22:00 - 22:03]  And oh, by the way, I'll leave the link in the show notes to all the sources.
+[22:03 - 22:08]  Okay, now, that's fine, but what about like commercially aged people?
+[22:08 - 22:10]  Commercially insurance-aged people, right?
+[22:10 - 22:11]  Because that's what we care about on this channel.
+[22:11 - 22:19]  Okay, in 2005, for 18 to 44-year-olds, sepsis was not even in the top 5 for diagnostic categories for inpatient stays.
+[22:20 - 22:24]  In 2014, it was number 3 with over 189,000 inpatient stays.
+[22:24 - 22:30]  In 2005, for 45 to 64-year-olds, so older commercially insured folks,
+[22:30 - 22:34]  again, sepsis was not even in the top 5 for reasons for inpatient stay.
+[22:34 - 22:36]  But in 2014, it was number 2.
+[22:37 - 22:42]  There were 441,000 inpatient stays, almost a half a million inpatient stays
+[22:42 - 22:46]  for something that wasn't even in the top 5 a few years prior.
+[22:46 - 22:47]  So what happened?
+[22:48 - 22:48]  What happened?
+[22:49 - 22:52]  What happened was the reimbursement for sepsis changed.
+[22:52 - 22:57]  Reimbursement for sepsis became higher than for other infections.
+[22:57 - 23:01]  And this happened because of the creation of what we're referred to as the MSDRG,
+[23:02 - 23:07]  or the medical severity diagnosis related groups that happened in 2007.
+[23:07 - 23:10]  And so this is where, because I was practicing at the hospital at this time,
+[23:10 - 23:16]  we were literally coached by the case managers, by the hospital administration,
+[23:16 - 23:21]  to change the way that we used specific words in the chart,
+[23:21 - 23:25]  so that medical records could then use this sepsis code.
+[23:25 - 23:27]  So you might look at the data here and be like,
+[23:27 - 23:30]  oh, there's an epidemic of sepsis going on here in America,
+[23:30 - 23:32]  and in fact, that is not the case.
+[23:32 - 23:36]  Really, the UTIs and the other infections, could they have gone up?
+[23:36 - 23:38]  Sure, they could have gone up.
+[23:38 - 23:39]  I don't think they tripled.
+[23:39 - 23:43]  And in fact, in the sources, I will leave you quotes from, you know,
+[23:44 - 23:45]  some of the world's foremost experts in this,
+[23:45 - 23:47]  like Peter Pervos from Johns Hopkins,
+[23:47 - 23:49]  who I've heard speak on multiple occasions,
+[23:49 - 23:52]  and they say, yes, it's because of upcoding.
+[23:53 - 23:55]  And so my point for today is,
+[23:55 - 23:57]  is one, when you're looking at the medical claims data,
+[23:57 - 23:59]  beware of medical coding.
+[23:59 - 24:03]  And then two, also note that changes in reimbursement
+[24:03 - 24:06]  dramatically change the way that charge capture occurs.
+[24:06 - 24:09]  And thank you for watching A Healthcare Z.
+[24:15 - 24:15]  Hello.
+[24:16 - 24:17]  Thank you for watching A Healthcare Z.
+[24:18 - 24:22]  And today's topic is a recent RAND study on hospital prices.
+[24:22 - 24:25]  Now, you'll notice that I have ditched the tie today
+[24:25 - 24:29]  because I was actually asked by a viewer to do so.
+[24:30 - 24:33]  So just know that, look, I'm responsive to you people.
+[24:33 - 24:36]  Okay, first up, the RAND study, which came out,
+[24:36 - 24:39]  it was on the 11th of May of 2019,
+[24:39 - 24:42]  said that commercial insurance pays hospitals,
+[24:43 - 24:49]  on average, 247 per, 241% of what Medicare pays.
+[24:49 - 24:50]  Now, that's on average.
+[24:51 - 24:53]  So the other, one of the other points that the RAND study made
+[24:53 - 24:59]  was that that amount was highly variable by hospital.
+[24:59 - 25:00]  So they said at the low end,
+[25:00 - 25:04]  there were some hospitals that charged commercial insurance
+[25:04 - 25:08]  about 150%, and this is after the discount's been applied,
+[25:08 - 25:10]  so this is the quote-unquote allowed amount of the true price,
+[25:10 - 25:12]  all the way up to 400%.
+[25:12 - 25:15]  So it was, not only was it on average 241%,
+[25:15 - 25:16]  but it actually was highly variable.
+[25:17 - 25:18]  Okay, and this is super important
+[25:18 - 25:20]  because we've known for a long time
+[25:20 - 25:23]  that commercial insurance plans pay hospitals
+[25:23 - 25:25]  much more than Medicare pays them.
+[25:25 - 25:27]  And we're not going to get into the debate today
+[25:27 - 25:30]  over whether or not Medicare is adequate compensation
+[25:30 - 25:31]  or is too low,
+[25:32 - 25:35]  and therefore hospitals have to overcharge commercial insurance
+[25:35 - 25:36]  in order to make up for the fact
+[25:36 - 25:37]  that Medicare is not paying enough.
+[25:37 - 25:40]  Like, that is actually not the topic for today.
+[25:40 - 25:42]  The topic for today is to say,
+[25:42 - 25:45]  okay, well, let's look at this data in more detail
+[25:45 - 25:49]  and see what we as employers can take from it.
+[25:49 - 25:52]  Okay, so one is that the outpatient services
+[25:52 - 25:55]  were 293% of Medicare for commercial insurance,
+[25:55 - 25:57]  and the inpatient services were 204%.
+[25:57 - 26:00]  In other words, on a relative basis,
+[26:00 - 26:02]  outpatient services are much more expensive
+[26:02 - 26:03]  than inpatient services.
+[26:04 - 26:05]  And that's important because the majority of services
+[26:05 - 26:06]  at a hospital these days
+[26:06 - 26:08]  are actually done on an outpatient basis,
+[26:08 - 26:11]  and especially for commercial insurance employers,
+[26:11 - 26:13]  in other words, for folks that are, you know,
+[26:13 - 26:14]  not on Medicare under the age of 65,
+[26:15 - 26:16]  a lot of their surgeries are done
+[26:16 - 26:17]  on an outpatient basis as well.
+[26:18 - 26:19]  So it's just important to know
+[26:19 - 26:21]  that just because something is quote-unquote outpatient
+[26:21 - 26:22]  doesn't make it less expensive.
+[26:22 - 26:24]  In fact, it actually might make it even more expensive.
+[26:24 - 26:25]  Okay, next.
+[26:25 - 26:28]  There's a challenge with this particular study
+[26:28 - 26:32]  as it relates to the basket of services
+[26:32 - 26:33]  that they looked at, right?
+[26:34 - 26:36]  Because anytime you're looking at prices,
+[26:36 - 26:39]  you can't just look at prices across the board.
+[26:39 - 26:41]  You have to look at prices for the basket
+[26:41 - 26:44]  of what's provided at that particular hospital,
+[26:44 - 26:46]  and you also need to look at the basket
+[26:46 - 26:48]  of what people would actually consume.
+[26:49 - 26:49]  And oh, by the way,
+[26:50 - 26:51]  that's exactly what the government does
+[26:51 - 26:56]  when they're calculating inflation as part of CPI.
+[26:56 - 26:59]  They're actually looking at a particular basket,
+[26:59 - 27:01]  and then weight that basket, okay?
+[27:01 - 27:02]  So we'll talk about that in more detail.
+[27:03 - 27:06]  So specifically for this RAND study,
+[27:06 - 27:09]  they looked at ER services, cath lab, endoscopy,
+[27:09 - 27:12]  labor and delivery, laparoscopic surgeries,
+[27:13 - 27:15]  CTs and MRIs, orthopedics, mental health,
+[27:16 - 27:17]  circulation and respiratory.
+[27:17 - 27:23]  So there are some major holes in the data
+[27:23 - 27:25]  by hospital and by hospital system.
+[27:26 - 27:28]  And let's look at two specific hospital systems
+[27:28 - 27:31]  here in Dallas-Fort Worth that I'm very familiar with.
+[27:31 - 27:33]  And this is where the great thing about the RAND study
+[27:33 - 27:36]  is that they actually published the data by hospital,
+[27:36 - 27:39]  and you can download it on an Excel spreadsheet.
+[27:39 - 27:41]  And I highly encourage all of you to do this.
+[27:41 - 27:42]  I'll leave a link in the show notes
+[27:42 - 27:45]  because you can actually run a ton of analyses yourself
+[27:45 - 27:46]  on this Excel spreadsheet.
+[27:46 - 27:49]  Okay, so at Baylor Scott & White,
+[27:49 - 27:51]  their average for inpatient and outpatient
+[27:51 - 27:53]  was 255% of Medicare.
+[27:54 - 27:56]  Now, what did they analyze for that?
+[27:56 - 28:00]  They analyzed 7,880 claims,
+[28:00 - 28:03]  which totaled $15.6 million.
+[28:03 - 28:08]  And I will tell you that Baylor Scott & White is huge.
+[28:08 - 28:09]  It is enormous.
+[28:10 - 28:11]  So how enormous is it?
+[28:11 - 28:15]  Their total revenue in the last six months of 2018
+[28:15 - 28:17]  was $4.9 billion.
+[28:17 - 28:20]  So if you annualize that to $9.8 billion,
+[28:20 - 28:22]  and then we've talked about this before,
+[28:22 - 28:25]  but commercial insurance generally makes up about 40%
+[28:25 - 28:26]  of a hospital's revenue,
+[28:27 - 28:28]  with Medicare and Medicaid self-pay
+[28:28 - 28:29]  being the other sources of revenue.
+[28:29 - 28:31]  So you just take that total revenue, $9.8 billion,
+[28:31 - 28:33]  you multiply it by 0.4,
+[28:33 - 28:35]  you get $3.9 billion.
+[28:35 - 28:38]  Okay, well if you divide the $15.6 million
+[28:38 - 28:39]  by $3.9 billion,
+[28:39 - 28:44]  that means of the costs and the prices assessed
+[28:44 - 28:46]  for the Baylor Scott & White healthcare system
+[28:46 - 28:48]  by this RAND study,
+[28:48 - 28:53]  they only looked at 0.4% of the claims cost.
+[28:53 - 28:55]  Okay, in terms of sample size,
+[28:55 - 28:57]  I'm just going to go out on a limb
+[28:57 - 28:58]  and say that's too low.
+[28:58 - 29:02]  So I think that the RAND study does a great job of saying,
+[29:02 - 29:03]  look, in aggregate,
+[29:03 - 29:05]  and this supports something that we've known for a long time,
+[29:06 - 29:08]  but I think at the individual hospital system level,
+[29:08 - 29:10]  it's just not a big enough sample size.
+[29:10 - 29:13]  Okay, let's look at another Dallas-Fort Worth hospital system
+[29:13 - 29:14]  that I'm also very familiar with,
+[29:14 - 29:16]  and that's Texas Health Resources.
+[29:16 - 29:19]  Okay, where they looked at 7,112 claims,
+[29:19 - 29:21]  totaling $18.2 million.
+[29:22 - 29:23]  Total revenue for Texas Health Resources
+[29:23 - 29:25]  was $3.5 billion for nine months,
+[29:25 - 29:27]  so in order to annualize it,
+[29:27 - 29:30]  it gets us up to $4.7 billion for a 12-month period of time,
+[29:31 - 29:32]  multiply that by .4,
+[29:32 - 29:35]  and that gets you $1.9 billion
+[29:35 - 29:36]  of commercial insurance reimbursement.
+[29:36 - 29:38]  So again, you divide the $18.2 million
+[29:38 - 29:39]  by the $1.9 billion,
+[29:40 - 29:45]  and that's only 0.96% of all healthcare,
+[29:45 - 29:46]  commercial insurance,
+[29:46 - 29:47]  healthcare costs for Texas Health Resources
+[29:47 - 29:49]  were analyzed by RAND.
+[29:50 - 29:51]  Again, I would say that's too low,
+[29:51 - 29:53]  and they found that Texas Health Resources
+[29:53 - 29:55]  was quote-unquote more relatively expensive.
+[29:55 - 29:57]  It was 294% of Medicare
+[29:57 - 29:59]  versus Baylor's 255% of Medicare.
+[30:00 - 30:01]  Now, my point is,
+[30:02 - 30:04]  I don't think you can say that.
+[30:04 - 30:06]  I think you don't know.
+[30:06 - 30:08]  Like, because the basket
+[30:08 - 30:10]  is not necessarily representative
+[30:10 - 30:13]  of what Baylor overall produces,
+[30:13 - 30:15]  and this basket is also not representative
+[30:15 - 30:17]  of what an employer buys,
+[30:17 - 30:18]  and it's also not weighted
+[30:18 - 30:20]  by what Baylor produces,
+[30:20 - 30:21]  and it's not weighted
+[30:21 - 30:22]  by what the employer buys.
+[30:22 - 30:24]  So Baylor might actually be much higher
+[30:24 - 30:25]  than 255% of Medicare,
+[30:25 - 30:26]  or it might be lower.
+[30:27 - 30:28]  And likewise, Texas Health Resources
+[30:28 - 30:30]  might be much higher than 294% of Medicare,
+[30:31 - 30:32]  or it might be much lower.
+[30:33 - 30:35]  And so, and that's the whole reason why,
+[30:35 - 30:37]  going back to the example
+[30:37 - 30:38]  with inflation and the CPI,
+[30:38 - 30:41]  that's why the CPI basket exists,
+[30:42 - 30:43]  and that's why it's weighted.
+[30:43 - 30:45]  And so, all I'm saying today is,
+[30:45 - 30:47]  is that don't draw conclusions
+[30:47 - 30:49]  by specific hospital system
+[30:49 - 30:51]  based upon this study,
+[30:51 - 30:53]  but on an aggregate level,
+[30:53 - 30:54]  it is very helpful.
+[30:54 - 30:55]  And that's my point for today.
+[30:56 - 30:57]  Thank you for watching A Healthcare Z.
+[30:57 - 31:05]  Hello, this is Dr. Eric Bricker,
+[31:05 - 31:07]  and thank you for watching A Healthcare Z.
+[31:07 - 31:08]  Today we're going to be discussing
+[31:08 - 31:11]  all or nothing hospital contracts.
+[31:12 - 31:14]  So, it has been reported
+[31:14 - 31:15]  in the news site Axios,
+[31:15 - 31:17]  and in other places as well,
+[31:17 - 31:18]  that when insurance carriers
+[31:18 - 31:20]  contract with major hospital systems,
+[31:20 - 31:22]  that major hospital system says,
+[31:22 - 31:23]  look, you have to take
+[31:23 - 31:25]  all of our doctors as in-network,
+[31:26 - 31:26]  or none of them.
+[31:26 - 31:28]  So, it's all or nothing.
+[31:28 - 31:29]  Why is that important?
+[31:29 - 31:31]  We talked in a previous video
+[31:31 - 31:33]  about how physician skill
+[31:33 - 31:35]  falls along a bell-shaped curve,
+[31:35 - 31:37]  just like it does for anybody else,
+[31:37 - 31:38]  in any other profession,
+[31:38 - 31:39]  or even like playing sports, right?
+[31:39 - 31:40]  And so, here you have
+[31:40 - 31:41]  the number of physicians
+[31:41 - 31:42]  on the y-axis,
+[31:42 - 31:43]  and the number of,
+[31:43 - 31:44]  the amount of skill
+[31:44 - 31:45]  on the x-axis,
+[31:45 - 31:47]  and it follows a bell-shaped curve, right?
+[31:47 - 31:49]  So, you have the low-skilled physicians
+[31:49 - 31:49]  down here,
+[31:50 - 31:51]  and the high-skilled physicians
+[31:51 - 31:52]  up here.
+[31:52 - 31:53]  And I think if you talk
+[31:53 - 31:53]  to most physicians,
+[31:54 - 31:55]  they would agree,
+[31:55 - 31:55]  to a certain extent,
+[31:55 - 31:57]  there's a bell-shaped curve.
+[31:57 - 31:58]  Okay, how does that matter
+[31:58 - 31:59]  to employer health plans?
+[32:00 - 32:00]  So, Walmart,
+[32:01 - 32:02]  the largest private employer
+[32:02 - 32:03]  in America,
+[32:04 - 32:05]  wanted to get rid
+[32:05 - 32:06]  of these guys.
+[32:06 - 32:07]  They wanted the bottom
+[32:07 - 32:09]  five percent of the physicians
+[32:09 - 32:11]  out of their carrier networks.
+[32:11 - 32:12]  They wanted them out.
+[32:12 - 32:13]  And guess what happened?
+[32:13 - 32:15]  The carriers said no.
+[32:15 - 32:17]  They said that their contracts
+[32:17 - 32:19]  forbid this from happening.
+[32:19 - 32:22]  So, as every other employer
+[32:22 - 32:23]  in America
+[32:23 - 32:24]  that is smaller than Walmart,
+[32:25 - 32:26]  how in the world
+[32:26 - 32:27]  are they supposed to
+[32:27 - 32:29]  go to their carrier
+[32:29 - 32:30]  and ask for them
+[32:30 - 32:31]  to create, like,
+[32:31 - 32:32]  client-specific networks
+[32:32 - 32:33]  or take certain doctors
+[32:33 - 32:33]  out of the networks
+[32:33 - 32:34]  when Walmart
+[32:34 - 32:35]  can't even do it?
+[32:36 - 32:36]  Okay.
+[32:37 - 32:38]  Now, I want to contrast that
+[32:38 - 32:40]  with a different story.
+[32:40 - 32:41]  And that is the story
+[32:41 - 32:42]  of the Allegheny County
+[32:42 - 32:44]  school system.
+[32:44 - 32:46]  And where is Allegheny County,
+[32:46 - 32:46]  Pennsylvania?
+[32:47 - 32:47]  It's Pittsburgh.
+[32:47 - 32:48]  So, it's the Pittsburgh
+[32:48 - 32:49]  public school system.
+[32:49 - 32:50]  Okay.
+[32:50 - 32:51]  What did they do?
+[32:51 - 32:52]  They identified,
+[32:52 - 32:53]  they did the opposite.
+[32:53 - 32:54]  Instead of wanting
+[32:54 - 32:55]  to take the bottom five percent out,
+[32:55 - 32:56]  they identified
+[32:56 - 32:58]  the top providers
+[32:58 - 33:00]  in their area
+[33:00 - 33:00]  associated with
+[33:00 - 33:01]  one particular hospital system.
+[33:02 - 33:02]  Okay.
+[33:02 - 33:02]  They said, look,
+[33:03 - 33:03]  these folks have
+[33:03 - 33:05]  the highest skill.
+[33:05 - 33:05]  Therefore,
+[33:05 - 33:07]  we are going to create
+[33:07 - 33:08]  a plan
+[33:08 - 33:09]  where for seeing
+[33:09 - 33:10]  that particular,
+[33:10 - 33:11]  those particular providers,
+[33:11 - 33:12]  there is no deductible
+[33:12 - 33:13]  and the plan pays
+[33:13 - 33:14]  at 100%.
+[33:14 - 33:15]  For the other
+[33:15 - 33:16]  in-network physicians,
+[33:16 - 33:17]  there was a deductible
+[33:17 - 33:18]  and then the plan
+[33:18 - 33:19]  paid 80%
+[33:19 - 33:19]  and then there was
+[33:19 - 33:20]  your typical
+[33:20 - 33:22]  out-of-network benefits.
+[33:22 - 33:22]  Okay.
+[33:22 - 33:23]  Great.
+[33:23 - 33:23]  So, in other words,
+[33:23 - 33:24]  there were three tiers.
+[33:25 - 33:25]  But instead of getting rid
+[33:25 - 33:27]  of the bottom five percent,
+[33:27 - 33:28]  they instead
+[33:28 - 33:29]  incentivized
+[33:29 - 33:30]  through plan design
+[33:30 - 33:31]  going to
+[33:31 - 33:32]  the top physicians.
+[33:33 - 33:33]  Okay.
+[33:33 - 33:33]  Great.
+[33:34 - 33:34]  What happened?
+[33:34 - 33:35]  Here's the punchline.
+[33:35 - 33:36]  Their cost went
+[33:36 - 33:38]  from $241 million
+[33:38 - 33:41]  down to $233 million,
+[33:41 - 33:42]  a decrease
+[33:42 - 33:42]  of $8 million.
+[33:43 - 33:43]  Now, yeah,
+[33:43 - 33:44]  it's only like
+[33:44 - 33:44]  two or three percent,
+[33:44 - 33:45]  but the point is
+[33:45 - 33:46]  is that it didn't
+[33:46 - 33:47]  go to trend,
+[33:47 - 33:48]  it didn't stay flat,
+[33:48 - 33:50]  it actually went down.
+[33:50 - 33:50]  And so,
+[33:50 - 33:51]  I think this drives home
+[33:51 - 33:52]  a couple of points.
+[33:52 - 33:53]  One is,
+[33:53 - 33:54]  is that it's probably
+[33:54 - 33:55]  not likely
+[33:55 - 33:57]  that the carrier's
+[33:57 - 33:57]  contracts
+[33:57 - 33:59]  are going to allow
+[33:59 - 34:01]  for this type
+[34:01 - 34:02]  of steerage.
+[34:02 - 34:02]  So,
+[34:03 - 34:03]  just know that
+[34:03 - 34:04]  when you get into
+[34:04 - 34:05]  the weeds of the contracts,
+[34:05 - 34:07]  it might not be possible
+[34:07 - 34:07]  because within
+[34:07 - 34:08]  a particular health system,
+[34:08 - 34:09]  there are going to be
+[34:09 - 34:09]  good doctors
+[34:09 - 34:10]  and not so good doctors.
+[34:10 - 34:11]  And so,
+[34:11 - 34:12]  you're not going to want
+[34:12 - 34:13]  a whole health system
+[34:13 - 34:14]  en masse.
+[34:14 - 34:14]  What you're going to want
+[34:14 - 34:15]  to do is you're going
+[34:15 - 34:16]  to really want
+[34:16 - 34:16]  those best providers
+[34:16 - 34:17]  that are in there.
+[34:17 - 34:17]  So,
+[34:17 - 34:18]  that's number one.
+[34:18 - 34:19]  Number two is,
+[34:20 - 34:21]  Allegheny County
+[34:21 - 34:22]  is similar to
+[34:22 - 34:22]  John Tornis
+[34:22 - 34:23]  and the company
+[34:23 - 34:24]  that solved healthcare
+[34:24 - 34:24]  with Seragraph
+[34:24 - 34:25]  in that look.
+[34:25 - 34:26]  All of their employees
+[34:26 - 34:27]  were concentrated
+[34:27 - 34:28]  in one place,
+[34:28 - 34:29]  which to a certain extent
+[34:29 - 34:30]  makes it easier
+[34:30 - 34:30]  to identify
+[34:30 - 34:32]  these high,
+[34:32 - 34:32]  let's call them
+[34:32 - 34:34]  five percenters
+[34:34 - 34:35]  in their particular area.
+[34:35 - 34:35]  So,
+[34:35 - 34:36]  if you're an employer
+[34:36 - 34:36]  that has a more
+[34:36 - 34:38]  distributed employee population,
+[34:38 - 34:39]  which frankly,
+[34:39 - 34:40]  at the end of the day,
+[34:40 - 34:40]  unless you're like
+[34:40 - 34:41]  a municipality
+[34:41 - 34:41]  or a school system,
+[34:42 - 34:42]  frankly,
+[34:42 - 34:43]  your employees
+[34:43 - 34:43]  are probably going
+[34:43 - 34:44]  to be spread out
+[34:44 - 34:45]  more across the country.
+[34:45 - 34:46]  It's going to make it
+[34:46 - 34:47]  more challenging
+[34:47 - 34:47]  to identify
+[34:47 - 34:48]  those top physicians.
+[34:49 - 34:49]  Now,
+[34:49 - 34:50]  again,
+[34:50 - 34:50]  I will tell you
+[34:50 - 34:51]  that the company
+[34:51 - 34:52]  where I used to work,
+[34:52 - 34:52]  Compass,
+[34:52 - 34:53]  actually does this,
+[34:54 - 34:55]  but I'll just leave it
+[34:55 - 34:55]  at that
+[34:55 - 34:57]  and say that,
+[34:57 - 34:57]  look,
+[34:57 - 34:59]  the bottom line is
+[34:59 - 35:00]  is that when you
+[35:00 - 35:00]  are working
+[35:00 - 35:02]  to decrease
+[35:02 - 35:03]  health plan costs,
+[35:03 - 35:04]  higher quality
+[35:04 - 35:05]  is almost invariably
+[35:05 - 35:07]  lower cost.
+[35:07 - 35:08]  Higher skilled physicians
+[35:08 - 35:09]  is almost invariably
+[35:09 - 35:10]  lower cost.
+[35:10 - 35:11]  And there are things
+[35:11 - 35:12]  that you can do
+[35:12 - 35:14]  at the employer level,
+[35:14 - 35:15]  at the brokerage level,
+[35:15 - 35:16]  at the benefit consultant level
+[35:16 - 35:18]  to affect change
+[35:18 - 35:19]  in regards to that.
+[35:19 - 35:20]  And thank you
+[35:20 - 35:20]  for watching
+[35:20 - 35:21]  A Healthcare Z.
+[35:28 - 35:28]  Hello,
+[35:29 - 35:30]  this is Dr. Eric Bricker
+[35:30 - 35:30]  and thank you
+[35:30 - 35:31]  for watching
+[35:31 - 35:32]  A Healthcare Z.
+[35:32 - 35:33]  Today's topic is
+[35:33 - 35:36]  carriers are contractually bound
+[35:36 - 35:39]  to do no steerage.
+[35:39 - 35:40]  Now,
+[35:40 - 35:41]  what does that mean?
+[35:41 - 35:42]  So,
+[35:42 - 35:43]  to start off with,
+[35:44 - 35:45]  hospitals provide
+[35:45 - 35:47]  an in-network discount
+[35:47 - 35:50]  to an insurance carrier network.
+[35:50 - 35:50]  They say,
+[35:50 - 35:51]  hey,
+[35:51 - 35:52]  we've got our bill
+[35:52 - 35:53]  charges of X
+[35:53 - 35:54]  and we'll reduce
+[35:54 - 35:55]  that amount
+[35:55 - 35:55]  to like
+[35:55 - 35:57]  one half of X.
+[35:57 - 35:58]  And the insurance carrier
+[35:58 - 35:58]  says,
+[35:59 - 35:59]  oh,
+[35:59 - 35:59]  great.
+[36:00 - 36:00]  But then the hospital
+[36:00 - 36:01]  says,
+[36:01 - 36:02]  however,
+[36:02 - 36:03]  that includes
+[36:03 - 36:04]  all the docs
+[36:04 - 36:06]  within our hospital system
+[36:06 - 36:07]  and as you know,
+[36:07 - 36:07]  hospital systems
+[36:07 - 36:08]  have become larger
+[36:08 - 36:09]  and larger
+[36:09 - 36:09]  from consolidation
+[36:09 - 36:10]  so this could be like
+[36:10 - 36:12]  thousands of doctors
+[36:12 - 36:12]  and that means
+[36:12 - 36:14]  all of their facilities.
+[36:14 - 36:14]  So,
+[36:14 - 36:15]  it's not just one hospital.
+[36:15 - 36:17]  It's not just two hospitals.
+[36:17 - 36:18]  Sometimes it's like
+[36:18 - 36:19]  over a dozen hospitals.
+[36:19 - 36:21]  Sometimes it's dozens
+[36:21 - 36:22]  of hospitals.
+[36:22 - 36:22]  So,
+[36:23 - 36:24]  to start off with,
+[36:24 - 36:25]  we need to understand
+[36:25 - 36:27]  at a basic level
+[36:27 - 36:28]  that in the world
+[36:28 - 36:29]  of PPO contracts
+[36:29 - 36:31]  that that discount
+[36:31 - 36:31]  is given
+[36:31 - 36:33]  to the insurance carrier
+[36:33 - 36:34]  and the insurance carrier
+[36:34 - 36:35]  has to agree
+[36:35 - 36:36]  that
+[36:36 - 36:38]  they got to take
+[36:38 - 36:39]  the whole kit and caboodle
+[36:39 - 36:40]  at that hospital system.
+[36:41 - 36:41]  Okay.
+[36:41 - 36:42]  What are the ramifications
+[36:42 - 36:43]  of that?
+[36:43 - 36:43]  So,
+[36:43 - 36:44]  this is a quote
+[36:44 - 36:45]  from 2018
+[36:45 - 36:47]  when the Blue Cross Blue Shield
+[36:47 - 36:48]  of Texas president
+[36:48 - 36:49]  Dr. Paul Hain
+[36:49 - 36:50]  was speaking
+[36:50 - 36:51]  to a very large
+[36:51 - 36:51]  employer group
+[36:51 - 36:53]  here in Dallas,
+[36:53 - 36:53]  Fort Worth
+[36:53 - 36:55]  and he said
+[36:55 - 36:56]  that,
+[36:56 - 36:56]  look,
+[36:56 - 36:57]  our challenge
+[36:57 - 36:58]  with negotiating
+[36:58 - 36:58]  with hospitals
+[36:58 - 37:00]  has less to do
+[37:00 - 37:01]  with reimbursement rates
+[37:01 - 37:02]  and has less to do
+[37:02 - 37:03]  with the actual
+[37:03 - 37:04]  dollar amounts themselves
+[37:04 - 37:05]  and it has more
+[37:05 - 37:06]  to do with the desire
+[37:06 - 37:08]  to direct patients.
+[37:08 - 37:09]  In other words,
+[37:09 - 37:10]  the insurance carriers
+[37:10 - 37:11]  didn't like their
+[37:11 - 37:12]  end of the deal
+[37:12 - 37:13]  of having to take
+[37:13 - 37:14]  all the docs
+[37:14 - 37:15]  and all the facilities
+[37:15 - 37:17]  because let's just say
+[37:17 - 37:18]  from a quality perspective,
+[37:18 - 37:18]  I mean,
+[37:18 - 37:18]  look,
+[37:18 - 37:19]  they got the data
+[37:19 - 37:20]  and they know
+[37:20 - 37:21]  that some of those doctors
+[37:21 - 37:22]  are not the type
+[37:22 - 37:23]  of doctors
+[37:23 - 37:23]  that they would want
+[37:23 - 37:24]  to have
+[37:24 - 37:26]  in their network
+[37:26 - 37:26]  and they've got
+[37:26 - 37:27]  some facilities
+[37:27 - 37:28]  that,
+[37:28 - 37:28]  whether it be
+[37:28 - 37:30]  from infection rates
+[37:30 - 37:31]  or complication rates
+[37:31 - 37:32]  or readmission rates
+[37:32 - 37:32]  or whatever,
+[37:32 - 37:33]  look,
+[37:33 - 37:34]  I really don't want
+[37:34 - 37:34]  people necessarily
+[37:34 - 37:35]  going to that facility
+[37:35 - 37:36]  and for a carrier
+[37:36 - 37:37]  the easiest thing
+[37:37 - 37:37]  to do
+[37:37 - 37:38]  to not have people
+[37:38 - 37:38]  go to those facilities
+[37:38 - 37:39]  or go to those doctors
+[37:39 - 37:40]  is make them
+[37:40 - 37:41]  out of network.
+[37:41 - 37:41]  Okay.
+[37:41 - 37:44]  So if the carrier
+[37:44 - 37:45]  could pick and choose
+[37:45 - 37:45]  which doctors
+[37:45 - 37:46]  and hospitals
+[37:46 - 37:47]  that they could steer
+[37:47 - 37:49]  their members to
+[37:49 - 37:52]  within a hospital system,
+[37:52 - 37:53]  then the president
+[37:53 - 37:54]  of Blue Cross Blue Shield
+[37:54 - 37:55]  would have never
+[37:55 - 37:55]  said this quote.
+[37:56 - 37:56]  Okay.
+[37:56 - 37:57]  Example number two,
+[37:58 - 37:58]  Sutter Health,
+[37:58 - 37:59]  which is a huge hospital
+[37:59 - 38:00]  system in the San Francisco
+[38:00 - 38:01]  Bay Area,
+[38:01 - 38:03]  recently settled
+[38:03 - 38:05]  an antitrust case
+[38:05 - 38:06]  with the state
+[38:06 - 38:07]  of California.
+[38:07 - 38:08]  So the state
+[38:08 - 38:08]  of California
+[38:08 - 38:09]  went after and said,
+[38:09 - 38:09]  look,
+[38:09 - 38:10]  you have anticompetitive
+[38:10 - 38:10]  practices
+[38:10 - 38:11]  and it was mainly
+[38:11 - 38:13]  around the fact
+[38:13 - 38:14]  of Sutter's
+[38:14 - 38:16]  contracting practices
+[38:16 - 38:18]  had this all or none,
+[38:18 - 38:19]  these all or none,
+[38:19 - 38:21]  no steerage terms.
+[38:21 - 38:22]  Okay.
+[38:22 - 38:23]  So in other words,
+[38:23 - 38:25]  there was no opportunity
+[38:25 - 38:25]  for in-network
+[38:25 - 38:27]  or out-of-network
+[38:27 - 38:27]  steerage
+[38:27 - 38:29]  for the insurance carriers
+[38:29 - 38:30]  in the San Francisco
+[38:30 - 38:30]  Bay Area.
+[38:30 - 38:31]  You either had to take
+[38:31 - 38:32]  all the Sutter physicians
+[38:32 - 38:34]  and all the Sutter facilities
+[38:34 - 38:35]  or you needed
+[38:35 - 38:36]  to hit the highway.
+[38:36 - 38:37]  Okay.
+[38:37 - 38:38]  And guess what?
+[38:38 - 38:38]  They settled.
+[38:39 - 38:39]  The terms,
+[38:39 - 38:40]  this literally just happened
+[38:40 - 38:41]  several days ago.
+[38:41 - 38:42]  The terms are not
+[38:42 - 38:43]  completely revealed.
+[38:43 - 38:44]  But the point is,
+[38:44 - 38:45]  they were going to get,
+[38:45 - 38:46]  they were going to be,
+[38:46 - 38:47]  they were being sued
+[38:47 - 38:48]  for $2.7 billion.
+[38:49 - 38:49]  Okay.
+[38:49 - 38:50]  Sutter has $13 billion
+[38:50 - 38:51]  of revenue a year.
+[38:51 - 38:51]  Okay.
+[38:51 - 38:52]  These are substantial
+[38:52 - 38:54]  sums of money.
+[38:55 - 38:55]  Again,
+[38:55 - 38:56]  because of the same issue
+[38:56 - 38:57]  of not being able
+[38:57 - 38:58]  to steer.
+[38:58 - 38:59]  So the point is,
+[38:59 - 39:00]  is that within a PPO
+[39:00 - 39:01]  contract,
+[39:01 - 39:02]  there's really this game
+[39:02 - 39:02]  of cat and mouse
+[39:02 - 39:03]  because I've been
+[39:03 - 39:04]  in many meetings
+[39:04 - 39:05]  where the carrier
+[39:05 - 39:06]  representative talks about,
+[39:06 - 39:06]  oh,
+[39:06 - 39:07]  how they can identify
+[39:07 - 39:08]  high quality facilities
+[39:08 - 39:09]  and doctors,
+[39:09 - 39:09]  et cetera,
+[39:09 - 39:09]  et cetera.
+[39:09 - 39:10]  But just know
+[39:10 - 39:11]  that for a lot
+[39:11 - 39:12]  of their contracts
+[39:12 - 39:13]  with the major
+[39:13 - 39:14]  hospital systems,
+[39:14 - 39:15]  that they're contractually
+[39:15 - 39:16]  prevented from doing
+[39:16 - 39:16]  steerage.
+[39:17 - 39:17]  Okay.
+[39:17 - 39:17]  Now,
+[39:17 - 39:18]  but you can't do it
+[39:18 - 39:19]  at the employer level.
+[39:19 - 39:20]  The biggest example,
+[39:20 - 39:20]  again,
+[39:21 - 39:22]  is Walmart,
+[39:22 - 39:23]  where just recently
+[39:23 - 39:24]  Walmart came out
+[39:24 - 39:24]  with the fact
+[39:24 - 39:25]  that they have
+[39:25 - 39:26]  a new benefit
+[39:26 - 39:26]  for their employees
+[39:26 - 39:27]  where they're going
+[39:27 - 39:28]  to provide
+[39:28 - 39:29]  quality scores
+[39:29 - 39:30]  for physicians
+[39:30 - 39:31]  in the specialties
+[39:31 - 39:31]  of primary care,
+[39:31 - 39:32]  cardiology,
+[39:32 - 39:33]  gastroenterology,
+[39:33 - 39:34]  endocrinology,
+[39:34 - 39:35]  OBGYN,
+[39:35 - 39:36]  oncology,
+[39:36 - 39:37]  orthopedics,
+[39:37 - 39:38]  and pulmonology.
+[39:38 - 39:38]  Okay.
+[39:39 - 39:39]  Walmart,
+[39:39 - 39:41]  the largest employer
+[39:41 - 39:41]  in America.
+[39:42 - 39:44]  If their carriers
+[39:44 - 39:45]  could already
+[39:45 - 39:46]  do this for them,
+[39:47 - 39:48]  then why in the world
+[39:48 - 39:48]  is Walmart
+[39:48 - 39:50]  having to do it
+[39:50 - 39:50]  themselves?
+[39:51 - 39:52]  The reason is
+[39:52 - 39:52]  is because
+[39:52 - 39:54]  you can do this
+[39:54 - 39:55]  at the employer level,
+[39:55 - 39:56]  but the carriers
+[39:56 - 39:58]  are contractually bound
+[39:58 - 39:59]  in their PPO
+[39:59 - 40:00]  contracts
+[40:00 - 40:01]  to not do this.
+[40:01 - 40:02]  Okay.
+[40:02 - 40:02]  And I'm sure
+[40:02 - 40:03]  there's some exceptions,
+[40:03 - 40:03]  yada,
+[40:04 - 40:04]  yada,
+[40:04 - 40:04]  yada,
+[40:04 - 40:05]  but overall
+[40:05 - 40:06]  that's the case.
+[40:07 - 40:08]  Now that can be confusing,
+[40:08 - 40:10]  but that is a super important point
+[40:10 - 40:10]  for everyone here
+[40:10 - 40:11]  to understand.
+[40:11 - 40:13]  So thank you for watching
+[40:13 - 40:13]  A Healthcare Z.
+[40:20 - 40:20]  Hello,
+[40:20 - 40:21]  this is Dr. Eric Bricker
+[40:21 - 40:22]  and thank you for watching
+[40:22 - 40:23]  A Healthcare Z.
+[40:24 - 40:24]  Today we're going
+[40:24 - 40:25]  to be discussing
+[40:25 - 40:26]  the hidden war
+[40:26 - 40:27]  for patients
+[40:27 - 40:28]  and dollars.
+[40:28 - 40:29]  So before we get started,
+[40:29 - 40:30]  we have to talk about
+[40:30 - 40:32]  two euphemisms
+[40:32 - 40:32]  that are used
+[40:32 - 40:34]  on the hospital business side.
+[40:34 - 40:34]  That first one
+[40:34 - 40:36]  is service lines.
+[40:36 - 40:37]  So for a hospital,
+[40:37 - 40:38]  a service line
+[40:38 - 40:39]  is a clinical department.
+[40:39 - 40:39]  So a service line
+[40:39 - 40:41]  might be OBGYN
+[40:41 - 40:42]  or cancer
+[40:42 - 40:43]  or orthopedics.
+[40:43 - 40:43]  Okay.
+[40:44 - 40:45]  Euphemism number two,
+[40:45 - 40:46]  profitable payer mix.
+[40:46 - 40:48]  So hospitals receive payment
+[40:48 - 40:48]  from a variety
+[40:48 - 40:50]  of payers, right?
+[40:50 - 40:50]  So you have
+[40:50 - 40:51]  commercially insured patients,
+[40:51 - 40:52]  Medicare, Medicaid,
+[40:53 - 40:53]  self-paying,
+[40:53 - 40:55]  which is the uninsured folks.
+[40:55 - 40:57]  And so a profitable payer mix
+[40:57 - 40:58]  is a payer mix
+[40:58 - 40:59]  with more commercially
+[40:59 - 41:00]  insured patients
+[41:00 - 41:02]  because those are the ones
+[41:02 - 41:02]  that the hospital
+[41:02 - 41:03]  can actually make a profit on
+[41:03 - 41:05]  and fewer Medicare,
+[41:05 - 41:05]  Medicaid,
+[41:05 - 41:06]  and self-insured patients
+[41:06 - 41:07]  because those are the folks
+[41:07 - 41:09]  that they make less on
+[41:09 - 41:10]  or they lose money on.
+[41:10 - 41:10]  Okay.
+[41:11 - 41:11]  So with that,
+[41:12 - 41:14]  there are departments
+[41:14 - 41:16]  within a hospital system.
+[41:16 - 41:16]  They're either
+[41:16 - 41:17]  business development
+[41:17 - 41:18]  or they're marketing
+[41:18 - 41:20]  or they're physician liaison.
+[41:20 - 41:21]  Sometimes they're called
+[41:21 - 41:23]  the strategy department
+[41:23 - 41:24]  and they are specifically
+[41:24 - 41:26]  focused on
+[41:26 - 41:28]  how to increase
+[41:28 - 41:29]  patient flow
+[41:29 - 41:31]  through the profitable
+[41:31 - 41:32]  service lines.
+[41:32 - 41:34]  And there's actually
+[41:34 - 41:35]  a fantastic demonstration
+[41:35 - 41:36]  of this on YouTube.
+[41:37 - 41:38]  There's actually a video
+[41:38 - 41:39]  from the University
+[41:39 - 41:40]  of Massachusetts
+[41:40 - 41:41]  healthcare system
+[41:41 - 41:42]  where they specifically
+[41:42 - 41:42]  talk about
+[41:42 - 41:43]  how they do this.
+[41:44 - 41:44]  Okay.
+[41:44 - 41:45]  So what happened
+[41:45 - 41:46]  is that
+[41:46 - 41:48]  the University of Massachusetts
+[41:48 - 41:49]  wanted to increase
+[41:49 - 41:49]  their referrals
+[41:49 - 41:50]  but they had a problem.
+[41:51 - 41:52]  And that problem was
+[41:52 - 41:53]  is that one of their
+[41:53 - 41:54]  cardiothoracic surgeons
+[41:54 - 41:57]  left for a competing hospital.
+[41:57 - 41:58]  So this story
+[41:58 - 41:58]  is pretty confusing.
+[41:59 - 42:00]  So I actually drew it
+[42:00 - 42:00]  down here
+[42:00 - 42:02]  sort of like X's and O's
+[42:02 - 42:03]  for a football game.
+[42:03 - 42:03]  Okay.
+[42:03 - 42:05]  So here you have UMass
+[42:05 - 42:06]  and typically a major
+[42:06 - 42:06]  hospital system
+[42:06 - 42:07]  they might have one
+[42:07 - 42:08]  or two
+[42:08 - 42:08]  or maybe three
+[42:08 - 42:10]  cardiothoracic surgeons
+[42:10 - 42:11]  and one of the major
+[42:11 - 42:11]  procedures that
+[42:11 - 42:13]  cardiothoracic surgeons do
+[42:13 - 42:14]  are coronary artery
+[42:14 - 42:14]  bypass grafts
+[42:14 - 42:15]  or cabbages.
+[42:15 - 42:16]  Okay.
+[42:16 - 42:17]  So here you have two
+[42:17 - 42:18]  let's say UMass
+[42:18 - 42:19]  has two cardiothoracic surgeons.
+[42:20 - 42:20]  Okay.
+[42:20 - 42:21]  Cardiothoracic surgeon
+[42:21 - 42:23]  two leaves
+[42:23 - 42:23]  to go to a
+[42:23 - 42:25]  competitor hospital.
+[42:25 - 42:25]  Okay.
+[42:25 - 42:27]  Why is that a problem?
+[42:27 - 42:28]  That cardiothoracic surgeon
+[42:28 - 42:30]  receives its patients
+[42:30 - 42:31]  or his or her patients
+[42:31 - 42:32]  from typically
+[42:32 - 42:33]  from cardiologists.
+[42:33 - 42:34]  Okay.
+[42:34 - 42:35]  And so there you have
+[42:35 - 42:36]  the cardiologist
+[42:36 - 42:36]  as the C's
+[42:36 - 42:37]  and there you have
+[42:37 - 42:37]  the patients
+[42:37 - 42:38]  as the PT
+[42:38 - 42:39]  and here you have
+[42:39 - 42:40]  who their insurance is.
+[42:40 - 42:42]  So C for commercial insurance
+[42:42 - 42:43]  and M for Medicare.
+[42:43 - 42:43]  Okay.
+[42:43 - 42:45]  So here's the problem.
+[42:45 - 42:46]  When that cardiothoracic surgeon
+[42:46 - 42:47]  leaves
+[42:47 - 42:48]  he takes all of his
+[42:48 - 42:49]  referral relationships
+[42:49 - 42:50]  from those cardiologists
+[42:50 - 42:51]  with him
+[42:51 - 42:52]  and those cardiologists
+[42:52 - 42:54]  take all their patient relationships
+[42:54 - 42:55]  with them as well
+[42:55 - 42:56]  to the competitor.
+[42:56 - 42:57]  So guess what
+[42:57 - 42:58]  the University of Massachusetts did?
+[42:59 - 42:59]  They specifically
+[42:59 - 43:01]  identified
+[43:01 - 43:02]  and targeted
+[43:02 - 43:04]  those cardiologists
+[43:04 - 43:04]  that were referring
+[43:04 - 43:06]  to that particular
+[43:06 - 43:07]  cardiothoracic surgeon
+[43:07 - 43:08]  and they formed
+[43:08 - 43:09]  relationships with them
+[43:09 - 43:10]  so that they would
+[43:10 - 43:11]  begin referring patients
+[43:11 - 43:13]  to their cardiothoracic surgeon
+[43:13 - 43:14]  that they still had.
+[43:15 - 43:16]  And oh by the way
+[43:16 - 43:17]  in the video
+[43:17 - 43:18]  it talks about
+[43:18 - 43:19]  how they targeted
+[43:19 - 43:20]  not only that
+[43:20 - 43:21]  cardiothoracic surgery program
+[43:21 - 43:23]  but also orthopedics
+[43:23 - 43:24]  and cancer.
+[43:25 - 43:26]  Isn't that interesting?
+[43:27 - 43:28]  Cardiothoracics
+[43:28 - 43:29]  cancer
+[43:29 - 43:30]  and orthopedics.
+[43:30 - 43:31]  Those are the
+[43:31 - 43:32]  same three
+[43:32 - 43:33]  diagnostic categories
+[43:33 - 43:34]  that are the
+[43:34 - 43:35]  top three
+[43:35 - 43:36]  costs
+[43:36 - 43:37]  for employee
+[43:37 - 43:38]  health plans.
+[43:38 - 43:39]  Okay.
+[43:40 - 43:41]  That is not necessarily
+[43:41 - 43:42]  a coincidence.
+[43:42 - 43:43]  So the point here
+[43:43 - 43:45]  is that patient flow
+[43:45 - 43:46]  and which doctors
+[43:46 - 43:47]  patients see
+[43:47 - 43:48]  and which hospitals
+[43:48 - 43:49]  that they go to
+[43:49 - 43:50]  it's not just
+[43:50 - 43:51]  some sort of like
+[43:51 - 43:53]  random act of nature
+[43:53 - 43:54]  that there actually
+[43:54 - 43:55]  is planning
+[43:55 - 43:56]  and strategy
+[43:56 - 43:57]  and data
+[43:57 - 43:57]  and software
+[43:57 - 43:58]  and analytics
+[43:58 - 43:59]  and programs
+[43:59 - 44:00]  and campaigns
+[44:00 - 44:02]  behind that.
+[44:02 - 44:03]  Now I'm not saying
+[44:03 - 44:04]  that's morally wrong
+[44:04 - 44:05]  I'm just saying
+[44:05 - 44:06]  it's happening.
+[44:07 - 44:08]  And so for all of us
+[44:08 - 44:09]  who work in
+[44:09 - 44:10]  employee benefits
+[44:10 - 44:11]  and with employee
+[44:11 - 44:12]  sponsored health plans
+[44:12 - 44:14]  again we need to know
+[44:14 - 44:15]  that if we as
+[44:15 - 44:17]  employer health plan sponsors
+[44:17 - 44:19]  are not actively thinking
+[44:19 - 44:21]  about what's going on
+[44:21 - 44:22]  within the hospitals
+[44:22 - 44:24]  then we are not really
+[44:24 - 44:25]  doing our health plans
+[44:25 - 44:26]  the best service
+[44:26 - 44:27]  that we could.
+[44:27 - 44:28]  And that's my point
+[44:28 - 44:28]  for today.
+[44:28 - 44:29]  Thank you for watching
+[44:29 - 44:30]  A Healthcare Z.
+[44:37 - 44:37]  Hello.
+[44:37 - 44:38]  This is Dr. Eric Bricker
+[44:38 - 44:39]  and thank you for watching
+[44:39 - 44:40]  A Healthcare Z.
+[44:41 - 44:42]  Today's topic is
+[44:42 - 44:44]  Profit Pool Consultants
+[44:44 - 44:46]  and Decreasing Healthcare Costs.
+[44:47 - 44:48]  So it's based off of
+[44:48 - 44:49]  a research report
+[44:49 - 44:50]  from McKinsey & Company
+[44:50 - 44:51]  which many of you
+[44:51 - 44:51]  are familiar with
+[44:51 - 44:52]  but it's essentially
+[44:52 - 44:54]  one of the smartest
+[44:54 - 44:56]  management consulting firms
+[44:56 - 44:56]  known as the leader
+[44:56 - 44:57]  in the world.
+[44:57 - 44:59]  It has 127 offices
+[44:59 - 45:00]  worldwide.
+[45:00 - 45:02]  It has 27,000 employees.
+[45:03 - 45:04]  They make $10 billion
+[45:04 - 45:06]  of revenue per year
+[45:06 - 45:08]  and they work in industries
+[45:08 - 45:08]  from technology
+[45:08 - 45:09]  to retail
+[45:09 - 45:10]  transportation
+[45:10 - 45:11]  to of course
+[45:11 - 45:12]  healthcare as well.
+[45:13 - 45:14]  Now the most recent report
+[45:14 - 45:15]  on healthcare
+[45:15 - 45:15]  that they've published
+[45:15 - 45:16]  is called
+[45:16 - 45:17]  The Evolution of Healthcare
+[45:17 - 45:18]  Provider Profit Pools.
+[45:19 - 45:20]  Say that 10 times fast.
+[45:20 - 45:20]  Okay.
+[45:20 - 45:21]  But this is a fantastic
+[45:21 - 45:22]  research report.
+[45:23 - 45:24]  I will leave a link to it
+[45:24 - 45:24]  in the show notes.
+[45:24 - 45:26]  I encourage you to read it.
+[45:26 - 45:27]  They make a very
+[45:27 - 45:28]  interesting point.
+[45:28 - 45:30]  They say that 55%
+[45:30 - 45:31]  of future healthcare
+[45:31 - 45:32]  profit pools
+[45:32 - 45:33]  and they're saying
+[45:33 - 45:34]  through 2021
+[45:34 - 45:35]  so they're basically
+[45:35 - 45:36]  looking at 2017
+[45:36 - 45:37]  through 2021
+[45:37 - 45:38]  are saying
+[45:38 - 45:40]  are non-hospital.
+[45:41 - 45:42]  Non-hospital.
+[45:42 - 45:43]  That's interesting.
+[45:43 - 45:44]  What do they mean by that?
+[45:44 - 45:45]  They mean that
+[45:45 - 45:47]  34% of the 55%
+[45:47 - 45:48]  in other words
+[45:48 - 45:50]  34% of the profit
+[45:50 - 45:51]  growth for healthcare
+[45:51 - 45:51]  providers
+[45:51 - 45:53]  will come in the form
+[45:53 - 45:54]  of on-site clinics,
+[45:54 - 45:55]  telehealth,
+[45:55 - 45:57]  primary care providers,
+[45:57 - 45:58]  behavioral health,
+[45:58 - 45:59]  retail,
+[45:59 - 46:00]  PT and OT
+[46:00 - 46:01]  which is occupational therapy
+[46:01 - 46:02]  and physical therapy,
+[46:03 - 46:03]  home health,
+[46:04 - 46:04]  inventory surgery centers,
+[46:05 - 46:06]  and dialysis.
+[46:07 - 46:07]  Okay.
+[46:07 - 46:08]  Isn't that interesting?
+[46:08 - 46:10]  The largest areas
+[46:10 - 46:12]  of provider profit growth
+[46:12 - 46:13]  are in areas
+[46:13 - 46:15]  that are meant
+[46:15 - 46:17]  to decrease
+[46:17 - 46:18]  healthcare costs.
+[46:18 - 46:19]  Right?
+[46:19 - 46:20]  So on-site telehealth,
+[46:20 - 46:22]  using primary care
+[46:22 - 46:22]  behavioral,
+[46:22 - 46:23]  all these things
+[46:23 - 46:23]  are meant to
+[46:23 - 46:25]  reduce
+[46:25 - 46:26]  the use of
+[46:26 - 46:27]  expensive
+[46:27 - 46:28]  hospital-based
+[46:28 - 46:29]  services
+[46:29 - 46:30]  or prevent people
+[46:30 - 46:31]  from ever meeting them
+[46:31 - 46:32]  in the first place.
+[46:32 - 46:33]  Likewise,
+[46:33 - 46:34]  PT-OT is an alternative
+[46:34 - 46:35]  to expensive
+[46:35 - 46:36]  orthopedic surgeries.
+[46:36 - 46:37]  Home health
+[46:37 - 46:38]  is a cheaper location
+[46:38 - 46:39]  and by ASC
+[46:39 - 46:39]  they mean
+[46:39 - 46:41]  non-hospital-owned ASCs
+[46:41 - 46:41]  in other words
+[46:41 - 46:42]  independent ASCs
+[46:42 - 46:43]  and by dialysis
+[46:43 - 46:45]  I think they mean
+[46:45 - 46:45]  dialysis centers
+[46:45 - 46:46]  that are independent
+[46:46 - 46:47]  and not part of like
+[46:47 - 46:49]  DaVita and Fresenius
+[46:49 - 46:50]  in other words
+[46:50 - 46:51]  they're more cost-effective
+[46:51 - 46:52]  more reasonable contract rates
+[46:52 - 46:53]  with insurance carriers.
+[46:53 - 46:53]  Okay.
+[46:54 - 46:54]  So,
+[46:55 - 46:56]  now let's look at the opposite
+[46:56 - 46:57]  end of the spectrum.
+[46:58 - 46:58]  Where do they think
+[46:58 - 46:59]  there is going to be
+[46:59 - 47:00]  least amount of growth
+[47:00 - 47:02]  of profit for providers?
+[47:02 - 47:02]  They think it's going to be
+[47:02 - 47:04]  in freestanding ERs,
+[47:04 - 47:04]  imaging,
+[47:05 - 47:05]  lab,
+[47:05 - 47:06]  ambulance,
+[47:06 - 47:07]  chiropractor,
+[47:07 - 47:08]  skilled nursing facilities,
+[47:08 - 47:10]  and long-term acute care facilities
+[47:10 - 47:11]  or known as those LCACs.
+[47:12 - 47:12]  Isn't that interesting?
+[47:13 - 47:14]  Because freestanding ERs
+[47:14 - 47:14]  and imaging
+[47:14 - 47:16]  those were the two
+[47:16 - 47:18]  sort of huge cash cows
+[47:18 - 47:18]  really put up
+[47:18 - 47:19]  for the past
+[47:19 - 47:19]  like five,
+[47:19 - 47:20]  ten years
+[47:20 - 47:22]  where the hospital systems
+[47:22 - 47:24]  really pushed down
+[47:24 - 47:26]  on making a lot
+[47:26 - 47:27]  and also independent facilities
+[47:27 - 47:28]  really pushed down
+[47:28 - 47:29]  on making a lot of money there.
+[47:29 - 47:29]  So,
+[47:29 - 47:30]  to a certain extent
+[47:30 - 47:31]  they kind of burned out
+[47:31 - 47:32]  and it's been a little excessive
+[47:32 - 47:33]  but
+[47:33 - 47:36]  there's an important warning.
+[47:37 - 47:37]  Of course,
+[47:37 - 47:38]  they don't phrase it
+[47:38 - 47:39]  as a warning.
+[47:39 - 47:39]  They phrase it
+[47:39 - 47:40]  as an opportunity
+[47:40 - 47:42]  but there is a very important
+[47:42 - 47:43]  warning at the bottom
+[47:43 - 47:43]  of this report
+[47:43 - 47:44]  and it says
+[47:44 - 47:45]  that
+[47:45 - 47:47]  all of these areas
+[47:47 - 47:49]  of high profit growth
+[47:49 - 47:50]  create an opportunity
+[47:50 - 47:51]  for acquisition
+[47:51 - 47:52]  by the hospitals.
+[47:53 - 47:53]  Okay?
+[47:53 - 47:53]  So,
+[47:53 - 47:54]  the whole point
+[47:54 - 47:56]  of the whole value proposition
+[47:56 - 47:57]  of these providers
+[47:57 - 47:58]  and their ability
+[47:58 - 47:59]  to,
+[47:59 - 47:59]  you know,
+[47:59 - 48:00]  make profits
+[48:00 - 48:01]  and grow revenue
+[48:01 - 48:02]  is based upon the fact
+[48:02 - 48:03]  that they're going to
+[48:03 - 48:04]  decrease utilization
+[48:04 - 48:05]  or decrease price
+[48:05 - 48:05]  or both
+[48:05 - 48:06]  to create
+[48:06 - 48:08]  higher value
+[48:08 - 48:08]  healthcare.
+[48:09 - 48:09]  Okay?
+[48:10 - 48:11]  If these agents
+[48:11 - 48:12]  are bought by
+[48:12 - 48:13]  a hospital
+[48:13 - 48:14]  that essentially
+[48:14 - 48:16]  negates that value proposition
+[48:16 - 48:17]  because as I said
+[48:17 - 48:18]  in the previous video
+[48:18 - 48:19]  and even in this
+[48:19 - 48:20]  research report
+[48:20 - 48:20]  it says
+[48:20 - 48:22]  it creates a referral opportunity.
+[48:22 - 48:23]  It creates a referral opportunity
+[48:23 - 48:24]  as I said
+[48:24 - 48:25]  in the previous video
+[48:25 - 48:26]  to feed the beast.
+[48:27 - 48:27]  And I'll give you
+[48:27 - 48:28]  a specific example of that.
+[48:28 - 48:29]  So,
+[48:29 - 48:29]  at Compass
+[48:29 - 48:30]  we had a major
+[48:30 - 48:31]  client
+[48:31 - 48:31]  with like
+[48:31 - 48:32]  in excess of
+[48:32 - 48:33]  10,000 employees
+[48:33 - 48:35]  that had a huge facility
+[48:35 - 48:36]  that had an
+[48:36 - 48:37]  on-site clinic
+[48:37 - 48:38]  and they had it
+[48:38 - 48:39]  for years.
+[48:39 - 48:41]  And that
+[48:41 - 48:41]  on-site clinic
+[48:41 - 48:42]  was actually
+[48:42 - 48:43]  a huge cost driver.
+[48:43 - 48:44]  They looked at
+[48:44 - 48:45]  people that were
+[48:45 - 48:45]  going to that
+[48:45 - 48:46]  on-site clinic
+[48:46 - 48:47]  and it turned out
+[48:47 - 48:48]  that they ended up
+[48:48 - 48:49]  driving huge costs
+[48:49 - 48:50]  for their employee health clinic.
+[48:50 - 48:51]  Why was that?
+[48:51 - 48:52]  Because the on-site clinic
+[48:52 - 48:53]  was actually
+[48:53 - 48:54]  owned by
+[48:54 - 48:56]  the local hospital system.
+[48:56 - 48:57]  And so they were
+[48:57 - 48:59]  driving patient volume
+[48:59 - 49:00]  from that on-site clinic
+[49:00 - 49:01]  to the hospital
+[49:01 - 49:02]  for surgeries,
+[49:03 - 49:03]  for lab,
+[49:03 - 49:04]  for imaging.
+[49:04 - 49:04]  So,
+[49:05 - 49:06]  the key here
+[49:06 - 49:06]  is that
+[49:06 - 49:07]  if these are going
+[49:07 - 49:08]  to be profit centers
+[49:08 - 49:10]  that have a
+[49:10 - 49:11]  value proposition
+[49:11 - 49:12]  of higher quality
+[49:12 - 49:13]  and more cost-effective care
+[49:13 - 49:14]  then to a certain extent
+[49:14 - 49:16]  they need to remain
+[49:16 - 49:17]  separate from the hospital.
+[49:17 - 49:18]  And if you see them
+[49:18 - 49:19]  connected to the hospital
+[49:19 - 49:20]  then that might need
+[49:20 - 49:22]  to be a warning sign
+[49:22 - 49:23]  that that is actually
+[49:23 - 49:24]  going to be increasing
+[49:24 - 49:25]  employer and patient
+[49:25 - 49:26]  health care costs
+[49:26 - 49:27]  and not decreasing it.
+[49:27 - 49:28]  And that's my point
+[49:28 - 49:29]  for today.
+[49:29 - 49:30]  Thank you for watching
+[49:30 - 49:30]  A Healthcare Z.
+[49:34 - 49:38]  Hello, this is Dr. Eric Bricker
+[49:38 - 49:39]  and thank you
+[49:39 - 49:40]  for watching A Healthcare Z.
+[49:40 - 49:41]  Today we're going
+[49:41 - 49:41]  to be discussing
+[49:41 - 49:43]  certificate of need
+[49:43 - 49:43]  or what is referred
+[49:43 - 49:45]  to as CON.
+[49:46 - 49:46]  Now,
+[49:47 - 49:48]  certificate of need
+[49:48 - 49:49]  is where there is
+[49:49 - 49:50]  regulation of hospital beds
+[49:50 - 49:51]  and hospital construction
+[49:51 - 49:52]  by the state.
+[49:53 - 49:54]  So, isn't that interesting
+[49:54 - 49:55]  that there is actually
+[49:55 - 49:57]  state regulation
+[49:57 - 49:59]  over the expansion
+[49:59 - 50:00]  and the construction
+[50:00 - 50:01]  of new hospitals?
+[50:02 - 50:03]  Well, why in the world
+[50:03 - 50:03]  does that exist?
+[50:03 - 50:04]  Well, it was created
+[50:04 - 50:06]  about 40 plus years ago
+[50:06 - 50:07]  in an attempt to control
+[50:07 - 50:08]  health care costs.
+[50:08 - 50:09]  The idea being is that
+[50:09 - 50:10]  well, if you had more
+[50:10 - 50:11]  hospital beds
+[50:11 - 50:11]  and more hospitals
+[50:11 - 50:13]  that they would induce
+[50:13 - 50:13]  in other words
+[50:13 - 50:14]  it would be supplier
+[50:14 - 50:15]  induced demand
+[50:15 - 50:16]  of health care services
+[50:16 - 50:17]  and so health care costs
+[50:17 - 50:18]  would be higher.
+[50:18 - 50:19]  But, if you look at
+[50:19 - 50:20]  I won't summarize
+[50:20 - 50:22]  all the research here
+[50:22 - 50:23]  but at the end of the day
+[50:23 - 50:23]  at the end of that
+[50:23 - 50:24]  it's kind of meh.
+[50:24 - 50:25]  Like, maybe it did
+[50:25 - 50:26]  maybe it didn't
+[50:26 - 50:28]  maybe certificate of need
+[50:28 - 50:29]  actually even increased
+[50:29 - 50:30]  the cost of health care
+[50:30 - 50:32]  it's really not clear.
+[50:32 - 50:33]  Okay, so
+[50:33 - 50:35]  let's break it down
+[50:35 - 50:36]  specifically by state.
+[50:36 - 50:37]  So, there are 35 states
+[50:37 - 50:39]  that have certificate of need laws.
+[50:39 - 50:40]  It doesn't really divide itself
+[50:40 - 50:42]  by conservative
+[50:42 - 50:42]  versus liberal states.
+[50:43 - 50:43]  So, you can see
+[50:43 - 50:44]  the liberal state
+[50:44 - 50:45]  of Massachusetts
+[50:45 - 50:46]  and the conservative state
+[50:46 - 50:46]  of Alabama
+[50:46 - 50:49]  both have certificate of need laws
+[50:49 - 50:49]  which you would think
+[50:49 - 50:50]  would be more
+[50:50 - 50:51]  of a, you know
+[50:51 - 50:52]  liberal
+[50:52 - 50:55]  democratic initiative
+[50:55 - 50:55]  for regulation.
+[50:55 - 50:58]  Okay, now on the opposite side
+[50:58 - 50:58]  you have 15 states
+[50:58 - 50:59]  that do not have
+[50:59 - 51:00]  certificate of need
+[51:00 - 51:01]  and you have
+[51:01 - 51:01]  the liberal state
+[51:01 - 51:02]  of California
+[51:02 - 51:03]  and the more conservative
+[51:03 - 51:04]  state of Texas
+[51:04 - 51:06]  that do not have
+[51:06 - 51:06]  these laws
+[51:06 - 51:07]  and you think of more like
+[51:07 - 51:07]  you know
+[51:07 - 51:08]  free enterprise
+[51:08 - 51:09]  and less regulation
+[51:09 - 51:10]  as being more of a
+[51:10 - 51:11]  conservative or republican thing.
+[51:11 - 51:11]  Right?
+[51:11 - 51:12]  So, this whole
+[51:12 - 51:13]  certificate of need
+[51:13 - 51:13]  law thing
+[51:13 - 51:15]  doesn't necessarily correlate
+[51:15 - 51:15]  with sort of
+[51:15 - 51:16]  red state, blue state stuff.
+[51:16 - 51:18]  Okay, now let's look
+[51:18 - 51:19]  at it in terms of
+[51:19 - 51:21]  commercial insurance
+[51:21 - 51:22]  health care costs
+[51:22 - 51:23]  by state.
+[51:23 - 51:24]  And let's look at
+[51:24 - 51:25]  the 10 most
+[51:25 - 51:25]  and the 10 least
+[51:25 - 51:26]  expensive states.
+[51:26 - 51:27]  So, the 10 most
+[51:27 - 51:28]  expensive states
+[51:28 - 51:28]  for health care
+[51:28 - 51:29]  are New Hampshire,
+[51:30 - 51:30]  Pennsylvania,
+[51:30 - 51:31]  Connecticut, New Jersey,
+[51:31 - 51:31]  West Virginia,
+[51:32 - 51:32]  New York, Illinois,
+[51:33 - 51:34]  D.C., Massachusetts
+[51:34 - 51:35]  and Alaska.
+[51:35 - 51:37]  Okay, so you can see
+[51:37 - 51:39]  that two of those
+[51:39 - 51:39]  high cost states
+[51:39 - 51:40]  they don't have
+[51:40 - 51:41]  any certificate of need
+[51:41 - 51:43]  and eight of those
+[51:43 - 51:44]  10 health cost states
+[51:44 - 51:45]  they do have
+[51:45 - 51:45]  a certificate of need.
+[51:46 - 51:46]  So, here
+[51:46 - 51:47]  the certificate of need
+[51:47 - 51:47]  was supposed to
+[51:47 - 51:48]  lower health care costs
+[51:48 - 51:50]  and the majority of them
+[51:50 - 51:51]  have that law
+[51:51 - 51:52]  and you're talking
+[51:52 - 51:53]  $21,000 per
+[51:53 - 51:54]  family per year
+[51:54 - 51:55]  again for commercial
+[51:55 - 51:55]  insurance.
+[51:56 - 51:57]  Okay, now for low cost
+[51:57 - 51:58]  states.
+[51:58 - 51:59]  The 10 lowest cost
+[51:59 - 52:00]  states are
+[52:00 - 52:01]  North Dakota,
+[52:01 - 52:01]  Idaho,
+[52:01 - 52:02]  New Mexico,
+[52:02 - 52:02]  Utah,
+[52:03 - 52:03]  Iowa,
+[52:03 - 52:03]  Mississippi,
+[52:03 - 52:04]  Tennessee,
+[52:04 - 52:05]  Hawaii,
+[52:05 - 52:05]  Arkansas
+[52:05 - 52:06]  and Alabama.
+[52:07 - 52:08]  Okay, again
+[52:08 - 52:09]  you kind of see
+[52:09 - 52:11]  that four of the
+[52:11 - 52:12]  lowest cost states
+[52:12 - 52:13]  have no certificate
+[52:13 - 52:14]  of need law.
+[52:14 - 52:14]  So, you can like
+[52:14 - 52:15]  build hospitals
+[52:15 - 52:16]  expand as much
+[52:16 - 52:16]  as you want
+[52:16 - 52:17]  it's not breaking
+[52:17 - 52:18]  the bank in these
+[52:18 - 52:18]  states.
+[52:19 - 52:19]  Likewise,
+[52:19 - 52:20]  in these low cost
+[52:20 - 52:21]  states you might say
+[52:21 - 52:22]  okay, well maybe
+[52:22 - 52:23]  that certificate of need
+[52:23 - 52:24]  law is like super
+[52:24 - 52:25]  effective because it's
+[52:25 - 52:25]  keeping costs down
+[52:25 - 52:27]  in Iowa and Hawaii
+[52:27 - 52:28]  and Tennessee
+[52:28 - 52:29]  and places like that.
+[52:29 - 52:30]  Okay, but at the
+[52:30 - 52:30]  end of the day,
+[52:31 - 52:32]  again, and oh by the
+[52:32 - 52:32]  way the family
+[52:32 - 52:33]  health care cost
+[52:33 - 52:34]  there is $18,000
+[52:34 - 52:35]  per family per year.
+[52:35 - 52:36]  Okay, so it's like
+[52:36 - 52:37]  17% more, $3,000
+[52:37 - 52:39]  more per family per year
+[52:39 - 52:40]  in these high cost
+[52:40 - 52:40]  states versus
+[52:40 - 52:41]  these low cost
+[52:41 - 52:41]  states.
+[52:41 - 52:43]  So again, I think
+[52:43 - 52:44]  the most important
+[52:44 - 52:45]  word on this
+[52:45 - 52:46]  entire slide
+[52:46 - 52:47]  is like
+[52:47 - 52:48]  meh.
+[52:48 - 52:50]  So, what's the point?
+[52:50 - 52:52]  The point is
+[52:52 - 52:52]  is that we all
+[52:52 - 52:53]  need to be
+[52:53 - 52:54]  very careful
+[52:54 - 52:55]  when we think
+[52:55 - 52:56]  about regulation
+[52:56 - 52:57]  as a solution
+[52:57 - 52:58]  to the health care
+[52:58 - 52:59]  cost problem.
+[53:00 - 53:01]  Maybe it is a solution,
+[53:01 - 53:02]  maybe it's not a solution.
+[53:03 - 53:03]  Maybe the best
+[53:03 - 53:05]  intended solutions
+[53:05 - 53:06]  around costs
+[53:06 - 53:07]  do not have
+[53:07 - 53:08]  their intended consequence.
+[53:08 - 53:09]  And that's my point
+[53:09 - 53:10]  for today.
+[53:10 - 53:11]  Thank you for
+[53:11 - 53:11]  watching a healthcare
+[53:11 - 53:12]  seat.
+[53:12 - 53:19]  Hello, this is
+[53:19 - 53:20]  Dr. Eric Bricker
+[53:20 - 53:21]  and thank you
+[53:21 - 53:21]  for watching
+[53:21 - 53:23]  a healthcare seat.
+[53:23 - 53:23]  Today we're going
+[53:23 - 53:24]  to be discussing
+[53:24 - 53:25]  hospital charity
+[53:25 - 53:26]  care programs
+[53:26 - 53:27]  or sometimes
+[53:27 - 53:27]  they're referred to
+[53:27 - 53:28]  as financial
+[53:28 - 53:29]  assistance programs.
+[53:30 - 53:31]  Okay, so not-for-profit
+[53:31 - 53:32]  hospitals in America
+[53:32 - 53:34]  are required by the
+[53:34 - 53:35]  IRS to provide
+[53:35 - 53:36]  what's called
+[53:36 - 53:36]  community benefit
+[53:36 - 53:37]  because these
+[53:37 - 53:38]  not-for-profit
+[53:38 - 53:39]  hospitals oftentimes
+[53:39 - 53:39]  don't have to pay
+[53:39 - 53:41]  any federal, state
+[53:41 - 53:43]  or a local tax.
+[53:43 - 53:44]  In order to qualify
+[53:44 - 53:45]  for that, they have
+[53:45 - 53:45]  to provide this
+[53:45 - 53:46]  community benefit
+[53:46 - 53:48]  of which charity
+[53:48 - 53:49]  care or in other
+[53:49 - 53:49]  words free care
+[53:49 - 53:50]  for people that
+[53:50 - 53:51]  qualify is an
+[53:51 - 53:52]  important part of
+[53:52 - 53:52]  that.
+[53:53 - 53:54]  Okay, now there
+[53:54 - 53:55]  are various
+[53:55 - 53:56]  eligibility requirements
+[53:56 - 53:57]  so every hospital
+[53:57 - 53:58]  has different
+[53:58 - 53:59]  eligibility requirements.
+[53:59 - 53:59]  I'm just going
+[53:59 - 54:00]  to use these
+[54:00 - 54:01]  as a real life
+[54:01 - 54:02]  example of a local
+[54:02 - 54:04]  hospital and their
+[54:04 - 54:05]  eligibility requirements.
+[54:05 - 54:06]  Okay, so for this
+[54:06 - 54:07]  particular hospital
+[54:07 - 54:08]  system, you have
+[54:08 - 54:09]  to be a U.S.
+[54:09 - 54:11]  citizen and you
+[54:11 - 54:12]  have to live locally
+[54:12 - 54:13]  in a county where
+[54:13 - 54:14]  they have a hospital
+[54:14 - 54:16]  or if you are,
+[54:16 - 54:17]  if you had emergency
+[54:17 - 54:18]  services, you don't
+[54:18 - 54:19]  necessarily have to
+[54:19 - 54:19]  live in one of those
+[54:19 - 54:20]  counties.
+[54:20 - 54:20]  In other words, you
+[54:20 - 54:21]  could be visiting
+[54:21 - 54:22]  your grandma and you
+[54:22 - 54:22]  could be from a
+[54:22 - 54:23]  different state and
+[54:23 - 54:24]  you would still
+[54:24 - 54:25]  qualify but it would
+[54:25 - 54:26]  have to be for
+[54:26 - 54:27]  emergency care.
+[54:27 - 54:27]  Now they do make
+[54:27 - 54:28]  another exception which
+[54:28 - 54:29]  is to say that look,
+[54:29 - 54:30]  if you live outside
+[54:30 - 54:31]  one of those counties
+[54:31 - 54:32]  and it's a non-emergency
+[54:32 - 54:34]  service and there's
+[54:34 - 54:35]  just no doctors or
+[54:35 - 54:35]  hospitals that can
+[54:35 - 54:36]  treat you for your
+[54:36 - 54:37]  particular condition or
+[54:37 - 54:39]  disease, then you
+[54:39 - 54:40]  might still be able
+[54:40 - 54:41]  to qualify.
+[54:41 - 54:42]  Okay, so those are
+[54:42 - 54:43]  basic requirements.
+[54:43 - 54:44]  Next, it has to be
+[54:44 - 54:45]  within a certain
+[54:45 - 54:46]  amount of time, right?
+[54:46 - 54:47]  So it can't be, it
+[54:47 - 54:47]  has to be either
+[54:47 - 54:48]  within the date that
+[54:48 - 54:49]  it's scheduled or
+[54:49 - 54:51]  within 365 days of
+[54:51 - 54:52]  when you received a
+[54:52 - 54:52]  bill.
+[54:52 - 54:53]  So you can't go back
+[54:53 - 54:53]  two years, three
+[54:53 - 54:54]  years, four years,
+[54:54 - 54:55]  so time to a certain
+[54:55 - 54:56]  extent is of the
+[54:56 - 54:57]  essence in terms of
+[54:57 - 54:58]  application.
+[54:58 - 54:59]  Okay, next is the
+[54:59 - 55:00]  financial eligibility
+[55:00 - 55:01]  and this is where you
+[55:01 - 55:02]  need to be able to
+[55:02 - 55:04]  provide documentation to
+[55:04 - 55:05]  prove these things.
+[55:05 - 55:06]  But all that aside,
+[55:07 - 55:08]  if you're indigent, in
+[55:08 - 55:08]  other words, if you
+[55:08 - 55:10]  make less than 200%
+[55:10 - 55:11]  of the federal poverty
+[55:11 - 55:14]  limit, which is $51,000
+[55:14 - 55:15]  for a family of four,
+[55:15 - 55:16]  then you will qualify to
+[55:16 - 55:17]  have your hospital bill
+[55:17 - 55:18]  paid for.
+[55:18 - 55:20]  Now, you could have
+[55:20 - 55:21]  insurance, okay, and it
+[55:21 - 55:22]  would be the remaining
+[55:22 - 55:23]  balance after insurance
+[55:23 - 55:24]  is paid and it would
+[55:24 - 55:26]  still pay for it if you
+[55:26 - 55:27]  made, if your family
+[55:27 - 55:28]  made less than 200% of
+[55:28 - 55:28]  the federal poverty
+[55:28 - 55:28]  limit.
+[55:29 - 55:29]  Guess what?
+[55:29 - 55:31]  28% of American
+[55:31 - 55:33]  households make less
+[55:33 - 55:35]  than $51,000, make
+[55:35 - 55:36]  less than 200% of the
+[55:36 - 55:37]  FPL, okay?
+[55:37 - 55:38]  So that's a lot of
+[55:38 - 55:39]  people.
+[55:39 - 55:39]  So if you're an
+[55:39 - 55:40]  employer, you probably
+[55:40 - 55:41]  have some employees
+[55:41 - 55:42]  that fit into this
+[55:42 - 55:43]  situation, okay?
+[55:43 - 55:44]  So let's say you make
+[55:44 - 55:46]  more than 200% of the
+[55:46 - 55:46]  FPL.
+[55:47 - 55:48]  Well, you can qualify for
+[55:48 - 55:48]  what's referred to as
+[55:48 - 55:50]  medically indigent as
+[55:50 - 55:51]  well, where if you
+[55:51 - 55:53]  make less than 500% of
+[55:53 - 55:54]  the federal poverty
+[55:54 - 55:56]  level and the amount
+[55:56 - 55:57]  you owe is greater
+[55:57 - 55:59]  than 5% of your
+[55:59 - 56:00]  annual income, then
+[56:00 - 56:01]  you would also
+[56:01 - 56:01]  qualify.
+[56:02 - 56:02]  So let's run the
+[56:02 - 56:03]  numbers on that.
+[56:03 - 56:04]  Okay, so a family of
+[56:04 - 56:05]  four, 500% of the
+[56:05 - 56:06]  federal poverty limit
+[56:06 - 56:08]  is $129,000.
+[56:09 - 56:11]  So that's for a
+[56:11 - 56:12]  family of four.
+[56:13 - 56:15]  That's 75% of
+[56:15 - 56:15]  households in
+[56:15 - 56:16]  America.
+[56:16 - 56:17]  In other words,
+[56:17 - 56:18]  that's the majority
+[56:18 - 56:19]  of Americans actually
+[56:19 - 56:20]  fall into that
+[56:20 - 56:20]  category and would
+[56:20 - 56:21]  potentially be
+[56:21 - 56:21]  eligible.
+[56:22 - 56:24]  Okay, now 5% of
+[56:24 - 56:24]  a year's income,
+[56:24 - 56:25]  let's just say,
+[56:25 - 56:26]  let's round it to
+[56:26 - 56:26]  $130,000.
+[56:27 - 56:28]  So 5% would be
+[56:28 - 56:29]  $6,500.
+[56:29 - 56:30]  That means even
+[56:30 - 56:31]  if you have
+[56:31 - 56:33]  insurance, if you
+[56:33 - 56:33]  had an out-of-pocket
+[56:33 - 56:35]  responsibility in
+[56:35 - 56:36]  excess of $6,500,
+[56:37 - 56:38]  then that would be
+[56:38 - 56:39]  covered at 100% by
+[56:39 - 56:41]  the hospital's charity
+[56:41 - 56:41]  care program.
+[56:42 - 56:43]  So in other words,
+[56:43 - 56:43]  let's say you had a
+[56:43 - 56:44]  high deductible plan
+[56:44 - 56:45]  with a $5,000
+[56:45 - 56:46]  deductible and 20%
+[56:46 - 56:48]  co-insurance, it's
+[56:48 - 56:50]  very easy to have
+[56:50 - 56:50]  an orthopedic
+[56:50 - 56:52]  surgery or even to
+[56:52 - 56:53]  have a variety of
+[56:53 - 56:55]  outpatient tests and
+[56:55 - 56:56]  procedures done where
+[56:56 - 56:57]  that total bill adds
+[56:57 - 56:59]  up to in excess of
+[56:59 - 57:00]  $6,500.
+[57:00 - 57:02]  So what's some
+[57:02 - 57:03]  practical information
+[57:03 - 57:05]  that you can do here?
+[57:05 - 57:07]  Okay, so the way
+[57:07 - 57:07]  that you get started
+[57:07 - 57:08]  in this process is to
+[57:08 - 57:10]  ask for the hospital's
+[57:10 - 57:11]  financial counselor.
+[57:11 - 57:12]  And every hospital I've
+[57:12 - 57:14]  ever worked in has a
+[57:14 - 57:14]  financial counselor.
+[57:15 - 57:16]  And you can either
+[57:16 - 57:17]  contact them by phone,
+[57:17 - 57:18]  sometimes you can do
+[57:18 - 57:20]  a web inquiry, but if
+[57:20 - 57:21]  the information is not
+[57:21 - 57:22]  posted on the hospital's
+[57:22 - 57:23]  website about their
+[57:23 - 57:24]  charity care program,
+[57:25 - 57:25]  then what you want to
+[57:25 - 57:26]  do is you want to call
+[57:26 - 57:27]  the hospital and ask to
+[57:27 - 57:28]  speak to a financial
+[57:28 - 57:29]  counselor to see if you
+[57:29 - 57:30]  qualify.
+[57:30 - 57:31]  And that's my point
+[57:31 - 57:31]  for today.
+[57:32 - 57:32]  Thank you for
+[57:32 - 57:33]  watching A Healthcare Z.
+[57:39 - 57:41]  Hello, this is Dr.
+[57:41 - 57:42]  Eric Bricker and
+[57:42 - 57:42]  thank you for
+[57:42 - 57:43]  watching A Healthcare Z.
+[57:44 - 57:45]  Today's topic is
+[57:45 - 57:47]  Hospitals Must Survive,
+[57:48 - 57:49]  But How?
+[57:49 - 57:50]  And to start off,
+[57:50 - 57:51]  we need to review some
+[57:51 - 57:52]  basics of hospital
+[57:52 - 57:53]  finance.
+[57:53 - 57:54]  And this actually
+[57:54 - 57:56]  comes from a previous
+[57:56 - 57:57]  A Healthcare Z video
+[57:57 - 57:58]  that's called Hospital
+[57:58 - 57:59]  Cross-Subsidization.
+[58:00 - 58:00]  And here we have
+[58:00 - 58:02]  Medicare and Medicaid
+[58:02 - 58:03]  and commercial insurance
+[58:03 - 58:05]  revenue and expense.
+[58:05 - 58:06]  So let me briefly go
+[58:06 - 58:06]  over this.
+[58:06 - 58:07]  Okay, so Medicare and
+[58:07 - 58:09]  Medicaid provide hospitals
+[58:09 - 58:11]  in aggregate in America,
+[58:11 - 58:12]  they pay them about
+[58:12 - 58:13]  $470 billion.
+[58:14 - 58:15]  Now, these hospitals,
+[58:16 - 58:18]  actually, it costs them
+[58:18 - 58:20]  the expense to take care
+[58:20 - 58:21]  of all those Medicare
+[58:21 - 58:22]  and Medicaid folks is
+[58:22 - 58:23]  $540 billion.
+[58:23 - 58:24]  So in other words,
+[58:24 - 58:25]  these hospitals lose money
+[58:25 - 58:26]  on their Medicare and
+[58:26 - 58:26]  Medicaid patients.
+[58:27 - 58:28]  Now, the majority of
+[58:28 - 58:28]  that is actually Medicare,
+[58:29 - 58:30]  it's not Medicaid, right?
+[58:30 - 58:31]  So in other words,
+[58:32 - 58:33]  the hospitals are
+[58:33 - 58:35]  underpaid by Medicare and
+[58:35 - 58:36]  Medicaid by, on average,
+[58:36 - 58:37]  15%, all right?
+[58:37 - 58:39]  And I have sources to
+[58:39 - 58:40]  these in the previous
+[58:40 - 58:40]  show notes.
+[58:40 - 58:41]  Okay, next up.
+[58:41 - 58:42]  So then commercial
+[58:42 - 58:44]  insurance, they pay in
+[58:44 - 58:45]  aggregate U.S. hospitals
+[58:45 - 58:46]  $505 billion.
+[58:47 - 58:49]  And the expense for
+[58:49 - 58:50]  taking care of all those
+[58:50 - 58:50]  commercially insured
+[58:50 - 58:52]  patients with Blue Cross,
+[58:52 - 58:53]  United, Cigna, Aetna,
+[58:53 - 58:53]  et cetera, et cetera,
+[58:53 - 58:56]  is $322 billion.
+[58:56 - 58:57]  So in other words,
+[58:57 - 58:58]  the commercial insurance
+[58:58 - 59:01]  overpays by 57%.
+[59:01 - 59:03]  And then the hospitals
+[59:03 - 59:05]  then use this overpayment
+[59:05 - 59:06]  to cross-subsidize the
+[59:06 - 59:08]  underpayment by Medicare
+[59:08 - 59:08]  and Medicaid.
+[59:09 - 59:10]  Okay, this is well
+[59:10 - 59:10]  established.
+[59:10 - 59:12]  This is not a new fact.
+[59:12 - 59:13]  However, there's an
+[59:13 - 59:14]  excellent article from
+[59:14 - 59:15]  the Harvard Business
+[59:15 - 59:17]  Review from 2017 from
+[59:17 - 59:18]  two gentlemen, actually
+[59:18 - 59:20]  from a hospital consulting
+[59:20 - 59:21]  firm called Navigant,
+[59:21 - 59:22]  that pointed out an
+[59:22 - 59:23]  excellent point, which I'm
+[59:23 - 59:24]  sure all of you know as
+[59:24 - 59:26]  well, that the government
+[59:26 - 59:27]  money situation for
+[59:27 - 59:28]  hospitals is going to
+[59:28 - 59:30]  get worse because there
+[59:30 - 59:32]  is a 3% increase in
+[59:32 - 59:34]  Medicare enrollees every
+[59:34 - 59:35]  year for the next decade.
+[59:36 - 59:37]  And that only goes down
+[59:37 - 59:38]  to like a 2.5% increase
+[59:38 - 59:39]  per year to the point
+[59:39 - 59:42]  that the 55 million people
+[59:42 - 59:43]  that are on Medicare
+[59:43 - 59:44]  today will increase to
+[59:44 - 59:46]  81.5 million by the
+[59:46 - 59:47]  year 2030.
+[59:48 - 59:49]  Okay, so in other words,
+[59:49 - 59:51]  all of this underpayment
+[59:51 - 59:52]  to the hospitals is
+[59:52 - 59:53]  going to increase because
+[59:53 - 59:54]  the number of Medicare
+[59:54 - 59:55]  patients that they're
+[59:55 - 59:56]  going to have is going
+[59:56 - 59:56]  to increase.
+[59:57 - 59:58]  So it's only going to
+[59:58 - 59:59]  get worse.
+[59:59 - 60:01]  And so what is going
+[60:01 - 60:03]  to happen, what has
+[60:03 - 60:03]  been happening, what
+[60:03 - 60:04]  can continue to happen
+[60:04 - 60:06]  is that the cross-
+[60:06 - 60:07]  subsidization required
+[60:07 - 60:07]  from commercial
+[60:07 - 60:09]  insurance to make up
+[60:09 - 60:09]  for this underpayment
+[60:09 - 60:11]  is going to increase.
+[60:11 - 60:12]  It's going to get worse.
+[60:12 - 60:13]  Essentially, and I'm
+[60:13 - 60:14]  going to be kind of
+[60:14 - 60:15]  harsh here, the
+[60:15 - 60:17]  hospitals are addicted
+[60:17 - 60:19]  to commercial insurance
+[60:19 - 60:20]  payments.
+[60:20 - 60:21]  They're addicted to this
+[60:21 - 60:22]  relationship.
+[60:23 - 60:25]  Now, it doesn't have
+[60:25 - 60:26]  to be that way.
+[60:27 - 60:29]  And in fact, employers
+[60:29 - 60:31]  are actually, to a certain
+[60:31 - 60:32]  extent, we're enabling
+[60:32 - 60:33]  this behavior.
+[60:33 - 60:34]  And to a certain extent,
+[60:34 - 60:35]  the insurance carriers are
+[60:35 - 60:37]  enabling this behavior.
+[60:37 - 60:39]  We're letting this happen.
+[60:39 - 60:40]  So I'm not pointing the
+[60:40 - 60:41]  finger at hospitals.
+[60:41 - 60:43]  I'm saying, look, we've
+[60:43 - 60:44]  got to do two things.
+[60:44 - 60:45]  We have to, one, stop
+[60:45 - 60:47]  enabling this behavior.
+[60:47 - 60:49]  And then, two, offer an
+[60:49 - 60:49]  alternative.
+[60:50 - 60:51]  We can't just stop the
+[60:51 - 60:52]  enablement and just say,
+[60:52 - 60:54]  figure it out for yourself,
+[60:54 - 60:55]  hospitals, because you've
+[60:55 - 60:56]  got to survive.
+[60:56 - 60:57]  Hospitals are not the
+[60:57 - 60:57]  enemy.
+[60:58 - 60:58]  They have to survive.
+[60:59 - 61:00]  They have to survive in a
+[61:00 - 61:01]  different way, but they
+[61:01 - 61:02]  need to survive.
+[61:02 - 61:03]  And so the authors of
+[61:03 - 61:04]  this Harvard Review,
+[61:04 - 61:06]  Harvard Business Review
+[61:06 - 61:09]  article outlined four
+[61:09 - 61:09]  ways the hospital's going
+[61:09 - 61:10]  to do that.
+[61:10 - 61:11]  So number one, there's
+[61:11 - 61:13]  actually a 5 to 15% expense
+[61:13 - 61:15]  reduction opportunity in
+[61:15 - 61:16]  care and administration by
+[61:16 - 61:17]  using analytics to
+[61:17 - 61:18]  decrease waste.
+[61:18 - 61:20]  Hospitals are, again, not
+[61:20 - 61:21]  to be overcritical, are
+[61:21 - 61:22]  cesspools of waste.
+[61:22 - 61:23]  And if they actually use
+[61:23 - 61:25]  their data the way most
+[61:25 - 61:27]  corporations do to analyze
+[61:27 - 61:28]  that waste, then there's a
+[61:28 - 61:30]  5 to 15% reduction
+[61:30 - 61:31]  expense opportunity for
+[61:31 - 61:32]  that calculated by them.
+[61:32 - 61:33]  Okay, next up.
+[61:34 - 61:35]  There's an opportunity to
+[61:35 - 61:36]  decrease their corporate
+[61:36 - 61:37]  service expenses.
+[61:37 - 61:37]  What do I mean by
+[61:37 - 61:38]  corporate service expenses?
+[61:38 - 61:39]  I mean legal, compliance,
+[61:39 - 61:41]  HR, and IT.
+[61:41 - 61:43]  Oh, by the way, HR is the
+[61:43 - 61:44]  health benefits for the
+[61:44 - 61:45]  employees themselves,
+[61:45 - 61:46]  because health care for
+[61:46 - 61:47]  people that work at
+[61:47 - 61:49]  hospitals is expensive.
+[61:49 - 61:51]  Okay, so those corporate
+[61:51 - 61:54]  services are actually 15% of
+[61:54 - 61:55]  a hospital's overall
+[61:55 - 61:56]  expenses, and it's been
+[61:56 - 61:58]  rising at 10% per year.
+[61:58 - 61:59]  That's the second
+[61:59 - 62:00]  opportunity.
+[62:00 - 62:00]  Third opportunity.
+[62:01 - 62:02]  The supply chain for a
+[62:02 - 62:03]  hospital, so hospital
+[62:03 - 62:04]  supplies make up about
+[62:04 - 62:06]  15 to 20%, whether that's
+[62:06 - 62:07]  drug supplies, surgical
+[62:07 - 62:08]  supplies, etc.
+[62:09 - 62:10]  15 to 20% of a hospital's
+[62:10 - 62:12]  overall expenses.
+[62:12 - 62:14]  Now, it's incredibly
+[62:14 - 62:15]  balkanized because the
+[62:15 - 62:17]  physicians show favoritism
+[62:17 - 62:19]  to specific vendors, which
+[62:19 - 62:20]  if you watched my previous
+[62:20 - 62:21]  video on physician and
+[62:21 - 62:22]  distributors, sometimes the
+[62:22 - 62:23]  physicians have partial or
+[62:23 - 62:25]  complete ownership of those
+[62:25 - 62:25]  vendors.
+[62:25 - 62:26]  So they're remunerating
+[62:26 - 62:28]  themselves through this
+[62:28 - 62:29]  disparate supply chain
+[62:29 - 62:30]  relationship.
+[62:30 - 62:32]  That overcharges for or up
+[62:32 - 62:33]  charges for various
+[62:33 - 62:34]  supplies.
+[62:34 - 62:35]  Okay, that can be streamlined.
+[62:35 - 62:36]  That can be streamlined.
+[62:37 - 62:38]  And fourth and final is
+[62:38 - 62:39]  there is a high degree of
+[62:39 - 62:41]  variation in the way
+[62:41 - 62:42]  patients are cared for,
+[62:42 - 62:43]  where per this article,
+[62:43 - 62:44]  there is a two to three
+[62:44 - 62:45]  times difference in the
+[62:45 - 62:47]  amount of money it takes to
+[62:47 - 62:50]  treat a controlled patient,
+[62:50 - 62:50]  in other words, a patient
+[62:50 - 62:51]  with the same degree of
+[62:51 - 62:53]  illness, etc., etc., across
+[62:53 - 62:55]  different doctors within the
+[62:55 - 62:55]  same hospital.
+[62:55 - 62:57]  So whether it be like heart
+[62:57 - 62:59]  failure or diabetes or an
+[62:59 - 63:01]  infection, etc., there's a
+[63:01 - 63:02]  huge degree of variation by
+[63:02 - 63:03]  doctor.
+[63:03 - 63:05]  And so that is where that can
+[63:05 - 63:05]  be addressed through
+[63:05 - 63:06]  standardized protocols, whether
+[63:06 - 63:07]  they be physician
+[63:07 - 63:08]  protocols or nursing
+[63:08 - 63:09]  protocols.
+[63:09 - 63:11]  We use a ton of protocols at
+[63:11 - 63:11]  Hopkins.
+[63:11 - 63:12]  They were great.
+[63:12 - 63:13]  They were designed by the
+[63:13 - 63:14]  physicians.
+[63:14 - 63:15]  They were awesome.
+[63:15 - 63:17]  Oh, by the way, Geisinger at
+[63:17 - 63:18]  Intermountain Healthcare, they
+[63:18 - 63:19]  use a large degree of
+[63:19 - 63:20]  protocols.
+[63:20 - 63:21]  It's not bad cookbook
+[63:21 - 63:22]  medicine.
+[63:22 - 63:23]  There are clinically
+[63:23 - 63:24]  justified reasons to go off
+[63:24 - 63:26]  the protocol, but the point
+[63:26 - 63:27]  is that you start with the
+[63:27 - 63:28]  protocol and then you make
+[63:28 - 63:29]  the conscious decision to go
+[63:29 - 63:30]  off of it.
+[63:30 - 63:31]  You don't start in this
+[63:31 - 63:32]  nebulous, a protocol world.
+[63:33 - 63:33]  Okay?
+[63:33 - 63:35]  So the point is, is that we,
+[63:35 - 63:36]  and oh, by the way, there's
+[63:36 - 63:37]  an expression for this in
+[63:37 - 63:37]  healthcare.
+[63:38 - 63:38]  It's called feeding the
+[63:38 - 63:39]  beast.
+[63:39 - 63:40]  Okay?
+[63:40 - 63:41]  Feeding a large healthcare
+[63:41 - 63:41]  system.
+[63:42 - 63:43]  We all know we need to stop
+[63:43 - 63:45]  feeding the beast, and here
+[63:45 - 63:46]  are some viable alternatives
+[63:46 - 63:48]  that we can do instead.
+[63:49 - 63:50]  And thank you for watching
+[63:50 - 63:51]  A Healthcare Z.
+[63:54 - 63:57]  That's a joke.
+[64:06 - 64:06]  Yeah.
+[64:06 - 64:36]  Thank you.

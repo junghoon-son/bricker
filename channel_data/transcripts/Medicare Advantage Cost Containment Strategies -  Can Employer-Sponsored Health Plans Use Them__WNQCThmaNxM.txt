@@ -1,0 +1,88 @@
+Title: Medicare Advantage Cost Containment Strategies -  Can Employer-Sponsored Health Plans Use Them?
+URL: https://www.youtube.com/watch?v=WNQCThmaNxM
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing Medicare Advantage cost control. So Medicare Advantage is the plan where people that are on Medicare can receive their insurance through a commercial insurance company as opposed to through traditional Medicare and the government. Now, those insurance carriers are paid a capitated monthly dollar amount per member. So the government basically says, okay, for every single enrollee that you have, we're going to write you a check each month and then you need to provide insurance for those folks. And that dollar amount is about $1,000 per member per month. Now, it can go up and down somewhat a little bit based upon what's referred to as risk adjustment. In other words, they pay them more for folks that have more diseases like, you know, let's say bad diabetes. And then they also pay, the government also pays them more if they achieve certain quality bonuses. So just know that it can be somewhat above or below $1,000 a month based upon those additional things. Now, note also that the gross margin for a Medicare Advantage plan is about $1,600 per member per year. Now, interestingly, compared to an insurance company's employer group services that they provide, they only make $855 per member per year on the group. So they make almost twice as much on their Medicare Advantage plans than they do on their employer-sponsored plans. Now, notice from a previous video that I talked about how revenue growth for insurance carriers is much more from government than it is from private employers. And so specifically for Medicare Advantage, from 2006 until today, they've increased from 7 million members to 22 million members. So it's more than tripled. And as a percentage of Medicare beneficiaries, it's gone from 16% to 34%. So it has essentially doubled on a percentage basis in terms of people that have Medicare. So it's growing. And it's understandable why the commercial insurers would want to get into this business more and more because their margins are like twice as high on it. Okay. So that being said, if you take the margin out of the about $12,000 per year that they're getting paid by the government, that means that they're paying out about $10,400 in claims per member per year. Now, let's compare that to an employer-sponsored plan where they pay on it. So individual coverage per employee per year is about $6,715. And oh, by the way, all these statistics are from the Kaiser Family Foundation. They have put together wonderful information. I mean, it's awesome. And I will leave links in the show notes to these sources. Now, so obviously, Medicare Advantage has paid out a lot more claims per person than commercial insurance is. And probably one of the main reasons for that is just because obviously the population is younger. It tends to be not as sick, right? I mean, at the end of the day, like, we cannot stop the march of time. And so they're just dealing with much, much sicker folks in Medicare Advantage. So that then begs the question, okay, is there, what is Medicare Advantage doing for cost control? And is there anything that employers can learn from that? Because here, the commercial insurance plans, the more that they can control costs, then they're just going to make more money, right? So that margin is going to go up in terms of, like, either paying less for health care services or having less health care services paid for or getting people healthier. Okay, so you can see here that we have just a breakdown. Again, this is a chart from Kaiser Family Foundation, which was awesome. So I wanted to recreate it here, where 66% of folks are on traditional Medicare. 34% are on Medicare Advantage. Now, of that 34% that are on Medicare Advantage, 62% are in an HMO, which is that, you know, as many of you well know, where you have a PCP gatekeeper and you require referrals in order to see specialists and have certain tests or procedures, labs done, okay? So it's not like a PPO. I mean, there is control. In order for you to have coverage, there is control over what you, the patient, can or cannot receive that is dictated by the doctor. Okay, next up, about 37% are on what's referred to as a traditional PPO plan that we're all familiar with, right, where you can choose individual doctors, whether it be PCPs or specialists that you go to. Now, note that the networks for those PPOs tend to be narrow. So specifically, like here in DFW, a major, major, major Medicare Advantage commercial plan does not have a major, major, major hospital system in the DFW area in their network, okay? So why is that important? It's because when you have a narrow network, then the insurance carrier can go to a hospital system and say, look, we're really going to steer. You're going to get all of our, almost all of our Medicare Advantage patients, so you need to give us a better contracted rate or a loud amount. And so it's important to note here that when an insurance company negotiates a contract with a hospital, they will have one rate for their employer members, okay? So you've got XYZ company that gives you insurance. There's going to be that allowed amount. And there's going to be a different allowed amount for that same insurance carrier for their Medicare Advantage patients, okay? So just because you both have the same insurance company and the same name on that insurance card, the reimbursement from the insurance carrier to the hospital is different if it's a Medicare Advantage plan versus an employer-sponsored commercial plan, all right? So what's my point? Why am I telling you all this? Well, I was asking myself, okay, are there any sort of special or unique or sort of awesome cost control mechanisms that Medicare Advantage plans are using? Because if anybody is an expert on cost control, it's the insurance companies themselves. And because of this capitation arrangement, they are really on the hook for controlling this. They are bearing risk. And so the answer is no. They're kind of using traditional control methods. Now, maybe I'm being a little too harsh here, but they're using HMOs, okay? Like, we've known that HMOs control costs for decades, okay? They're using narrow network PPOs, okay? We've known that that decreases costs. We've known that for decades. So I think what the insurance companies are doing here is they're just doing what they know best. And so in terms of, like, new and innovative ways to decrease healthcare costs, increase quality, in terms of, like, really, is there anything that employers can learn from these Medicare Advantage plans that they're doing that employers are not doing? You know, I don't really think so. And that's just my opinion. I might be totally wrong, but I wanted to share these thoughts with you today. And thank you for watching a healthcare seat.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:08]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing Medicare Advantage cost control.
+[0:09 - 0:18]  So Medicare Advantage is the plan where people that are on Medicare can receive their insurance through a commercial insurance company as opposed to through traditional Medicare and the government.
+[0:18 - 0:34]  Now, those insurance carriers are paid a capitated monthly dollar amount per member. So the government basically says, okay, for every single enrollee that you have, we're going to write you a check each month and then you need to provide insurance for those folks.
+[0:34 - 0:43]  And that dollar amount is about $1,000 per member per month. Now, it can go up and down somewhat a little bit based upon what's referred to as risk adjustment.
+[0:43 - 0:48]  In other words, they pay them more for folks that have more diseases like, you know, let's say bad diabetes.
+[0:49 - 0:52]  And then they also pay, the government also pays them more if they achieve certain quality bonuses.
+[0:52 - 0:57]  So just know that it can be somewhat above or below $1,000 a month based upon those additional things.
+[0:57 - 1:07]  Now, note also that the gross margin for a Medicare Advantage plan is about $1,600 per member per year.
+[1:07 - 1:20]  Now, interestingly, compared to an insurance company's employer group services that they provide, they only make $855 per member per year on the group.
+[1:20 - 1:27]  So they make almost twice as much on their Medicare Advantage plans than they do on their employer-sponsored plans.
+[1:27 - 1:38]  Now, notice from a previous video that I talked about how revenue growth for insurance carriers is much more from government than it is from private employers.
+[1:39 - 1:47]  And so specifically for Medicare Advantage, from 2006 until today, they've increased from 7 million members to 22 million members.
+[1:47 - 1:49]  So it's more than tripled.
+[1:49 - 1:55]  And as a percentage of Medicare beneficiaries, it's gone from 16% to 34%.
+[1:55 - 2:00]  So it has essentially doubled on a percentage basis in terms of people that have Medicare.
+[2:00 - 2:01]  So it's growing.
+[2:02 - 2:08]  And it's understandable why the commercial insurers would want to get into this business more and more because their margins are like twice as high on it.
+[2:09 - 2:09]  Okay.
+[2:09 - 2:20]  So that being said, if you take the margin out of the about $12,000 per year that they're getting paid by the government, that means that they're paying out about $10,400 in claims per member per year.
+[2:20 - 2:25]  Now, let's compare that to an employer-sponsored plan where they pay on it.
+[2:25 - 2:31]  So individual coverage per employee per year is about $6,715.
+[2:31 - 2:34]  And oh, by the way, all these statistics are from the Kaiser Family Foundation.
+[2:34 - 2:36]  They have put together wonderful information.
+[2:36 - 2:37]  I mean, it's awesome.
+[2:37 - 2:40]  And I will leave links in the show notes to these sources.
+[2:40 - 2:47]  Now, so obviously, Medicare Advantage has paid out a lot more claims per person than commercial insurance is.
+[2:47 - 2:52]  And probably one of the main reasons for that is just because obviously the population is younger.
+[2:52 - 2:54]  It tends to be not as sick, right?
+[2:54 - 2:59]  I mean, at the end of the day, like, we cannot stop the march of time.
+[2:59 - 3:02]  And so they're just dealing with much, much sicker folks in Medicare Advantage.
+[3:03 - 3:08]  So that then begs the question, okay, is there, what is Medicare Advantage doing for cost control?
+[3:08 - 3:10]  And is there anything that employers can learn from that?
+[3:10 - 3:17]  Because here, the commercial insurance plans, the more that they can control costs, then they're just going to make more money, right?
+[3:17 - 3:23]  So that margin is going to go up in terms of, like, either paying less for health care services or having less health care services paid for
+[3:23 - 3:24]  or getting people healthier.
+[3:25 - 3:27]  Okay, so you can see here that we have just a breakdown.
+[3:27 - 3:31]  Again, this is a chart from Kaiser Family Foundation, which was awesome.
+[3:31 - 3:35]  So I wanted to recreate it here, where 66% of folks are on traditional Medicare.
+[3:35 - 3:37]  34% are on Medicare Advantage.
+[3:37 - 3:45]  Now, of that 34% that are on Medicare Advantage, 62% are in an HMO, which is that, you know, as many of you well know,
+[3:45 - 3:52]  where you have a PCP gatekeeper and you require referrals in order to see specialists and have certain tests or procedures, labs done, okay?
+[3:52 - 3:54]  So it's not like a PPO.
+[3:54 - 3:55]  I mean, there is control.
+[3:56 - 4:01]  In order for you to have coverage, there is control over what you, the patient, can or cannot receive that is dictated by the doctor.
+[4:02 - 4:07]  Okay, next up, about 37% are on what's referred to as a traditional PPO plan that we're all familiar with, right,
+[4:07 - 4:12]  where you can choose individual doctors, whether it be PCPs or specialists that you go to.
+[4:12 - 4:17]  Now, note that the networks for those PPOs tend to be narrow.
+[4:17 - 4:31]  So specifically, like here in DFW, a major, major, major Medicare Advantage commercial plan does not have a major, major, major hospital system in the DFW area in their network, okay?
+[4:31 - 4:32]  So why is that important?
+[4:32 - 4:39]  It's because when you have a narrow network, then the insurance carrier can go to a hospital system and say,
+[4:39 - 4:40]  look, we're really going to steer.
+[4:40 - 4:48]  You're going to get all of our, almost all of our Medicare Advantage patients, so you need to give us a better contracted rate or a loud amount.
+[4:48 - 4:54]  And so it's important to note here that when an insurance company negotiates a contract with a hospital,
+[4:54 - 5:01]  they will have one rate for their employer members, okay?
+[5:01 - 5:03]  So you've got XYZ company that gives you insurance.
+[5:03 - 5:05]  There's going to be that allowed amount.
+[5:05 - 5:12]  And there's going to be a different allowed amount for that same insurance carrier for their Medicare Advantage patients, okay?
+[5:12 - 5:16]  So just because you both have the same insurance company and the same name on that insurance card,
+[5:17 - 5:27]  the reimbursement from the insurance carrier to the hospital is different if it's a Medicare Advantage plan versus an employer-sponsored commercial plan, all right?
+[5:27 - 5:29]  So what's my point?
+[5:29 - 5:31]  Why am I telling you all this?
+[5:31 - 5:41]  Well, I was asking myself, okay, are there any sort of special or unique or sort of awesome cost control mechanisms that Medicare Advantage plans are using?
+[5:42 - 5:46]  Because if anybody is an expert on cost control, it's the insurance companies themselves.
+[5:46 - 5:51]  And because of this capitation arrangement, they are really on the hook for controlling this.
+[5:51 - 5:53]  They are bearing risk.
+[5:53 - 5:55]  And so the answer is no.
+[5:55 - 5:58]  They're kind of using traditional control methods.
+[5:58 - 6:01]  Now, maybe I'm being a little too harsh here, but they're using HMOs, okay?
+[6:01 - 6:05]  Like, we've known that HMOs control costs for decades, okay?
+[6:05 - 6:07]  They're using narrow network PPOs, okay?
+[6:07 - 6:11]  We've known that that decreases costs.
+[6:11 - 6:12]  We've known that for decades.
+[6:13 - 6:19]  So I think what the insurance companies are doing here is they're just doing what they know best.
+[6:19 - 6:37]  And so in terms of, like, new and innovative ways to decrease healthcare costs, increase quality, in terms of, like, really, is there anything that employers can learn from these Medicare Advantage plans that they're doing that employers are not doing?
+[6:38 - 6:39]  You know, I don't really think so.
+[6:40 - 6:41]  And that's just my opinion.
+[6:41 - 6:45]  I might be totally wrong, but I wanted to share these thoughts with you today.
+[6:45 - 6:47]  And thank you for watching a healthcare seat.

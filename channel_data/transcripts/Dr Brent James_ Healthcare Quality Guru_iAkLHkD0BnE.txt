@@ -1,0 +1,198 @@
+Title: Dr Brent James: Healthcare Quality Guru
+URL: https://www.youtube.com/watch?v=iAkLHkD0BnE
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Dr. Brent James, the quality guru in American healthcare. Now this topic is from a YouTube video from Health Catalyst and I will leave a link to the video in the show notes. It is awesome. It is fairly recent. It's from like November of last year so it's only a few months old. Again, there are very few views. So if you watch this video, you will be among a very small group of people who has access to Dr. James' expertise which is phenomenal. If we work in healthcare, we have to know who Dr. Brent James is. So he is the Executive Director of the Institute for Healthcare Delivery at the Intermountain Healthcare System in Utah and he is basically the father of healthcare quality in America. I will say the modern father. He is also a professor at the University of Utah School of Medicine. He is a Harvard professor. He is a Stanford professor. He is internationally known. I mean he is so good at healthcare quality that multiple outstanding institutions want him on their faculty. Now he actually trained under Edwards Deming. He is like the manufacturing quality expert from the mid 20th century. If there is anybody who knows anything about quality in large systems historically in manufacturing, it was Deming. And guess what? Dr. James learned from him. So he like learned from the best and he took Deming's approach and applied to healthcare. And one of the big reasons why Intermountain Healthcare is so known for being such a high quality healthcare system and having control of their own health system costs is because of this guy, Dr. James. So let's hear what he has to say. He says that 30 to 50% of all healthcare spending is quality associated waste. That's right. He says that the key to addressing healthcare costs is to fix healthcare quality. And by fixing healthcare quality, it will automatically lower costs. Like that's what he did at Intermountain. He focused on improving quality. And by improving quality, it automatically rung tons of waste and costs out of the system. This is not about cutting corners. This is not about lowering quality. It's not even about keeping quality the same. He's saying that if you increase quality, it will automatically decrease costs. Okay. He breaks these down into several categories. In appropriate care. In other words, doing healthcare services, tests, procedures, et cetera, et cetera, that shouldn't be done in the first place. Number two, avoidable, you know, bad outcomes and avoidable diagnoses. So in other words, that heart attack in that longstanding diabetic with uncontrolled hypertension, that is an avoidable heart attack. That diabetes and that hypertension could have been better controlled. And if so, that $75,000 heart attack and that catastrophe for that individual could have been avoided. Okay. And then variations in care. Did you know that when surgeons perform hip surgery and put an artificial hip in? One, they use like different artificial hips. So from a supply chain perspective, the hospital can't get any efficiency around ordering the same hip because they got to order all these hips. And also like the, how long the person stays in the hospital, how their discharge is done, how the follow-up is done. There's huge variations of care. In fact, I just recently gave a talk about what you need to know about healthcare. And one of the main things that people need to know, I said, was it's highly variable, right? That's a huge source of waste. Okay. And then also just efficiency. There's huge administrative bureaucratic waste, not only on the hospital side, but on the insurance carrier side as well. Okay. So we've got all of these sources of low quality care. And if we address them, then we can lower the cost of care in his estimate by 30, 50%. Okay. What is the A number one thing that he points to, to improve the quality of care? He says it's a third generation patient centered medical home, which is a fancy way of saying a really good primary care practice. Okay. This is not new. We've said this on a healthcare scene many times. You've heard this from many other places many times. What's the point? The point is here you have one of the world's foremost experts about healthcare quality saying again, it is the primary care office that is the source of improvement. Notice I say office. I didn't say doctor because this whole idea of a medical home means that it's a team-based approach. And third generation, which, oh, by the way, this is what they use at the Intermountain healthcare system means one, first generation was chronic care management. So in other words, actually having a nurse in addition to the physician. That would help work with the patient in regards to, let's say their diabetes management or their rheumatoid arthritis management, what have you. Okay. Generation two was they realized that they had a whole bunch of folks that had depression, anxiety, and other mental health problems that was getting in the way of the chronic condition management. So they added mental health professionals to the clinics, whether it be counselors or psychologists, et cetera. And then third generation is adding health system navigation and health insurance navigation to the mix. I mean, that's what we did at Compass. I will tell you that we did it in an offsite fashion, right? We were a third party. He's saying integrated into the actual delivery of care at the PCP's office. Health system navigation as the third leg in the stool for the medical home. And we would see catastrophes of health system navigation constantly around people like not getting their chemo in time because the insurance company had like denied their fourth dose of chemo. Or people just like not getting scheduled for their follow-up appointment after discharge from the hospital just because it wasn't scheduled. Okay. Just very silly logistical stuff that is so complicated that there's actually a fair amount of expertise around health system navigation. Okay, fine. They actually did this at Intermountain. What happened? ER visits went down by 11%. Admissions to the hospital were down by 22%. Radiology, in other words, x-ray, CT, MRI, ultrasound was down by 11%. It roamed tons of costs out of the system without reducing quality. In fact, it increased quality. Now, let's perform a little thought experiment here. Let's say we said to a hospital executive team, hey, we got this fantastic idea. We got a third generation medical home. It's going to improve quality for our patient population. Oh, by the way, it's going to reduce our admits by 22%. I think the hospital's response to that would be over my dead body. Like there is no way you're taking away a fifth of our admits. Right? That's crazy. The point is, is that Intermountain did this because they run a health plan, as I've said before, and they collect premium. Therefore, if the admins go down for the hospital, they keep the difference of the premium that they've collected and the less health care they spend on hospital admissions. So they are financially aligned to actually do this. The vast majority of hospitals in America are not. So what's my point? My point is, do not wait for your local health care system to do this. They probably will not do this. Now, I'm being a little extreme here for illustrative purposes, but you get the idea. So what's the point? Dr. James goes on in this video to say, what is the number one thing he would do? Would he just start all over again at a new hospital system with quality initiatives? Guess what he would do? He would start a quality improvement training course. And that's what he did at Intermountain. That's what the Institute for Health Care Delivery is. It's a training course for the hospital staff, for the nurses, for the therapists, for the pharmacists. They have professionals from other hospital systems come and train at their institute as well. He said the reason that that's so important is because the leadership at the top doesn't have the best ideas for quality improvement. It's actually the people at the patient bedside that have the expertise and the frontline observations of what's going on. But they don't know how to translate those observations into quality improvement. So everybody has to be talking the same language. They have to have the same lexicon. And that's what this course does. And guess what? That's really the new role for the insurance broker and the benefit consultant and even the HR professional, right? That's your new job. You are the quality improvement people. And guess what? There's a training course for you. It's called Health Rosetta, founded by Dave Chase. Now, I have no affiliation with Health Rosetta, but I have attended a recent conference of theirs. And what they do is they teach brokers and consultants how to essentially be quality improvement experts for an employee health plan. I mean, it is phenomenal. That is your new role. It's not being an insurance guy. It's not selling insurance. Like, it's your job as the broker consultant, as the HR professional, to improve the quality of care for your plan members because no one else is going to do it. So what's my point for today? Here you have the world's foremost experts saying that the way to improve quality is through primary care. And that will lower your costs. And there is a mechanism called Health Rosetta where you as a broker consultant can actually be trained in this. Then the future is bright. It is not doom and gloom. We can make progress. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:11]  Today's topic is Dr. Brent James, the quality guru in American healthcare.
+[0:11 - 0:17]  Now this topic is from a YouTube video from Health Catalyst and I will leave a link to
+[0:17 - 0:19]  the video in the show notes.
+[0:19 - 0:20]  It is awesome.
+[0:20 - 0:21]  It is fairly recent.
+[0:21 - 0:25]  It's from like November of last year so it's only a few months old.
+[0:25 - 0:28]  Again, there are very few views.
+[0:28 - 0:33]  So if you watch this video, you will be among a very small group of people who has access
+[0:33 - 0:37]  to Dr. James' expertise which is phenomenal.
+[0:37 - 0:41]  If we work in healthcare, we have to know who Dr. Brent James is.
+[0:41 - 0:46]  So he is the Executive Director of the Institute for Healthcare Delivery at the Intermountain
+[0:46 - 0:55]  Healthcare System in Utah and he is basically the father of healthcare quality in America.
+[0:55 - 0:57]  I will say the modern father.
+[0:57 - 1:00]  He is also a professor at the University of Utah School of Medicine.
+[1:00 - 1:02]  He is a Harvard professor.
+[1:02 - 1:03]  He is a Stanford professor.
+[1:03 - 1:04]  He is internationally known.
+[1:04 - 1:11]  I mean he is so good at healthcare quality that multiple outstanding institutions want
+[1:11 - 1:14]  him on their faculty.
+[1:14 - 1:19]  Now he actually trained under Edwards Deming.
+[1:19 - 1:26]  He is like the manufacturing quality expert from the mid 20th century.
+[1:26 - 1:33]  If there is anybody who knows anything about quality in large systems historically in manufacturing,
+[1:33 - 1:34]  it was Deming.
+[1:34 - 1:35]  And guess what?
+[1:35 - 1:38]  Dr. James learned from him.
+[1:38 - 1:43]  So he like learned from the best and he took Deming's approach and applied to healthcare.
+[1:43 - 1:48]  And one of the big reasons why Intermountain Healthcare is so known for being such a high
+[1:48 - 1:54]  quality healthcare system and having control of their own health system costs is because
+[1:54 - 1:56]  of this guy, Dr. James.
+[1:56 - 1:59]  So let's hear what he has to say.
+[1:59 - 2:05]  He says that 30 to 50% of all healthcare spending is quality associated waste.
+[2:05 - 2:06]  That's right.
+[2:06 - 2:12]  He says that the key to addressing healthcare costs is to fix healthcare quality.
+[2:12 - 2:17]  And by fixing healthcare quality, it will automatically lower costs.
+[2:17 - 2:19]  Like that's what he did at Intermountain.
+[2:19 - 2:21]  He focused on improving quality.
+[2:21 - 2:28]  And by improving quality, it automatically rung tons of waste and costs out of the system.
+[2:28 - 2:29]  This is not about cutting corners.
+[2:29 - 2:32]  This is not about lowering quality.
+[2:32 - 2:34]  It's not even about keeping quality the same.
+[2:34 - 2:40]  He's saying that if you increase quality, it will automatically decrease costs.
+[2:40 - 2:41]  Okay.
+[2:41 - 2:44]  He breaks these down into several categories.
+[2:44 - 2:46]  In appropriate care.
+[2:46 - 2:50]  In other words, doing healthcare services, tests, procedures, et cetera, et cetera, that
+[2:50 - 2:52]  shouldn't be done in the first place.
+[2:52 - 2:58]  Number two, avoidable, you know, bad outcomes and avoidable diagnoses.
+[2:58 - 3:04]  So in other words, that heart attack in that longstanding diabetic with uncontrolled hypertension,
+[3:04 - 3:06]  that is an avoidable heart attack.
+[3:06 - 3:09]  That diabetes and that hypertension could have been better controlled.
+[3:09 - 3:15]  And if so, that $75,000 heart attack and that catastrophe for that individual could have
+[3:15 - 3:16]  been avoided.
+[3:16 - 3:17]  Okay.
+[3:17 - 3:19]  And then variations in care.
+[3:19 - 3:24]  Did you know that when surgeons perform hip surgery and put an artificial hip in?
+[3:24 - 3:26]  One, they use like different artificial hips.
+[3:26 - 3:31]  So from a supply chain perspective, the hospital can't get any efficiency around ordering the
+[3:31 - 3:33]  same hip because they got to order all these hips.
+[3:33 - 3:40]  And also like the, how long the person stays in the hospital, how their discharge is done,
+[3:40 - 3:40]  how the follow-up is done.
+[3:40 - 3:43]  There's huge variations of care.
+[3:43 - 3:48]  In fact, I just recently gave a talk about what you need to know about healthcare.
+[3:48 - 3:52]  And one of the main things that people need to know, I said, was it's highly variable,
+[3:52 - 3:53]  right?
+[3:53 - 3:55]  That's a huge source of waste.
+[3:55 - 3:55]  Okay.
+[3:56 - 3:58]  And then also just efficiency.
+[3:58 - 4:03]  There's huge administrative bureaucratic waste, not only on the hospital side, but on
+[4:03 - 4:04]  the insurance carrier side as well.
+[4:04 - 4:05]  Okay.
+[4:05 - 4:09]  So we've got all of these sources of low quality care.
+[4:09 - 4:14]  And if we address them, then we can lower the cost of care in his estimate by 30, 50%.
+[4:14 - 4:14]  Okay.
+[4:14 - 4:20]  What is the A number one thing that he points to, to improve the quality of care?
+[4:21 - 4:26]  He says it's a third generation patient centered medical home, which is a fancy way of saying
+[4:26 - 4:29]  a really good primary care practice.
+[4:29 - 4:30]  Okay.
+[4:30 - 4:31]  This is not new.
+[4:31 - 4:32]  We've said this on a healthcare scene many times.
+[4:33 - 4:34]  You've heard this from many other places many times.
+[4:35 - 4:35]  What's the point?
+[4:35 - 4:40]  The point is here you have one of the world's foremost experts about healthcare quality saying
+[4:40 - 4:47]  again, it is the primary care office that is the source of improvement.
+[4:47 - 4:48]  Notice I say office.
+[4:48 - 4:52]  I didn't say doctor because this whole idea of a medical home means that it's a team-based
+[4:52 - 4:53]  approach.
+[4:53 - 4:56]  And third generation, which, oh, by the way, this is what they use at the Intermountain
+[4:56 - 5:01]  healthcare system means one, first generation was chronic care management.
+[5:01 - 5:04]  So in other words, actually having a nurse in addition to the physician.
+[5:04 - 5:09]  That would help work with the patient in regards to, let's say their diabetes management or
+[5:09 - 5:12]  their rheumatoid arthritis management, what have you.
+[5:12 - 5:12]  Okay.
+[5:13 - 5:16]  Generation two was they realized that they had a whole bunch of folks that had depression,
+[5:16 - 5:20]  anxiety, and other mental health problems that was getting in the way of the chronic
+[5:20 - 5:21]  condition management.
+[5:21 - 5:25]  So they added mental health professionals to the clinics, whether it be counselors or psychologists,
+[5:25 - 5:26]  et cetera.
+[5:26 - 5:31]  And then third generation is adding health system navigation and health insurance navigation
+[5:31 - 5:32]  to the mix.
+[5:33 - 5:34]  I mean, that's what we did at Compass.
+[5:34 - 5:38]  I will tell you that we did it in an offsite fashion, right?
+[5:38 - 5:39]  We were a third party.
+[5:40 - 5:45]  He's saying integrated into the actual delivery of care at the PCP's office.
+[5:45 - 5:50]  Health system navigation as the third leg in the stool for the medical home.
+[5:50 - 5:56]  And we would see catastrophes of health system navigation constantly around people like not
+[5:56 - 6:01]  getting their chemo in time because the insurance company had like denied their fourth dose of
+[6:01 - 6:01]  chemo.
+[6:01 - 6:06]  Or people just like not getting scheduled for their follow-up appointment after discharge
+[6:06 - 6:08]  from the hospital just because it wasn't scheduled.
+[6:09 - 6:09]  Okay.
+[6:09 - 6:14]  Just very silly logistical stuff that is so complicated that there's actually a fair amount
+[6:14 - 6:16]  of expertise around health system navigation.
+[6:16 - 6:17]  Okay, fine.
+[6:17 - 6:19]  They actually did this at Intermountain.
+[6:19 - 6:19]  What happened?
+[6:20 - 6:22]  ER visits went down by 11%.
+[6:22 - 6:26]  Admissions to the hospital were down by 22%.
+[6:26 - 6:32]  Radiology, in other words, x-ray, CT, MRI, ultrasound was down by 11%.
+[6:32 - 6:37]  It roamed tons of costs out of the system without reducing quality.
+[6:37 - 6:39]  In fact, it increased quality.
+[6:39 - 6:42]  Now, let's perform a little thought experiment here.
+[6:42 - 6:47]  Let's say we said to a hospital executive team, hey, we got this fantastic idea.
+[6:47 - 6:49]  We got a third generation medical home.
+[6:49 - 6:51]  It's going to improve quality for our patient population.
+[6:51 - 6:55]  Oh, by the way, it's going to reduce our admits by 22%.
+[6:55 - 7:00]  I think the hospital's response to that would be over my dead body.
+[7:01 - 7:05]  Like there is no way you're taking away a fifth of our admits.
+[7:06 - 7:06]  Right?
+[7:06 - 7:08]  That's crazy.
+[7:08 - 7:12]  The point is, is that Intermountain did this because they run a health plan, as I've said
+[7:12 - 7:14]  before, and they collect premium.
+[7:15 - 7:20]  Therefore, if the admins go down for the hospital, they keep the difference of the premium that
+[7:20 - 7:24]  they've collected and the less health care they spend on hospital admissions.
+[7:24 - 7:27]  So they are financially aligned to actually do this.
+[7:27 - 7:31]  The vast majority of hospitals in America are not.
+[7:31 - 7:32]  So what's my point?
+[7:32 - 7:35]  My point is, do not wait for your local health care system to do this.
+[7:35 - 7:37]  They probably will not do this.
+[7:37 - 7:43]  Now, I'm being a little extreme here for illustrative purposes, but you get the idea.
+[7:43 - 7:44]  So what's the point?
+[7:45 - 7:49]  Dr. James goes on in this video to say, what is the number one thing he would do?
+[7:49 - 7:54]  Would he just start all over again at a new hospital system with quality initiatives?
+[7:55 - 7:55]  Guess what he would do?
+[7:56 - 7:58]  He would start a quality improvement training course.
+[7:58 - 8:00]  And that's what he did at Intermountain.
+[8:00 - 8:02]  That's what the Institute for Health Care Delivery is.
+[8:02 - 8:06]  It's a training course for the hospital staff, for the nurses, for the therapists, for the
+[8:06 - 8:07]  pharmacists.
+[8:07 - 8:11]  They have professionals from other hospital systems come and train at their institute as
+[8:11 - 8:12]  well.
+[8:12 - 8:16]  He said the reason that that's so important is because the leadership at the top doesn't
+[8:16 - 8:17]  have the best ideas for quality improvement.
+[8:17 - 8:23]  It's actually the people at the patient bedside that have the expertise and the frontline observations
+[8:23 - 8:24]  of what's going on.
+[8:24 - 8:29]  But they don't know how to translate those observations into quality improvement.
+[8:29 - 8:32]  So everybody has to be talking the same language.
+[8:32 - 8:34]  They have to have the same lexicon.
+[8:34 - 8:35]  And that's what this course does.
+[8:36 - 8:36]  And guess what?
+[8:36 - 8:42]  That's really the new role for the insurance broker and the benefit consultant and even the
+[8:42 - 8:44]  HR professional, right?
+[8:44 - 8:45]  That's your new job.
+[8:46 - 8:48]  You are the quality improvement people.
+[8:48 - 8:49]  And guess what?
+[8:49 - 8:50]  There's a training course for you.
+[8:51 - 8:54]  It's called Health Rosetta, founded by Dave Chase.
+[8:54 - 8:59]  Now, I have no affiliation with Health Rosetta, but I have attended a recent conference of
+[8:59 - 8:59]  theirs.
+[8:59 - 9:06]  And what they do is they teach brokers and consultants how to essentially be quality improvement experts
+[9:06 - 9:08]  for an employee health plan.
+[9:08 - 9:10]  I mean, it is phenomenal.
+[9:10 - 9:12]  That is your new role.
+[9:12 - 9:14]  It's not being an insurance guy.
+[9:14 - 9:15]  It's not selling insurance.
+[9:15 - 9:21]  Like, it's your job as the broker consultant, as the HR professional, to improve the quality
+[9:21 - 9:26]  of care for your plan members because no one else is going to do it.
+[9:26 - 9:28]  So what's my point for today?
+[9:29 - 9:36]  Here you have the world's foremost experts saying that the way to improve quality is through
+[9:36 - 9:37]  primary care.
+[9:37 - 9:39]  And that will lower your costs.
+[9:39 - 9:44]  And there is a mechanism called Health Rosetta where you as a broker consultant can actually
+[9:44 - 9:47]  be trained in this.
+[9:48 - 9:50]  Then the future is bright.
+[9:50 - 9:52]  It is not doom and gloom.
+[9:52 - 9:53]  We can make progress.
+[9:54 - 9:55]  And that's my point for today.
+[9:55 - 9:57]  Thank you for watching A Healthcare Z.

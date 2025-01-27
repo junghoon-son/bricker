@@ -1,0 +1,101 @@
+Title: Do Employers Own Their Claims Data?  It's Complicated.
+URL: https://www.youtube.com/watch?v=rSBCjd0a16c
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is, do employers own their data? Now, this has been a challenging issue for self-funded employers for a long time, where they are trying to access their detailed claims data in order them to understand how their health plan is performing and how to put in various programs and structure their plan so that it can perform better, so that it can provide better access to healthcare, it can improve quality, it can lower costs. Now, many of the health insurance carriers, Blue Cross, United, Cigna, and Aetna, do not like sharing the detailed claims data with the employers, especially the pricing data, because they say that it carries and holds proprietary information that the employers should not have access to. Now, keep in mind, this is like sending somebody a visa bill with the full amount at the bottom that they owe without the detail of like what they actually spent over the previous month. It's like, okay, you owe $4,000, but we're not going to tell you all the stuff in between that causes you to own the $4,000. So employers, and rightly so, are like, that doesn't make any sense. We need access to our data. And so this brings us to the Consolidated Appropriations Act of 2021, which changed the rules about data sharing. Now, and so it's abbreviated the CAA. It's important to keep in mind that there is not just one Consolidated Appropriations Act, because it's essentially the spending bill for the federal government every year. So there's a new CAA like every year. So don't think the CAA is like one thing. It just happens to be that the CAA for 2021 included a lot of these changes for the health insurance industry. Now, what are some of those changes? So first of all, it was the CAA of 2021 that said that brokers and consultants need to disclose all their compensation. So that didn't always happen. And so now it's required that they do that. Next, the employers must report their medication and their prescription costs to the Department of Health and Human Services, the Department of Labor, and the Department of Treasury. So there's a degree of reporting that employers have to do that they didn't have to do before. Next, and here's where it comes to the data. Carriers must remove gag clauses that stop the employers and members from price and quality data. I'm going to read that again because it's kind of a double negative, right? They have to remove, they, the carriers, the networks have to remove gag clauses that stop the employer and the members from seeing price and quality data. Now, the carriers have come back and said, no, we still don't need to disclose our prices. And the employers are like, yes, you do need to disclose your prices. And this is where there have, there's really been a need for the federal government to provide greater clarification around this, which they have not done yet. Now, there have been several lawsuits around this. So one was there were several Connecticut unions that sued Elevents, the parent company for Anthem, who was their, their, their ASO carrier for these unions, because Anthem was denying access to claims. And as a result, the unions were saying that Anthem was, was breaching their fiduciary duty. Now, interestingly, the court dismissed this case in April of 2024. And so as a result, like the Connecticut unions didn't get their data. Now, next up, we have, interestingly, a different lawsuit where I'm sure many of you have heard of this before, where a plan member on the Johnson and Johnson plan sued Johnson and Johnson for failure to monitor the, the spend of the plan. This person was paying a ton of money for a prescription that they could have gotten for much less. And they're saying, look, you, you, Johnson and Johnson breached your fiduciary responsibility in having this medication be so expensive when you could have got it for a lot cheaper and you don't even get the data to monitor your prescription expense. So this really puts the, the employee health plan in a pickle, right? Where you have the members now suing the plan, saying that the plan breached its fiduciary responsibility. And then you have the plan suing the carriers and the TPAs saying, look, you, the carrier TPA caused us to breach our fiduciary responsibility to our members because you didn't give us our data. And there is a healthcare attorney by the name of Chris Condolucci, who, um, has a fantastic quote from a blog that he wrote. And I will leave a link to the blog in the show notes so that you can, uh, it's actually a blog interview of Chris Condolucci and I will leave a link to it in the show notes so that you can read it. But let me read this quote. It hasn't been easy for plan sponsors. The best approach is to continue to point to the new gag clause prohibition as the means to accessing the plan's data. You must argue that by failing to share claims data with the plan, the owners of the provider networks are effectively forcing the plan sponsor to breach their ERISA fiduciary duties. I'm going to read that last part one more time. You must argue that by failing to share claims data with the plan, the owners of the provider networks are effectively facing, forcing the plan sponsor to breach their ERISA fiduciary duties. So this, uh, so Chris Condolucci encourages employers to continue to push back against their health insurance carriers around this data access issue. Now, does that come in the form of, um, having multiple conversations with them? Does that come through a threat of an RFP? Does that come through an actual RFP? Um, where the terms of the RFP are, look, you know, we're going to put you out to bid and if you want to win the RFP, you got to share the data with us. Um, does it come to an actual lawsuit? And so many employers, because it's highly inconsistent, I have seen huge national employers who totally get access to their claims data. And I have seen other huge national employers who actually their carrier refuses to give them the claims data. Likewise, I have seen much smaller self-funded employer clients, like, totally get their claims data. Likewise, I have seen the same carrier provide claims data to some of their self-funded groups, but not provide data to their other self-funded groups. And so it's, it's highly inconsistent, not only across carriers and across sizes group, across groups, but it's also inconsistent within the same carrier for different customers of theirs. So one of the, so, so fine. So you've got those, those paths of, you know, you gotta, you know, are you going to threaten your carrier? Are you going to throw it out for RFP? Are you going to sue them? A lot of employers are like, like, I don't want to go through that trouble. Okay. Here's what I've seen as a practical middle ground that employers have been able to accomplish. And this is what they, they, when they ask the carrier for the data, they're like, look, we need to have the patient identifiers. We need to have the allowed amounts. In other words, don't just give us billed charges, right? So if this person has a $5,000 MRI, that's, that's billed charges, and then you put, apply your network discount, and then the allowed amount is $2,000. That's paid by a combination of the patient side of pocket cost and the plan. Then give us that $2,000 allowed amount. Don't give us billed charges, but we need to know. Okay. And then we need things like the data service, and we need things like all the codes, like the CPT codes and the ICD-10 codes and the HCPCS codes, because you need to understand sort of the clinical situation that all these claims are occurring in. Now that is absolutely PHI. So, I mean, it has patient identifying information and it has clinical information. Like that's totally okay to share PHI, but where the carriers tend to become sticklers about their quote unquote proprietary information is in sharing the specific provider identifying information. In other words, the tax ID for the facility or the NPI number for the specific doctor, because the carriers don't want to say, oh, our allowed amount for an MRI is $2,000 at Saint XYZ hospital, but our allowed amount for an MRI at Saint 123 hospital is only $500, right? They don't want to show you that there's a huge difference in their allowed amounts by the specific provider. And so look, you know, Rome's not built in the day. Yes, as an employer, you would want to have that data, but if they're being real sticklers about it, then just be like, look, fine, don't give us the tax ID number, don't give us the NPI numbers, but there's a lot that we can do in terms of understanding the performance of our plan. If you give us the patient information, the allowed amount and the data service and the clinical codes that go along with it. So that's what I wanted to share with you today. And thank you for watching a Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is,
+[0:05 - 0:14]  do employers own their data? Now, this has been a challenging issue for self-funded employers
+[0:14 - 0:19]  for a long time, where they are trying to access their detailed claims data in order them to
+[0:19 - 0:25]  understand how their health plan is performing and how to put in various programs and structure
+[0:25 - 0:28]  their plan so that it can perform better, so that it can provide better access to healthcare,
+[0:28 - 0:33]  it can improve quality, it can lower costs. Now, many of the health insurance carriers,
+[0:34 - 0:40]  Blue Cross, United, Cigna, and Aetna, do not like sharing the detailed claims data with the employers,
+[0:41 - 0:48]  especially the pricing data, because they say that it carries and holds proprietary information
+[0:48 - 0:53]  that the employers should not have access to. Now, keep in mind, this is like sending somebody a
+[0:53 - 1:00]  visa bill with the full amount at the bottom that they owe without the detail of like what they
+[1:00 - 1:06]  actually spent over the previous month. It's like, okay, you owe $4,000, but we're not going to tell
+[1:06 - 1:12]  you all the stuff in between that causes you to own the $4,000. So employers, and rightly so, are like,
+[1:13 - 1:19]  that doesn't make any sense. We need access to our data. And so this brings us to the Consolidated
+[1:19 - 1:27]  Appropriations Act of 2021, which changed the rules about data sharing. Now, and so it's abbreviated
+[1:27 - 1:32]  the CAA. It's important to keep in mind that there is not just one Consolidated Appropriations Act,
+[1:32 - 1:38]  because it's essentially the spending bill for the federal government every year. So there's a new
+[1:38 - 1:44]  CAA like every year. So don't think the CAA is like one thing. It just happens to be that the CAA
+[1:44 - 1:51]  for 2021 included a lot of these changes for the health insurance industry. Now, what are some of
+[1:51 - 1:56]  those changes? So first of all, it was the CAA of 2021 that said that brokers and consultants need
+[1:56 - 2:01]  to disclose all their compensation. So that didn't always happen. And so now it's required that they
+[2:01 - 2:08]  do that. Next, the employers must report their medication and their prescription costs to the
+[2:08 - 2:11]  Department of Health and Human Services, the Department of Labor, and the Department of Treasury.
+[2:11 - 2:15]  So there's a degree of reporting that employers have to do that they didn't have to do before.
+[2:16 - 2:28]  Next, and here's where it comes to the data. Carriers must remove gag clauses that stop the employers
+[2:28 - 2:36]  and members from price and quality data. I'm going to read that again because it's kind of a double
+[2:36 - 2:42]  negative, right? They have to remove, they, the carriers, the networks have to remove gag clauses
+[2:42 - 2:51]  that stop the employer and the members from seeing price and quality data. Now,
+[2:52 - 2:57]  the carriers have come back and said, no, we still don't need to disclose our prices. And the employers
+[2:57 - 3:02]  are like, yes, you do need to disclose your prices. And this is where there have, there's really been a need
+[3:02 - 3:07]  for the federal government to provide greater clarification around this, which they have not
+[3:07 - 3:13]  done yet. Now, there have been several lawsuits around this. So one was there were several Connecticut
+[3:13 - 3:20]  unions that sued Elevents, the parent company for Anthem, who was their, their, their ASO carrier for
+[3:20 - 3:27]  these unions, because Anthem was denying access to claims. And as a result, the unions were saying that
+[3:27 - 3:34]  Anthem was, was breaching their fiduciary duty. Now, interestingly, the court dismissed this case
+[3:34 - 3:41]  in April of 2024. And so as a result, like the Connecticut unions didn't get their data. Now,
+[3:41 - 3:47]  next up, we have, interestingly, a different lawsuit where I'm sure many of you have heard of this before,
+[3:47 - 3:56]  where a plan member on the Johnson and Johnson plan sued Johnson and Johnson for failure to monitor
+[3:56 - 4:02]  the, the spend of the plan. This person was paying a ton of money for a prescription that they could
+[4:02 - 4:08]  have gotten for much less. And they're saying, look, you, you, Johnson and Johnson breached your
+[4:08 - 4:13]  fiduciary responsibility in having this medication be so expensive when you could have got it for a lot
+[4:13 - 4:20]  cheaper and you don't even get the data to monitor your prescription expense. So this really puts the,
+[4:20 - 4:28]  the employee health plan in a pickle, right? Where you have the members now suing the plan,
+[4:28 - 4:36]  saying that the plan breached its fiduciary responsibility. And then you have the plan
+[4:36 - 4:46]  suing the carriers and the TPAs saying, look, you, the carrier TPA caused us to breach our fiduciary
+[4:46 - 4:52]  responsibility to our members because you didn't give us our data. And there is a healthcare attorney
+[4:52 - 4:59]  by the name of Chris Condolucci, who, um, has a fantastic quote from a blog that he wrote. And I
+[4:59 - 5:04]  will leave a link to the blog in the show notes so that you can, uh, it's actually a blog interview of
+[5:04 - 5:08]  Chris Condolucci and I will leave a link to it in the show notes so that you can read it. But let me read
+[5:08 - 5:16]  this quote. It hasn't been easy for plan sponsors. The best approach is to continue to point to the new gag
+[5:16 - 5:27]  clause prohibition as the means to accessing the plan's data. You must argue that by failing to share
+[5:27 - 5:35]  claims data with the plan, the owners of the provider networks are effectively forcing the plan sponsor to
+[5:35 - 5:42]  breach their ERISA fiduciary duties. I'm going to read that last part one more time. You must argue
+[5:42 - 5:48]  that by failing to share claims data with the plan, the owners of the provider networks are effectively
+[5:48 - 5:57]  facing, forcing the plan sponsor to breach their ERISA fiduciary duties. So this, uh, so Chris Condolucci
+[5:57 - 6:02]  encourages employers to continue to push back against their health insurance carriers around this data
+[6:02 - 6:09]  access issue. Now, does that come in the form of, um, having multiple conversations with them?
+[6:09 - 6:14]  Does that come through a threat of an RFP? Does that come through an actual RFP? Um, where the terms
+[6:14 - 6:17]  of the RFP are, look, you know, we're going to put you out to bid and if you want to win the RFP,
+[6:17 - 6:22]  you got to share the data with us. Um, does it come to an actual lawsuit? And so many employers,
+[6:22 - 6:27]  because it's highly inconsistent, I have seen huge national employers who totally get access to their
+[6:27 - 6:32]  claims data. And I have seen other huge national employers who actually their carrier refuses to
+[6:32 - 6:38]  give them the claims data. Likewise, I have seen much smaller self-funded employer clients, like, totally
+[6:38 - 6:43]  get their claims data. Likewise, I have seen the same carrier provide claims data to some of their
+[6:43 - 6:49]  self-funded groups, but not provide data to their other self-funded groups. And so it's, it's highly
+[6:49 - 6:55]  inconsistent, not only across carriers and across sizes group, across groups, but it's also inconsistent
+[6:55 - 7:02]  within the same carrier for different customers of theirs. So one of the, so, so fine. So you've
+[7:02 - 7:05]  got those, those paths of, you know, you gotta, you know, are you going to threaten your carrier?
+[7:05 - 7:10]  Are you going to throw it out for RFP? Are you going to sue them? A lot of employers are like, like,
+[7:10 - 7:15]  I don't want to go through that trouble. Okay. Here's what I've seen as a practical middle ground
+[7:15 - 7:20]  that employers have been able to accomplish. And this is what they, they, when they ask the carrier for
+[7:20 - 7:24]  the data, they're like, look, we need to have the patient identifiers. We need to have the
+[7:24 - 7:28]  allowed amounts. In other words, don't just give us billed charges, right? So if this person has
+[7:28 - 7:33]  a $5,000 MRI, that's, that's billed charges, and then you put, apply your network discount,
+[7:33 - 7:37]  and then the allowed amount is $2,000. That's paid by a combination of the patient side of pocket
+[7:37 - 7:41]  cost and the plan. Then give us that $2,000 allowed amount. Don't give us billed charges,
+[7:41 - 7:46]  but we need to know. Okay. And then we need things like the data service, and we need things like all
+[7:46 - 7:52]  the codes, like the CPT codes and the ICD-10 codes and the HCPCS codes, because you need to understand
+[7:52 - 7:57]  sort of the clinical situation that all these claims are occurring in. Now that is absolutely
+[7:57 - 8:02]  PHI. So, I mean, it has patient identifying information and it has clinical information.
+[8:02 - 8:08]  Like that's totally okay to share PHI, but where the carriers tend to become sticklers about their
+[8:08 - 8:15]  quote unquote proprietary information is in sharing the specific provider identifying information.
+[8:15 - 8:21]  In other words, the tax ID for the facility or the NPI number for the specific doctor, because
+[8:21 - 8:30]  the carriers don't want to say, oh, our allowed amount for an MRI is $2,000 at Saint XYZ hospital,
+[8:30 - 8:39]  but our allowed amount for an MRI at Saint 123 hospital is only $500, right? They don't want to
+[8:39 - 8:44]  show you that there's a huge difference in their allowed amounts by the specific provider. And so look,
+[8:44 - 8:48]  you know, Rome's not built in the day. Yes, as an employer, you would want to have that data,
+[8:48 - 8:53]  but if they're being real sticklers about it, then just be like, look, fine, don't give us the tax ID
+[8:53 - 8:58]  number, don't give us the NPI numbers, but there's a lot that we can do in terms of understanding the
+[8:58 - 9:03]  performance of our plan. If you give us the patient information, the allowed amount and the data
+[9:03 - 9:08]  service and the clinical codes that go along with it. So that's what I wanted to share with you today.
+[9:08 - 9:19]  And thank you for watching a Healthcare Z.

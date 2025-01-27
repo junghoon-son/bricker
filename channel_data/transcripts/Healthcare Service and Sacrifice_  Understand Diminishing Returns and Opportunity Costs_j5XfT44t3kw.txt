@@ -1,0 +1,76 @@
+Title: Healthcare Service and Sacrifice:  Understand Diminishing Returns and Opportunity Costs
+URL: https://www.youtube.com/watch?v=j5XfT44t3kw
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is healthcare service and sacrifice. So I do not want any of you to get the impression that I think poorly of doctors, nurses, other people that work at hospitals and in healthcare. I mean, the vast majority of these people are incredibly wonderful people that are incredibly dedicated to service and produce or do incredible sacrifice. Now, we're specifically going to talk about the implications of that in this video. So what I have here is a graph where we have time on the x-axis and the best possible outcome for the most number of people possible. In other words, people's cancers get cured as best as humanly possible. People's heart attacks get treated as best as humanly possible. And the most number of people with cancer get treated as best as humanly possible. And the number of heart attacks get treated as best as humanly possible. Now, you can't, you know, cure everybody 100% of the time, but theoretically, let's go through this. And what you have is a curved line of diminishing returns. The law of diminishing returns is incredibly important in economics and healthcare. It says, look, the more time that you put in, you're going to have a decreasing amount of improved outcomes. In other words, in order to get from a, let's say you get people 90% better and you get 90% of the people 90% better. Okay, that might take T amount, a certain amount of time. Let's say that's 10 hours a day. Okay, well, if you wanted to get the last, the, get them the last 10% better or get the last 10% people treated, you would have to spend 2x or 20 hours a day. And every physician like experiences this, whether they consciously think about this or not, they experience this. Okay, what does that mean? That means that if you're only spending T and not 2T, that means that people are not, are missing out on like 10% of how much better they could be. And, or you're missing out on 10% of the people that could be better treated for their cancer or better treated for their heart attacks. Okay, so that is number one. Number two is the idea of opportunity costs. Okay, in order to get from T to 2T. So that requires an opportunity cost. In other words, it costs you not doing other things in order to spend the extra 10 hours to get you to 2T. One of the things that doctors and other people in healthcare typically sacrifice. A number one is sleep. So people would ask me if, you know, they were thinking about going to medical school, etc. They'd say, well, what do you think about being a doctor? And I would tell them, okay, get up at 8am and do math problems for 24 hours. And then think about how you feel after doing math for 24 hours. And decide if that's the way that you want to feel going forward. Because it takes incredibly prolonged periods of concentration and sleep deprivation, just at a very basic level. Two, you have to give up meals. I mean, the thought of doctors eating lunch is crazy. Doctors don't eat lunch. Like, they don't eat breakfast. A lot of times they don't eat dinner. There's no such thing as sitting down for a meal. You just eat it on the fly. So you, if they want to be a doctor, to a certain extent, you're going to be giving up like eating meals. Okay. Next up, the opportunity cost of giving up family. Like many doctors do not spend a lot of time with their families because of the profession they've chosen. You're also going to give up leisure. You want a hobby? Maybe a lot of times you've got to forget about it. And again, this holds true for a lot of other professions as well. I'm not saying this is exclusive to physicians or nurses or what have you. Okay. So like, I'm not saying this doesn't happen to other people. I get that it happens to other people too. Interestingly, what's an opportunity cost for doctors as well? They oftentimes cannot have as many dogs and they tend to have more cats. Why? Because dogs require more work. You got to walk them. You got to take them outside and go to the bathroom. With cats, they're incredibly low maintenance. So a lot of people have cats instead of dogs. Now, what are strategies that doctors employ given the law of diminishing returns and opportunity costs? Well, one, they rush, right? You see this all the time. And it's like, okay, well, I'm just going to hurry, hurry, hurry, hurry, hurry. So I can get as much done. Maybe I can get the amount of work done in 2T. Maybe I can get it done in T if I rush. And of course that causes all sorts of problems, not only in terms of mistakes, but also the, I mean, literally the, I mean, I have had a friend who's, their family's OBGYN was rushing to eat and choked on their food and had anoxic brain injury and died. So like there are serious consequences to hurrying to the physician themselves. Okay. Now, all the times they'll cut corners clinically. They'll say, okay, well, listen, I'm just going to go to 90%, maybe 80% or 70% in an effort to save time. Now, the opposite of that is to just give up your outside life. And this, I'm wearing my Hopkins tie today because so many physicians, I would see them do this at Hopkins. I mean, like Dr. Shulman and Dr. Thiemann in the cardiac ICU, they were routinely there until eight or 9 PM. And when they were on service, they would work for like 30 days straight. I mean, it was unreal. I mean, there were attendings. I know to this day, there are attendees at Hopkins where their clinic goes to 9 PM. When like the administrative clerical staff goes home at like five or 6 PM, they like give the keys to the doctor because they have to close up after they've stopped seeing all their patients at 9 PM. And they do this like the majority of the days of the week, right? So they've essentially said, look, I'm kind of giving up. Like I'm not going to sleep. I'm not going to have a lot of time with my family, but like, I'm just going to get it as close to the hundred percent as I can by just plowing a whole bunch of time. And these are not inefficient, dumb doctors. They're incredibly efficient, smart doctors. It just takes a ton of time. So I don't want any of you to think that I'm like constantly bad-mouthing doctors or nurses or people that work in healthcare. There's a tremendous amount of service and sacrifice that they do. And because of diminishing returns and opportunity costs, that's why they have to do it. And that's my point for today. Thank you for watching a healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:05 - 0:12]  healthcare service and sacrifice. So I do not want any of you to get the impression that I think
+[0:12 - 0:18]  poorly of doctors, nurses, other people that work at hospitals and in healthcare. I mean,
+[0:18 - 0:23]  the vast majority of these people are incredibly wonderful people that are incredibly dedicated
+[0:23 - 0:29]  to service and produce or do incredible sacrifice. Now, we're specifically going to talk about the
+[0:29 - 0:36]  implications of that in this video. So what I have here is a graph where we have time on the x-axis
+[0:36 - 0:41]  and the best possible outcome for the most number of people possible. In other words,
+[0:42 - 0:47]  people's cancers get cured as best as humanly possible. People's heart attacks get treated as
+[0:47 - 0:52]  best as humanly possible. And the most number of people with cancer get treated as best as humanly
+[0:52 - 0:57]  possible. And the number of heart attacks get treated as best as humanly possible. Now, you can't,
+[0:57 - 1:02]  you know, cure everybody 100% of the time, but theoretically, let's go through this. And what
+[1:02 - 1:09]  you have is a curved line of diminishing returns. The law of diminishing returns is incredibly important
+[1:09 - 1:15]  in economics and healthcare. It says, look, the more time that you put in, you're going to have a
+[1:15 - 1:21]  decreasing amount of improved outcomes. In other words, in order to get from a, let's say you get
+[1:21 - 1:28]  people 90% better and you get 90% of the people 90% better. Okay, that might take T amount, a certain
+[1:28 - 1:33]  amount of time. Let's say that's 10 hours a day. Okay, well, if you wanted to get the last, the, get them
+[1:33 - 1:41]  the last 10% better or get the last 10% people treated, you would have to spend 2x or 20 hours a
+[1:41 - 1:47]  day. And every physician like experiences this, whether they consciously think about this or not,
+[1:47 - 1:51]  they experience this. Okay, what does that mean? That means that if you're only spending
+[1:51 - 1:57]  T and not 2T, that means that people are not, are missing out on like 10% of how much better they
+[1:57 - 2:03]  could be. And, or you're missing out on 10% of the people that could be better treated for their
+[2:03 - 2:10]  cancer or better treated for their heart attacks. Okay, so that is number one. Number two is the idea
+[2:10 - 2:17]  of opportunity costs. Okay, in order to get from T to 2T. So that requires an opportunity cost. In other
+[2:17 - 2:23]  words, it costs you not doing other things in order to spend the extra 10 hours to get you to 2T.
+[2:23 - 2:29]  One of the things that doctors and other people in healthcare typically sacrifice. A number one is
+[2:29 - 2:35]  sleep. So people would ask me if, you know, they were thinking about going to medical school, etc.
+[2:35 - 2:39]  They'd say, well, what do you think about being a doctor? And I would tell them, okay, get up at 8am and
+[2:39 - 2:48]  do math problems for 24 hours. And then think about how you feel after doing math for 24 hours. And
+[2:48 - 2:53]  decide if that's the way that you want to feel going forward. Because it takes incredibly prolonged
+[2:53 - 2:59]  periods of concentration and sleep deprivation, just at a very basic level. Two, you have to give
+[2:59 - 3:04]  up meals. I mean, the thought of doctors eating lunch is crazy. Doctors don't eat lunch. Like,
+[3:04 - 3:09]  they don't eat breakfast. A lot of times they don't eat dinner. There's no such thing as sitting down for
+[3:09 - 3:13]  a meal. You just eat it on the fly. So you, if they want to be a doctor, to a certain extent,
+[3:13 - 3:19]  you're going to be giving up like eating meals. Okay. Next up, the opportunity cost of giving up
+[3:19 - 3:24]  family. Like many doctors do not spend a lot of time with their families because of the profession
+[3:24 - 3:29]  they've chosen. You're also going to give up leisure. You want a hobby? Maybe a lot of times
+[3:29 - 3:33]  you've got to forget about it. And again, this holds true for a lot of other professions as well.
+[3:33 - 3:39]  I'm not saying this is exclusive to physicians or nurses or what have you. Okay. So like, I'm not saying
+[3:39 - 3:42]  this doesn't happen to other people. I get that it happens to other people too. Interestingly,
+[3:42 - 3:48]  what's an opportunity cost for doctors as well? They oftentimes cannot have as many dogs and they
+[3:48 - 3:54]  tend to have more cats. Why? Because dogs require more work. You got to walk them. You got to take
+[3:54 - 3:58]  them outside and go to the bathroom. With cats, they're incredibly low maintenance. So a lot of
+[3:58 - 4:06]  people have cats instead of dogs. Now, what are strategies that doctors employ given the law of
+[4:06 - 4:12]  diminishing returns and opportunity costs? Well, one, they rush, right? You see this all the time.
+[4:12 - 4:15]  And it's like, okay, well, I'm just going to hurry, hurry, hurry, hurry, hurry. So I can get as much
+[4:15 - 4:20]  done. Maybe I can get the amount of work done in 2T. Maybe I can get it done in T if I rush. And of
+[4:20 - 4:27]  course that causes all sorts of problems, not only in terms of mistakes, but also the, I mean,
+[4:27 - 4:38]  literally the, I mean, I have had a friend who's, their family's OBGYN was rushing to eat and choked on
+[4:38 - 4:44]  their food and had anoxic brain injury and died. So like there are serious consequences to hurrying
+[4:44 - 4:49]  to the physician themselves. Okay. Now, all the times they'll cut corners clinically. They'll say,
+[4:49 - 4:55]  okay, well, listen, I'm just going to go to 90%, maybe 80% or 70% in an effort to save time.
+[4:55 - 5:02]  Now, the opposite of that is to just give up your outside life. And this, I'm wearing my Hopkins tie
+[5:02 - 5:08]  today because so many physicians, I would see them do this at Hopkins. I mean, like Dr. Shulman and
+[5:08 - 5:14]  Dr. Thiemann in the cardiac ICU, they were routinely there until eight or 9 PM. And when they were on
+[5:14 - 5:21]  service, they would work for like 30 days straight. I mean, it was unreal. I mean, there were
+[5:21 - 5:28]  attendings. I know to this day, there are attendees at Hopkins where their clinic goes to 9 PM.
+[5:28 - 5:36]  When like the administrative clerical staff goes home at like five or 6 PM, they like give the keys
+[5:36 - 5:41]  to the doctor because they have to close up after they've stopped seeing all their patients at 9 PM.
+[5:41 - 5:46]  And they do this like the majority of the days of the week, right? So they've essentially said, look,
+[5:46 - 5:50]  I'm kind of giving up. Like I'm not going to sleep. I'm not going to have a lot of time with my family,
+[5:50 - 5:56]  but like, I'm just going to get it as close to the hundred percent as I can by just plowing a whole
+[5:56 - 6:00]  bunch of time. And these are not inefficient, dumb doctors. They're incredibly efficient,
+[6:00 - 6:07]  smart doctors. It just takes a ton of time. So I don't want any of you to think that I'm like
+[6:07 - 6:13]  constantly bad-mouthing doctors or nurses or people that work in healthcare. There's a tremendous
+[6:13 - 6:18]  amount of service and sacrifice that they do. And because of diminishing returns and opportunity
+[6:18 - 6:24]  costs, that's why they have to do it. And that's my point for today. Thank you for watching a healthcare Z.

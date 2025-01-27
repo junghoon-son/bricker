@@ -1,0 +1,28 @@
+Title: Surescripts_ Gatekeeper for Electronic Prescribing Explained_IdniKZfEeQY
+URL: https://www.youtube.com/watch?v=IdniKZfEeQY
+Language: en
+Duration: 5:23
+Upload Date: Unknown
+
+Transcription:
+
+Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing SureScripts, CVS, and ESI and Cigna. And ESI is Express Scripts, so Cigna bought Express Scripts and of course CVS had bought Aetna. And so how in the world does that relate to SureScripts, the main topic for today's videos? So SureScripts is the software and data platform that connects physician electronic medical records and hospital electronic medical records with pharmacies. It's essentially the bridge that connects electronic prescription ordering.
+
+Okay, so if you see the chart here, so here's the doctor putting in their order for a particular medication in the electronic medical record for e-prescribing, right? So not for writing it on the prescription pad, but for sending it directly electronically to the pharmacy, which happens more and more these days. It's actually quite common. Okay, that goes from the electronic medical record to SureScripts. Now we've talked about various EMR companies like Epic or Cerner or there's many others, right? But the point is that they will then go through one clearinghouse and that clearinghouse is SureScripts.
+
+And then that clearinghouse SureScripts, that goes out to the myriad of pharmacies. So it could be your grocery store pharmacy at Kroger. It could be a CVS pharmacy. It could be a Walgreens pharmacy. It could be a Rite Aid pharmacy. You get the idea. And then the patient goes and gets their prescription from a pharmacy. Okay, SureScripts is a joint venture that was started by CVS and Express Scripts. And another PBM called Medco. Then Express Scripts bought Medco. So then it was just owned by two PBMs. But now CVS and EFNA are together and Express Scripts and Cigna are together.
+
+So these two organizations run the board and control SureScripts. And I'm going to tell you a short story. So let's pretend we have two houses here that have their own Cub Scout dens. And they back up to the woods where they have their Cub Scout den meetings and they go camping and they do all their scouting activities. Now, there is a path that they built between their two houses in order to get to the woods. Now, den one is CVS Aetna. Den two is Express Scripts and Cigna. So they built the path and they used the path.
+
+And guess what? They even let other dens like the OptumRx den use the path. But there was a story from CNBC that came out on July 19th of 2019 by Christina Farr, which is awesome, which said that Amazon Pill Pack, which is a new entrant into the PBM space where they're actually going to put all of your different pills in one little packet. So instead of trying to sort through which pills you would take which day, you just take out the Monday packet, the Tuesday packet, etc. Right? So it's super important for Amazon Pill Pack to actually get the accurate prescription information from the path.
+
+Like what is actually being ordered to get to the patient, to get to the camping. And that's what they used then to then fill their pill packets with the right medications. And guess what? They were doing it. And then just recently, SureScripts said no more. Now, of course, this is healthcare. It has to be more complicated than that. They were actually using a third-party data vendor between SureScripts and Amazon Pill Pack. But the point is, here you have this path, the only way to get to the forest of the pharmacies and the patients where you can do all your camping and all your fun scouting activities.
+
+And they are not letting the Amazon Pill Pack den in. Okay. So, what that means for patients is, of course, patients and employers now have less choice in their insurance carriers than they used to have. Right? So you've got Blue Cross, United, Cigna, Aetna. And those PBMs now are then connected to two of those insurers. And so, here you have another PBM, essentially in the form of Amazon Pill Pack, that's trying to get into the mix. And SureScripts is saying no. Now, keep in mind, SureScripts is only a 580-person company per LinkedIn.
+
+That's how many employees they have on LinkedIn. It's estimated per LinkedIn that they have about 500 to 1,000 employees. Okay. So, fine. It's not that big of a company. They're located in Arlington, Virginia. And not just Arlington, Virginia. They're located specifically in Crystal City, which is literally right across the river from the Capitol Building. It's right next to the Pentagon. I'm from around there. I know exactly where that is. And it's like, okay, well, that part of America is not a hotbed of healthcare IT.
+
+Why in the world would they be located there? That seems odd. Right? So, usually it's like defense contractors that are located in this area. But for some reason, that's where SureScripts is. Okay. So, the point is, is that, is this collusion by the entrenched insurance carriers and PBMs to decrease choice by controlling who has access to SureScripts? Is this an informational monopoly by SureScripts? I don't know. But I think that the CNBC story brings up some very important issues that we need to consider.
+
+And that's my point for today. Thank you for watching A Healthcare Z. Thank you. Thank you..
+

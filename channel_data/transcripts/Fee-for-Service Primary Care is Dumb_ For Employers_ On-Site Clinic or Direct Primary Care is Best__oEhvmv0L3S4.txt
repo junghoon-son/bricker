@@ -1,0 +1,78 @@
+Title: Fee-for-Service Primary Care is Dumb: For Employers, On-Site Clinic or Direct Primary Care is Best!
+URL: https://www.youtube.com/watch?v=oEhvmv0L3S4
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is fee-for-service primary care is dumb. And I'm going to walk us through the rationale for that statement. So, your typical primary care visit, whether it be between a level one or a level five, which is low complexity or high complexity, simply between $60 and $140 for the allowed amount for commercial insurance. Now, that's the quote-unquote value extraction. That's how much the PCP doc is extracting in regards to the value that they're creating for the patient. But they create so much more value than $60 to $140 a visit. It's ridiculous, right? And so, the main thing that effective primary care does is it reduces hospitalization. And in a previous video, I talked about how the Intermountain Healthcare, with their third-generation patient-centered medical home primary care clinics, they decrease hospitalizations by 22%. Like, that's the main thing, is it decreases the hospitalizations. And what type of hospitalizations? Well, for employers, it's cardiovascular hospitalizations in the form of heart attack, stroke, and other cardiovascular issues, right? Those hospitalizations are between $20,000 and $150,000 a pop. Okay. Also, musculoskeletal hospitalizations, right? Because many knee, hip, and spine surgeries are not necessary. And if the osteoarthritis or the degenerative joint disease can be effectively treated with physical therapy and various other approaches through primary care, then you can avoid those, right? Again, those musculoskeletal hospitalizations in the form of knee and hip replacements and spine surgery run between $30,000 and $90,000 a pop. They're hugely expensive. So, you mean to tell me that the little gnat of a primary care visit is supposed to stop the elephant of these hospitalizations? No way! Okay? Now, what is the alternative? Employers are already addressing this problem today. And they're largely addressing it through on-site and near-site clinics, where you have unlimited, zero-cost, longer PCP visits. So, you can think of this as like much more high-intense, greater-access primary care visits. And Sarah Graph and Quad Graphics, Quad Med in Wisconsin are two fantastic examples. Listen, this has been working for them for like 15 years. This is not a new flash in the pan. This has been working for a long time. In fact, 33% of employers with greater than 5,000 employees have an on-site or near-site clinics. And that number has grown from 24% just a few years ago. So, it's dramatically increasing because they see the value. Now, it does have a high upfront cost. It's not very flexible, right? Because you have X number of doctors, etc. And it also requires space if you're doing an on-site clinic. So, it's much more static. You can think of it as like running your own data center. Okay? But, as an alternative to that, there's also direct primary care, what's referred to as DPC. Oh, by the way, for the on-site and near-site clinic, essentially, this is ideal for municipalities or employers that have large concentrations of employees in one location. Okay? So, for direct primary care, it has, there's a monthly payment that you pay like as a retainer for that physician or a membership. You can scale up, scale down depending upon the size of your business or the employees that you offer it to. So, you can almost think of it like cloud computing versus on-premise computing in terms of the flexibility that you have. Okay? That's great. There are some downsides to the direct primary care, right? So, the coverage locations, right? It's not necessarily all over America. In fact, I'll leave a link in the show notes to a direct primary care map. It doesn't have every direct primary care physician in America, but it has a lot. They actually have really good coverage, but as you can imagine, it's not everywhere. Okay? And then, also, it would require some degree of individual contracting with each of those direct primary care practices because they're not like consolidated under one corporate entity. Okay? Now, let's go through the business case and the financials for doing this, right? So, let's just say for every 100 employees, the typical rate of hospitalizations for folks between the ages of 18 and 64, in other words, sort of working age folks, it's a 7% hospitalization rate. So, you would have 7 out of the 100 employees be hospitalized. And let's say your typical hospitalization is going to be about $50,000, right? That's about in the middle of these ranges that we see here. So, you're talking $350,000 per year in hospitalization costs, which, you know, for a 100 employee plan, it's typically going to be about $10,000 per employee. So, it's going to be about a million bucks. So, you're talking 35% or $350,000 out of the million bucks. So, that seems pretty reasonable. And then, if you apply the Intermountain Healthcare 20% decrease in hospitalizations to that number, then you're going to be saving about $70,000. And then, if you do that on a per employee basis, that means that if you spent $700 per employee, you would break even with the $70,000 that you saved in hospitalizations, okay? But that's not the smart way to do primary care or intense primary care, free primary care, in the form of direct primary care or on-site, near-site clinics, because it stratifies, right? You're going to have almost half of your employee population that's hardly going to generate any claims at all. And spending all this money on them doesn't necessarily make a lot of sense. However, if you spent it on a third of the employees, then you could spend $2,100 per employee on that intensive primary care scenario, whether it be DPC or on-site, near-site clinic, and you would break and you would get even. Okay. So, what third of employees would you spend the $2,100 on? Well, you obviously have a lot of data, both in your claims and from biometric data. You really want to do it for your folks that have diabetes and metabolic syndrome, because these are your quote-unquote ticking time bombs. These people might have already generated claims, but a lot of them haven't. But they're probably going to, because they have internal metabolic disease that's going to manifest itself typically as a cardiovascular hospitalization, but also because of joint damage from these diseases. Okay. So, that's my point for today, is there's a much better way for employers to do primary care, and this might be it. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic
+[0:05 - 0:11]  is fee-for-service primary care is dumb. And I'm going to walk us through the rationale
+[0:11 - 0:16]  for that statement. So, your typical primary care visit, whether it be between a level
+[0:16 - 0:21]  one or a level five, which is low complexity or high complexity, simply between $60 and
+[0:21 - 0:26]  $140 for the allowed amount for commercial insurance. Now, that's the quote-unquote value
+[0:26 - 0:31]  extraction. That's how much the PCP doc is extracting in regards to the value that they're
+[0:31 - 0:38]  creating for the patient. But they create so much more value than $60 to $140 a visit.
+[0:38 - 0:44]  It's ridiculous, right? And so, the main thing that effective primary care does is it reduces
+[0:44 - 0:48]  hospitalization. And in a previous video, I talked about how the Intermountain Healthcare,
+[0:48 - 0:52]  with their third-generation patient-centered medical home primary care clinics, they decrease
+[0:52 - 0:58]  hospitalizations by 22%. Like, that's the main thing, is it decreases the hospitalizations.
+[0:58 - 1:03]  And what type of hospitalizations? Well, for employers, it's cardiovascular hospitalizations
+[1:03 - 1:09]  in the form of heart attack, stroke, and other cardiovascular issues, right? Those hospitalizations
+[1:09 - 1:15]  are between $20,000 and $150,000 a pop. Okay. Also, musculoskeletal hospitalizations, right? Because
+[1:15 - 1:22]  many knee, hip, and spine surgeries are not necessary. And if the osteoarthritis or the
+[1:22 - 1:27]  degenerative joint disease can be effectively treated with physical therapy and various other
+[1:27 - 1:31]  approaches through primary care, then you can avoid those, right? Again, those musculoskeletal
+[1:31 - 1:36]  hospitalizations in the form of knee and hip replacements and spine surgery run between $30,000
+[1:36 - 1:42]  and $90,000 a pop. They're hugely expensive. So, you mean to tell me that the little gnat of a
+[1:42 - 1:50]  primary care visit is supposed to stop the elephant of these hospitalizations? No way! Okay? Now, what
+[1:50 - 1:54]  is the alternative? Employers are already addressing this problem today. And they're largely addressing
+[1:54 - 2:02]  it through on-site and near-site clinics, where you have unlimited, zero-cost, longer PCP visits. So,
+[2:02 - 2:09]  you can think of this as like much more high-intense, greater-access primary care visits. And
+[2:09 - 2:15]  Sarah Graph and Quad Graphics, Quad Med in Wisconsin are two fantastic examples. Listen,
+[2:16 - 2:21]  this has been working for them for like 15 years. This is not a new flash in the pan. This has been
+[2:21 - 2:28]  working for a long time. In fact, 33% of employers with greater than 5,000 employees have an on-site or
+[2:28 - 2:34]  near-site clinics. And that number has grown from 24% just a few years ago. So, it's dramatically
+[2:34 - 2:41]  increasing because they see the value. Now, it does have a high upfront cost. It's not very flexible,
+[2:41 - 2:46]  right? Because you have X number of doctors, etc. And it also requires space if you're doing an
+[2:46 - 2:51]  on-site clinic. So, it's much more static. You can think of it as like running your own data center.
+[2:51 - 2:56]  Okay? But, as an alternative to that, there's also direct primary care, what's referred to as DPC.
+[2:57 - 3:02]  Oh, by the way, for the on-site and near-site clinic, essentially, this is ideal for municipalities or
+[3:02 - 3:07]  employers that have large concentrations of employees in one location. Okay? So, for direct
+[3:07 - 3:13]  primary care, it has, there's a monthly payment that you pay like as a retainer for that physician
+[3:13 - 3:17]  or a membership. You can scale up, scale down depending upon the size of your business or the
+[3:17 - 3:23]  employees that you offer it to. So, you can almost think of it like cloud computing versus on-premise
+[3:23 - 3:29]  computing in terms of the flexibility that you have. Okay? That's great. There are some downsides to
+[3:29 - 3:34]  the direct primary care, right? So, the coverage locations, right? It's not necessarily all over
+[3:34 - 3:39]  America. In fact, I'll leave a link in the show notes to a direct primary care map. It doesn't
+[3:39 - 3:43]  have every direct primary care physician in America, but it has a lot. They actually have
+[3:43 - 3:48]  really good coverage, but as you can imagine, it's not everywhere. Okay? And then, also, it would
+[3:48 - 3:52]  require some degree of individual contracting with each of those direct primary care practices
+[3:52 - 3:59]  because they're not like consolidated under one corporate entity. Okay? Now, let's go through
+[3:59 - 4:05]  the business case and the financials for doing this, right? So, let's just say for every 100 employees,
+[4:06 - 4:13]  the typical rate of hospitalizations for folks between the ages of 18 and 64, in other words,
+[4:13 - 4:20]  sort of working age folks, it's a 7% hospitalization rate. So, you would have 7 out of the 100 employees
+[4:20 - 4:25]  be hospitalized. And let's say your typical hospitalization is going to be about $50,000,
+[4:25 - 4:31]  right? That's about in the middle of these ranges that we see here. So, you're talking $350,000 per
+[4:31 - 4:35]  year in hospitalization costs, which, you know, for a 100 employee plan, it's typically going to be
+[4:35 - 4:40]  about $10,000 per employee. So, it's going to be about a million bucks. So, you're talking 35% or
+[4:40 - 4:45]  $350,000 out of the million bucks. So, that seems pretty reasonable. And then, if you apply the
+[4:45 - 4:50]  Intermountain Healthcare 20% decrease in hospitalizations to that number, then you're going to be saving
+[4:50 - 4:54]  about $70,000. And then, if you do that on a per employee basis, that means that if you spent
+[4:54 - 5:01]  $700 per employee, you would break even with the $70,000 that you saved in hospitalizations, okay?
+[5:01 - 5:07]  But that's not the smart way to do primary care or intense primary care, free primary care,
+[5:07 - 5:13]  in the form of direct primary care or on-site, near-site clinics, because it stratifies, right?
+[5:13 - 5:17]  You're going to have almost half of your employee population that's hardly going to generate any
+[5:17 - 5:22]  claims at all. And spending all this money on them doesn't necessarily make a lot of sense.
+[5:23 - 5:30]  However, if you spent it on a third of the employees, then you could spend $2,100 per employee
+[5:30 - 5:36]  on that intensive primary care scenario, whether it be DPC or on-site, near-site clinic,
+[5:37 - 5:42]  and you would break and you would get even. Okay. So, what third of employees would you spend
+[5:42 - 5:48]  the $2,100 on? Well, you obviously have a lot of data, both in your claims and from biometric data.
+[5:48 - 5:54]  You really want to do it for your folks that have diabetes and metabolic syndrome, because these are
+[5:54 - 5:58]  your quote-unquote ticking time bombs. These people might have already generated claims, but a lot of
+[5:58 - 6:03]  them haven't. But they're probably going to, because they have internal metabolic disease that's going
+[6:03 - 6:08]  to manifest itself typically as a cardiovascular hospitalization, but also because of joint damage
+[6:08 - 6:14]  from these diseases. Okay. So, that's my point for today, is there's a much better way for employers
+[6:14 - 6:19]  to do primary care, and this might be it. And thank you for watching A Healthcare Z.

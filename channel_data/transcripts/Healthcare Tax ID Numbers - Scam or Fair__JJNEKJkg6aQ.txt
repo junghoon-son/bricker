@@ -1,0 +1,96 @@
+Title: Healthcare Tax ID Numbers - Scam or Fair?
+URL: https://www.youtube.com/watch?v=JJNEKJkg6aQ
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is healthcare tax ID numbers. Is it a scam or is it fair how doctors and private equity firms are using them? So a tax ID number is oftentimes abbreviated a TIN or a TIN. People in healthcare just call it the TIN. And what is the TIN? The TIN is how the provider identifies themselves on a claim. That by provider, let's say it's not Dr. Jones's office, it's the actual tax ID number that goes on the bill when it's submitted to the insurance company. And that tax ID number, it's nine digits, it's kind of structured like a social security number, and that's how Blue Cross, United, Cigna, Aetna, that's like the license plate for each individual physician practice or group practice or hospital system. Okay, so why is that important? It's because the tax ID is how the insurance company then links the bill to the contract, which then determines reimbursement. Okay, so here's a bill for an office visit for Dr. Jones, and here's their tax ID number, and we have a contracted rate of $90 for that visit. Whereas at a different doctor's office, they might have a contracted rate of $120. And they know to pay that other doctor's office $120 and not $90 because they've got a different tax ID that's associated with a different contract and a different reimbursement setup in their payment system. Okay, so here, you have the insurance company and they have Dr. Office A with a certain TIN that they pay a certain amount, and then there's Dr. Office B with a different TIN that they pay a different amount. Now keep in mind, this only applies to commercial insurance. In other words, only for employer-sponsored insurance and for Medicare Advantage because those are the only two types of insurance where there is specific contracting between the provider and the insurance company. So for example, in traditional Medicare, it doesn't matter because the government sets the rates for the reimbursement. Okay, oh, and for Medicaid as well. Okay, so this is not applied to traditional Medicare. It's only for employer-sponsored insurance, for Medicare Advantage, and for Medicaid. Now keep in mind, the biggest differential is for employer-sponsored insurance. So if there's a difference between $1 sign and $2 sign, the biggest difference there is for employer-sponsored insurance reimbursement rates paid by employees, their family members, and employers. Okay, now, part two of this talk involves private equity because private equity firms and the physician practices that they purchase are involved in what is referred to as a roll-up strategy. Whereas you know, many physician practices are no longer independent and they have been combined into much larger groups that are essentially owned or sort of co-run by a private equity firm. That's referred to as a roll-up strategy. Private equity uses a roll-up strategy in other industries as well. And it's only within the past, you know, five or ten years that it has been dramatically applied to physician practices in America. One of sort of the poster children for this roll-up strategy is a large radiology practice called Radiology Partners that was founded back in 2012. They're based out in California, but they have thousands of radiologists with practices all over America. Now, what happened was, is that Aetna most recently sued radiology partners for what they considered a scam involving tax ID numbers. Now, this is allegedly, now the radiology partners would argue this is not a scam at all, it's completely fair. So what was the basis for this suit? So it occurred specifically in the state of Florida. You can see I've drawn Florida here, where radiology partners bought multiple different practices. Let's just call them A, B, C, and D. And so the reimbursement rate for the tax ID at A was low. It was only one dollar sign. The reimbursement rate at B was a little more. It was two dollar signs. The reimbursement rate at C was a little more than that. It was three dollar signs. And then finally, the reimbursement rate at four, which was D, was four dollar signs. It was the highest. So to put that in specific numbers, it could be like reading an MRI might have been like 150 at A, 200 at B, 250 at C, and like 500 at D. So D was able to get this sweetheart deal. So what radiology partners did is they said, okay, well, we'll buy all four of these practices, but then we'll bill all the radiologists and all the patients seen through D's tax ID number. So that all the patients and the radiologists that came through A, it's no longer one dollar sign. It's now four. And for B, it's not two, it's four. And for C, it's not three, it's four. So that, that practice D in the specific, uh, alleged, or suit alleging this practice by Aetna was called MBB, was a, was a radiology practice in Florida. Now, interestingly, United had the exact same situation with radiology partners in Texas, where practice D that had the highest rate that they ran all the different billing through, it was called Singleton and it was out of Houston. Now, the insurance companies say that this is a scam because their contract with the radiology practice says you can only bill for services that you performed at your actual radiology practice. And these services were not being performed down at D, they were performed at A, B, and C. Now, of course, radiology partners sees it differently. I'm not a lawyer. In both cases, it hasn't been determined yet. In UHC's case, it's been sitting in arbitration for a long time. And in Aetna's case, it's still ongoing. Okay. So, but I do want to point out this entire process here. All it does is it just increases healthcare costs. There is, there is no, there is no part of this strategy that decreases healthcare costs. This decreases healthcare costs in terms of patient out of pocket costs, and this increased healthcare costs for employers. So like there's, there is no, so the private equity firm has no interest in decreasing healthcare costs. The physician practices have no interest in decreasing healthcare costs. That is not part of their concern. Not, not my problem, they would say. Okay. So now is the $1 sign of reimbursement, is it fair? Or was it, or is it too low? Well, of course the insurance company would say it was fair. And the physician practice would say it was too low. Now the $4 signs, was that reimbursement fair? Or was that reimbursement too high? Of course, the physicians would say the $4 signs was fair. And the insurance company would say that the $4 signs were too high. And my point is, is that the word fair should be completely struck from this entire discussion. There is no such thing as fair and unfair. In fact, I was reading a book about negotiation once that said that anytime a party in a negotiation uses the word fair, that is an intentionally manipulative practice. So that's essentially the other party trying to be like, well, you know, I don't want to be unfair. And of course the other party's like, well, I would never want to be accused of being unfair. They're not doing that in the quote unquote name of fairness, because there is no name of fairness. It's completely subjective. There is no quote unquote fair reimbursement rate. It doesn't exist. What exists is a marketplace where people can agree to a price or they can walk away. Those are the two issues. You can agree on a price. You try to achieve a win-win price. You compromise on a price or there's no deal. Okay. That's how it works. Now that pricing historically has not been transparent to the end payer, the employer and the patients, which is part of this huge problem. So the prices need to be disclosed to the employers and to the patients who are ultimately paying them. Remember, the insurance company is just like, um, uh, master and MasterCard and Visa. They're just a, um, a transaction mechanism. Okay. So the prices need to be transparent and then it's up to the market. It's up to the individual physician practices and the insurance company to then negotiate. There is no fair. So the point is, is that tax ID numbers are hugely important in how physician practices get reimbursed. And then what that level of reimbursement is needs to be determined by the market. It is not determined by some sort of universal, uh, idea of fairness that doesn't exist. And that's my point for today. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic
+[0:05 - 0:14]  is healthcare tax ID numbers. Is it a scam or is it fair how doctors and private equity
+[0:14 - 0:22]  firms are using them? So a tax ID number is oftentimes abbreviated a TIN or a TIN. People
+[0:22 - 0:29]  in healthcare just call it the TIN. And what is the TIN? The TIN is how the provider identifies
+[0:29 - 0:34]  themselves on a claim. That by provider, let's say it's not Dr. Jones's office, it's the actual
+[0:34 - 0:39]  tax ID number that goes on the bill when it's submitted to the insurance company. And that
+[0:39 - 0:44]  tax ID number, it's nine digits, it's kind of structured like a social security number,
+[0:44 - 0:50]  and that's how Blue Cross, United, Cigna, Aetna, that's like the license plate for each individual
+[0:50 - 0:55]  physician practice or group practice or hospital system. Okay, so why is that important? It's
+[0:55 - 1:02]  because the tax ID is how the insurance company then links the bill to the contract, which
+[1:02 - 1:09]  then determines reimbursement. Okay, so here's a bill for an office visit for Dr. Jones, and
+[1:09 - 1:17]  here's their tax ID number, and we have a contracted rate of $90 for that visit. Whereas at a different
+[1:17 - 1:22]  doctor's office, they might have a contracted rate of $120. And they know to pay that other
+[1:22 - 1:27]  doctor's office $120 and not $90 because they've got a different tax ID that's associated with
+[1:27 - 1:34]  a different contract and a different reimbursement setup in their payment system. Okay, so here,
+[1:34 - 1:39]  you have the insurance company and they have Dr. Office A with a certain TIN that they pay
+[1:39 - 1:43]  a certain amount, and then there's Dr. Office B with a different TIN that they pay a different
+[1:43 - 1:50]  amount. Now keep in mind, this only applies to commercial insurance. In other words, only for
+[1:50 - 1:55]  employer-sponsored insurance and for Medicare Advantage because those are the only two types
+[1:55 - 2:02]  of insurance where there is specific contracting between the provider and the insurance company.
+[2:02 - 2:06]  So for example, in traditional Medicare, it doesn't matter because the government sets the rates for
+[2:06 - 2:11]  the reimbursement. Okay, oh, and for Medicaid as well. Okay, so this is not applied to traditional
+[2:11 - 2:16]  Medicare. It's only for employer-sponsored insurance, for Medicare Advantage, and for Medicaid.
+[2:16 - 2:21]  Now keep in mind, the biggest differential is for employer-sponsored insurance. So if there's a
+[2:21 - 2:27]  difference between $1 sign and $2 sign, the biggest difference there is for employer-sponsored
+[2:27 - 2:33]  insurance reimbursement rates paid by employees, their family members, and employers. Okay,
+[2:33 - 2:40]  now, part two of this talk involves private equity because private equity firms and the physician
+[2:40 - 2:46]  practices that they purchase are involved in what is referred to as a roll-up strategy. Whereas you
+[2:46 - 2:51]  know, many physician practices are no longer independent and they have been combined into
+[2:51 - 2:58]  much larger groups that are essentially owned or sort of co-run by a private equity firm. That's
+[2:58 - 3:04]  referred to as a roll-up strategy. Private equity uses a roll-up strategy in other industries as well.
+[3:04 - 3:10]  And it's only within the past, you know, five or ten years that it has been dramatically applied to
+[3:10 - 3:17]  physician practices in America. One of sort of the poster children for this roll-up strategy is a large
+[3:17 - 3:25]  radiology practice called Radiology Partners that was founded back in 2012. They're based out in California,
+[3:25 - 3:32]  but they have thousands of radiologists with practices all over America. Now, what happened was,
+[3:32 - 3:42]  is that Aetna most recently sued radiology partners for what they considered a scam involving tax ID numbers.
+[3:42 - 3:48]  Now, this is allegedly, now the radiology partners would argue this is not a scam at all,
+[3:48 - 3:54]  it's completely fair. So what was the basis for this suit? So it occurred specifically in the state of
+[3:54 - 3:59]  Florida. You can see I've drawn Florida here, where radiology partners bought multiple different
+[3:59 - 4:06]  practices. Let's just call them A, B, C, and D. And so the reimbursement rate for the tax ID at A
+[4:06 - 4:13]  was low. It was only one dollar sign. The reimbursement rate at B was a little more. It was two dollar signs.
+[4:14 - 4:20]  The reimbursement rate at C was a little more than that. It was three dollar signs. And then finally,
+[4:20 - 4:26]  the reimbursement rate at four, which was D, was four dollar signs. It was the highest. So to put
+[4:26 - 4:34]  that in specific numbers, it could be like reading an MRI might have been like 150 at A, 200 at B,
+[4:34 - 4:42]  250 at C, and like 500 at D. So D was able to get this sweetheart deal. So what radiology partners did
+[4:42 - 4:48]  is they said, okay, well, we'll buy all four of these practices, but then we'll bill all the radiologists
+[4:48 - 4:54]  and all the patients seen through D's tax ID number. So that all the patients and the radiologists
+[4:54 - 5:00]  that came through A, it's no longer one dollar sign. It's now four. And for B, it's not two,
+[5:00 - 5:08]  it's four. And for C, it's not three, it's four. So that, that practice D in the specific, uh, alleged,
+[5:08 - 5:15]  or suit alleging this practice by Aetna was called MBB, was a, was a radiology practice in Florida.
+[5:15 - 5:24]  Now, interestingly, United had the exact same situation with radiology partners in Texas, where
+[5:25 - 5:30]  practice D that had the highest rate that they ran all the different billing through,
+[5:30 - 5:36]  it was called Singleton and it was out of Houston. Now, the insurance companies say that this is a scam
+[5:36 - 5:42]  because their contract with the radiology practice says you can only bill for services that you performed
+[5:42 - 5:47]  at your actual radiology practice. And these services were not being performed down at D,
+[5:47 - 5:52]  they were performed at A, B, and C. Now, of course, radiology partners sees it differently. I'm not a
+[5:52 - 5:57]  lawyer. In both cases, it hasn't been determined yet. In UHC's case, it's been sitting in arbitration for a
+[5:57 - 6:05]  long time. And in Aetna's case, it's still ongoing. Okay. So, but I do want to point out this entire
+[6:05 - 6:12]  process here. All it does is it just increases healthcare costs. There is, there is no, there is no
+[6:12 - 6:17]  part of this strategy that decreases healthcare costs. This decreases healthcare costs in terms of
+[6:17 - 6:22]  patient out of pocket costs, and this increased healthcare costs for employers. So like there's,
+[6:22 - 6:28]  there is no, so the private equity firm has no interest in decreasing healthcare costs. The physician
+[6:28 - 6:33]  practices have no interest in decreasing healthcare costs. That is not part of their concern. Not, not my
+[6:33 - 6:41]  problem, they would say. Okay. So now is the $1 sign of reimbursement, is it fair? Or was it, or is it
+[6:41 - 6:46]  too low? Well, of course the insurance company would say it was fair. And the physician practice would say
+[6:46 - 6:53]  it was too low. Now the $4 signs, was that reimbursement fair? Or was that reimbursement too high? Of
+[6:53 - 6:58]  course, the physicians would say the $4 signs was fair. And the insurance company would say that the $4
+[6:58 - 7:05]  signs were too high. And my point is, is that the word fair should be completely struck from this entire
+[7:05 - 7:10]  discussion. There is no such thing as fair and unfair. In fact, I was reading a book about negotiation
+[7:10 - 7:17]  once that said that anytime a party in a negotiation uses the word fair, that is an intentionally
+[7:17 - 7:22]  manipulative practice. So that's essentially the other party trying to be like, well, you know, I don't
+[7:22 - 7:25]  want to be unfair. And of course the other party's like, well, I would never want to be accused of being
+[7:25 - 7:30]  unfair. They're not doing that in the quote unquote name of fairness, because there is no name of
+[7:30 - 7:36]  fairness. It's completely subjective. There is no quote unquote fair reimbursement rate. It doesn't
+[7:36 - 7:45]  exist. What exists is a marketplace where people can agree to a price or they can walk away. Those are
+[7:45 - 7:51]  the two issues. You can agree on a price. You try to achieve a win-win price. You compromise on a price
+[7:51 - 7:58]  or there's no deal. Okay. That's how it works. Now that pricing historically has not been transparent
+[7:58 - 8:04]  to the end payer, the employer and the patients, which is part of this huge problem. So the prices
+[8:04 - 8:10]  need to be disclosed to the employers and to the patients who are ultimately paying them. Remember,
+[8:10 - 8:16]  the insurance company is just like, um, uh, master and MasterCard and Visa. They're just a, um, a transaction
+[8:16 - 8:22]  mechanism. Okay. So the prices need to be transparent and then it's up to the market. It's up to the
+[8:22 - 8:29]  individual physician practices and the insurance company to then negotiate. There is no fair. So
+[8:29 - 8:34]  the point is, is that tax ID numbers are hugely important in how physician practices get reimbursed.
+[8:34 - 8:40]  And then what that level of reimbursement is needs to be determined by the market. It is not determined by
+[8:40 - 8:47]  some sort of universal, uh, idea of fairness that doesn't exist. And that's my point for today. And thank you for
+[8:47 - 8:48]  watching A Healthcare Z.

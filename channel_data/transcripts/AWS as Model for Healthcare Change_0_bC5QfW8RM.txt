@@ -1,0 +1,126 @@
+Title: AWS as Model for Healthcare Change
+URL: https://www.youtube.com/watch?v=0_bC5QfW8RM
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is AWS as a model for health plan change. So the inspiration for this video actually came from a recent announcement, ironically, from Walmart, where their head of benefits, Lisa Wood, said, Health Care is Hard. And she's absolutely right. Now, the question is, why is it so hard? It's hard. It really isn't. Health Care is not what's hard. What's hard is behavior change is hard, right? So in order for, quote unquote, health care to change, in order for quality to go up and cost to go down, then patients have to change their behavior. That's employees and their families have to change their behavior. Doctors have to change their behavior. Therapists have to change their behavior. There's a whole bunch of human behavior change that needs to happen. Guess what that is? That is hard, just like Ms. Wood said. Okay. Now, let's look at the exact opposite situation, right? So in terms of employee health plans and solutions, this is essentially a business-to-business environment. So let's look at a huge change in business-to-business sales and transactions and solutions that has occurred in the last 10 years. And there's probably no better one than AWS, Amazon Web Services, okay? So, which is essentially cloud computing as opposed to on-premise computing with having on-premise servers, etc., etc. And, again, this is a business-to-business proposition. And so, all of you are probably very familiar with the huge growth and phenomenon that is Amazon Web Services. So, it offers unbelievable speed in terms of being able to, like, expand your computing power at your company. Before, you had to go out and buy servers or you had to have a co-localization space and you had to have cables. There was a huge upfront cost, right? And so, as a result, you can do that much faster. You know, it can be done almost instantaneously. Again, the cost is much less because AWS does its infrastructure as a service. They do it at such amazing scale that it's much less expensive for you. By some estimates, it's like 50% less than having on-premise. It allows you to have a high degree of variability. In other words, you can increase your computing power during the day and then decrease it at night when, like, people are sleeping and not using software that you host on your servers. And it dramatically decreased risk. I mean, we at Compass even moved from a local data center to AWS and just for, like, not only for IT security but also for, like, disaster recovery. I mean, there are redundancies across the country with Amazon Web Services that you wouldn't have with one place if it gets hit by a tornado or something. Okay, so, it has a tremendous value proposition. As a result of this tremendous value proposition, they went from basically not existing or just, like, helping Amazon itself with its own server challenges to having in 2012 where today it has over a million customers and it has $25.6 billion in revenue. Imagine if there was some sort of startup on its own that went from nothing in 2012 to $25 billion in revenue today. I mean, that is a huge accomplishment. So, what in the world does this have to do with Lisa Wood's quote here at the beginning? It's because there was very little behavior change by these companies to put in Amazon Web Services. Did the employees have to dramatically change their behavior? No. Did the family members of employees have to change their behavior because the company put in Amazon Web Services? Of course not. Okay, so, what lesson can we learn from AWS that we can then apply to healthcare? Okay, are there any areas of healthcare where we can improve an employee health plan without people changing their behavior? Is that possible? My answer is yes. Yes, that's absolutely possible. And it can occur in claims processing. In claims processing. Because that is essentially the transaction. Because for self-employed employers, the quote-unquote insurance company, it's not really an insurance company. It doesn't bear any risk. All it does is process claims. Okay? Now, as has been highlighted by the likes of Marshall Allen and ProPublica, I even did have done other videos about this as well, that fraud, waste, and abuse can be upwards of 10%. So this is a quote that Marshall Allen has in his ProPublica piece recently on fraud. That upwards of 10% of employers' healthcare spend is actually in the form of fraud. Well, in order to get to fraud, you have to get to the data. And the best way to get to the data is to actually process your claims yourself. So, I think this is a tremendous opportunity for healthcare IT and for startup incubators like Y Combinator. There's a bunch of incredibly genius software programmers in their late teens and early 20s. If you want to create something that would be incredibly helpful within the world of healthcare, that requires no behavior change. It would be to create an incredibly user-friendly, easy to install, cheap claims processing system that each employer could like install themselves and use themselves. And it would be, it would have all the data and you would actually be able to catch the fraud, waste, and abuse. And because you were processing the claims, you could like not process it. If you saw that it was fraud, you could not process it because you owned it and you controlled it. Okay, so, now, I realize that this is more complicated than I'm making it sound. And so, the question becomes, are there anti-competitive blockades within the current insurance space that prevent this from happening? I talked about, and because this is not only claims processing for medical claims, but also claims processing for pharmacy claims, right? What the PBMs do now. And so, when I talked previously about SureScripts, right? So, there's, you know, PillPack, ironically, again, from Amazon, is trying to get into that space. And, you know, it's questionable whether SureScripts, which is actually owned by other PBMs, is potentially having anti-competitive practices. So, my point is, is that are there anti-competitive practices, very similar to the way there were anti-competitive practices by AT&T with long-distance telephony back in the early 1980s. Are there anti-competitive practices that need to be addressed from a regulatory standpoint in order to allow this claims processing innovation to happen? I don't know. But, in terms of where you can, I mean, and think about this. This could say 10%. So, like, Maryland, Barman, the state of Montana, I mean, if you have employer behavior change up to Wazoo, and you hit it out of the park in terms of improving your health plan, you say that 10%. And 10% is also, oh, by the way, the same amount that is calculated to be in fraud, waste, and abuse. So, without changing employee behavior at all, without changing doctor behavior at all, then you can put a serious dent in your health care costs through claims processing. And that's the point I want to make today. Thank you for watching a healthcare scene. . . . . . . . . . . . . . . . . . . . . .
+
+Detailed segments with timestamps:
+
+[0:00 - 0:06]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:06 - 0:12]  Today's topic is AWS as a model for health plan change.
+[0:12 - 0:18]  So the inspiration for this video actually came from a recent announcement, ironically, from Walmart,
+[0:18 - 0:21]  where their head of benefits, Lisa Wood, said,
+[0:21 - 0:23]  Health Care is Hard.
+[0:23 - 0:25]  And she's absolutely right.
+[0:25 - 0:29]  Now, the question is, why is it so hard?
+[0:29 - 0:30]  It's hard.
+[0:30 - 0:31]  It really isn't.
+[0:31 - 0:32]  Health Care is not what's hard.
+[0:32 - 0:36]  What's hard is behavior change is hard, right?
+[0:36 - 0:41]  So in order for, quote unquote, health care to change, in order for quality to go up and cost to go down,
+[0:41 - 0:43]  then patients have to change their behavior.
+[0:43 - 0:46]  That's employees and their families have to change their behavior.
+[0:46 - 0:48]  Doctors have to change their behavior.
+[0:48 - 0:49]  Therapists have to change their behavior.
+[0:49 - 0:52]  There's a whole bunch of human behavior change that needs to happen.
+[0:52 - 0:54]  Guess what that is?
+[0:54 - 0:57]  That is hard, just like Ms. Wood said.
+[0:57 - 0:58]  Okay.
+[0:58 - 1:01]  Now, let's look at the exact opposite situation, right?
+[1:01 - 1:06]  So in terms of employee health plans and solutions, this is essentially a business-to-business environment.
+[1:06 - 1:15]  So let's look at a huge change in business-to-business sales and transactions and solutions that has occurred in the last 10 years.
+[1:15 - 1:20]  And there's probably no better one than AWS, Amazon Web Services, okay?
+[1:20 - 1:27]  So, which is essentially cloud computing as opposed to on-premise computing with having on-premise servers, etc., etc.
+[1:27 - 1:30]  And, again, this is a business-to-business proposition.
+[1:30 - 1:37]  And so, all of you are probably very familiar with the huge growth and phenomenon that is Amazon Web Services.
+[1:37 - 1:45]  So, it offers unbelievable speed in terms of being able to, like, expand your computing power at your company.
+[1:45 - 1:51]  Before, you had to go out and buy servers or you had to have a co-localization space and you had to have cables.
+[1:51 - 1:53]  There was a huge upfront cost, right?
+[1:53 - 1:56]  And so, as a result, you can do that much faster.
+[1:56 - 1:58]  You know, it can be done almost instantaneously.
+[1:58 - 2:04]  Again, the cost is much less because AWS does its infrastructure as a service.
+[2:04 - 2:08]  They do it at such amazing scale that it's much less expensive for you.
+[2:08 - 2:11]  By some estimates, it's like 50% less than having on-premise.
+[2:11 - 2:14]  It allows you to have a high degree of variability.
+[2:14 - 2:19]  In other words, you can increase your computing power during the day and then decrease it at night
+[2:19 - 2:23]  when, like, people are sleeping and not using software that you host on your servers.
+[2:23 - 2:25]  And it dramatically decreased risk.
+[2:25 - 2:34]  I mean, we at Compass even moved from a local data center to AWS and just for, like, not only for IT security
+[2:34 - 2:36]  but also for, like, disaster recovery.
+[2:36 - 2:40]  I mean, there are redundancies across the country with Amazon Web Services that you wouldn't have
+[2:40 - 2:43]  with one place if it gets hit by a tornado or something.
+[2:43 - 2:46]  Okay, so, it has a tremendous value proposition.
+[2:46 - 2:51]  As a result of this tremendous value proposition, they went from basically not existing or just, like,
+[2:51 - 2:58]  helping Amazon itself with its own server challenges to having in 2012 where today it has over a million customers
+[2:58 - 3:02]  and it has $25.6 billion in revenue.
+[3:02 - 3:11]  Imagine if there was some sort of startup on its own that went from nothing in 2012 to $25 billion in revenue today.
+[3:11 - 3:13]  I mean, that is a huge accomplishment.
+[3:13 - 3:16]  So, what in the world does this have to do with Lisa Wood's quote here at the beginning?
+[3:16 - 3:24]  It's because there was very little behavior change by these companies to put in Amazon Web Services.
+[3:24 - 3:27]  Did the employees have to dramatically change their behavior? No.
+[3:27 - 3:32]  Did the family members of employees have to change their behavior because the company put in Amazon Web Services?
+[3:32 - 3:33]  Of course not.
+[3:33 - 3:38]  Okay, so, what lesson can we learn from AWS that we can then apply to healthcare?
+[3:38 - 3:47]  Okay, are there any areas of healthcare where we can improve an employee health plan without people changing their behavior?
+[3:47 - 3:49]  Is that possible?
+[3:49 - 3:51]  My answer is yes.
+[3:51 - 3:53]  Yes, that's absolutely possible.
+[3:53 - 3:56]  And it can occur in claims processing.
+[3:56 - 3:58]  In claims processing.
+[3:58 - 4:01]  Because that is essentially the transaction.
+[4:01 - 4:05]  Because for self-employed employers, the quote-unquote insurance company, it's not really an insurance company.
+[4:05 - 4:06]  It doesn't bear any risk.
+[4:06 - 4:08]  All it does is process claims.
+[4:08 - 4:09]  Okay?
+[4:09 - 4:23]  Now, as has been highlighted by the likes of Marshall Allen and ProPublica, I even did have done other videos about this as well, that fraud, waste, and abuse can be upwards of 10%.
+[4:23 - 4:29]  So this is a quote that Marshall Allen has in his ProPublica piece recently on fraud.
+[4:29 - 4:34]  That upwards of 10% of employers' healthcare spend is actually in the form of fraud.
+[4:34 - 4:37]  Well, in order to get to fraud, you have to get to the data.
+[4:37 - 4:41]  And the best way to get to the data is to actually process your claims yourself.
+[4:41 - 4:49]  So, I think this is a tremendous opportunity for healthcare IT and for startup incubators like Y Combinator.
+[4:49 - 4:54]  There's a bunch of incredibly genius software programmers in their late teens and early 20s.
+[4:54 - 5:00]  If you want to create something that would be incredibly helpful within the world of healthcare, that requires no behavior change.
+[5:00 - 5:12]  It would be to create an incredibly user-friendly, easy to install, cheap claims processing system that each employer could like install themselves and use themselves.
+[5:12 - 5:19]  And it would be, it would have all the data and you would actually be able to catch the fraud, waste, and abuse.
+[5:19 - 5:22]  And because you were processing the claims, you could like not process it.
+[5:22 - 5:26]  If you saw that it was fraud, you could not process it because you owned it and you controlled it.
+[5:26 - 5:33]  Okay, so, now, I realize that this is more complicated than I'm making it sound.
+[5:33 - 5:42]  And so, the question becomes, are there anti-competitive blockades within the current insurance space that prevent this from happening?
+[5:42 - 5:47]  I talked about, and because this is not only claims processing for medical claims, but also claims processing for pharmacy claims, right?
+[5:47 - 5:48]  What the PBMs do now.
+[5:48 - 5:51]  And so, when I talked previously about SureScripts, right?
+[5:51 - 5:57]  So, there's, you know, PillPack, ironically, again, from Amazon, is trying to get into that space.
+[5:57 - 6:04]  And, you know, it's questionable whether SureScripts, which is actually owned by other PBMs, is potentially having anti-competitive practices.
+[6:04 - 6:15]  So, my point is, is that are there anti-competitive practices, very similar to the way there were anti-competitive practices by AT&T with long-distance telephony back in the early 1980s.
+[6:15 - 6:24]  Are there anti-competitive practices that need to be addressed from a regulatory standpoint in order to allow this claims processing innovation to happen?
+[6:24 - 6:25]  I don't know.
+[6:25 - 6:27]  But, in terms of where you can, I mean, and think about this.
+[6:27 - 6:28]  This could say 10%.
+[6:28 - 6:39]  So, like, Maryland, Barman, the state of Montana, I mean, if you have employer behavior change up to Wazoo, and you hit it out of the park in terms of improving your health plan, you say that 10%.
+[6:39 - 6:44]  And 10% is also, oh, by the way, the same amount that is calculated to be in fraud, waste, and abuse.
+[6:44 - 6:57]  So, without changing employee behavior at all, without changing doctor behavior at all, then you can put a serious dent in your health care costs through claims processing.
+[6:57 - 6:59]  And that's the point I want to make today.
+[6:59 - 7:01]  Thank you for watching a healthcare scene.
+[7:01 - 7:02]  .
+[7:02 - 7:04]  .
+[7:04 - 7:06]  .
+[7:06 - 7:08]  .
+[7:08 - 7:09]  .
+[7:09 - 7:10]  .
+[7:10 - 7:11]  .
+[7:11 - 7:12]  .
+[7:12 - 7:13]  .
+[7:13 - 7:14]  .
+[7:14 - 7:15]  .
+[7:15 - 7:16]  .
+[7:16 - 7:17]  .
+[7:17 - 7:18]  .
+[7:18 - 7:19]  .
+[7:19 - 7:20]  .
+[7:20 - 7:21]  .
+[7:21 - 7:22]  .
+[7:22 - 7:23]  .
+[7:23 - 7:24]  .
+[7:24 - 7:25]  .

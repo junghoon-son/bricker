@@ -1,0 +1,269 @@
+Title: How Prescription Drug Coverage Works: Formulary Tiers, PBM, Rebates, Spread-Pricing Explained
+URL: https://www.youtube.com/watch?v=-xH2R8NZ4pU
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello and welcome back. Today we're going to be discussing in this session all things prescriptions. As I mentioned in a previous video prescriptions end up being about 20% of all healthcare spending. So we have to understand prescriptions. Now one of the most important things is the formula. So what's a formulary? So it's a list of covered medications. So believe it or not not all medications are covered right? So we're going to go through that. We're going to go through the non-formulary medications that insurance will not cover at all. So what are those? OTC, over the counter medications right? You go into the pharmacy you're like Tylenol. Okay you got to pay cash for Tylenol and you're like but I want my insurance to pay for my Tylenol. Your insurance is not going to pay for your Tylenol because it's over the counter as is true for most other over the counter medications. For cosmetic medications. Now this time often times they are prescriptions and this happens a lot with dermatologists. Where some of their prescription creams might be for like helping with like reducing wrinkles. Okay well your insurance is not going to pay for creams to reduce your wrinkles because it's cosmetic. Next up. Reproductive medications. So that might be related to you know what is sometimes referred to as lifestyle medications like Viagra for erectile dysfunction. But also there's pill medications that are used for infertility treatment as well. Now it varies by states. Some states require fertility treatment to be covered. Other states don't have requirements for it. So let's know that in many cases fertility related medications are also non-coversive, non-formulary. Okay. Now the formulary is broken up into tiers as well. And those tiers determine what copay the person pays at the pharmacy when they get the medication. Now this applies to PPO plans, HMO plans, and POS plans. This by definition does not apply to consumer direct health plans or CDHP plans because CDHPs are not allowed to have copays for office visits like we talked about. But CDHPs also cannot have copays for prescriptions as well. So these tiers only apply to the PPO, HMO, and POS plans which of course are the majority of health plans in America. Okay so tier one, they're your generic medications. They have the lowest copay. Typically it's around five or ten dollars. Now that is for typically a 30-day supply if it is a chronic medication or lots of times like for antibiotic they only write you for like a five-day prescription or maybe a seven-day prescription. Well they don't charge you for a quarter of a copay because it's a quarter of a month. No, you still have to pay the entire copay for a script even if it's for less than a month's supply of medications. Okay next, tier two is preferred brands. These are brand name medications. So you know an example here might be like Simvastatin is the generic form of the cholesterol medication Zocor. So Zocor, so maybe the Simvastatin is the generic that you paid ten bucks for but if you wanted the Zocor that might be a preferred brand and you have to pay thirty dollars for the one month's supply. Now preferred means it is preferred to the insurance company and the PBM. And we're going to talk about pharmacy benefits managers in the next video. But basically the PBM within the insurance company goes out and negotiates the actual prices with the pharmaceutical company. With Pfizer and Merck and AstraZeneca etc. So a preferred brand is just a brand name medication that the insurance PBM has been able to negotiate a better deal on with the PBM, with the pharmaceutical company. So they offer it a little copay which then brings me to tier three which is non preferred brand. So again these are brand name medications. In this case it might be like Crestor for high cholesterol. And so the PBM might have gotten a good deal on the Zocor but they were not able to negotiate a very good price on the Crestor. And so like well we don't want our patients and our members taking as much Crestor because we didn't get as good of a deal on it. So they give it a higher copay of sixty dollars instead of a thirty dollars. Now tier four is specialty pharmacy. Now specialty pharmacy is special. One, because it tends to be very expensive. So this is not like, so typically these brand name medications might be two, three, maybe even four hundred dollars a month. Generics, the actual cost of the medication. Shoot, in some situations the generic actually costs less than the copay. So it actually helps to look and see, you know, you can go to the website, you can use like GoodRx or whatever and just see what the cash price is. I remember we got a prescription diaper rash cream for one of my kids and they were a baby and it was a dollar and eighty cents instead of the ten dollar copay. So actually not using the insurance and just paying the cash price was actually cheaper than the copay. But in the case of the specialty pharmacy, super expensive. These medications are thousands of dollars a month. Now they're typically for things like injections, so self-administered injections not into your bloodstream but just an injection under the skin. And so the prototypical example of that is Humira, which is the highest grossing medication in the world and in America. And it's used to treat rheumatoid arthritis and Crohn's disease and people give themselves a shot every two weeks. And that costs like two thousand dollars a month. Likewise, it doesn't have to be an injection, it could be a pill. So some HIV pill medications are also like thousands of dollars a month. Likewise, they're actually starting to come out with some chemotherapies that are actually pill chemotherapies. That again, are a thousand dollars a month. There's even a treatment for hepatitis C that, it cures hepatitis C, but it, it, you take it for a month. But literally a one month supply of that hepatitis C medication is forty thousand dollars. I mean just one pill is over a thousand bucks. One pill costs more than a laptop computer. So you're not going to pay a sixty dollar co-pay for that. So typically the benefits are set up such that you have twenty percent co-insurance for specialty pharmacy tier four. And so if you're paying, if the medication costs two thousand dollars a month, that means that your colon chart is four hundred dollars a month. Times twelve a month, you're paying four thousand eight hundred dollars a year for your specialty pharmacy. So these medications can be very expensive. Now to the extent that you can treat your condition with a brand or a generic instead of a specialty pharmacy, it's going to save the patient a ton of money out of pocket and it's going to save the plan money as well. And I'll even give you one example of that. So first line therapy for rheumatoid arthritis is actually a medication called methotrexate that is generic. It's been around for decades. And the American College of Rheumatology actually recommends that people try methotrexate first before trying Humira for their rheumatoid arthritis. So you can actually treat rheumatoid arthritis with a ten dollar co-pay as opposed to paying four hundred dollars a month. Eight, well I won't get into it, but a lot of people are put on Humira right away without ever being tried on methotrexate first. So the point is, is that there are these tiers within the formulary. They have different amounts of co-pays and that's it for our first session on prescriptions. We'll be moving on to PBMs next. Okay, welcome back. Now we are going to discuss pharmacy benefits managers or PBMs for short. Now I've got to take you back to that drawing, that quadrilateral from the very beginning where we have the four actors within the healthcare system. Right? You've got the employer, the employee, the provider, in this case the pharmacy since we're talking about prescriptions, and the insurance company. So the employer is providing insurance coverage to the employees. The employees are going to the pharmacy and getting their medications. Maybe they've got to pay a co-pay there. Okay, the employer is paying premium to the health insurance company for the coverage. And then the insurance company is then paying the pharmacy, is reimbursing the pharmacy for medication. Now it's not literally the insurance company that does that. It's actually a division within the insurance company called the PBM. So all the PBMs in America are actually owned by the health insurance companies. And so what the PBM does is it goes out and it actually sets up the contract with the pharmaceutical company for how much they pay them. So when I said the insurance company pays the pharmacy, they pay the pharmacy some, but what they're really doing is they're paying the, the pharmaceutical manufacturer the money that they got from the employer from the premiums. And again, overall healthcare costs 20% prescriptions. So 20% of that premium that's going to the insurance company is making its way over here to the pharmaceutical manufacturer. So it's the PBM that sets up what's formulary and what's not formulary. And it's the PBM that sets up what tiers the different medications are. And then this is the pharmaceutical manufacturer. You can see the little factory here. You can see the little pills coming out of the assembly line. And then the pharmaceutical manufacturers getting the, making the pills that go over to the pharmacy. Now there's even a pharmacy distributor in the middle here. So there's McKesson and Amerisource-Burgeon and Cardinal that actually are the wholesale distributors. We're not going to get into that. But just know that the pills eventually make their way to the pharmacy. Okay. Now, there are four major PBNs in America that make up like over 90% of the PBNs. So really, and of these four, the Express Scripts, Caremark, and OptumRx are by far the biggest three. Now, let's go through them now. So Express Scripts, based in St. Louis, used to be its own company. Sometimes it was referred to just as ESI for short. And it was actually bought by Cigna. So now it's a part of Cigna. Like I said, PBNs are all part of insurance company now. And Cigna has even renamed it Evernorth. So a lot of people still call it Express Scripts or ESI because it's been around for so long. But officially, Cigna changed the name to Evernorth. So you might hear that. Next up, we've got Caremark. So Caremark is a PBN that was bought by CVS about 20 years ago. Excuse me, about 15 years ago. It's about the year 2005. And because obviously CVS is the brand of pharmacies. But then they bought the PBN. And believe it or not, and that's why it was called CVS Caremark for a while. And believe it or not, the majority of CVS's revenue actually comes from the Caremark PBN. It does not come from selling band-aids and for actually dispensing prescriptions in their stores. It's actually the PBN that makes more money than any other part of their business. And then CVS went out and they actually bought an insurance company. They bought Aetna. And so now the combination of CVS plus Caremark plus Aetna, they're trying to rebrand it CVS Health. But obviously a lot of people still refer to the insurance company as Aetna. And a lot of people even still refer to the PBN as Caremark. Now the third biggest one used to be called Catamaran. But there's a division, it's actually half of all of United Health Group is called Optum. United Health Group has two parts. It's got Optum and it's got United Health Care, the insurance company. And so Optum went out and they bought Catamaran. So again, Optum is part of United Health Group. And then United Health Group said, okay, well, so United Health Group's here. Optum is a subsidiary of United Health Group. And then Optum RX, the PBM, is a subsidiary of Optum. So it's like a subsidiary of a subsidiary. So Optum RX is the third largest PBM in America. Now the fourth largest is Prime Therapeutics. Now Prime is independent. It's independent. It's, but it has major investors slash owners of multiple Blue Cross Plans. So like Blue Cross, we showed up in Texas and Illinois, which is HCSC, Blue Cross Nebraska, several other Blue Cross Plans are actually part owners of Prime Therapeutics. So a lot of Blue Cross Plans actually use Prime Therapeutics as their PBM. Likewise, if you've got United Health Care, it's likely you have Optum RX. Likewise, if you've got Aetna, you've got CVS Caremark. And likewise, if you've got Cigna, you'll likely have Express Scripts. Now, interestingly, Anthem used to have, used to use Express Scripts, but then when their competitors Cigna bought them, they're like, we need to have our own PBM. So now Anthem has created their own PBM. And then the final piece, because it's super confusing, but the final piece I'll say is, is that if you are self-funded, then your PBM is like tied to your insurance. If you're fully insured, it's tied together, right? So if you've got UHC as your insurance, you've got Optum RX as your PBM. You have no choice. However, if you're self-funded, you can actually carve out your PBM, and there's a few other small PBMs that you can use. Or you can actually use a competing health insurance PBM if you want to. So for example, there's a lot of PBM, there's a lot of companies that use United Healthcare as their insurance, but they use CVS Caremark or Express Scripts as their PBM. So just know that you can do that. So I wanted to go through what a PBM is, how it works, and who the major players are. Thank you for watching. Hello and welcome back. Now we're going to talk about how PBMs, pharmacy benefits managers, make money. Now this is super complicated, so bear with me. So, there's two main ways that they do this. The first is through rebates. The second is through spread pricing. Now, the rebate methodology is used for brand name medications, where let's say a pharmaceutical company wants to sell a brand name medication to a PBM for $400 for a one month supply of medication. And the PBM says, okay, but we're going to negotiate a $100 rebate where we're going to take a hundred of those $400, and we're going to keep 75 of it ourselves, and then we're going to pass along 25 of the $100 to the employer. So, if the PBM was going to keep the full $100, it's not rebate at all. All it is is a commission, right? If you go to a car dealership, and the car salesman sells your car for $400, and then the car salesman gets paid $100, well, that's just a commission for selling you the car for $400. So, the PBM doesn't want to call it a commission because they want to sound like they're negotiating a good deal for the employer, who's ultimately paying for this. So, instead the PBM says, okay, we've been able, employer, we've been able to negotiate a $25 rebate for every $400 you spent on that medication. The employer's like, oh, that's great. But the PBM never tells them that the full rebate was actually $100, and that they're keeping 75 out of the $100. Now, I'm just making up numbers here, but it's the general principle that applies. Okay, next up. Oh, before I move on. So, what does this do in terms of the incentive for the PBM? So, the PBM goes to the employer, it's like, oh, we're going to help lower your drug costs by negotiating lower amounts. Okay, however, this incentive structure, which is essentially a commission, means that the higher the drug cost is, and the more prescriptions that are written, the more money the PBM makes. So, the PBM actually wants more prescriptions of higher cost medications, and they want the cost of medications to go up, because the higher the medication is, the more of a rebate they can negotiate and the more they can keep. Next up. So, they want more rebate dollars, and that ends up increasing the PBM revenue. So, PBMs are actually incentivized to have more prescriptions and more expensive prescriptions. Okay, next up is spread pricing. Now, this applies to generic medications. And actually, the revenue from spread pricing for a PBM is just as much, if not even more, than the revenue from rebates. And in spread pricing for generic medications, let's say a generic medication has an initial average wholesale price, or AWP. And let's say for this particular generic medication, that that AWP is $30 a month. So, then the PBM says, okay, and that's what the pharmaceutical company wants to sell the medication to the PBM for. PBM says, okay, well we're going to negotiate an 80% discount off of that $30, so that the plan is only going to pay $6 a month. That sounds like a wonderful deal, only $6 a month. Now, remember, the PBM is just facilitating the transaction. That money eventually has to make it to the pharmacy, because that's actually where the person picked the medication up from. So, the amount of money that the PBM pays the pharmacy is referred to as the maximum allowable cost, or the MEC. Now, the maximum allowable cost that the PBM pays to the pharmacy is $2 a month for that particular medication. So, in this case, the PBM is keeping $4, the difference between the $6 and the $2. So, you're like, okay, well the pharmacy is getting raw into the deal here, but then the pharmacy in turn has to buy the medication from the prescription distributor and the pharmaceutical company. And so, that cost that the pharmacy has to pay to actually buy the medication is called the NADAC, the National Average Drug Acquisition Cost. And the NADAC might only be $0.30 a month. So, we think we're getting a great deal on that $6 a month generic, and you're like, oh, that generic is so affordable. When in fact, the actual cost of the generic medication is $0.30 a month. That's right. Many generic medications are a penny a pill. And some are even less than a penny a pill. So, in fact, the pharmacy is keeping the difference between the $2 a month that it's getting from the PBM, minus the $0.30 that they're paying out to the pharmaceutical manufacturer. So, the pharmacy is keeping $1.70. So, all the while, the employer thinks that they're getting a great deal paying $6 a month, when ultimately the actual cost is $0.30. And the reason they think they're getting this great deal is because of this Average Wholesale Price, or AWP. And where does AWP come from? Well, there's two very sort of quiet companies that arguably just make this number up. So, sort of an inside joke in the PBM world is AWP stands for ain't what's paid. So, arguably, the PBMs are negotiating a discount off of a fictitious price to begin with. So, that's the basics of how PBMs make money. Thank you for watching.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:03]  Hello and welcome back.
+[0:03 - 0:08]  Today we're going to be discussing in this session all things prescriptions.
+[0:08 - 0:14]  As I mentioned in a previous video prescriptions end up being about 20% of all healthcare spending.
+[0:14 - 0:17]  So we have to understand prescriptions.
+[0:17 - 0:20]  Now one of the most important things is the formula.
+[0:20 - 0:21]  So what's a formulary?
+[0:21 - 0:24]  So it's a list of covered medications.
+[0:24 - 0:28]  So believe it or not not all medications are covered right?
+[0:28 - 0:29]  So we're going to go through that.
+[0:29 - 0:33]  We're going to go through the non-formulary medications that insurance will not cover
+[0:33 - 0:34]  at all.
+[0:34 - 0:35]  So what are those?
+[0:35 - 0:38]  OTC, over the counter medications right?
+[0:38 - 0:40]  You go into the pharmacy you're like Tylenol.
+[0:40 - 0:44]  Okay you got to pay cash for Tylenol and you're like but I want my insurance to pay for my
+[0:44 - 0:45]  Tylenol.
+[0:45 - 0:49]  Your insurance is not going to pay for your Tylenol because it's over the counter as is
+[0:49 - 0:52]  true for most other over the counter medications.
+[0:52 - 0:53]  For cosmetic medications.
+[0:53 - 0:58]  Now this time often times they are prescriptions and this happens a lot with dermatologists.
+[0:58 - 1:06]  Where some of their prescription creams might be for like helping with like reducing wrinkles.
+[1:06 - 1:11]  Okay well your insurance is not going to pay for creams to reduce your wrinkles because
+[1:11 - 1:12]  it's cosmetic.
+[1:12 - 1:14]  Next up.
+[1:14 - 1:16]  Reproductive medications.
+[1:16 - 1:20]  So that might be related to you know what is sometimes referred to as lifestyle medications
+[1:20 - 1:22]  like Viagra for erectile dysfunction.
+[1:22 - 1:28]  But also there's pill medications that are used for infertility treatment as well.
+[1:28 - 1:29]  Now it varies by states.
+[1:29 - 1:32]  Some states require fertility treatment to be covered.
+[1:32 - 1:34]  Other states don't have requirements for it.
+[1:34 - 1:40]  So let's know that in many cases fertility related medications are also non-coversive, non-formulary.
+[1:40 - 1:41]  Okay.
+[1:41 - 1:45]  Now the formulary is broken up into tiers as well.
+[1:45 - 1:52]  And those tiers determine what copay the person pays at the pharmacy when they get the medication.
+[1:52 - 1:56]  Now this applies to PPO plans, HMO plans, and POS plans.
+[1:56 - 2:02]  This by definition does not apply to consumer direct health plans or CDHP plans because CDHPs
+[2:02 - 2:05]  are not allowed to have copays for office visits like we talked about.
+[2:05 - 2:09]  But CDHPs also cannot have copays for prescriptions as well.
+[2:09 - 2:15]  So these tiers only apply to the PPO, HMO, and POS plans which of course are the majority of health plans in America.
+[2:15 - 2:17]  Okay so tier one, they're your generic medications.
+[2:17 - 2:19]  They have the lowest copay.
+[2:19 - 2:22]  Typically it's around five or ten dollars.
+[2:22 - 2:29]  Now that is for typically a 30-day supply if it is a chronic medication or lots of times
+[2:29 - 2:33]  like for antibiotic they only write you for like a five-day prescription or maybe a seven-day prescription.
+[2:33 - 2:38]  Well they don't charge you for a quarter of a copay because it's a quarter of a month.
+[2:38 - 2:44]  No, you still have to pay the entire copay for a script even if it's for less than a month's supply of medications.
+[2:44 - 2:47]  Okay next, tier two is preferred brands.
+[2:47 - 2:49]  These are brand name medications.
+[2:49 - 2:58]  So you know an example here might be like Simvastatin is the generic form of the cholesterol medication Zocor.
+[2:58 - 3:04]  So Zocor, so maybe the Simvastatin is the generic that you paid ten bucks for but if you wanted the Zocor
+[3:04 - 3:09]  that might be a preferred brand and you have to pay thirty dollars for the one month's supply.
+[3:09 - 3:14]  Now preferred means it is preferred to the insurance company and the PBM.
+[3:14 - 3:17]  And we're going to talk about pharmacy benefits managers in the next video.
+[3:17 - 3:25]  But basically the PBM within the insurance company goes out and negotiates the actual prices with the pharmaceutical company.
+[3:25 - 3:30]  With Pfizer and Merck and AstraZeneca etc.
+[3:30 - 3:41]  So a preferred brand is just a brand name medication that the insurance PBM has been able to negotiate a better deal on with the PBM, with the pharmaceutical company.
+[3:41 - 3:45]  So they offer it a little copay which then brings me to tier three which is non preferred brand.
+[3:45 - 3:47]  So again these are brand name medications.
+[3:47 - 3:49]  In this case it might be like Crestor for high cholesterol.
+[3:49 - 3:58]  And so the PBM might have gotten a good deal on the Zocor but they were not able to negotiate a very good price on the Crestor.
+[3:58 - 4:03]  And so like well we don't want our patients and our members taking as much Crestor because we didn't get as good of a deal on it.
+[4:03 - 4:07]  So they give it a higher copay of sixty dollars instead of a thirty dollars.
+[4:07 - 4:10]  Now tier four is specialty pharmacy.
+[4:10 - 4:12]  Now specialty pharmacy is special.
+[4:12 - 4:14]  One, because it tends to be very expensive.
+[4:14 - 4:19]  So this is not like, so typically these brand name medications might be two, three, maybe even four hundred dollars a month.
+[4:19 - 4:22]  Generics, the actual cost of the medication.
+[4:22 - 4:27]  Shoot, in some situations the generic actually costs less than the copay.
+[4:27 - 4:36]  So it actually helps to look and see, you know, you can go to the website, you can use like GoodRx or whatever and just see what the cash price is.
+[4:36 - 4:45]  I remember we got a prescription diaper rash cream for one of my kids and they were a baby and it was a dollar and eighty cents instead of the ten dollar copay.
+[4:45 - 4:50]  So actually not using the insurance and just paying the cash price was actually cheaper than the copay.
+[4:50 - 4:53]  But in the case of the specialty pharmacy, super expensive.
+[4:53 - 4:55]  These medications are thousands of dollars a month.
+[4:55 - 5:02]  Now they're typically for things like injections, so self-administered injections not into your bloodstream but just an injection under the skin.
+[5:02 - 5:10]  And so the prototypical example of that is Humira, which is the highest grossing medication in the world and in America.
+[5:10 - 5:17]  And it's used to treat rheumatoid arthritis and Crohn's disease and people give themselves a shot every two weeks.
+[5:17 - 5:21]  And that costs like two thousand dollars a month.
+[5:21 - 5:24]  Likewise, it doesn't have to be an injection, it could be a pill.
+[5:24 - 5:28]  So some HIV pill medications are also like thousands of dollars a month.
+[5:28 - 5:34]  Likewise, they're actually starting to come out with some chemotherapies that are actually pill chemotherapies.
+[5:34 - 5:36]  That again, are a thousand dollars a month.
+[5:36 - 5:46]  There's even a treatment for hepatitis C that, it cures hepatitis C, but it, it, you take it for a month.
+[5:46 - 5:52]  But literally a one month supply of that hepatitis C medication is forty thousand dollars.
+[5:52 - 5:54]  I mean just one pill is over a thousand bucks.
+[5:54 - 5:57]  One pill costs more than a laptop computer.
+[5:57 - 6:00]  So you're not going to pay a sixty dollar co-pay for that.
+[6:00 - 6:06]  So typically the benefits are set up such that you have twenty percent co-insurance for specialty pharmacy tier four.
+[6:06 - 6:13]  And so if you're paying, if the medication costs two thousand dollars a month, that means that your colon chart is four hundred dollars a month.
+[6:13 - 6:17]  Times twelve a month, you're paying four thousand eight hundred dollars a year for your specialty pharmacy.
+[6:17 - 6:19]  So these medications can be very expensive.
+[6:19 - 6:25]  Now to the extent that you can treat your condition with a brand or a generic instead of a specialty pharmacy,
+[6:25 - 6:30]  it's going to save the patient a ton of money out of pocket and it's going to save the plan money as well.
+[6:30 - 6:31]  And I'll even give you one example of that.
+[6:31 - 6:38]  So first line therapy for rheumatoid arthritis is actually a medication called methotrexate that is generic.
+[6:38 - 6:40]  It's been around for decades.
+[6:40 - 6:51]  And the American College of Rheumatology actually recommends that people try methotrexate first before trying Humira for their rheumatoid arthritis.
+[6:51 - 6:58]  So you can actually treat rheumatoid arthritis with a ten dollar co-pay as opposed to paying four hundred dollars a month.
+[6:58 - 7:06]  Eight, well I won't get into it, but a lot of people are put on Humira right away without ever being tried on methotrexate first.
+[7:06 - 7:10]  So the point is, is that there are these tiers within the formulary.
+[7:10 - 7:16]  They have different amounts of co-pays and that's it for our first session on prescriptions.
+[7:16 - 7:18]  We'll be moving on to PBMs next.
+[7:18 - 7:20]  Okay, welcome back.
+[7:20 - 7:27]  Now we are going to discuss pharmacy benefits managers or PBMs for short.
+[7:27 - 7:35]  Now I've got to take you back to that drawing, that quadrilateral from the very beginning where we have the four actors within the healthcare system.
+[7:35 - 7:36]  Right?
+[7:36 - 7:42]  You've got the employer, the employee, the provider, in this case the pharmacy since we're talking about prescriptions, and the insurance company.
+[7:42 - 7:46]  So the employer is providing insurance coverage to the employees.
+[7:46 - 7:49]  The employees are going to the pharmacy and getting their medications.
+[7:49 - 7:51]  Maybe they've got to pay a co-pay there.
+[7:51 - 7:57]  Okay, the employer is paying premium to the health insurance company for the coverage.
+[7:57 - 8:04]  And then the insurance company is then paying the pharmacy, is reimbursing the pharmacy for medication.
+[8:04 - 8:07]  Now it's not literally the insurance company that does that.
+[8:07 - 8:10]  It's actually a division within the insurance company called the PBM.
+[8:10 - 8:15]  So all the PBMs in America are actually owned by the health insurance companies.
+[8:15 - 8:28]  And so what the PBM does is it goes out and it actually sets up the contract with the pharmaceutical company for how much they pay them.
+[8:28 - 8:33]  So when I said the insurance company pays the pharmacy, they pay the pharmacy some, but what they're really doing is they're paying the,
+[8:33 - 8:39]  the pharmaceutical manufacturer the money that they got from the employer from the premiums.
+[8:39 - 8:42]  And again, overall healthcare costs 20% prescriptions.
+[8:42 - 8:48]  So 20% of that premium that's going to the insurance company is making its way over here to the pharmaceutical manufacturer.
+[8:48 - 8:51]  So it's the PBM that sets up what's formulary and what's not formulary.
+[8:51 - 8:55]  And it's the PBM that sets up what tiers the different medications are.
+[8:55 - 8:57]  And then this is the pharmaceutical manufacturer.
+[8:57 - 8:58]  You can see the little factory here.
+[8:58 - 9:01]  You can see the little pills coming out of the assembly line.
+[9:01 - 9:06]  And then the pharmaceutical manufacturers getting the, making the pills that go over to the pharmacy.
+[9:06 - 9:09]  Now there's even a pharmacy distributor in the middle here.
+[9:09 - 9:14]  So there's McKesson and Amerisource-Burgeon and Cardinal that actually are the wholesale distributors.
+[9:14 - 9:16]  We're not going to get into that.
+[9:16 - 9:18]  But just know that the pills eventually make their way to the pharmacy.
+[9:18 - 9:19]  Okay.
+[9:19 - 9:26]  Now, there are four major PBNs in America that make up like over 90% of the PBNs.
+[9:26 - 9:34]  So really, and of these four, the Express Scripts, Caremark, and OptumRx are by far the biggest three.
+[9:34 - 9:35]  Now, let's go through them now.
+[9:35 - 9:40]  So Express Scripts, based in St. Louis, used to be its own company.
+[9:40 - 9:42]  Sometimes it was referred to just as ESI for short.
+[9:42 - 9:44]  And it was actually bought by Cigna.
+[9:44 - 9:46]  So now it's a part of Cigna.
+[9:46 - 9:48]  Like I said, PBNs are all part of insurance company now.
+[9:48 - 9:52]  And Cigna has even renamed it Evernorth.
+[9:52 - 9:56]  So a lot of people still call it Express Scripts or ESI because it's been around for so long.
+[9:56 - 9:58]  But officially, Cigna changed the name to Evernorth.
+[9:58 - 9:59]  So you might hear that.
+[9:59 - 10:01]  Next up, we've got Caremark.
+[10:01 - 10:05]  So Caremark is a PBN that was bought by CVS about 20 years ago.
+[10:05 - 10:07]  Excuse me, about 15 years ago.
+[10:07 - 10:09]  It's about the year 2005.
+[10:09 - 10:13]  And because obviously CVS is the brand of pharmacies.
+[10:13 - 10:14]  But then they bought the PBN.
+[10:14 - 10:18]  And believe it or not, and that's why it was called CVS Caremark for a while.
+[10:18 - 10:23]  And believe it or not, the majority of CVS's revenue actually comes from the Caremark PBN.
+[10:23 - 10:27]  It does not come from selling band-aids and for actually dispensing prescriptions in their stores.
+[10:27 - 10:31]  It's actually the PBN that makes more money than any other part of their business.
+[10:31 - 10:34]  And then CVS went out and they actually bought an insurance company.
+[10:34 - 10:35]  They bought Aetna.
+[10:35 - 10:41]  And so now the combination of CVS plus Caremark plus Aetna, they're trying to rebrand it CVS Health.
+[10:41 - 10:44]  But obviously a lot of people still refer to the insurance company as Aetna.
+[10:44 - 10:47]  And a lot of people even still refer to the PBN as Caremark.
+[10:47 - 10:50]  Now the third biggest one used to be called Catamaran.
+[10:50 - 10:56]  But there's a division, it's actually half of all of United Health Group is called Optum.
+[10:56 - 10:57]  United Health Group has two parts.
+[10:57 - 11:01]  It's got Optum and it's got United Health Care, the insurance company.
+[11:01 - 11:05]  And so Optum went out and they bought Catamaran.
+[11:05 - 11:08]  So again, Optum is part of United Health Group.
+[11:08 - 11:13]  And then United Health Group said, okay, well, so United Health Group's here.
+[11:13 - 11:15]  Optum is a subsidiary of United Health Group.
+[11:15 - 11:19]  And then Optum RX, the PBM, is a subsidiary of Optum.
+[11:19 - 11:21]  So it's like a subsidiary of a subsidiary.
+[11:21 - 11:25]  So Optum RX is the third largest PBM in America.
+[11:25 - 11:27]  Now the fourth largest is Prime Therapeutics.
+[11:27 - 11:28]  Now Prime is independent.
+[11:28 - 11:29]  It's independent.
+[11:29 - 11:36]  It's, but it has major investors slash owners of multiple Blue Cross Plans.
+[11:36 - 11:40]  So like Blue Cross, we showed up in Texas and Illinois, which is HCSC,
+[11:40 - 11:44]  Blue Cross Nebraska, several other Blue Cross Plans are actually part owners of Prime Therapeutics.
+[11:44 - 11:48]  So a lot of Blue Cross Plans actually use Prime Therapeutics as their PBM.
+[11:48 - 11:54]  Likewise, if you've got United Health Care, it's likely you have Optum RX.
+[11:54 - 11:58]  Likewise, if you've got Aetna, you've got CVS Caremark.
+[11:58 - 12:01]  And likewise, if you've got Cigna, you'll likely have Express Scripts.
+[12:01 - 12:06]  Now, interestingly, Anthem used to have, used to use Express Scripts,
+[12:06 - 12:09]  but then when their competitors Cigna bought them, they're like, we need to have our own PBM.
+[12:09 - 12:11]  So now Anthem has created their own PBM.
+[12:11 - 12:17]  And then the final piece, because it's super confusing, but the final piece I'll say is, is that if you are self-funded,
+[12:17 - 12:20]  then your PBM is like tied to your insurance.
+[12:20 - 12:23]  If you're fully insured, it's tied together, right?
+[12:23 - 12:27]  So if you've got UHC as your insurance, you've got Optum RX as your PBM.
+[12:27 - 12:28]  You have no choice.
+[12:28 - 12:36]  However, if you're self-funded, you can actually carve out your PBM, and there's a few other small PBMs that you can use.
+[12:36 - 12:41]  Or you can actually use a competing health insurance PBM if you want to.
+[12:41 - 12:47]  So for example, there's a lot of PBM, there's a lot of companies that use United Healthcare as their insurance,
+[12:47 - 12:53]  but they use CVS Caremark or Express Scripts as their PBM.
+[12:53 - 12:55]  So just know that you can do that.
+[12:55 - 12:59]  So I wanted to go through what a PBM is, how it works, and who the major players are.
+[12:59 - 13:01]  Thank you for watching.
+[13:01 - 13:03]  Hello and welcome back.
+[13:03 - 13:08]  Now we're going to talk about how PBMs, pharmacy benefits managers, make money.
+[13:08 - 13:11]  Now this is super complicated, so bear with me.
+[13:11 - 13:13]  So, there's two main ways that they do this.
+[13:13 - 13:15]  The first is through rebates.
+[13:15 - 13:17]  The second is through spread pricing.
+[13:17 - 13:21]  Now, the rebate methodology is used for brand name medications,
+[13:21 - 13:32]  where let's say a pharmaceutical company wants to sell a brand name medication to a PBM for $400 for a one month supply of medication.
+[13:32 - 13:40]  And the PBM says, okay, but we're going to negotiate a $100 rebate where we're going to take a hundred of those $400,
+[13:40 - 13:49]  and we're going to keep 75 of it ourselves, and then we're going to pass along 25 of the $100 to the employer.
+[13:49 - 13:53]  So, if the PBM was going to keep the full $100, it's not rebate at all.
+[13:53 - 13:55]  All it is is a commission, right?
+[13:55 - 13:59]  If you go to a car dealership, and the car salesman sells your car for $400,
+[13:59 - 14:05]  and then the car salesman gets paid $100, well, that's just a commission for selling you the car for $400.
+[14:05 - 14:12]  So, the PBM doesn't want to call it a commission because they want to sound like they're negotiating a good deal for the employer,
+[14:12 - 14:13]  who's ultimately paying for this.
+[14:13 - 14:23]  So, instead the PBM says, okay, we've been able, employer, we've been able to negotiate a $25 rebate for every $400 you spent on that medication.
+[14:23 - 14:25]  The employer's like, oh, that's great.
+[14:25 - 14:32]  But the PBM never tells them that the full rebate was actually $100, and that they're keeping 75 out of the $100.
+[14:32 - 14:36]  Now, I'm just making up numbers here, but it's the general principle that applies.
+[14:36 - 14:38]  Okay, next up.
+[14:38 - 14:40]  Oh, before I move on.
+[14:40 - 14:42]  So, what does this do in terms of the incentive for the PBM?
+[14:42 - 14:48]  So, the PBM goes to the employer, it's like, oh, we're going to help lower your drug costs by negotiating lower amounts.
+[14:48 - 14:54]  Okay, however, this incentive structure, which is essentially a commission, means that the higher the drug cost is,
+[14:54 - 14:59]  and the more prescriptions that are written, the more money the PBM makes.
+[14:59 - 15:04]  So, the PBM actually wants more prescriptions of higher cost medications,
+[15:04 - 15:08]  and they want the cost of medications to go up, because the higher the medication is,
+[15:08 - 15:11]  the more of a rebate they can negotiate and the more they can keep.
+[15:11 - 15:12]  Next up.
+[15:12 - 15:16]  So, they want more rebate dollars, and that ends up increasing the PBM revenue.
+[15:16 - 15:21]  So, PBMs are actually incentivized to have more prescriptions and more expensive prescriptions.
+[15:21 - 15:23]  Okay, next up is spread pricing.
+[15:23 - 15:25]  Now, this applies to generic medications.
+[15:25 - 15:33]  And actually, the revenue from spread pricing for a PBM is just as much, if not even more, than the revenue from rebates.
+[15:33 - 15:44]  And in spread pricing for generic medications, let's say a generic medication has an initial average wholesale price, or AWP.
+[15:44 - 15:50]  And let's say for this particular generic medication, that that AWP is $30 a month.
+[15:50 - 15:57]  So, then the PBM says, okay, and that's what the pharmaceutical company wants to sell the medication to the PBM for.
+[15:57 - 16:05]  PBM says, okay, well we're going to negotiate an 80% discount off of that $30, so that the plan is only going to pay $6 a month.
+[16:05 - 16:08]  That sounds like a wonderful deal, only $6 a month.
+[16:08 - 16:13]  Now, remember, the PBM is just facilitating the transaction.
+[16:13 - 16:20]  That money eventually has to make it to the pharmacy, because that's actually where the person picked the medication up from.
+[16:20 - 16:27]  So, the amount of money that the PBM pays the pharmacy is referred to as the maximum allowable cost, or the MEC.
+[16:27 - 16:35]  Now, the maximum allowable cost that the PBM pays to the pharmacy is $2 a month for that particular medication.
+[16:35 - 16:41]  So, in this case, the PBM is keeping $4, the difference between the $6 and the $2.
+[16:41 - 16:53]  So, you're like, okay, well the pharmacy is getting raw into the deal here, but then the pharmacy in turn has to buy the medication from the prescription distributor and the pharmaceutical company.
+[16:53 - 17:03]  And so, that cost that the pharmacy has to pay to actually buy the medication is called the NADAC, the National Average Drug Acquisition Cost.
+[17:03 - 17:07]  And the NADAC might only be $0.30 a month.
+[17:07 - 17:14]  So, we think we're getting a great deal on that $6 a month generic, and you're like, oh, that generic is so affordable.
+[17:14 - 17:19]  When in fact, the actual cost of the generic medication is $0.30 a month.
+[17:19 - 17:20]  That's right.
+[17:20 - 17:23]  Many generic medications are a penny a pill.
+[17:23 - 17:26]  And some are even less than a penny a pill.
+[17:26 - 17:32]  So, in fact, the pharmacy is keeping the difference between the $2 a month that it's getting from the PBM,
+[17:32 - 17:37]  minus the $0.30 that they're paying out to the pharmaceutical manufacturer.
+[17:37 - 17:39]  So, the pharmacy is keeping $1.70.
+[17:39 - 17:45]  So, all the while, the employer thinks that they're getting a great deal paying $6 a month,
+[17:45 - 17:48]  when ultimately the actual cost is $0.30.
+[17:48 - 17:54]  And the reason they think they're getting this great deal is because of this Average Wholesale Price, or AWP.
+[17:54 - 17:57]  And where does AWP come from?
+[17:57 - 18:04]  Well, there's two very sort of quiet companies that arguably just make this number up.
+[18:04 - 18:11]  So, sort of an inside joke in the PBM world is AWP stands for ain't what's paid.
+[18:11 - 18:17]  So, arguably, the PBMs are negotiating a discount off of a fictitious price to begin with.
+[18:17 - 18:20]  So, that's the basics of how PBMs make money.
+[18:20 - 18:21]  Thank you for watching.

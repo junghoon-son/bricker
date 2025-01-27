@@ -1,0 +1,164 @@
+Title: Risk Adjustment in Medicare Advantage Explained
+URL: https://www.youtube.com/watch?v=2Gc1QRQfCnM
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Specifically, as it relates to the money in healthcare, risk adjustment is used to determine the payments by CMS to health insurance companies that have Medicare Advantage plans. So the sicker, the more chronic conditions, the more severe conditions that a Medicare Advantage beneficiary has, the more money that the federal government gives to the health insurance company to provide, to pay out the doctors and the hospitals, et cetera, to take care of that Medicare Advantage beneficiary. So how the number of chronic conditions and the severity of those chronic conditions is measured is done with a process that uses something called hierarchical condition categories, HCC. Hierarchical, it's a hard word to say. It's a lot of syllables, okay? HCCs. So whenever a patient is seen, the doctor, nurse, physician's assistant, et cetera, they will put in an ICD-10 diagnosis code. And there's over 60,000 ICD-10 diagnosis codes ranging from diabetes to COPD to eczema to cancer, you name it, to depression. All right. Now, those ICD-10 codes are then grouped into diagnosis groups. Those diagnosis groups are then combined into condition categories. And then there are hierarchies imposed on those condition categories so that a person is only coded with the most severe manifestation of disease. So in other words, when you look at a person's various ICD-10 diagnosis codes, there could be an ICD-10 diagnosis code for diabetes without complications. And there could be a diagnosis for diabetes with complications. And for the same person. And again, because there's huge error with how it's kind of loosey-goosey how ICD-10 codes are applied to, now it shouldn't be loosey-goosey, but in practicality, it is. And so in that situation, when one person, Mary, let's say, has two different ICD-10 codes for diabetes without complications and diabetes with complications, it's only the diabetes with complications that's used. Okay. And then those HCCs are then included for payment. And the rest of this presentation is going to explain how the HCCs are then translated into the payment amount by CMS to the Medicare Advantage insurance plan. Now, let's look. There's now, there's about 80 to 90 HCCs. Now, notice the HCCs have very basic numbers. One, two, six, eight, nine. So you can see it makes some skips in there, right? 12, 17. Okay. Then it has a description. So like HCC1 is for HIV AIDS. And then there is a coefficient attached to each HCC. You can see here, the coefficients are 0.47, 0.535, 0.440. That coefficient is also referred to as a risk adjustment factor. Basically, the higher the risk adjustment factor, the more severe either the acute or the chronic condition and therefore the more money that CMS is going to pay the Medicare Advantage plan. So you can see here that for something like sepsis, it's pretty significant. It's 0.53. Now, if you go here to metastatic cancer and acute leukemia, I'll just tell you right now, this is like one of the highest, if not the highest HCC at 2.484. Let's look at some other ones. You can see other cancers. I mean, lung cancer is still severe. It's 0.973. Lymphoma, other cancers, 0.672. Colon cancer, 0.317. Also bladder. And then breast, prostate, and other cancers, tumors. See how it's less. 0.154. Now, again, we have diabetes, right? So we have diabetes with acute complications, 0.368. Diabetes with chronic complications, it's the same, 0.368. Diabetes without complications, look at this, much lower, right? Because diabetes without complications, largely a silent disease. It's 0.118. Now, look here at the bottom. Isn't this interesting? Morbid obesity, so just weight alone, has a significant risk adjustment factor coefficient of 0.365. Now, most people with morbid obesity are also going to have diabetes. So, and I'll show you on our next slide. What happens is, is that each, now people can have more than one HCC. Therefore, the risk adjustment factors or these coefficients, then additive, you add them together. So, in other words, if somebody has morbid obesity and they have diabetes with acute complications, then you would add the two together. Now, note here that the Medicare Advantage plan makes more money the more diagnoses and the sicker each of their beneficiaries are. Notice also that the Medicare Advantage plan makes more money the more obese their plan members are. So, if, and so, morbid obesity is defined as having a body mass index, a BMI of greater than 40. Okay, to put that in context, a BMI of 40 is a person who is 5'8", who is about 260 pounds. And so, if the Medicare Advantage plan and the physician actually worked to have the person lower their weight, which of course is the better thing for their health, the Medicare Advantage plan would make less money. The Medicare Advantage plan is disincentivized to have their plan members lose weight. Because if they lose weight, they won't get paid as much. And so, we're going to talk about the implications of this methodology for the financial incentives for doing the right things for patients. Okay, next up. So, I talked about the risk adjustment factor. Okay, so, coefficients are assigned to each HCC according to how much cost they are expected to incur on traditional Medicare fee-for-service payments. So, in other words, what they do is they take traditional Medicare claims, and they look at how much traditional Medicare claims people with these conditions create, and then they base the coefficients off of that. Therefore, the higher the risk adjustment factor, the more severe the disease, the higher the cost, and then the higher the payment to Medicare Advantage. Let's talk about the implication of Medicare Advantage to health insurance carriers, like United, which is the largest Medicare Advantage health insurance company in America, Humana, which is the second largest, Elephants, which used to be Anthem, which is like the third largest, for Centene, and for Aetna, and for Cigna. So, all of these major health... Now, a lot of hospital systems actually have smaller Medicare Advantage plans as well. So, these health insurance plans are incentivized to maximize the capture of beneficiary diagnoses in order to boost their HCCs, which then boost the RAFs, which then boost the per-member, per-month payments. Now, Medicare Advantage payments to health insurance plans totaled $361 billion in 2021. That is a huge industry. This is like one little teeny tiny segment of healthcare, and it's $361 billion. And just a few short years ago, six years ago in 2015, or six years before 2021 in 2015, it was only $175 billion. It doubled in six years. This is why Medicare Advantage is the largest driver of health insurance carrier revenue growth and profit growth. On A Healthcare Z, we talk a lot about commercial insurance and employer-sponsored health plans, but you got to remember that you are just a very small piece of importance to United, Blue Cross, Cigna, Aetna, etc., compared to their Medicare Advantage business. Their Medicare Advantage business is a much bigger deal than you, okay? Medicare Advantage is LeBron James, and you are like an okay high school basketball player if you're an employer-sponsored plan. Okay? Now, there is so much money in capturing these HCCs that a company whose job, like the reason they exist is to send nurses to people's houses to capture their diagnoses and boost their HCCs. That company is called Signify Health. Now, in the news, it was referred to as a quote-unquote home health company, but their main purpose was just to gather HCCs from Medicare Advantage beneficiaries in their homes. And CVS Health bought Signify Health for $8 billion just recently. So this is a huge deal. Now, of course, it's such a huge deal that there has potentially been some nefarious behavior by the health insurance companies. So the New York Times did an article that I'll show you the sources at the end here, where they looked at all the major health insurance carriers' Medicare Advantage plans. And they say, okay, were they accused of fraud by a whistleblower? Were they accused of fraud by the U.S. government? Had they overbilled according to the inspector general? Look at this. United Health Group, yes to all three. Humana, yes to two out of the three. CVS, yes to one out of the three. Elevance, which used to be Anthem, yes to two out of the three. Kaiser, yes to two out of the three. Centene, zero out of the three. Blue Cross of Michigan, one out of the three. Cigna, three out of the three. Highmark, which is one of the Blue Cross plans on the East Coast, one out of the three. And Scan Group, out on the West Coast, is three out of three. So there have been major issues with all of the health insurance carriers around unscrupulous behavior around fraud and overbilling. Oh, yeah. Energy for defensive end. Remember it, Crazy System, one out of the three. Also, is there a nail on the West Coast. There was some extra interest in your life.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:11]  Specifically, as it relates to the money in healthcare, risk adjustment is used to determine
+[0:11 - 0:21]  the payments by CMS to health insurance companies that have Medicare Advantage plans.
+[0:21 - 0:30]  So the sicker, the more chronic conditions, the more severe conditions that a Medicare Advantage
+[0:30 - 0:37]  beneficiary has, the more money that the federal government gives to the health insurance company
+[0:37 - 0:45]  to provide, to pay out the doctors and the hospitals, et cetera, to take care of that
+[0:45 - 0:47]  Medicare Advantage beneficiary.
+[0:47 - 0:56]  So how the number of chronic conditions and the severity of those chronic conditions
+[0:56 - 1:06]  is measured is done with a process that uses something called hierarchical condition categories,
+[1:07 - 1:08]  HCC.
+[1:08 - 1:10]  Hierarchical, it's a hard word to say.
+[1:10 - 1:12]  It's a lot of syllables, okay?
+[1:12 - 1:13]  HCCs.
+[1:13 - 1:23]  So whenever a patient is seen, the doctor, nurse, physician's assistant, et cetera, they
+[1:23 - 1:27]  will put in an ICD-10 diagnosis code.
+[1:27 - 1:35]  And there's over 60,000 ICD-10 diagnosis codes ranging from diabetes to COPD to eczema to cancer,
+[1:35 - 1:36]  you name it, to depression.
+[1:37 - 1:37]  All right.
+[1:37 - 1:42]  Now, those ICD-10 codes are then grouped into diagnosis groups.
+[1:43 - 1:47]  Those diagnosis groups are then combined into condition categories.
+[1:48 - 1:57]  And then there are hierarchies imposed on those condition categories so that a person is only
+[1:57 - 2:02]  coded with the most severe manifestation of disease.
+[2:02 - 2:09]  So in other words, when you look at a person's various ICD-10 diagnosis codes, there could be an
+[2:09 - 2:13]  ICD-10 diagnosis code for diabetes without complications.
+[2:13 - 2:17]  And there could be a diagnosis for diabetes with complications.
+[2:17 - 2:19]  And for the same person.
+[2:19 - 2:28]  And again, because there's huge error with how it's kind of loosey-goosey how ICD-10 codes are
+[2:28 - 2:32]  applied to, now it shouldn't be loosey-goosey, but in practicality, it is.
+[2:34 - 2:43]  And so in that situation, when one person, Mary, let's say, has two different ICD-10 codes for
+[2:43 - 2:48]  diabetes without complications and diabetes with complications, it's only the diabetes with
+[2:48 - 2:50]  complications that's used.
+[2:50 - 2:50]  Okay.
+[2:50 - 2:56]  And then those HCCs are then included for payment.
+[2:56 - 3:04]  And the rest of this presentation is going to explain how the HCCs are then translated
+[3:04 - 3:11]  into the payment amount by CMS to the Medicare Advantage insurance plan.
+[3:12 - 3:14]  Now, let's look.
+[3:15 - 3:20]  There's now, there's about 80 to 90 HCCs.
+[3:20 - 3:23]  Now, notice the HCCs have very basic numbers.
+[3:23 - 3:26]  One, two, six, eight, nine.
+[3:26 - 3:28]  So you can see it makes some skips in there, right?
+[3:28 - 3:29]  12, 17.
+[3:30 - 3:30]  Okay.
+[3:30 - 3:31]  Then it has a description.
+[3:32 - 3:34]  So like HCC1 is for HIV AIDS.
+[3:34 - 3:41]  And then there is a coefficient attached to each HCC.
+[3:41 - 3:49]  You can see here, the coefficients are 0.47, 0.535, 0.440.
+[3:50 - 3:54]  That coefficient is also referred to as a risk adjustment factor.
+[3:55 - 4:04]  Basically, the higher the risk adjustment factor, the more severe either the acute or the chronic
+[4:04 - 4:13]  condition and therefore the more money that CMS is going to pay the Medicare Advantage plan.
+[4:13 - 4:18]  So you can see here that for something like sepsis, it's pretty significant.
+[4:19 - 4:20]  It's 0.53.
+[4:20 - 4:26]  Now, if you go here to metastatic cancer and acute leukemia, I'll just tell you right now,
+[4:26 - 4:33]  this is like one of the highest, if not the highest HCC at 2.484.
+[4:35 - 4:36]  Let's look at some other ones.
+[4:37 - 4:38]  You can see other cancers.
+[4:38 - 4:40]  I mean, lung cancer is still severe.
+[4:40 - 4:42]  It's 0.973.
+[4:43 - 4:46]  Lymphoma, other cancers, 0.672.
+[4:46 - 4:48]  Colon cancer, 0.317.
+[4:49 - 4:49]  Also bladder.
+[4:49 - 4:51]  And then breast, prostate, and other cancers, tumors.
+[4:51 - 4:52]  See how it's less.
+[4:52 - 4:54]  0.154.
+[4:54 - 4:56]  Now, again, we have diabetes, right?
+[4:56 - 5:00]  So we have diabetes with acute complications, 0.368.
+[5:00 - 5:03]  Diabetes with chronic complications, it's the same, 0.368.
+[5:04 - 5:06]  Diabetes without complications, look at this, much lower, right?
+[5:06 - 5:10]  Because diabetes without complications, largely a silent disease.
+[5:10 - 5:13]  It's 0.118.
+[5:14 - 5:16]  Now, look here at the bottom.
+[5:16 - 5:17]  Isn't this interesting?
+[5:18 - 5:26]  Morbid obesity, so just weight alone, has a significant risk adjustment factor coefficient
+[5:26 - 5:30]  of 0.365.
+[5:30 - 5:35]  Now, most people with morbid obesity are also going to have diabetes.
+[5:36 - 5:38]  So, and I'll show you on our next slide.
+[5:38 - 5:42]  What happens is, is that each, now people can have more than one HCC.
+[5:43 - 5:49]  Therefore, the risk adjustment factors or these coefficients, then additive, you add them
+[5:49 - 5:50]  together.
+[5:50 - 5:55]  So, in other words, if somebody has morbid obesity and they have diabetes with acute complications,
+[5:55 - 5:57]  then you would add the two together.
+[5:57 - 6:10]  Now, note here that the Medicare Advantage plan makes more money the more diagnoses and the sicker each of their beneficiaries are.
+[6:10 - 6:19]  Notice also that the Medicare Advantage plan makes more money the more obese their plan members are.
+[6:20 - 6:26]  So, if, and so, morbid obesity is defined as having a body mass index, a BMI of greater than 40.
+[6:26 - 6:34]  Okay, to put that in context, a BMI of 40 is a person who is 5'8", who is about 260 pounds.
+[6:35 - 6:44]  And so, if the Medicare Advantage plan and the physician actually worked to have the person lower their weight,
+[6:44 - 6:50]  which of course is the better thing for their health, the Medicare Advantage plan would make less money.
+[6:50 - 6:59]  The Medicare Advantage plan is disincentivized to have their plan members lose weight.
+[6:59 - 7:02]  Because if they lose weight, they won't get paid as much.
+[7:02 - 7:13]  And so, we're going to talk about the implications of this methodology for the financial incentives for doing the right things for patients.
+[7:14 - 7:16]  Okay, next up.
+[7:17 - 7:18]  So, I talked about the risk adjustment factor.
+[7:18 - 7:26]  Okay, so, coefficients are assigned to each HCC according to how much cost they are expected to incur on traditional Medicare fee-for-service payments.
+[7:26 - 7:29]  So, in other words, what they do is they take traditional Medicare claims,
+[7:29 - 7:36]  and they look at how much traditional Medicare claims people with these conditions create,
+[7:36 - 7:40]  and then they base the coefficients off of that.
+[7:40 - 7:46]  Therefore, the higher the risk adjustment factor, the more severe the disease, the higher the cost,
+[7:46 - 7:50]  and then the higher the payment to Medicare Advantage.
+[7:52 - 7:58]  Let's talk about the implication of Medicare Advantage to health insurance carriers,
+[7:58 - 8:04]  like United, which is the largest Medicare Advantage health insurance company in America,
+[8:04 - 8:07]  Humana, which is the second largest,
+[8:08 - 8:11]  Elephants, which used to be Anthem, which is like the third largest,
+[8:12 - 8:15]  for Centene, and for Aetna, and for Cigna.
+[8:16 - 8:18]  So, all of these major health...
+[8:18 - 8:22]  Now, a lot of hospital systems actually have smaller Medicare Advantage plans as well.
+[8:22 - 8:29]  So, these health insurance plans are incentivized to maximize the capture of beneficiary diagnoses
+[8:29 - 8:34]  in order to boost their HCCs, which then boost the RAFs,
+[8:35 - 8:38]  which then boost the per-member, per-month payments.
+[8:38 - 8:50]  Now, Medicare Advantage payments to health insurance plans totaled $361 billion in 2021.
+[8:50 - 8:54]  That is a huge industry.
+[8:54 - 8:59]  This is like one little teeny tiny segment of healthcare, and it's $361 billion.
+[9:00 - 9:06]  And just a few short years ago, six years ago in 2015, or six years before 2021 in 2015,
+[9:07 - 9:10]  it was only $175 billion.
+[9:10 - 9:15]  It doubled in six years.
+[9:15 - 9:24]  This is why Medicare Advantage is the largest driver of health insurance carrier revenue growth
+[9:24 - 9:27]  and profit growth.
+[9:27 - 9:33]  On A Healthcare Z, we talk a lot about commercial insurance and employer-sponsored health plans,
+[9:33 - 9:42]  but you got to remember that you are just a very small piece of importance to United, Blue Cross,
+[9:42 - 9:47]  Cigna, Aetna, etc., compared to their Medicare Advantage business.
+[9:47 - 9:53]  Their Medicare Advantage business is a much bigger deal than you, okay?
+[9:53 - 10:01]  Medicare Advantage is LeBron James, and you are like an okay high school basketball player
+[10:01 - 10:03]  if you're an employer-sponsored plan.
+[10:03 - 10:04]  Okay?
+[10:04 - 10:13]  Now, there is so much money in capturing these HCCs that a company whose job,
+[10:13 - 10:23]  like the reason they exist is to send nurses to people's houses to capture their diagnoses
+[10:23 - 10:25]  and boost their HCCs.
+[10:25 - 10:28]  That company is called Signify Health.
+[10:28 - 10:31]  Now, in the news, it was referred to as a quote-unquote home health company,
+[10:31 - 10:37]  but their main purpose was just to gather HCCs from Medicare Advantage beneficiaries in their homes.
+[10:37 - 10:43]  And CVS Health bought Signify Health for $8 billion just recently.
+[10:43 - 10:44]  So this is a huge deal.
+[10:46 - 10:52]  Now, of course, it's such a huge deal that there has potentially been some nefarious behavior
+[10:52 - 10:54]  by the health insurance companies.
+[10:54 - 10:59]  So the New York Times did an article that I'll show you the sources at the end here,
+[10:59 - 11:03]  where they looked at all the major health insurance carriers' Medicare Advantage plans.
+[11:03 - 11:07]  And they say, okay, were they accused of fraud by a whistleblower?
+[11:08 - 11:10]  Were they accused of fraud by the U.S. government?
+[11:10 - 11:14]  Had they overbilled according to the inspector general?
+[11:14 - 11:15]  Look at this.
+[11:15 - 11:19]  United Health Group, yes to all three.
+[11:19 - 11:21]  Humana, yes to two out of the three.
+[11:22 - 11:24]  CVS, yes to one out of the three.
+[11:24 - 11:27]  Elevance, which used to be Anthem, yes to two out of the three.
+[11:28 - 11:29]  Kaiser, yes to two out of the three.
+[11:30 - 11:32]  Centene, zero out of the three.
+[11:32 - 11:34]  Blue Cross of Michigan, one out of the three.
+[11:34 - 11:36]  Cigna, three out of the three.
+[11:36 - 11:40]  Highmark, which is one of the Blue Cross plans on the East Coast, one out of the three.
+[11:41 - 11:45]  And Scan Group, out on the West Coast, is three out of three.
+[11:45 - 11:50]  So there have been major issues with all of the health insurance carriers
+[11:50 - 11:57]  around unscrupulous behavior around fraud and overbilling.
+[11:57 - 12:06]  Oh, yeah.
+[12:08 - 12:11]  Energy for defensive end.
+[12:11 - 12:16]  Remember it, Crazy System, one out of the three.
+[12:18 - 12:21]  Also, is there a nail on the West Coast.
+[12:22 - 12:23]  There was some extra interest in your life.

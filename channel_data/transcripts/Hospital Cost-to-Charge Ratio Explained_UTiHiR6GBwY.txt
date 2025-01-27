@@ -1,0 +1,63 @@
+Title: Hospital Cost-to-Charge Ratio Explained
+URL: https://www.youtube.com/watch?v=UTiHiR6GBwY
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Hospital Cost-to-Charge Ratio. Now today's video comes from a comment in a previous video. You have heard me say many times that hospitals don't know their own costs and the reply in this video was that yes hospitals do know their own costs and they use the cost-to-charge ratio to determine that. And so that is an excellent point that I think is a point of confusion for many people. So I want to go over the hospital cost-to-charge ratio in detail very quickly. So it is historically the most common way that hospitals measure their own costs and it is the alternative to cost accounting which very few hospitals do which actually does measure the true cost. So we're going to explain why cost-to-charge ratio does not actually measure true cost. So now when I say hospitals can't measure their own costs I mean by specific service like MRI or knee surgery or a day in the hospital for pneumonia. They know their costs in aggregate. So the total cost in aggregate would be like their payroll plus their supplies plus their utilities etc over a period of time whether that's a quarter or a year. So they know their total costs in aggregate right they know their payables they know what they're paying out right and they also know their total charges in aggregate right they know every single bill that goes out their door. So if they just add up all of those bills that go out their door that's total charges in aggregate and those are billed charges okay. Now let me give you an example so let's say it's a you know several hospital system they have 500 million dollars a year in costs and they bill in gross billed charges a total of 1 billion dollars in a year. Therefore their cost of charge ratio is 50 percent okay. Now that is not how a specific cost of a procedure is truly determined and I'm going to explain that okay. So what they do to figure out what an MRI or an arthroscopic knee surgery gallbladder etc whatever at the hospital is they just take that ratio and they apply it to the billed charges of that specific service. So let's say for the example of the MRI they'll just say okay well we know we billed $2,500 for an MRI they know that right because they got a CPT code they know they billed $2,500 for that CPT code for the MRI and then they just apply the 50 percent to that and they get a cost of $1,250. Okay now this is where then the hospitals say well Medicare under pays us for that MRI because Medicare only pays us $500 for that MRI and so we as a hospital we need to have commercial insurance then overpay us for that MRI so that we can actually pay our bills right so commercial insurance might pay $2,000 for that MRI right so commercial insurance is paying four times what Medicare pays okay. So that then begs the question okay well if where did the $2,500 come from because the entire quote unquote cost of the $1,250 for the MRI is based off of the billed charges and where the billed charges come from is from strategic pricing or strategic rate setting where the billed charges have been created by the hospital to maximize their reimbursement specifically from percent of charge discount contracts from the insurance carrier. So those services where the insurance carrier will say like okay we'll pay you 75 percent of billed charges so the hospital's like okay well instead of billing $10,000 and getting paid $7,500 we'll just bill $20,000 so that we can get paid $15,000 and as proof for this I will leave a link in the show notes to the YouTube video and the previous A Health Care Z video where the chief operating officer of the University of Michigan Health System specifically says this she says we have to move to cost accounting because our historical form of cost to charge ratio to measure cost is no longer accurate because of strategic pricing and that's what she means when she says that. Now the true cost is measured by cost accounting. Now cost accounting is okay well how much does that MRI literally cost to do and that's hard because most things in a hospital are services and services require time studies. So how much time from how many different people the med techs the nurses the physicians does it cost to do that and so this is where again I'll leave a link in the show notes to where the University of Pittsburgh Medical Center they do time studies using their electronic medical record because there's time stamps on so much and listen we did time studies at Compass right we were a healthcare navigation service so we would do like bill reviews and prescription reviews and scheduling appointments and cost estimates and so we would actually do time studies on how long it took us to perform each of those so that we knew what the actual cost of each one of our navigation services are that's cost accounting that is not using cost of charge ratio which the vast majority of hospitals use So it is only through cost accounting that a hospital can truly say for a specific service like an imaging or an MRI or an endoscopy if Medicare is truly underpaying and if commercial insurance is truly overpaying because at the end of the day the vast majority of hospitals in America do not know the true cost of a specific service test procedure etc at their facility and that's my point for today thank you for watching a healthcare Z
+
+Detailed segments with timestamps:
+
+[0:00 - 0:06]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:06 - 0:14]  Hospital Cost-to-Charge Ratio. Now today's video comes from a comment in a previous video. You
+[0:14 - 0:21]  have heard me say many times that hospitals don't know their own costs and the reply in this video
+[0:21 - 0:26]  was that yes hospitals do know their own costs and they use the cost-to-charge ratio to determine
+[0:26 - 0:31]  that. And so that is an excellent point that I think is a point of confusion for many people.
+[0:31 - 0:37]  So I want to go over the hospital cost-to-charge ratio in detail very quickly. So it is historically
+[0:37 - 0:43]  the most common way that hospitals measure their own costs and it is the alternative to
+[0:43 - 0:49]  cost accounting which very few hospitals do which actually does measure the true cost.
+[0:49 - 0:54]  So we're going to explain why cost-to-charge ratio does not actually measure true cost.
+[0:54 - 1:00]  So now when I say hospitals can't measure their own costs I mean by specific service like MRI or knee
+[1:00 - 1:09]  surgery or a day in the hospital for pneumonia. They know their costs in aggregate. So the total cost in
+[1:09 - 1:16]  aggregate would be like their payroll plus their supplies plus their utilities etc over a period of
+[1:16 - 1:20]  time whether that's a quarter or a year. So they know their total costs in aggregate right they know
+[1:20 - 1:24]  their payables they know what they're paying out right and they also know their total charges in
+[1:24 - 1:30]  aggregate right they know every single bill that goes out their door. So if they just add up all of
+[1:30 - 1:35]  those bills that go out their door that's total charges in aggregate and those are billed charges
+[1:35 - 1:40]  okay. Now let me give you an example so let's say it's a you know several hospital system they have
+[1:40 - 1:47]  500 million dollars a year in costs and they bill in gross billed charges a total of 1 billion dollars in a year.
+[1:47 - 1:59]  Therefore their cost of charge ratio is 50 percent okay. Now that is not how a specific cost of a
+[1:59 - 2:05]  procedure is truly determined and I'm going to explain that okay. So what they do to figure out
+[2:05 - 2:13]  what an MRI or an arthroscopic knee surgery gallbladder etc whatever at the hospital is they just take that
+[2:13 - 2:18]  ratio and they apply it to the billed charges of that specific service. So let's say for the example
+[2:18 - 2:22]  of the MRI they'll just say okay well we know we billed $2,500 for an MRI they know that right because
+[2:22 - 2:27]  they got a CPT code they know they billed $2,500 for that CPT code for the MRI and then they just apply
+[2:27 - 2:35]  the 50 percent to that and they get a cost of $1,250. Okay now this is where then the hospitals say well
+[2:35 - 2:41]  Medicare under pays us for that MRI because Medicare only pays us $500 for that MRI and so we as a hospital we
+[2:41 - 2:47]  need to have commercial insurance then overpay us for that MRI so that we can actually pay our bills
+[2:47 - 2:51]  right so commercial insurance might pay $2,000 for that MRI right so commercial insurance is paying
+[2:51 - 2:59]  four times what Medicare pays okay. So that then begs the question okay well if where did the $2,500
+[2:59 - 3:05]  come from because the entire quote unquote cost of the $1,250 for the MRI is based off of the billed charges
+[3:05 - 3:10]  and where the billed charges come from is from strategic pricing or strategic rate setting where the billed
+[3:10 - 3:16]  charges have been created by the hospital to maximize their reimbursement specifically from
+[3:16 - 3:20]  percent of charge discount contracts from the insurance carrier. So those services where the
+[3:21 - 3:25]  insurance carrier will say like okay we'll pay you 75 percent of billed charges so the hospital's like
+[3:25 - 3:31]  okay well instead of billing $10,000 and getting paid $7,500 we'll just bill $20,000 so that we can
+[3:31 - 3:36]  get paid $15,000 and as proof for this I will leave a link in the show notes to the YouTube video and the
+[3:36 - 3:41]  previous A Health Care Z video where the chief operating officer of the University of Michigan
+[3:41 - 3:49]  Health System specifically says this she says we have to move to cost accounting because our historical
+[3:49 - 3:55]  form of cost to charge ratio to measure cost is no longer accurate because of strategic pricing and
+[3:55 - 4:03]  that's what she means when she says that. Now the true cost is measured by cost accounting. Now cost accounting is
+[4:03 - 4:10]  okay well how much does that MRI literally cost to do and that's hard because most things in a hospital are
+[4:10 - 4:17]  services and services require time studies. So how much time from how many different people the med
+[4:17 - 4:22]  techs the nurses the physicians does it cost to do that and so this is where again I'll leave a link in
+[4:22 - 4:26]  the show notes to where the University of Pittsburgh Medical Center they do time studies using their
+[4:26 - 4:33]  electronic medical record because there's time stamps on so much and listen we did time studies at Compass right we were
+[4:33 - 4:38]  a healthcare navigation service so we would do like bill reviews and prescription reviews and scheduling
+[4:38 - 4:44]  appointments and cost estimates and so we would actually do time studies on how long it took us
+[4:44 - 4:50]  to perform each of those so that we knew what the actual cost of each one of our navigation services are
+[4:50 - 4:56]  that's cost accounting that is not using cost of charge ratio which the vast majority of hospitals use
+[4:56 - 5:06]  So it is only through cost accounting that a hospital can truly say for a specific service like an imaging or an MRI or an endoscopy
+[5:06 - 5:14]  if Medicare is truly underpaying and if commercial insurance is truly overpaying because at the end of the day the vast majority of hospitals in America
+[5:14 - 5:20]  do not know the true cost of a specific service test procedure etc at their facility
+[5:20 - 5:24]  and that's my point for today thank you for watching a healthcare Z

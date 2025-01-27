@@ -1,0 +1,153 @@
+Title: Cost of Medication Non-Adherence: 33- 69% of Hospitalizations
+URL: https://www.youtube.com/watch?v=KoqkrEZDBwY
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is half of hospital admins are due to patients not taking their prescriptions. That's right, not 10%, not 25%, like half of hospitalizations are due to people not taking their pills correctly. Now, why is this so important? Well, I was given a podcast interview the other day and one of the interviewers said, you know, Dr. Bricker, you made an interesting point where you said just seeing a physician doesn't magically make you better. And he was like, and that's right, of course, like literally me being in the same room as you is not going to make you better. Okay, so what does literally make you better? Well, in many situations, it's the medication. It's the pill because we obviously have a scientific approval process to prove effectiveness in order for a medication to be prescribed in America. Now, in that approval process, the people actually take the medications correctly in order to have the desired outcome of the infection going away, the diabetes being controlled, the blood pressure being lowered. So if you don't take the medication like the way they did in the study that proved the effectiveness, then it's not going to work. The infection will not be treated. The diabetes will not be controlled. The blood pressure will not come down. And so one of the most important hidden problems in healthcare is we've got all these medications, but if people don't take them and don't take them correctly, then they will not work. And that has serious ramifications. So I'm going to go through a whole bunch of numbers here about that. So, believe it or not, for every 100 prescriptions that a doctor or a provider writes, only about 50 to 70 are actually filled at the pharmacy. Now, it's not because the pharmacy is like, oh, I just don't feel like filling this. It's because the patient doesn't take the prescription into the pharmacy. Okay. Only 48 to 66 out of those 100 prescriptions are actually picked up by the patient. Only 25 to 30 out of those 100 prescriptions are taken correctly by the patient. And only 15 to 20 out of those original 100 prescriptions are then refilled correctly. So that is an incredibly small number vis-a-vis the original 100 where they get it, they take it, and they refill it. That's horrible execution. And that term for this whole process breaking down is referred to as non-adherence. Okay. So it turns out that at any given point in time, 50% of patients are non-adherent. Half! Okay. Now, let's put that in terms of the overall population and taking pills because we take a lot of pills here in America. So 55% of Americans take some type of chronic medication ongoing. Okay. So that means that if you've got, let's say, 1,000 employees on your health plan, that means you've got 550 employees who are taking a chronic medication. And if you have only 25% of those 550 taking the medication correctly, that means you have 75% of those 550 not taking it correctly. So if you take the 550 times 0.75, that means you have 413 employees who are not taking their medications correctly. So in other words, out of your 1,000 employees, you've got over 40%, you've got 413 employees who are not taking their pills right. Like you don't see that anywhere. There's no red light going off above their head. There's nothing on their claims that says, bling, bling, bling, bling, bling, bling, bling, look at these people there. But they're there. Okay. So just because you don't know that they're there, that doesn't mean they're not there. There's significant implications to those 413 people. Now, believe it or not, 33 to 69% of all hospitalizations are due to non-adherence to medications. So from like a third to two thirds. So let's just put the difference or about the difference and say it's like half, like half of all hospitalizations are from people not taking their pills correctly. Now let's break that down in terms of what that's specifically costing an employer plan. So 33% of overall health plan costs are due to hospital care. Okay. If half of all hospitalizations are due to non-adherence to medications, well that means that half of 33 is about 16% of your total health plan costs are due to hospitalizations from non-adherence. Okay. So you've got 16% of your health plan costs due to non-adherence of medication. So again, if you've got a thousand employees on your health plan and it's about $10,000 per employee per year, then the $10,000 per employee per year times a thousand employees, that's $10 million a year that you're spending on healthcare costs. Okay. Well, $10,000 a year times 16% is $1.6 million. You are spending one, if you've got a thousand employees, you're spending $1.6 million a year because people are not filling, taking and getting the refills on their prescriptions correctly. Now, so if you break that down per the thousand employees, that comes out to $1,600 per employee per year. And if you divide that by 12, it comes out to $133 per employee per month. So I said in a previous video about how employers are like, we're getting PEPs. We're getting all these PEP fees. Well, shoot, hiding in your claims is a $133 per employee per month fee for non-adherence to medications. Okay. Now let's actually not even apply it across your entire plan. Let's just apply it to those 415 people who are not taking their pills. So you take the 1.6 million and you divide it by the 413 people who are specifically responsible for that 1.6 million. And look, I'm not blaming them. This is a complex situation. I'm not, this is not pointing the finger. This is talking about solutions. For those people that are not taking their medications, they're costing your plan $3,874 a year. That means each one of those people is costing your plan almost $4,000 a year, which if you break it down by month, they're costing $323 per non-adherent employee per month. You're just, you might as well just like fire to that money because that's what you're wasting. Now, that begs the question, why? Why are they not taking their medications? Well, the results are fascinating. Oh, by the way, all these statistics are from the CDC. I'll leave a link in the show notes to the CDC Grand Rounds video where I got all this information. Okay. So 42% said it's because they forgot. 37% said it's because they ran out. 97% said it was because they were away from home. And finally, 22% said it was because of cost. Now there's some other reasons below 22%, but notice the number one, number two, and number three reason is not cost. So a lot of times I read, okay, well the cost of medications is a problem. And it is. I'm not saying it's not a problem, but it's not the A number one problem. The A number one problem is you forget or you run out or you're away from home. And guess what? Reminder interventions between phone calls and text messages and in-person appointments and virtual appointments have all been shown to increase adherence rates. This is a solvable problem. This is a huge problem for a health plan. It is a huge unseen problem. You're just like, you just assume people are taking their medications, right? We need to assume the opposite. We need to assume that people are not taking their medications because only about 50% are taking them and 50% aren't. And that's my point for today. Thank you for watching a healthcare Z. Thank you for watching a healthcare Z. . . . . . . . . . . . . . . . .
+
+Detailed segments with timestamps:
+
+[0:01 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:05 - 0:14]  Today's topic is half of hospital admins are due to patients not taking their prescriptions.
+[0:14 - 0:21]  That's right, not 10%, not 25%, like half of hospitalizations are due to people not
+[0:21 - 0:25]  taking their pills correctly.
+[0:25 - 0:27]  Now, why is this so important?
+[0:27 - 0:33]  Well, I was given a podcast interview the other day and one of the interviewers said,
+[0:33 - 0:37]  you know, Dr. Bricker, you made an interesting point where you said just seeing a physician
+[0:37 - 0:39]  doesn't magically make you better.
+[0:39 - 0:43]  And he was like, and that's right, of course, like literally me being in the same room as
+[0:43 - 0:45]  you is not going to make you better.
+[0:45 - 0:47]  Okay, so what does literally make you better?
+[0:47 - 0:51]  Well, in many situations, it's the medication.
+[0:51 - 1:00]  It's the pill because we obviously have a scientific approval process to prove effectiveness in
+[1:00 - 1:04]  order for a medication to be prescribed in America.
+[1:04 - 1:19]  Now, in that approval process, the people actually take the medications correctly in order to have the desired outcome of the infection going away, the diabetes
+[1:19 - 1:23]  being controlled, the blood pressure being lowered.
+[1:23 - 1:34]  So if you don't take the medication like the way they did in the study that proved the effectiveness, then it's not going to work.
+[1:34 - 1:36]  The infection will not be treated.
+[1:36 - 1:38]  The diabetes will not be controlled.
+[1:38 - 1:40]  The blood pressure will not come down.
+[1:40 - 1:54]  And so one of the most important hidden problems in healthcare is we've got all these medications, but if people don't take them and don't take them correctly, then they will not work.
+[1:54 - 1:56]  And that has serious ramifications.
+[1:56 - 1:59]  So I'm going to go through a whole bunch of numbers here about that.
+[1:59 - 2:10]  So, believe it or not, for every 100 prescriptions that a doctor or a provider writes, only about 50 to 70
+[2:10 - 2:12]  are actually filled at the pharmacy.
+[2:12 - 2:15]  Now, it's not because the pharmacy is like, oh, I just don't feel like filling this.
+[2:15 - 2:19]  It's because the patient doesn't take the prescription into the pharmacy.
+[2:19 - 2:20]  Okay.
+[2:20 - 2:27]  Only 48 to 66 out of those 100 prescriptions are actually picked up by the patient.
+[2:27 - 2:35]  Only 25 to 30 out of those 100 prescriptions are taken correctly by the patient.
+[2:35 - 2:42]  And only 15 to 20 out of those original 100 prescriptions are then refilled correctly.
+[2:42 - 2:54]  So that is an incredibly small number vis-a-vis the original 100 where they get it, they take it, and they refill it.
+[2:54 - 2:56]  That's horrible execution.
+[2:56 - 3:02]  And that term for this whole process breaking down is referred to as non-adherence.
+[3:02 - 3:03]  Okay.
+[3:03 - 3:07]  So it turns out that at any given point in time, 50% of patients are non-adherent.
+[3:07 - 3:08]  Half!
+[3:08 - 3:09]  Okay.
+[3:09 - 3:14]  Now, let's put that in terms of the overall population and taking pills because we take a
+[3:14 - 3:15]  lot of pills here in America.
+[3:15 - 3:20]  So 55% of Americans take some type of chronic medication ongoing.
+[3:20 - 3:21]  Okay.
+[3:21 - 3:26]  So that means that if you've got, let's say, 1,000 employees on your health plan, that means
+[3:26 - 3:33]  you've got 550 employees who are taking a chronic medication.
+[3:33 - 3:45]  And if you have only 25% of those 550 taking the medication correctly, that means you have
+[3:45 - 3:48]  75% of those 550 not taking it correctly.
+[3:48 - 3:56]  So if you take the 550 times 0.75, that means you have 413 employees who are not taking their
+[3:56 - 3:57]  medications correctly.
+[3:57 - 4:01]  So in other words, out of your 1,000 employees, you've got over 40%, you've got 413 employees
+[4:01 - 4:03]  who are not taking their pills right.
+[4:03 - 4:04]  Like you don't see that anywhere.
+[4:04 - 4:06]  There's no red light going off above their head.
+[4:06 - 4:10]  There's nothing on their claims that says, bling, bling, bling, bling, bling, bling, bling,
+[4:10 - 4:11]  look at these people there.
+[4:11 - 4:12]  But they're there.
+[4:12 - 4:13]  Okay.
+[4:13 - 4:17]  So just because you don't know that they're there, that doesn't mean they're not there.
+[4:17 - 4:21]  There's significant implications to those 413 people.
+[4:21 - 4:35]  Now, believe it or not, 33 to 69% of all hospitalizations are due to non-adherence to medications.
+[4:35 - 4:38]  So from like a third to two thirds.
+[4:38 - 4:43]  So let's just put the difference or about the difference and say it's like half, like half
+[4:43 - 4:46]  of all hospitalizations are from people not taking their pills correctly.
+[4:46 - 4:51]  Now let's break that down in terms of what that's specifically costing an employer plan.
+[4:51 - 4:57]  So 33% of overall health plan costs are due to hospital care.
+[4:57 - 4:58]  Okay.
+[4:58 - 5:05]  If half of all hospitalizations are due to non-adherence to medications, well that means that half
+[5:05 - 5:14]  of 33 is about 16% of your total health plan costs are due to hospitalizations from non-adherence.
+[5:14 - 5:15]  Okay.
+[5:15 - 5:19]  So you've got 16% of your health plan costs due to non-adherence of medication.
+[5:19 - 5:24]  So again, if you've got a thousand employees on your health plan and it's about $10,000
+[5:24 - 5:31]  per employee per year, then the $10,000 per employee per year times a thousand employees,
+[5:31 - 5:33]  that's $10 million a year that you're spending on healthcare costs.
+[5:33 - 5:34]  Okay.
+[5:34 - 5:39]  Well, $10,000 a year times 16% is $1.6 million.
+[5:39 - 5:44]  You are spending one, if you've got a thousand employees, you're spending $1.6 million a year
+[5:44 - 5:49]  because people are not filling, taking and getting the refills on their prescriptions
+[5:49 - 5:50]  correctly.
+[5:50 - 5:59]  Now, so if you break that down per the thousand employees, that comes out to $1,600 per employee
+[5:59 - 6:00]  per year.
+[6:00 - 6:05]  And if you divide that by 12, it comes out to $133 per employee per month.
+[6:05 - 6:09]  So I said in a previous video about how employers are like, we're getting PEPs.
+[6:09 - 6:11]  We're getting all these PEP fees.
+[6:11 - 6:20]  Well, shoot, hiding in your claims is a $133 per employee per month fee for non-adherence
+[6:20 - 6:21]  to medications.
+[6:21 - 6:22]  Okay.
+[6:22 - 6:26]  Now let's actually not even apply it across your entire plan.
+[6:26 - 6:31]  Let's just apply it to those 415 people who are not taking their pills.
+[6:31 - 6:37]  So you take the 1.6 million and you divide it by the 413 people who are specifically responsible
+[6:37 - 6:38]  for that 1.6 million.
+[6:38 - 6:39]  And look, I'm not blaming them.
+[6:39 - 6:41]  This is a complex situation.
+[6:41 - 6:43]  I'm not, this is not pointing the finger.
+[6:43 - 6:46]  This is talking about solutions.
+[6:46 - 6:51]  For those people that are not taking their medications, they're costing your plan $3,874
+[6:51 - 6:52]  a year.
+[6:52 - 6:58]  That means each one of those people is costing your plan almost $4,000 a year, which if you
+[6:58 - 7:05]  break it down by month, they're costing $323 per non-adherent employee per month.
+[7:05 - 7:10]  You're just, you might as well just like fire to that money because that's what you're wasting.
+[7:10 - 7:13]  Now, that begs the question, why?
+[7:13 - 7:16]  Why are they not taking their medications?
+[7:16 - 7:18]  Well, the results are fascinating.
+[7:18 - 7:20]  Oh, by the way, all these statistics are from the CDC.
+[7:20 - 7:26]  I'll leave a link in the show notes to the CDC Grand Rounds video where I got all this information.
+[7:26 - 7:27]  Okay.
+[7:27 - 7:31]  So 42% said it's because they forgot.
+[7:31 - 7:35]  37% said it's because they ran out.
+[7:35 - 7:40]  97% said it was because they were away from home.
+[7:40 - 7:44]  And finally, 22% said it was because of cost.
+[7:44 - 7:48]  Now there's some other reasons below 22%, but notice the number one, number two, and number
+[7:48 - 7:50]  three reason is not cost.
+[7:50 - 7:55]  So a lot of times I read, okay, well the cost of medications is a problem.
+[7:55 - 7:56]  And it is.
+[7:56 - 8:01]  I'm not saying it's not a problem, but it's not the A number one problem.
+[8:01 - 8:05]  The A number one problem is you forget or you run out or you're away from home.
+[8:05 - 8:06]  And guess what?
+[8:06 - 8:14]  Reminder interventions between phone calls and text messages and in-person appointments
+[8:14 - 8:21]  and virtual appointments have all been shown to increase adherence rates.
+[8:21 - 8:23]  This is a solvable problem.
+[8:23 - 8:25]  This is a huge problem for a health plan.
+[8:25 - 8:28]  It is a huge unseen problem.
+[8:28 - 8:32]  You're just like, you just assume people are taking their medications, right?
+[8:32 - 8:34]  We need to assume the opposite.
+[8:34 - 8:39]  We need to assume that people are not taking their medications because only about 50% are
+[8:39 - 8:41]  taking them and 50% aren't.
+[8:41 - 8:42]  And that's my point for today.
+[8:42 - 8:43]  Thank you for watching a healthcare Z.
+[8:43 - 8:45]  Thank you for watching a healthcare Z.
+[8:45 - 8:47]  .
+[8:47 - 8:51]  .
+[8:51 - 8:53]  .
+[8:53 - 8:55]  .
+[8:55 - 8:57]  .
+[8:57 - 8:59]  .
+[8:59 - 9:01]  .
+[9:01 - 9:03]  .
+[9:03 - 9:05]  .
+[9:05 - 9:06]  .
+[9:06 - 9:06]  .
+[9:06 - 9:06]  .
+[9:06 - 9:06]  .
+[9:06 - 9:06]  .
+[9:06 - 9:06]  .
+[9:06 - 9:06]  .

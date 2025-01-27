@@ -1,0 +1,76 @@
+Title: How to Vet a Healthcare Vendor
+URL: https://www.youtube.com/watch?v=_RI9cdvvvyQ
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing how to vet a healthcare vendor. Now as the prior co-founder and chief medical officer of Compass Professional Health Services, I myself was a vendor. So I knew a lot about what we did and I saw a lot of employers that had a lot of other vendors that would work alongside us at Compass. In fact, we had like 2,000 employer clients. And so I worked with a ton of employers and a ton of broker benefit consultants and I saw specifically the world of TPAs or their ASO, telehealth, an on-site, near-site clinic, navigation services like Compass, PBM, wellness, second opinion programs. So let's go through my opinion of what are key aspects to vet in a vendor and they are the results, their operations, and their finances. So first off, with results, of course none of this matters unless the vendor can actually deliver. Now of course all the vendors will have various case studies and graphs. They will almost universally claim savings, right? That word savings should almost be like banned from the vendor lexicon. Like it should be no longer allowed, all right? Because how is that savings measured? And this is where I would argue, like let's not talk to the salesperson about that. Because arguably they either, one, do not know, or two, they might make it up into how it was actually measured. So we need to actually go to the source of who actually measured it and how was it measured. Okay, it was measured off of claims. Okay, well how was it measured off of claims? It was measured off of claims from these particular diagnoses, these particular CPT codes, this particular year, or this particular time period, vis-a-vis this particular time period. And the intervention was X. And we specifically need to get into the weeds about how that measurement occurred and determine if we believe that measurement. Okay, the reason for that is because oftentimes quote-unquote savings are measured off of billed charges. Well billed charges are kind of a fictitious number, so that's not real savings. Oftentimes in the PBM world, savings are off of AWP, which is like not necessarily, so some of the nickname for AWP is ain't what's paid. Okay, so, you know, is that really real? Maybe not. Okay, so next up, even if there are, you go through that whole process and there are real results. Okay, so the real results for those particular organizations might not apply to your particular organization. Therefore, it's very important to pilot the program in your own organization. Okay, you are a unique organization. It may or may not work the same way. It frankly may work better in your organization, but you want to pilot it first because there's probably some customizations and some tweaks that you want to do that you'll learn about during the pilot period. Okay, next up, you're going to want to vet the operations. And what does that specifically mean? That means visiting the vendor's site in person. If they're a multi-site vendor, you might need to go to multiple sites at the vendor. When you are there, you will want to talk to random employees. So you'll be taken on a tour and you say, okay, fine, tour guide, thank you for your tour. I want to talk to just random people as I go around the office. And we're going to ask them about their job. Hey, Mary, hey, Steve, tell me about what you do. And this is super important because this is how you'll determine if they are competent. Because if they really understand what they are doing, then they will be able to describe what it is that they're doing. And if they do not know what they're doing, they're going to have a hard time describing what it is that they're doing. They might use words like, it's complicated. Well, of course it's complicated. I want you to explain to me how it's complicated. And unless they are able to do that, then they're probably not competent. And the next step I would say is, of course, in terms of the technology. Because so many vendors, appropriately so, use a lot of technology. I was told this by a gentleman who works in IT who actually worked for a company that was hired by private equity firms to do the due diligence on IT for the firms that they either had purchased or were about to purchase. And guess what he said? But it probably means that their IT organization pretty good. Now, if that closet is a mess, it probably means that their IT organization has some problems. And this is especially important when it relates to data security. So even with major health insurance carriers, they have had major data security breaches. So it is not enough to say, oh, it's a large established company, therefore our data is safe. That is absolutely not necessarily true. And we had Compass customers where their major carrier, ASO, had huge data breaches involving social security numbers. So it is very important. And basically, you know, you as a broker benefit consultant, HR person, you might not have data security, you know, vetting expertise. But you need to hire somebody or have somebody within your own organization to actually do that. Okay. Third and finally, to vet their finances. Okay. Of the finances, probably the accounting statement, potentially most useful, is the statement of cash, right? Because the balance sheet and the income statement, I mean, you can have all sorts of sort of weird things on there, right? But the statement of cash is like, okay, what's the cash coming in? What's the cash going out? And how much cash do they have on hand? Now, for most vendors, it's like negative, right? For all these like VC started stuff, it's like they're burning cash like crazy. Even publicly traded vendors, telemedicine vendors, are burning cash like crazy. Okay. So, fine. So, do they have access to future cash in the capital markets? Maybe, maybe not. But I will say that especially if and when there is a recession going forward, that it is very important for that vendor to either be cash flow even or cash flow positive. Because if they are cash flow negative, it is highly unlikely that they will have access. No matter what they say, it's highly unlikely that they would have access to greater amounts of capital in a recession when everybody's clamping down and pulling back. Okay. And that's my message for today in vetting a healthcare vendor. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:26]  Hello, this is Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing how to vet a healthcare vendor. Now as the prior co-founder and chief medical officer of Compass Professional Health Services, I myself was a vendor. So I knew a lot about what we did and I saw a lot of employers that had a lot of other vendors that would work alongside us at Compass. In fact, we had like 2,000 employer clients.
+[0:26 - 0:52]  And so I worked with a ton of employers and a ton of broker benefit consultants and I saw specifically the world of TPAs or their ASO, telehealth, an on-site, near-site clinic, navigation services like Compass, PBM, wellness, second opinion programs. So let's go through my opinion of what are key aspects to vet in a vendor and they are the results, their operations, and their finances.
+[0:52 - 1:07]  So first off, with results, of course none of this matters unless the vendor can actually deliver. Now of course all the vendors will have various case studies and graphs. They will almost universally claim savings, right?
+[1:07 - 1:22]  That word savings should almost be like banned from the vendor lexicon. Like it should be no longer allowed, all right? Because how is that savings measured? And this is where I would argue, like let's not talk to the salesperson about that.
+[1:22 - 1:33]  Because arguably they either, one, do not know, or two, they might make it up into how it was actually measured. So we need to actually go to the source of who actually measured it and how was it measured.
+[1:33 - 1:49]  Okay, it was measured off of claims. Okay, well how was it measured off of claims? It was measured off of claims from these particular diagnoses, these particular CPT codes, this particular year, or this particular time period, vis-a-vis this particular time period.
+[1:49 - 1:58]  And the intervention was X. And we specifically need to get into the weeds about how that measurement occurred and determine if we believe that measurement.
+[1:58 - 2:05]  Okay, the reason for that is because oftentimes quote-unquote savings are measured off of billed charges.
+[2:05 - 2:08]  Well billed charges are kind of a fictitious number, so that's not real savings.
+[2:08 - 2:19]  Oftentimes in the PBM world, savings are off of AWP, which is like not necessarily, so some of the nickname for AWP is ain't what's paid.
+[2:19 - 2:23]  Okay, so, you know, is that really real? Maybe not.
+[2:23 - 2:28]  Okay, so next up, even if there are, you go through that whole process and there are real results.
+[2:28 - 2:36]  Okay, so the real results for those particular organizations might not apply to your particular organization.
+[2:36 - 2:40]  Therefore, it's very important to pilot the program in your own organization.
+[2:41 - 2:46]  Okay, you are a unique organization. It may or may not work the same way.
+[2:47 - 2:56]  It frankly may work better in your organization, but you want to pilot it first because there's probably some customizations and some tweaks that you want to do that you'll learn about during the pilot period.
+[2:56 - 2:59]  Okay, next up, you're going to want to vet the operations.
+[3:00 - 3:03]  And what does that specifically mean? That means visiting the vendor's site in person.
+[3:04 - 3:07]  If they're a multi-site vendor, you might need to go to multiple sites at the vendor.
+[3:07 - 3:11]  When you are there, you will want to talk to random employees.
+[3:11 - 3:15]  So you'll be taken on a tour and you say, okay, fine, tour guide, thank you for your tour.
+[3:15 - 3:17]  I want to talk to just random people as I go around the office.
+[3:18 - 3:20]  And we're going to ask them about their job.
+[3:20 - 3:24]  Hey, Mary, hey, Steve, tell me about what you do.
+[3:24 - 3:27]  And this is super important because this is how you'll determine if they are competent.
+[3:28 - 3:34]  Because if they really understand what they are doing, then they will be able to describe what it is that they're doing.
+[3:34 - 3:39]  And if they do not know what they're doing, they're going to have a hard time describing what it is that they're doing.
+[3:39 - 3:42]  They might use words like, it's complicated.
+[3:42 - 3:43]  Well, of course it's complicated.
+[3:43 - 3:46]  I want you to explain to me how it's complicated.
+[3:47 - 3:51]  And unless they are able to do that, then they're probably not competent.
+[3:51 - 3:56]  And the next step I would say is, of course, in terms of the technology.
+[3:56 - 4:00]  Because so many vendors, appropriately so, use a lot of technology.
+[4:00 - 4:12]  I was told this by a gentleman who works in IT who actually worked for a company that was hired by private equity firms to do the due diligence on IT for the firms that they either had purchased or were about to purchase.
+[4:12 - 4:42]  And guess what he said?
+[4:42 - 4:45]  But it probably means that their IT organization pretty good.
+[4:45 - 4:50]  Now, if that closet is a mess, it probably means that their IT organization has some problems.
+[4:50 - 4:53]  And this is especially important when it relates to data security.
+[4:54 - 5:00]  So even with major health insurance carriers, they have had major data security breaches.
+[5:00 - 5:04]  So it is not enough to say, oh, it's a large established company, therefore our data is safe.
+[5:05 - 5:07]  That is absolutely not necessarily true.
+[5:08 - 5:16]  And we had Compass customers where their major carrier, ASO, had huge data breaches involving social security numbers.
+[5:16 - 5:18]  So it is very important.
+[5:18 - 5:25]  And basically, you know, you as a broker benefit consultant, HR person, you might not have data security, you know, vetting expertise.
+[5:25 - 5:29]  But you need to hire somebody or have somebody within your own organization to actually do that.
+[5:29 - 5:29]  Okay.
+[5:30 - 5:33]  Third and finally, to vet their finances.
+[5:33 - 5:33]  Okay.
+[5:33 - 5:40]  Of the finances, probably the accounting statement, potentially most useful, is the statement of cash, right?
+[5:40 - 5:46]  Because the balance sheet and the income statement, I mean, you can have all sorts of sort of weird things on there, right?
+[5:46 - 5:49]  But the statement of cash is like, okay, what's the cash coming in?
+[5:49 - 5:51]  What's the cash going out?
+[5:51 - 5:53]  And how much cash do they have on hand?
+[5:54 - 5:57]  Now, for most vendors, it's like negative, right?
+[5:57 - 6:01]  For all these like VC started stuff, it's like they're burning cash like crazy.
+[6:01 - 6:06]  Even publicly traded vendors, telemedicine vendors, are burning cash like crazy.
+[6:07 - 6:07]  Okay.
+[6:07 - 6:08]  So, fine.
+[6:08 - 6:10]  So, do they have access to future cash in the capital markets?
+[6:11 - 6:11]  Maybe, maybe not.
+[6:12 - 6:22]  But I will say that especially if and when there is a recession going forward, that it is very important for that vendor to either be cash flow even or cash flow positive.
+[6:22 - 6:26]  Because if they are cash flow negative, it is highly unlikely that they will have access.
+[6:26 - 6:35]  No matter what they say, it's highly unlikely that they would have access to greater amounts of capital in a recession when everybody's clamping down and pulling back.
+[6:35 - 6:35]  Okay.
+[6:35 - 6:39]  And that's my message for today in vetting a healthcare vendor.
+[6:39 - 6:41]  Thank you for watching A Healthcare Z.

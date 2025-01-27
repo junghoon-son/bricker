@@ -1,0 +1,68 @@
+Title: Hospital Posts Lab Prices on EMR, Doctors Change Behavior
+URL: https://www.youtube.com/watch?v=4gccZxomX0c
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Hospital Post Lab Costs and the Doctors Change. Now, this is one of my favorite studies of all time so I had to share this with you on A Healthcare Z. So it comes from where I did my residency at Johns Hopkins Hospital and I actually know the lead investigator. He did this study after I was there and after I left. But the fact that this hit so close to home just adds to how much I love this study. So what they did was they posted the Medicare cost for 61 lab tests on the electronic medical record and they had a control period and a test period. And during the control period they did not have the cost of the labs on the EMR. So when you were ordering all these different 61 blood tests you had no idea what they cost. But in the time when they were testing it they then added on the cost for all those 61 lab tests. And they said okay well when the physicians are clicking their mouse buttons on the computers then do they change their lab test ordering behavior if they see what the Medicare cost of those tests are. And guess what they found? The number of lab tests per patient went down by 9% when they showed the cost of the lab tests. Doctors clicking along and it says okay well that test is going to be X amount of dollars. Doctor scratches his head or her head and says maybe I don't need to order that test. Apparently that happened to the tune of 9% fewer tests. Next up the types of tests move from more expensive tests to less expensive tests as a substitute. So one of the most common tests blood tests in a hospital is referred to as the comprehensive metabolic panel. It shows your sodium, your potassium, your glucose level, your kidney function, some other things as well. It has a whole bunch of liver function tests if you order the comprehensive metabolic panel. And at Medicare it costs them 15 bucks. Okay now when they posted that 15 dollar price the number of comprehensive metabolic panels went down by 10,000 tests. And then coincidentally the number of basic metabolic panel tests which is almost the same thing as a comprehensive metabolic panel except it doesn't have all the liver tests. And typically the doctor does not need to see all those liver tests so frequently. So they order the basic metabolic panel instead of the comprehensive metabolic panel and that only costs 12 dollars to Medicare instead of 15. Okay guess what? Coincidentally the number of metabolic basic metabolic tests went up by 10,000. The same number that the number of comprehensive metabolic penalty tests went down. So in other words the doctors were like oh I don't really need the comprehensive metabolic penalty test today I'll just order the BMP instead. Look at that these doctors saving taxpayer money, Medicare money, amazing. Now so one of the keys to this study was that there was no impact on the doctor pay because they were all on salary. So there was no financial incentive for them to order the more expensive tests or even the less expensive tests. They weren't getting like bonuses for ordering less expensive tests. They were getting straight salary no matter what. Also there was no clinical guideline change. They didn't say that you should order these tests or you shouldn't order these tests. They said look doctor it's at your discretion. Do whatever you think is best for the patient. And look what happened when they did what's best for the patient. Like the previous uh video that I made on Dr. Brent James that I will leave a link to in the article. When you improve the quality and the efficiency of the testing the costs go down. You don't even have to make a quote unquote concerted effort to lower costs. You just have to align incentives correctly. So transparency plus financial independence of the doctor. In other words they're not financially incentivized to do one thing or to do another thing on behalf of the patient. They're just what do what they're supposed to do which is the best thing possible for the patient. Okay now in terms of decreasing the number of labs there are a million ways where hospitals could decrease the number of things that they do if they just show the doctors hey this is what it actually costs and then the doctors were not financially incentivized to do more or less. They would just say look here's your salary but oh by the way here's how much this stuff costs. So would the number of surgeries go down? Would the number of endoscopies go down? Would the number of cardiac casts go down? I'll also leave a link in the show notes to Dr. Stephen Nissen. The video I did of Dr. Stephen Nissen who's the head of cardiology at the Cleveland Clinic and he said the exact same thing which is why he has his interventional cardiologist at the Cleveland Clinic on salary. He does not want them to be financially motivated to do more cardiac casts than need to be done. Okay finally the point I want to make is is that look what was the technological innovation that drove efficiency at the hospital? It was a minor change it was essentially adding a column in the EMR. Okay so like this is not some sort of complex like sophisticated technological change. So the point is is that if you're going to be looking for quote unquote technological innovations, the real technological innovation that healthcare need is incentive innovation. So if your job is to look at innovations and say hey is this going to improve patient care and lower costs etc etc. The point is does this technology it does it innovate incentives in a way that is best for patient care? And that's really the question that we should be asking ourselves about technological innovations. And that's my point for today. Thank you for watching a healthcare scene.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic
+[0:05 - 0:10]  is Hospital Post Lab Costs and the Doctors Change.
+[0:10 - 0:15]  Now, this is one of my favorite studies of all time so I had to share this with you on
+[0:15 - 0:20]  A Healthcare Z. So it comes from where I did my residency at Johns Hopkins Hospital and
+[0:20 - 0:24]  I actually know the lead investigator. He did this study after I was there and after
+[0:24 - 0:29]  I left. But the fact that this hit so close to home just adds to how much I love this
+[0:29 - 0:41]  study. So what they did was they posted the Medicare cost for 61 lab tests on the electronic
+[0:41 - 0:46]  medical record and they had a control period and a test period. And during the control period
+[0:46 - 0:51]  they did not have the cost of the labs on the EMR. So when you were ordering all these different
+[0:51 - 0:57]  61 blood tests you had no idea what they cost. But in the time when they were testing it they
+[0:57 - 1:03]  then added on the cost for all those 61 lab tests. And they said okay well when the physicians
+[1:03 - 1:10]  are clicking their mouse buttons on the computers then do they change their lab test ordering behavior
+[1:10 - 1:17]  if they see what the Medicare cost of those tests are. And guess what they found? The number
+[1:17 - 1:25]  of lab tests per patient went down by 9% when they showed the cost of the lab tests. Doctors
+[1:25 - 1:30]  clicking along and it says okay well that test is going to be X amount of dollars. Doctor scratches
+[1:30 - 1:36]  his head or her head and says maybe I don't need to order that test. Apparently that happened to the
+[1:36 - 1:45]  tune of 9% fewer tests. Next up the types of tests move from more expensive tests to less expensive tests
+[1:45 - 1:50]  as a substitute. So one of the most common tests blood tests in a hospital is referred to as the
+[1:50 - 1:55]  comprehensive metabolic panel. It shows your sodium, your potassium, your glucose level, your kidney
+[1:55 - 1:59]  function, some other things as well. It has a whole bunch of liver function tests if you order the
+[1:59 - 2:07]  comprehensive metabolic panel. And at Medicare it costs them 15 bucks. Okay now when they posted that
+[2:07 - 2:14]  15 dollar price the number of comprehensive metabolic panels went down by 10,000 tests. And then
+[2:14 - 2:20]  coincidentally the number of basic metabolic panel tests which is almost the same thing as a
+[2:20 - 2:25]  comprehensive metabolic panel except it doesn't have all the liver tests. And typically the doctor
+[2:25 - 2:31]  does not need to see all those liver tests so frequently. So they order the basic metabolic panel
+[2:31 - 2:37]  instead of the comprehensive metabolic panel and that only costs 12 dollars to Medicare instead of 15.
+[2:37 - 2:43]  Okay guess what? Coincidentally the number of metabolic basic metabolic tests went up by 10,000. The
+[2:43 - 2:48]  same number that the number of comprehensive metabolic penalty tests went down. So in other words the
+[2:48 - 2:53]  doctors were like oh I don't really need the comprehensive metabolic penalty test today I'll just order the
+[2:53 - 3:02]  BMP instead. Look at that these doctors saving taxpayer money, Medicare money, amazing. Now so one of the
+[3:02 - 3:11]  keys to this study was that there was no impact on the doctor pay because they were all on salary. So there was
+[3:11 - 3:16]  no financial incentive for them to order the more expensive tests or even the less expensive tests.
+[3:16 - 3:21]  They weren't getting like bonuses for ordering less expensive tests. They were getting straight salary no matter what.
+[3:21 - 3:27]  Also there was no clinical guideline change. They didn't say that you should order these tests or you shouldn't order these tests.
+[3:27 - 3:33]  They said look doctor it's at your discretion. Do whatever you think is best for the patient.
+[3:33 - 3:40]  And look what happened when they did what's best for the patient. Like the previous uh video that I made on Dr. Brent James that I will leave a link to in the article.
+[3:40 - 3:45]  When you improve the quality and the efficiency of the testing the costs go down. You don't even have to
+[3:45 - 3:52]  make a quote unquote concerted effort to lower costs. You just have to align incentives correctly.
+[3:52 - 3:59]  So transparency plus financial independence of the doctor. In other words they're not financially incentivized
+[3:59 - 4:05]  to do one thing or to do another thing on behalf of the patient. They're just what do what they're supposed
+[4:05 - 4:12]  to do which is the best thing possible for the patient. Okay now in terms of decreasing the number
+[4:12 - 4:20]  of labs there are a million ways where hospitals could decrease the number of things that they do
+[4:20 - 4:25]  if they just show the doctors hey this is what it actually costs and then the doctors were not
+[4:25 - 4:30]  financially incentivized to do more or less. They would just say look here's your salary but oh by the
+[4:30 - 4:35]  way here's how much this stuff costs. So would the number of surgeries go down? Would the number of endoscopies go down?
+[4:35 - 4:40]  Would the number of cardiac casts go down? I'll also leave a link in the show notes to Dr. Stephen Nissen.
+[4:40 - 4:45]  The video I did of Dr. Stephen Nissen who's the head of cardiology at the Cleveland Clinic and he said the
+[4:45 - 4:53]  exact same thing which is why he has his interventional cardiologist at the Cleveland Clinic on salary.
+[4:53 - 5:01]  He does not want them to be financially motivated to do more cardiac casts than need to be done.
+[5:01 - 5:06]  Okay finally the point I want to make is is that look what was the technological innovation
+[5:06 - 5:12]  that drove efficiency at the hospital? It was a minor change it was essentially adding a column
+[5:12 - 5:20]  in the EMR. Okay so like this is not some sort of complex like sophisticated technological change.
+[5:20 - 5:25]  So the point is is that if you're going to be looking for quote unquote technological innovations,
+[5:25 - 5:33]  the real technological innovation that healthcare need is incentive innovation. So if your job is to
+[5:33 - 5:39]  look at innovations and say hey is this going to improve patient care and lower costs etc etc. The
+[5:39 - 5:48]  point is does this technology it does it innovate incentives in a way that is best for patient care?
+[5:48 - 5:53]  And that's really the question that we should be asking ourselves about technological innovations.
+[5:53 - 6:05]  And that's my point for today. Thank you for watching a healthcare scene.

@@ -1,0 +1,146 @@
+Title: DaVita and Fresenius Dialysis Investigative Reporting
+URL: https://www.youtube.com/watch?v=chNGVgKYiKc
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Freakonomics Podcast. Is dialysis a test case for Medicare for all? Now, like I mentioned, the Freakonomics Radio podcast that just came out, it is episode 457 from April 8th of 2021, is about dialysis in America. And it is so good. It like almost brought me to tears. It was that good. I'm going to leave a link for this podcast in the show notes as well as a link for the transcript of this podcast. Stop watching this video right now and listen to this podcast or read the transcript. It is so good. It will educate you on so many nuances. You will be like one of the smartest people in healthcare if you listen to this podcast. Now, believe it or not, dialysis is 1% of the entire federal budget. Alone. Just not for healthcare, not for like kidney care, but just dialysis is 1% of the entire federal budget. Now, this podcast goes in detail, is a detailed investigation of the two largest dialysis companies in America. DeVito, which is based in Colorado, and Fresenius, which is actually a German company. They're both publicly traded. Now, Davida and Fresenius run 5,000 dialysis clinics out of the total of 7,500 dialysis clinics in America. In other words, two-thirds. Now, just a decade or so ago, like 80% of dialysis facilities used to be independent. And now, two-thirds of them are run by just two companies. Now, a specific healthcare researcher and economist from Duke University did an analysis of all these acquisitions. Essentially, I mean, this is nothing new. DeVito and Fresenius are just engaging in a roll-up strategy where you take one company and you roll up a whole bunch of small ones underneath them, and you get a variety of economic benefits as a result of that roll-up. Okay, this has been done before. This is not new. Okay, but what are the clinical consequences of this roll-up? And the Duke University researchers specifically looked at this, and they found that after an independent dialysis center was acquired, and they examined 12,000 of these, okay, over time, okay? Now, that EPO, which is the medication that is used to raise the blood level, in other words, to treat the anemia that occurs with kidney failure, because the kidneys produce EPO to generate red blood cells in your bone marrow. I know it's kind of weird. Your kidneys actually stimulate your bone marrow to create red blood cells. Who would have thought? But when your kidneys fail, they stop producing EPO. So you need an outside shot of EPO, otherwise you'll become anemic. Okay, fine. The EPO doses increased 200% to the exact same patients with the exact same condition. The only thing that changed was the ownership of the dialysis center, and the EPO shots doubled, because the dialysis center would make more money off of commercial insurance or Medicare the more EPO doses they gave. Okay, so that EPO was no small amount. It was 25% of the dialysis facility's revenue. A quarter! Just from anemia shots. It was 40% of Divida and Fresenius' profit. And guess what? Medicare caught on to this, so they changed their reimbursement policy for EPO, such that those facilities could no longer get reimbursed by dose. And when they changed the way they paid, Medicare paid for EPO, the number of EPO shots in the clinics went down by 50%. Same patients, same clinical scenario. All that changed was the way that it was paid for. So it looks like here we have an example of financial interest driving clinical decisions and clinical actions. I mean, you can't get any better than this. Okay, they also found that 9.5% of the people that went from these independent dialysis facilities to being owned by Fresenius and Divida, the number of people who were either receiving a transplant or were put on a transplant wait list decreased by 9.5%, by almost 10%. Why? Because if you get a kidney transplant, your kidney failure is cured and you no longer need dialysis and you no longer go to a Divida or Fresenius dialysis clinic. Okay, again, is this a change? And this is, again, the only thing that changed, the patient didn't change, the only thing that changed was that the clinic ownership changed from being independent to being owned by Divida or Fresenius. Okay, I'll leave that up to you to decide whether that was correlation or causation. Now, next up, over time, Divida has had a number of challenges. Okay, so they settled for $350 million claims from the federal government that they were engaged in a bribery scheme or a kickback scheme to physicians where they were paying for referrals to their Divida dialysis centers. Okay, now, Divida has paid out a total in fines and settlements of $1 billion over the years. This is no small amount. It's not like these are isolated things. The point is that it's happened over and over again. Okay, now, the important thing for many of you because you work in commercial insurance, either through an insurance carrier or through a broker-benefit consultant or through HR or in some other healthcare capacity, is that for commercial insurance, Medicare doesn't pay for somebody who goes on dialysis who's under the age of 65 for the first 30 months. Right? So you're talking two and a half years of commercial insurance, Blue Cross United, Cigna, Aetna, etc., paying for dialysis before Medicare kicks in. So when you're 45, you can get on Medicare with dialysis, but it takes two and a half years for that to happen. Now, those commercially insured patients would get dialyzed at Divida and Fresenius. They made up about 12% of the patients at Divida and Fresenius. However, and this is the big however, these 12% of the patients made up 40% of Divida and Fresenius' revenue and almost all of the profit because commercial insurance cannot get as good of a deal as Medicare can get. In other words, Medicare just says we're going to pay $250 per dialysis session, $752,000 a week, and the commercial insurance, the best that they can do is Divida and Fresenius because they control two-thirds of all the dialysis facilities. They get four times more than what the government gets. So that is why Divida and Fresenius, they love commercially insured folks because they make, if you've got one person here with Medicare and another person here with commercial insurance, Divida and Fresenius are getting paid four times more by this person here than by this person here. Okay, so how, what are some of the things they do to continue to have patients on commercial insurance? So if the person loses their job or they can't pay their COBRA premiums, etc., etc., they'll lose their commercial insurance and they'll go on Medicare. So Divida and Fresenius don't want that to happen for financial reasons, right? If I was running Divida and Fresenius, I have a fiduciary responsibility to my shareholders to keep patients on commercial insurance as long as possible. What am I going to do? Am I going to tell my shareholders that I'm not going to try to keep my patients on my most lucrative source of revenue? I can't tell my shareholders that. So they give money to the American Kidney Fund, which then pays the premiums for people with dialysis who have lost their job. The American Kidney Fund pays the premiums so people can stay on commercial insurance. The American Kidney Fund gets $247 million a year from Divida and Fresenius. It is 80% of the American Kidney Fund's budget. So it appears as though it's almost like, I don't want to use the word laundering, but they're using it as a route to essentially subsidize the premiums or totally pay for the premiums. And they did an analysis and they found that the ROI to Divida and Fresenius for giving money to the American Kidney Fund was $3.5 to $1. For every $1 they gave to the American Kidney Fund, they would get back $3.5 because of the higher reimbursement from commercial insurance. Now, the Freakonomics Podcast is so good. They go out, they talk to the chief medical officers of Divida, the chief medical officer of Fresenius. They interview the economics researchers. They even interview hedge fund managers that short these stocks. Okay? Now, they tried to... Why am I telling you this? They were exhaustive in trying to interview people. They tried to interview the American Kidney Fund. Of all the people they tried to talk to, the American Kidney Fund were the only people who would not talk to them. They wouldn't talk to them. Now, interestingly, in California, there is a bill, it's AB 290, which says that in the state of California, commercially insured dialysis will be reimbursed at Medicare rates. And believe it or not, this passed the state house in California, and it was even signed by the governor. And then the state immediately got sued. And guess who sued them? Was it Fresenius? Was it Divida? No. It was the American Kidney Fund that sued them. Now, because of that suit, and because of COVID, the law has not taken effect. But it just shows the interesting relationships that exist in dialysis in America. So what's my point? Why am I telling you all this? This is fantastic news. I'm actually incredibly encouraged by this. Because here you have an incredibly mainstream podcast. The Freakonomics Radio podcast is one of the most widely listened to podcasts on all of Apple podcasts. And so here you have a main... I mean, this is as mainstream as it gets. This is almost like NBC, ABC, or CBS News, like, doing a huge story about this. So here you have mainstream podcasts doing a very detailed study of a very... Let's just... I don't want to say deceptive, but it just seems like there's a lot of interesting stuff going on here. And so really, like I said, listen to the Freakonomics podcast. It probably will bring you to tears just like it did me. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:05 - 0:08]  Today's topic is Freakonomics Podcast.
+[0:09 - 0:14]  Is dialysis a test case for Medicare for all?
+[0:14 - 0:21]  Now, like I mentioned, the Freakonomics Radio podcast that just came out,
+[0:21 - 0:27]  it is episode 457 from April 8th of 2021, is about dialysis in America.
+[0:27 - 0:33]  And it is so good. It like almost brought me to tears. It was that good.
+[0:34 - 0:39]  I'm going to leave a link for this podcast in the show notes as well as a link for the transcript of this podcast.
+[0:40 - 0:44]  Stop watching this video right now and listen to this podcast or read the transcript.
+[0:44 - 0:47]  It is so good. It will educate you on so many nuances.
+[0:48 - 0:52]  You will be like one of the smartest people in healthcare if you listen to this podcast.
+[0:52 - 0:59]  Now, believe it or not, dialysis is 1% of the entire federal budget.
+[1:00 - 1:08]  Alone. Just not for healthcare, not for like kidney care, but just dialysis is 1% of the entire federal budget.
+[1:09 - 1:15]  Now, this podcast goes in detail, is a detailed investigation of the two largest dialysis companies in America.
+[1:15 - 1:19]  DeVito, which is based in Colorado, and Fresenius, which is actually a German company.
+[1:19 - 1:31]  They're both publicly traded. Now, Davida and Fresenius run 5,000 dialysis clinics out of the total of 7,500 dialysis clinics in America.
+[1:32 - 1:33]  In other words, two-thirds.
+[1:33 - 1:39]  Now, just a decade or so ago, like 80% of dialysis facilities used to be independent.
+[1:39 - 1:43]  And now, two-thirds of them are run by just two companies.
+[1:43 - 1:53]  Now, a specific healthcare researcher and economist from Duke University did an analysis of all these acquisitions.
+[1:53 - 1:56]  Essentially, I mean, this is nothing new.
+[1:56 - 2:02]  DeVito and Fresenius are just engaging in a roll-up strategy where you take one company and you roll up a whole bunch of small ones underneath them,
+[2:02 - 2:05]  and you get a variety of economic benefits as a result of that roll-up.
+[2:05 - 2:07]  Okay, this has been done before. This is not new.
+[2:07 - 2:11]  Okay, but what are the clinical consequences of this roll-up?
+[2:11 - 2:18]  And the Duke University researchers specifically looked at this, and they found that after an independent dialysis center was acquired,
+[2:19 - 2:24]  and they examined 12,000 of these, okay, over time, okay?
+[2:24 - 2:36]  Now, that EPO, which is the medication that is used to raise the blood level, in other words, to treat the anemia that occurs with kidney failure,
+[2:36 - 2:40]  because the kidneys produce EPO to generate red blood cells in your bone marrow.
+[2:40 - 2:41]  I know it's kind of weird.
+[2:41 - 2:45]  Your kidneys actually stimulate your bone marrow to create red blood cells.
+[2:45 - 2:45]  Who would have thought?
+[2:46 - 2:49]  But when your kidneys fail, they stop producing EPO.
+[2:49 - 2:53]  So you need an outside shot of EPO, otherwise you'll become anemic.
+[2:53 - 2:54]  Okay, fine.
+[2:54 - 3:02]  The EPO doses increased 200% to the exact same patients with the exact same condition.
+[3:02 - 3:07]  The only thing that changed was the ownership of the dialysis center, and the EPO shots doubled,
+[3:07 - 3:13]  because the dialysis center would make more money off of commercial insurance or Medicare the more EPO doses they gave.
+[3:13 - 3:16]  Okay, so that EPO was no small amount.
+[3:16 - 3:20]  It was 25% of the dialysis facility's revenue.
+[3:20 - 3:20]  A quarter!
+[3:21 - 3:22]  Just from anemia shots.
+[3:22 - 3:25]  It was 40% of Divida and Fresenius' profit.
+[3:25 - 3:27]  And guess what?
+[3:27 - 3:32]  Medicare caught on to this, so they changed their reimbursement policy for EPO,
+[3:32 - 3:37]  such that those facilities could no longer get reimbursed by dose.
+[3:37 - 3:46]  And when they changed the way they paid, Medicare paid for EPO, the number of EPO shots in the clinics went down by 50%.
+[3:46 - 3:49]  Same patients, same clinical scenario.
+[3:49 - 3:52]  All that changed was the way that it was paid for.
+[3:52 - 3:59]  So it looks like here we have an example of financial interest driving clinical decisions and clinical actions.
+[3:59 - 4:03]  I mean, you can't get any better than this.
+[4:04 - 4:13]  Okay, they also found that 9.5% of the people that went from these independent dialysis facilities to being owned by Fresenius and Divida,
+[4:14 - 4:21]  the number of people who were either receiving a transplant or were put on a transplant wait list decreased by 9.5%, by almost 10%.
+[4:21 - 4:31]  Why? Because if you get a kidney transplant, your kidney failure is cured and you no longer need dialysis and you no longer go to a Divida or Fresenius dialysis clinic.
+[4:31 - 4:34]  Okay, again, is this a change?
+[4:35 - 4:38]  And this is, again, the only thing that changed, the patient didn't change,
+[4:38 - 4:44]  the only thing that changed was that the clinic ownership changed from being independent to being owned by Divida or Fresenius.
+[4:44 - 4:48]  Okay, I'll leave that up to you to decide whether that was correlation or causation.
+[4:48 - 4:52]  Now, next up, over time, Divida has had a number of challenges.
+[4:53 - 5:02]  Okay, so they settled for $350 million claims from the federal government that they were engaged in a bribery scheme or a kickback scheme to physicians
+[5:02 - 5:05]  where they were paying for referrals to their Divida dialysis centers.
+[5:06 - 5:14]  Okay, now, Divida has paid out a total in fines and settlements of $1 billion over the years.
+[5:14 - 5:15]  This is no small amount.
+[5:15 - 5:17]  It's not like these are isolated things.
+[5:17 - 5:20]  The point is that it's happened over and over again.
+[5:21 - 5:26]  Okay, now, the important thing for many of you because you work in commercial insurance,
+[5:26 - 5:31]  either through an insurance carrier or through a broker-benefit consultant or through HR or in some other healthcare capacity,
+[5:32 - 5:40]  is that for commercial insurance, Medicare doesn't pay for somebody who goes on dialysis who's under the age of 65 for the first 30 months.
+[5:40 - 5:40]  Right?
+[5:40 - 5:50]  So you're talking two and a half years of commercial insurance, Blue Cross United, Cigna, Aetna, etc., paying for dialysis before Medicare kicks in.
+[5:50 - 5:55]  So when you're 45, you can get on Medicare with dialysis, but it takes two and a half years for that to happen.
+[5:55 - 6:01]  Now, those commercially insured patients would get dialyzed at Divida and Fresenius.
+[6:01 - 6:04]  They made up about 12% of the patients at Divida and Fresenius.
+[6:04 - 6:13]  However, and this is the big however, these 12% of the patients made up 40% of Divida and Fresenius' revenue and almost all of the profit
+[6:13 - 6:19]  because commercial insurance cannot get as good of a deal as Medicare can get.
+[6:19 - 6:25]  In other words, Medicare just says we're going to pay $250 per dialysis session, $752,000 a week,
+[6:25 - 6:32]  and the commercial insurance, the best that they can do is Divida and Fresenius because they control two-thirds of all the dialysis facilities.
+[6:33 - 6:36]  They get four times more than what the government gets.
+[6:36 - 6:41]  So that is why Divida and Fresenius, they love commercially insured folks because they make,
+[6:41 - 6:46]  if you've got one person here with Medicare and another person here with commercial insurance,
+[6:46 - 6:50]  Divida and Fresenius are getting paid four times more by this person here than by this person here.
+[6:50 - 6:57]  Okay, so how, what are some of the things they do to continue to have patients on commercial insurance?
+[6:58 - 7:02]  So if the person loses their job or they can't pay their COBRA premiums, etc., etc.,
+[7:02 - 7:05]  they'll lose their commercial insurance and they'll go on Medicare.
+[7:05 - 7:09]  So Divida and Fresenius don't want that to happen for financial reasons, right?
+[7:09 - 7:13]  If I was running Divida and Fresenius, I have a fiduciary responsibility to my shareholders
+[7:13 - 7:16]  to keep patients on commercial insurance as long as possible.
+[7:17 - 7:17]  What am I going to do?
+[7:17 - 7:24]  Am I going to tell my shareholders that I'm not going to try to keep my patients on my most lucrative source of revenue?
+[7:24 - 7:26]  I can't tell my shareholders that.
+[7:26 - 7:30]  So they give money to the American Kidney Fund,
+[7:30 - 7:35]  which then pays the premiums for people with dialysis who have lost their job.
+[7:35 - 7:39]  The American Kidney Fund pays the premiums so people can stay on commercial insurance.
+[7:39 - 7:44]  The American Kidney Fund gets $247 million a year from Divida and Fresenius.
+[7:44 - 7:47]  It is 80% of the American Kidney Fund's budget.
+[7:47 - 7:53]  So it appears as though it's almost like, I don't want to use the word laundering,
+[7:53 - 7:59]  but they're using it as a route to essentially subsidize the premiums or totally pay for the premiums.
+[7:59 - 8:08]  And they did an analysis and they found that the ROI to Divida and Fresenius for giving money to the American Kidney Fund was $3.5 to $1.
+[8:08 - 8:16]  For every $1 they gave to the American Kidney Fund, they would get back $3.5 because of the higher reimbursement from commercial insurance.
+[8:16 - 8:20]  Now, the Freakonomics Podcast is so good.
+[8:20 - 8:25]  They go out, they talk to the chief medical officers of Divida, the chief medical officer of Fresenius.
+[8:25 - 8:28]  They interview the economics researchers.
+[8:28 - 8:32]  They even interview hedge fund managers that short these stocks.
+[8:33 - 8:33]  Okay?
+[8:33 - 8:35]  Now, they tried to...
+[8:35 - 8:36]  Why am I telling you this?
+[8:36 - 8:38]  They were exhaustive in trying to interview people.
+[8:39 - 8:41]  They tried to interview the American Kidney Fund.
+[8:41 - 8:46]  Of all the people they tried to talk to, the American Kidney Fund were the only people who would not talk to them.
+[8:46 - 8:47]  They wouldn't talk to them.
+[8:48 - 8:56]  Now, interestingly, in California, there is a bill, it's AB 290,
+[8:56 - 9:04]  which says that in the state of California, commercially insured dialysis will be reimbursed at Medicare rates.
+[9:04 - 9:12]  And believe it or not, this passed the state house in California, and it was even signed by the governor.
+[9:12 - 9:14]  And then the state immediately got sued.
+[9:15 - 9:15]  And guess who sued them?
+[9:16 - 9:16]  Was it Fresenius?
+[9:17 - 9:17]  Was it Divida?
+[9:18 - 9:18]  No.
+[9:18 - 9:22]  It was the American Kidney Fund that sued them.
+[9:22 - 9:27]  Now, because of that suit, and because of COVID, the law has not taken effect.
+[9:27 - 9:34]  But it just shows the interesting relationships that exist in dialysis in America.
+[9:34 - 9:35]  So what's my point?
+[9:35 - 9:36]  Why am I telling you all this?
+[9:36 - 9:38]  This is fantastic news.
+[9:38 - 9:39]  I'm actually incredibly encouraged by this.
+[9:40 - 9:42]  Because here you have an incredibly mainstream podcast.
+[9:42 - 9:49]  The Freakonomics Radio podcast is one of the most widely listened to podcasts on all of Apple podcasts.
+[9:50 - 9:51]  And so here you have a main...
+[9:51 - 9:53]  I mean, this is as mainstream as it gets.
+[9:53 - 9:58]  This is almost like NBC, ABC, or CBS News, like, doing a huge story about this.
+[9:58 - 10:06]  So here you have mainstream podcasts doing a very detailed study of a very...
+[10:07 - 10:08]  Let's just...
+[10:08 - 10:13]  I don't want to say deceptive, but it just seems like there's a lot of interesting stuff going on here.
+[10:14 - 10:16]  And so really, like I said, listen to the Freakonomics podcast.
+[10:17 - 10:19]  It probably will bring you to tears just like it did me.
+[10:19 - 10:20]  And that's my point for today.
+[10:20 - 10:22]  Thank you for watching A Healthcare Z.

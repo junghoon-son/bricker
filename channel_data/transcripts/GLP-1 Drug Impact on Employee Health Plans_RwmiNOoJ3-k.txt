@@ -1,0 +1,152 @@
+Title: GLP-1 Drug Impact on Employee Health Plans
+URL: https://www.youtube.com/watch?v=RwmiNOoJ3-k
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is GLP-1 impact on employee health plan spend. Now the big GLP-1 medications that many of you are familiar with are Ozempic and Munjaro, which are used to treat diabetes and also cause weight loss as well, and then Wegovi and ZepBound, which are specifically used to treat obesity. Now Ozempic and Wegovi are the same medication, they're just at different dosages and those are the medications that are made by Novo Nordisk. And then Munjaro and ZepBound are also the same medication, they're just at different dosages and they're made by the same pharmaceutical company, which is Eli Lilly. Now the employer spend on GLP-1 medications has been increasing. So just from 2022 to 2023, it's gone from 7% to 9% of the total Rx spend is now spent on GLP-1 medications. And so over that just two year period or one year change from 22 to 23, employers have also seen their overall Rx spend really balloon where it's gone from 21 to 27% of their total healthcare spend is now in prescriptions. So prescriptions are now more than a quarter of a health plan's total spend with the rest of it being on the medical and the doctors and the hospitals and the physical therapists and the procedures, et cetera. Okay. Now these medications, like I mentioned, are used to treat diabetes of which 12% of adults have diabetes and also to treat obesity of which 42% of adults in America have obesity. Now get this, only 1.7% of plan members are actually on a GLP-1 medication. 1.7% out of 42%. In other words, we're just barely getting started in terms of prescribing GLP-1 medications to the people who could potentially qualify them. So if you do that, so, so how much could an employer potentially spend on GLP-1 medications? Well, if you do the math on this, if you take the 42% and you divide it by 1.7%, that's essentially a 25 X increase. You would have a 25 X increase in what you're spending on GLP-1 medications, which if you're spending 9% of 27% on GLP-1s already on your plan, that's essentially like 2.7% of your total plan spend is already being spent on GLP-1s. So you take that 2.7% and you multiply it by 25. And so you're basically talking upwards of 68% of a 68% increase in an employer's spend just on GLP-1 medications, just if you're treating the folks who qualify for it. So we're just getting started. We're barely cracking the nut of how many folks can actually be on GLP-1 medications, and how much it can cost the plan. Now, individual medications, so each of these, Osepic, Moderna, Begovia, ZipBound, they all cost about the same. They cost about $9,000 to $10,000 per person per year that the plan is paying after the PBM discounts and rebates. So this is like all in with the discounts and the rebates. This isn't like the list price, okay? This is like the best deal the employer is going to be able to get, all right? Now, interestingly, 82% of GLP-1 patients are females. And like a lot of people drop off of taking them after a year. So only 41% to 51% of people who initially started taking GLP-1 medications are actually still taking them a year later. And they might stop because they don't like the side effects or they might stop because they're not actually losing weight because in order for these GLP-1 medications to work, I mean, they're essentially an appetite suppressant. And so like you need to eat less. They don't like magically cause you to lose weight or control diabetes and you still eat the same that you did in the past. No. All the studies on GLP-1 medications involved a 500 calorie deficit per day and you had to like exercise for at least 30 minutes a day. So you've got to lose the weight. Okay. Okay. So let's say like people actually stay on their GLP-1s. Let's say the men actually start taking GLP-1 medications. Again, we're just getting warmed up. Okay, fine. So GLP-1 medications are two out of the top four medications that employers spend money on. And as a result of the significant financial impact, inevitably employers are putting in places in place strategies to address the spend from GLP-1 medications. Now, one, prior authorization. So some employers are saying, look, in order for you to get Ozempic and Munjaro, you can't just like have like an off-label use. In other words, like you actually have to have diabetes. And they're requiring like a hemoglobin A1c lab result to have like lab confirmed diabetes. So people aren't just taking Ozempic for weight loss when in fact they don't have diabetes. Okay. And then also interestingly, some employers are putting in place specific BMI, body mass index requirements for people taking the Wegovia and the Z-bound for obesity. You know, your BMI might have to be in excess of 30 or 35 or 40 or 45. And interestingly, the pharmaceutical manufacturers, so Novo Nordisk and Eli Lilly are saying that, look, if you, the employer, put in place a BMI requirement as part of prior authorization, you will lose the rebate money that we're giving out. In other words, they're basically twisting your arm. They're like, uh-uh-uh, you want to put in a BMI requirement? You're losing the rebate money. And so that essentially will increase your $9,000 to $10,000 per person per year. If you're not getting rebates anymore because you put in this BMI requirement, just know that your per person per year amount is going to go up. Okay. Now, other folks are actually putting in step therapy because there's other things that you can use to treat diabetes and there's other things that you can do for weight loss, whether it be a behavioral intervention or there's other weight loss medications, uh, as well. And so they're saying, okay, well, you got to try those things first. Um, now the, um, the, the other employers are putting in an increase in cost share. They're saying, look, it's nine to $10,000 a year. You, the employees are going to just have to pay more out of pocket. Or some employers are doing the cost share in a different way. And that they're saying, look, there is a lifetime maximum benefit that the plan will pay for a GLP-1 medication for an individual, for an individual. And once you reach that lifetime amount of dollars that the plans paid for you, for your GLP-1s, then you're done. You're not getting any more money from the plan to pay for them. Okay. Now other employers are going even more extreme and they're saying, look, we are not going to cover GLP-1 medications for obesity at all. And like the vast majority of employers will cover it for diabetes. Okay. But you know, anywhere from 57 to 96% of employers are covering, um, um, GLP-1s for diabetes. And about 34 to 67% of employers are covering it for obesity. Now the higher percentage, the 96 cover, 96% covering it for diabetes and the 67% covering it for obesity, those tend to be big, large national employers. And then it's the small and medium sized companies that tend to, to be less likely to offer it. They're, they're at the lower 57% and 34% levels for coverage there. So like non-coverage is, is an option for folks. I will add to that. Another option, frankly, is this might actually the, the extreme expense of GLP-1 medications might actually tip the scale towards employers actually wanting a single payer healthcare system. Because I'm sure many of you are familiar with the, the concept of the tragedy of the commons where like back in like colonial new England, they used to have this like village green and which was referred to as the commons. And everybody could like let their sheep and their animals like graze on the village green. And the tragedy of the commons is, is that, well, if everybody grazes on the green, then the commons gets all eaten up and there's no grass left for the sheep and the animals to graze on anymore. Okay. So the tragedy of the commons as it comes to an employee health plan is, is that the, the health plan budget itself is the commons. It's the village green. And you have all these GLP-1 sheep who are ravenously eating away at that along with your MRIs and your surgeries and all your other services that you're getting feeding off that green. And so the employers might say, look, we have no more green to spare. Like we're done. We're just going to give this over to the government and you can have your massive government field that you're going to feed on because the company village green is closed for business. We're not going to be in the business of providing health insurance to our employees anymore. Like it might like, is that going to happen next year, two years from now? Like probably not. Could it happen five or 10 years from now? I mean, I think if the employers of America get to the point where they just can't afford to pay for healthcare anymore, I think that's when we will get single payer in America. Like I don't think it's when voters want single payer, but I think when the employers of America want single payer, then we'll have it. And the cost of GLP-1 medications just might be the beginning of that. And thank you for watching a Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic
+[0:04 - 0:10]  is GLP-1 impact on employee health plan spend.
+[0:10 - 0:17]  Now the big GLP-1 medications that many of you are familiar with are Ozempic and Munjaro,
+[0:17 - 0:22]  which are used to treat diabetes and also cause weight loss as well, and then Wegovi
+[0:22 - 0:26]  and ZepBound, which are specifically used to treat obesity.
+[0:26 - 0:32]  Now Ozempic and Wegovi are the same medication, they're just at different dosages and those
+[0:32 - 0:35]  are the medications that are made by Novo Nordisk.
+[0:35 - 0:39]  And then Munjaro and ZepBound are also the same medication, they're just at different
+[0:39 - 0:43]  dosages and they're made by the same pharmaceutical company, which is Eli Lilly.
+[0:43 - 0:48]  Now the employer spend on GLP-1 medications has been increasing.
+[0:48 - 0:56]  So just from 2022 to 2023, it's gone from 7% to 9% of the total Rx spend is now spent
+[0:56 - 0:58]  on GLP-1 medications.
+[0:58 - 1:04]  And so over that just two year period or one year change from 22 to 23, employers have
+[1:04 - 1:11]  also seen their overall Rx spend really balloon where it's gone from 21 to 27% of their total
+[1:11 - 1:14]  healthcare spend is now in prescriptions.
+[1:14 - 1:19]  So prescriptions are now more than a quarter of a health plan's total spend with the rest
+[1:19 - 1:22]  of it being on the medical and the doctors and the hospitals and the physical therapists
+[1:22 - 1:23]  and the procedures, et cetera.
+[1:23 - 1:24]  Okay.
+[1:24 - 1:28]  Now these medications, like I mentioned, are used to treat diabetes of which 12% of adults
+[1:28 - 1:35]  have diabetes and also to treat obesity of which 42% of adults in America have obesity.
+[1:35 - 1:44]  Now get this, only 1.7% of plan members are actually on a GLP-1 medication.
+[1:44 - 1:47]  1.7% out of 42%.
+[1:47 - 1:54]  In other words, we're just barely getting started in terms of prescribing GLP-1 medications
+[1:54 - 1:57]  to the people who could potentially qualify them.
+[1:57 - 2:02]  So if you do that, so, so how much could an employer potentially spend on GLP-1 medications?
+[2:02 - 2:08]  Well, if you do the math on this, if you take the 42% and you divide it by 1.7%, that's essentially
+[2:08 - 2:09]  a 25 X increase.
+[2:09 - 2:14]  You would have a 25 X increase in what you're spending on GLP-1 medications, which if you're
+[2:14 - 2:22]  spending 9% of 27% on GLP-1s already on your plan, that's essentially like 2.7% of your
+[2:22 - 2:25]  total plan spend is already being spent on GLP-1s.
+[2:25 - 2:29]  So you take that 2.7% and you multiply it by 25.
+[2:29 - 2:39]  And so you're basically talking upwards of 68% of a 68% increase in an employer's spend
+[2:39 - 2:45]  just on GLP-1 medications, just if you're treating the folks who qualify for it.
+[2:45 - 2:48]  So we're just getting started.
+[2:48 - 2:54]  We're barely cracking the nut of how many folks can actually be on GLP-1 medications,
+[2:54 - 2:57]  and how much it can cost the plan.
+[2:57 - 3:01]  Now, individual medications, so each of these, Osepic, Moderna, Begovia, ZipBound, they all
+[3:01 - 3:02]  cost about the same.
+[3:02 - 3:07]  They cost about $9,000 to $10,000 per person per year that the plan is paying after the
+[3:07 - 3:10]  PBM discounts and rebates.
+[3:10 - 3:14]  So this is like all in with the discounts and the rebates.
+[3:14 - 3:16]  This isn't like the list price, okay?
+[3:16 - 3:20]  This is like the best deal the employer is going to be able to get, all right?
+[3:20 - 3:28]  Now, interestingly, 82% of GLP-1 patients are females.
+[3:28 - 3:34]  And like a lot of people drop off of taking them after a year.
+[3:34 - 3:43]  So only 41% to 51% of people who initially started taking GLP-1 medications are actually
+[3:43 - 3:44]  still taking them a year later.
+[3:45 - 3:48]  And they might stop because they don't like the side effects or they might stop because
+[3:48 - 3:52]  they're not actually losing weight because in order for these GLP-1 medications to work,
+[3:52 - 3:54]  I mean, they're essentially an appetite suppressant.
+[3:54 - 3:56]  And so like you need to eat less.
+[3:56 - 4:01]  They don't like magically cause you to lose weight or control diabetes and you still eat
+[4:01 - 4:02]  the same that you did in the past.
+[4:02 - 4:03]  No.
+[4:03 - 4:10]  All the studies on GLP-1 medications involved a 500 calorie deficit per day and you had to
+[4:10 - 4:12]  like exercise for at least 30 minutes a day.
+[4:12 - 4:14]  So you've got to lose the weight.
+[4:14 - 4:15]  Okay.
+[4:15 - 4:16]  Okay.
+[4:16 - 4:19]  So let's say like people actually stay on their GLP-1s.
+[4:19 - 4:22]  Let's say the men actually start taking GLP-1 medications.
+[4:22 - 4:24]  Again, we're just getting warmed up.
+[4:24 - 4:25]  Okay, fine.
+[4:25 - 4:33]  So GLP-1 medications are two out of the top four medications that employers spend money on.
+[4:33 - 4:41]  And as a result of the significant financial impact, inevitably employers are putting in
+[4:41 - 4:48]  places in place strategies to address the spend from GLP-1 medications.
+[4:48 - 4:50]  Now, one, prior authorization.
+[4:50 - 4:56]  So some employers are saying, look, in order for you to get Ozempic and Munjaro, you can't
+[4:56 - 4:59]  just like have like an off-label use.
+[4:59 - 5:01]  In other words, like you actually have to have diabetes.
+[5:01 - 5:06]  And they're requiring like a hemoglobin A1c lab result to have like lab confirmed diabetes.
+[5:06 - 5:11]  So people aren't just taking Ozempic for weight loss when in fact they don't have diabetes.
+[5:11 - 5:12]  Okay.
+[5:12 - 5:18]  And then also interestingly, some employers are putting in place specific BMI, body mass
+[5:18 - 5:22]  index requirements for people taking the Wegovia and the Z-bound for obesity.
+[5:22 - 5:27]  You know, your BMI might have to be in excess of 30 or 35 or 40 or 45.
+[5:27 - 5:36]  And interestingly, the pharmaceutical manufacturers, so Novo Nordisk and Eli Lilly are saying that,
+[5:36 - 5:43]  look, if you, the employer, put in place a BMI requirement as part of prior authorization,
+[5:43 - 5:48]  you will lose the rebate money that we're giving out.
+[5:48 - 5:52]  In other words, they're basically twisting your arm.
+[5:52 - 5:56]  They're like, uh-uh-uh, you want to put in a BMI requirement?
+[5:56 - 5:57]  You're losing the rebate money.
+[5:57 - 6:01]  And so that essentially will increase your $9,000 to $10,000 per person per year.
+[6:01 - 6:04]  If you're not getting rebates anymore because you put in this BMI requirement, just know that
+[6:04 - 6:06]  your per person per year amount is going to go up.
+[6:06 - 6:07]  Okay.
+[6:07 - 6:13]  Now, other folks are actually putting in step therapy because there's other things that
+[6:13 - 6:17]  you can use to treat diabetes and there's other things that you can do for weight loss,
+[6:17 - 6:21]  whether it be a behavioral intervention or there's other weight loss medications, uh,
+[6:21 - 6:22]  as well.
+[6:22 - 6:24]  And so they're saying, okay, well, you got to try those things first.
+[6:24 - 6:31]  Um, now the, um, the, the other employers are putting in an increase in cost share.
+[6:31 - 6:33]  They're saying, look, it's nine to $10,000 a year.
+[6:33 - 6:36]  You, the employees are going to just have to pay more out of pocket.
+[6:36 - 6:40]  Or some employers are doing the cost share in a different way.
+[6:40 - 6:44]  And that they're saying, look, there is a lifetime maximum benefit that the plan will
+[6:44 - 6:49]  pay for a GLP-1 medication for an individual, for an individual.
+[6:49 - 6:53]  And once you reach that lifetime amount of dollars that the plans paid for you, for your
+[6:53 - 6:56]  GLP-1s, then you're done.
+[6:56 - 6:59]  You're not getting any more money from the plan to pay for them.
+[6:59 - 7:05]  Okay. Now other employers are going even more extreme and they're saying, look, we are not
+[7:05 - 7:10]  going to cover GLP-1 medications for obesity at all.
+[7:10 - 7:13]  And like the vast majority of employers will cover it for diabetes.
+[7:13 - 7:21]  Okay. But you know, anywhere from 57 to 96% of employers are covering, um, um, GLP-1s for diabetes.
+[7:21 - 7:26]  And about 34 to 67% of employers are covering it for obesity.
+[7:26 - 7:31]  Now the higher percentage, the 96 cover, 96% covering it for diabetes and the 67% covering
+[7:31 - 7:34]  it for obesity, those tend to be big, large national employers.
+[7:34 - 7:40]  And then it's the small and medium sized companies that tend to, to be less likely to offer it.
+[7:40 - 7:46]  They're, they're at the lower 57% and 34% levels for coverage there.
+[7:46 - 7:50]  So like non-coverage is, is an option for folks.
+[7:50 - 7:53]  I will add to that.
+[7:53 - 8:00]  Another option, frankly, is this might actually the, the extreme expense of GLP-1 medications
+[8:00 - 8:08]  might actually tip the scale towards employers actually wanting a single payer healthcare system.
+[8:08 - 8:14]  Because I'm sure many of you are familiar with the, the concept of the tragedy of the commons
+[8:14 - 8:20]  where like back in like colonial new England, they used to have this like village green and
+[8:20 - 8:21]  which was referred to as the commons.
+[8:21 - 8:25]  And everybody could like let their sheep and their animals like graze on the village green.
+[8:25 - 8:31]  And the tragedy of the commons is, is that, well, if everybody grazes on the green, then
+[8:31 - 8:37]  the commons gets all eaten up and there's no grass left for the sheep and the animals to
+[8:37 - 8:38]  graze on anymore.
+[8:38 - 8:39]  Okay.
+[8:39 - 8:43]  So the tragedy of the commons as it comes to an employee health plan is, is that the,
+[8:43 - 8:47]  the health plan budget itself is the commons.
+[8:47 - 8:48]  It's the village green.
+[8:49 - 8:55]  And you have all these GLP-1 sheep who are ravenously eating away at that along with your
+[8:55 - 9:00]  MRIs and your surgeries and all your other services that you're getting feeding off that
+[9:00 - 9:00]  green.
+[9:00 - 9:05]  And so the employers might say, look, we have no more green to spare.
+[9:05 - 9:06]  Like we're done.
+[9:06 - 9:11]  We're just going to give this over to the government and you can have your massive government
+[9:11 - 9:17]  field that you're going to feed on because the company village green is closed for business.
+[9:17 - 9:20]  We're not going to be in the business of providing health insurance to our employees anymore.
+[9:21 - 9:24]  Like it might like, is that going to happen next year, two years from now?
+[9:24 - 9:25]  Like probably not.
+[9:25 - 9:27]  Could it happen five or 10 years from now?
+[9:27 - 9:35]  I mean, I think if the employers of America get to the point where they just can't afford to
+[9:35 - 9:39]  pay for healthcare anymore, I think that's when we will get single payer in America.
+[9:40 - 9:44]  Like I don't think it's when voters want single payer, but I think when the employers of America
+[9:44 - 9:47]  want single payer, then we'll have it.
+[9:47 - 9:52]  And the cost of GLP-1 medications just might be the beginning of that.
+[9:52 - 9:54]  And thank you for watching a Healthcare Z.

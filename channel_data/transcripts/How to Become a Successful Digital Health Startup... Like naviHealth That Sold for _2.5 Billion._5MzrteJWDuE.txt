@@ -1,0 +1,78 @@
+Title: How to Become a Successful Digital Health Startup... Like naviHealth That Sold for $2.5 Billion.
+URL: https://www.youtube.com/watch?v=5MzrteJWDuE
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is NaviHealth or a successful digital health company. All right, so NaviHealth does post-discharge management for Medicare Advantage plans, Medicare Advantage members, and for hospitals. And it was just announced in the GIST newsletters where I heard it from and also in Modern Healthcare and other publications as well, that it was bought by Optum, United Health Group, for $2.5 billion. Now, keep in mind, during the coronavirus pandemic that's going on, a lot of people are not paying attention to things like this, but this is a big deal for a digital health company. Digital health companies don't get sold for this much. This is like unreal. And the world of digital health is full of graveyards of digital health companies that have been unsuccessful. So here we have a hugely successful digital health company. So it would behoove us to learn what did NaviHealth do? Now, they were founded in 2012 and subsequently 71% of NaviHealth was bought by the massive healthcare company Cardinal in 2015, just three years later, at a valuation of $408 million. So they went from nothing to being valued at $408 million in just three years. I mean, that's like consumer internet numbers, right, for a digital healthcare company. This like doesn't happen in digital healthcare. Okay, then it was subsequently flipped to a private equity firm in 2018 before that private equity firm just sold it to Optum, United Health Group. Now, what we're going to do is we're going to go through what were the keys to NaviHealth's success. I would argue here in order of importance per me. Now, one, they defined a solvable problem. NaviHealth reduces readmissions. Readmissions. That's it. So, so many digital healthcare startups talk about things like improving value for multiple stakeholders. No, no, no. You pick a very discreet, specific problem that you can solve. Okay. Now, certainly there are many groups that are trying to like cure cancer, but that is a really hard problem to solve. This is a solvable problem that to a certain extent NaviHealth was able to solve. So that's hugely important is to pick something that is discreet that you can solve. Point number two, they had their fees at risk for Medicare Advantage population. Okay. So, so, so the key here is at risk fees. So in other words, the more that they saved those Medicare Advantage plans, that's how they generated their fees. Okay. So it was not PPM. It was not some sort of fixed case rate. It was not some sort of, you know, you know, odd metrics, blah, blah, blah. Okay. And then number two, it was for the Medicare Advantage population, right? So it was not employers, not employers. And yeah, they did hospitals, but the vast majority of it was for the Medicare Advantage population. Okay. What does that mean? So Medicare Advantage, they get given these lump sums by the government. So to the extent that you can save money on readmissions from Medicare Advantage patients, that's going to help the Medicare Advantage like earn more profit. And they'd be willing to pay a company like NaviHealth to do that. They'd be able to pay them a percentage of that. So no, you can't, it's really hard to do an at-risk fee model with employers because they just are not used to the metrics and they just don't necessarily have the healthcare sophistication to do at-risk contracts. I mean, again, digital health is littered with companies that have tried to do this with employers. Employers really are not interested in doing that. Okay. And secondly, Medicare Advantage. Again, this is 30% of people that are on Medicare. Guess who uses healthcare? People on Medicare use healthcare much more than the employed population. So that combination on point number two of at-risk and Medicare Advantage is hugely important. Point number three, they had a perfectly connected and involved investor, specifically in a gentleman named Thomas Scully at the private equity firm Wells Carson. So I will leave a link in the show notes to the article that even said that Tom Scully even was like the main driver of the business plan of NaviHealth. It wasn't a bunch of guys in their twenties wearing hoodies who were software programmers doing this. Oh, by the way, who was Tom Scully? He worked for both George Bush 1 and George W. Bush in both of their presidential administrations. He ran, he was the head administrator for CMS, the Centers for Medicare and Medicaid Services. He was the president of the Federation of American Hospitals, which is the large trade association for for-profit hospitals. This was an incredibly politically powerful, incredibly government-connected, and incredibly private industry and hospital-connected individual. Okay. So many decisions, so many doors, so many sales were opened because of Thomas Scully. So if a digital healthcare company wants to be successful, it has to, I would argue it has to have a Thomas Scully. Okay. That is, I don't care what your software is, yada, yada, yada. You have to have someone like this to be successful in healthcare. That's how it works. Okay. Now, lastly, last but not least, is the actual software itself, the data itself, the analytics itself. No, no, it's not number one, it's not number two, it's not number three. It's number four. The software is number four. Okay. It doesn't start with the software. Okay. A successful digital healthcare company does not start with the software. Next, they used humans on-site. So in other words, NaviHealth employees were at the hospitals coordinating the discharge and the discharge planning to, they were using the analytics and the data and the software. They did not rely on the hospitals themselves. They did not rely on the social workers. They did not rely on the case managers. They did not rely on the doctors. They did it themselves with their own employees. They had their own folks on-site using their own data and their analytics. So it's the soft, you can't do it software only. It has to involve people in healthcare as well. Okay. But again, notice that is still number four on the priority list. These other three have to happen first. So listen, did readmission, did the whole readmission process, was it horrible? Yes. As an internist and as a hospitalist, I would see the horrible readmission process all the time. Did it need to be fixed? Absolutely. Could you apply data and software to it? Absolutely. But it would not have been successful unless it was done in this way, the way NaviHealth did it. And I wanted to share that with you today. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:06]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:06 - 0:15]  NaviHealth or a successful digital health company. All right, so NaviHealth does post-discharge
+[0:15 - 0:21]  management for Medicare Advantage plans, Medicare Advantage members, and for hospitals. And it was
+[0:21 - 0:26]  just announced in the GIST newsletters where I heard it from and also in Modern Healthcare and
+[0:26 - 0:34]  other publications as well, that it was bought by Optum, United Health Group, for $2.5 billion.
+[0:35 - 0:39]  Now, keep in mind, during the coronavirus pandemic that's going on, a lot of people are not paying
+[0:39 - 0:44]  attention to things like this, but this is a big deal for a digital health company. Digital health
+[0:44 - 0:50]  companies don't get sold for this much. This is like unreal. And the world of digital health is
+[0:50 - 0:57]  full of graveyards of digital health companies that have been unsuccessful. So here we have a hugely
+[0:57 - 1:05]  successful digital health company. So it would behoove us to learn what did NaviHealth do? Now,
+[1:05 - 1:12]  they were founded in 2012 and subsequently 71% of NaviHealth was bought by the massive healthcare
+[1:12 - 1:20]  company Cardinal in 2015, just three years later, at a valuation of $408 million. So they went from
+[1:20 - 1:26]  nothing to being valued at $408 million in just three years. I mean, that's like consumer internet
+[1:26 - 1:31]  numbers, right, for a digital healthcare company. This like doesn't happen in digital healthcare.
+[1:31 - 1:36]  Okay, then it was subsequently flipped to a private equity firm in 2018 before that private equity
+[1:36 - 1:42]  firm just sold it to Optum, United Health Group. Now, what we're going to do is we're going to go
+[1:42 - 1:51]  through what were the keys to NaviHealth's success. I would argue here in order of importance per me.
+[1:51 - 2:02]  Now, one, they defined a solvable problem. NaviHealth reduces readmissions. Readmissions. That's it.
+[2:02 - 2:09]  So, so many digital healthcare startups talk about things like improving value for multiple stakeholders.
+[2:09 - 2:18]  No, no, no. You pick a very discreet, specific problem that you can solve. Okay. Now, certainly
+[2:18 - 2:22]  there are many groups that are trying to like cure cancer, but that is a really hard problem to solve.
+[2:22 - 2:28]  This is a solvable problem that to a certain extent NaviHealth was able to solve. So that's hugely
+[2:28 - 2:33]  important is to pick something that is discreet that you can solve. Point number two,
+[2:33 - 2:41]  they had their fees at risk for Medicare Advantage population. Okay. So, so, so the key here is at
+[2:41 - 2:45]  risk fees. So in other words, the more that they saved those Medicare Advantage plans, that's how
+[2:45 - 2:51]  they generated their fees. Okay. So it was not PPM. It was not some sort of fixed case rate. It was not
+[2:51 - 2:56]  some sort of, you know, you know, odd metrics, blah, blah, blah. Okay. And then number two, it was for
+[2:56 - 3:02]  the Medicare Advantage population, right? So it was not employers, not employers. And yeah, they did
+[3:02 - 3:07]  hospitals, but the vast majority of it was for the Medicare Advantage population. Okay. What does that
+[3:07 - 3:13]  mean? So Medicare Advantage, they get given these lump sums by the government. So to the extent that
+[3:13 - 3:17]  you can save money on readmissions from Medicare Advantage patients, that's going to help the Medicare
+[3:17 - 3:23]  Advantage like earn more profit. And they'd be willing to pay a company like NaviHealth to do that. They'd be
+[3:23 - 3:29]  able to pay them a percentage of that. So no, you can't, it's really hard to do an at-risk fee
+[3:29 - 3:34]  model with employers because they just are not used to the metrics and they just don't necessarily
+[3:34 - 3:40]  have the healthcare sophistication to do at-risk contracts. I mean, again, digital health is
+[3:40 - 3:44]  littered with companies that have tried to do this with employers. Employers really are not interested
+[3:44 - 3:51]  in doing that. Okay. And secondly, Medicare Advantage. Again, this is 30% of people that are on
+[3:51 - 3:56]  Medicare. Guess who uses healthcare? People on Medicare use healthcare much more than the
+[3:56 - 4:02]  employed population. So that combination on point number two of at-risk and Medicare Advantage is
+[4:02 - 4:09]  hugely important. Point number three, they had a perfectly connected and involved investor,
+[4:10 - 4:16]  specifically in a gentleman named Thomas Scully at the private equity firm Wells Carson. So I will
+[4:16 - 4:22]  leave a link in the show notes to the article that even said that Tom Scully even was like the main
+[4:22 - 4:29]  driver of the business plan of NaviHealth. It wasn't a bunch of guys in their twenties wearing
+[4:29 - 4:35]  hoodies who were software programmers doing this. Oh, by the way, who was Tom Scully? He worked for both
+[4:35 - 4:43]  George Bush 1 and George W. Bush in both of their presidential administrations. He ran, he was the head
+[4:43 - 4:49]  administrator for CMS, the Centers for Medicare and Medicaid Services. He was the president of the
+[4:49 - 4:55]  Federation of American Hospitals, which is the large trade association for for-profit hospitals.
+[4:55 - 5:01]  This was an incredibly politically powerful, incredibly government-connected, and incredibly
+[5:01 - 5:10]  private industry and hospital-connected individual. Okay. So many decisions, so many doors,
+[5:10 - 5:20]  so many sales were opened because of Thomas Scully. So if a digital healthcare company wants to be
+[5:20 - 5:29]  successful, it has to, I would argue it has to have a Thomas Scully. Okay. That is, I don't care what
+[5:29 - 5:36]  your software is, yada, yada, yada. You have to have someone like this to be successful in healthcare.
+[5:36 - 5:42]  That's how it works. Okay. Now, lastly, last but not least, is the actual software itself,
+[5:43 - 5:46]  the data itself, the analytics itself. No, no, it's not number one, it's not number two,
+[5:46 - 5:52]  it's not number three. It's number four. The software is number four. Okay. It doesn't start
+[5:52 - 5:57]  with the software. Okay. A successful digital healthcare company does not start with the software.
+[5:57 - 6:02]  Next, they used humans on-site. So in other words, NaviHealth employees were at the hospitals
+[6:02 - 6:07]  coordinating the discharge and the discharge planning to, they were using the analytics and
+[6:07 - 6:11]  the data and the software. They did not rely on the hospitals themselves. They did not rely on the
+[6:11 - 6:13]  social workers. They did not rely on the case managers. They did not rely on the doctors.
+[6:13 - 6:19]  They did it themselves with their own employees. They had their own folks on-site using their own
+[6:19 - 6:23]  data and their analytics. So it's the soft, you can't do it software only. It has to involve people
+[6:23 - 6:28]  in healthcare as well. Okay. But again, notice that is still number four on the priority list.
+[6:28 - 6:35]  These other three have to happen first. So listen, did readmission, did the whole readmission process,
+[6:35 - 6:39]  was it horrible? Yes. As an internist and as a hospitalist, I would see the horrible readmission
+[6:39 - 6:44]  process all the time. Did it need to be fixed? Absolutely. Could you apply data and software to
+[6:44 - 6:52]  it? Absolutely. But it would not have been successful unless it was done in this way, the way NaviHealth did it.
+[6:52 - 6:55]  And I wanted to share that with you today. And thank you for watching A Healthcare Z.

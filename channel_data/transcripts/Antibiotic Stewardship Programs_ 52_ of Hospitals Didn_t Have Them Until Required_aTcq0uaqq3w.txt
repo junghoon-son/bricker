@@ -1,0 +1,140 @@
+Title: Antibiotic Stewardship Programs: 52% of Hospitals Didn't Have Them Until Required
+URL: https://www.youtube.com/watch?v=aTcq0uaqq3w
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is antibiotic stewardship programs. Now an antibiotic stewardship program is found at a hospital where there are policies and procedures related to the use of what are referred to as broad spectrum antibiotics. So some examples of broad spectrum antibiotics are Zocin, which is the brand name for Piptazotazobactam and also Imapenem. And by broad spectrum this means that they kill a huge variety of bacteria. So they kill bacteria that are highly resistant to other antibiotics. They kill very serious bacteria that are causing like life threatening infections, whether they be in the stomach or the intestines or the skin or the bloodstream. And the challenge with these broad spectrum antibiotics is that they don't know the difference between bad bacteria and good bacteria. Yes, believe it or not, in our bodies we have good bacteria that we have to have. And that brings us to our digestive system person, okay, where we have the mouth, the esophagus, which leads to the stomach and then the small intestine and then the large intestine and then the rectum. And so in the large intestine we actually have good bacteria that we have to have. Our large intestine will not function correctly unless we have that good bacteria. So when you take the Zocin or the Imapenem or these other broad spectrum antibiotics, it kills the good bacteria. And just like the good grass keeps the weeds away, that good bacteria keeps the bad intestinal bacteria away or in very small quantities. So if you kill all the grass and all the good bacteria, then that gives the opportunity for that bad bacteria to grow and cause horrible intestinal infections. Now, of course, everybody hears about, okay, well, bacteria can mutate to develop resistance, right? So that's sort of the societal reason or the public health reason for not using these broad spectrum antibiotics. And that's good. But of course, most individual doctors and most individual patients are like, I don't really care about society right now. I just care about me or I just care about the patient that's in front of me. And so just for that person, you can even like forget the societal benefits just for that specific person, you don't want to kill all that good bacteria in the large intestine because it gives rise to what's referred to as Clostridium difficile or C. diff for short. So that's like the weeds of the large intestine. That's the bad bacteria. It actually stays dormant in spores, but then for a variety of reasons, including killing the good bacteria, the spores disperse and you can have these horrible intestinal infections to the point where you might even need to have your colon surgically removed or you might even die. I've literally seen this happen. Okay. So a stewardship program is run by the infectious disease department and the pharmacy where they have to provide approval to the ordering physician in order for a certain antibiotic like Zocin or Imapenem to be used. So if a hospital does not have one of these stewardship programs, literally the doctors can just order whatever they want. Now, when I changed at Johns Hopkins at, you know, 12 years ago, they had one of these programs. And in my residency in Johns Hopkins, I saw three patients with C. diff. The three years I was there, I saw one patient a year. Then I went to work at a community hospital. I would see a new case of C. diff almost every week. And this hospital had no antibiotic stewardship program. And I would see, you know, non-infectious disease doctors ordering this stuff like water. And the important thing is, is that you also have to monitor it. Because after you take a culture of the bacteria after one, two, or three days, you can actually figure out what the bacteria is and what antibiotics it's sensitive to. So you can take them off of the Imapenem. You can take them off of the Piptazo and put them on something else. So it's not only the initial approval, but it's the ongoing monitoring by the pharmacy. That's super important. So if it can be changed to a more narrow antibiotic, you do it to save the good bacteria in your large intestine. Okay. Now, what's practical information that we can use about this? This is great in terms of theory, Dr. Bricker. But tell me, how can I use it? So if you go to the Medicare website, Medicare.gov, and you go to Hospital Compare, and then you look up complications and deaths, and then you look up infections, then you can actually find the Clostridium difficile. And you can look this up by hospital. So if you're, let's say you've got a surgeon in mind, and you're like, okay, well, they operate at two hospitals. You can look up those two hospitals. If you have a loved one that is in a particular hospital, then you can like look up that specific hospital. Now, this is for Medicare patients. But I would say that a lot of what's happening to the Medicare patients applies to the commercially insured patients as well. And then if you click on Show Graphs, you've got to do quite a few steps here, right? So it's not necessarily easy to get to, but you can actually see the rate of Clostridium difficile infections in that hospital related to the state average and related to the national average. And not only does it give you the average rate for that particular hospital, it also gives you the range of rates. And those ranges of rates are very interesting because at some hospitals, those ranges of rates are very narrow. For example, if you look up Johns Hopkins Hospital, their rate of C. difficile is incredibly narrow because they have a standardized process for antibiotic stewardship. Now, other places, it's very wide, which just means that, you know, potentially, there's not as much standardization or not as good of implementation of the standardization as other places that have been running stewardship programs for longer. Okay. This gets us to the, you know, is there evidence connecting the antibiotic stewardship program to lower rates of C. difficile? And the answer is absolutely. So the CDC, I'll leave a link to in the show notes, found four studies, not one, not two, not three, but four studies that showed that after the implementation of an antibiotic stewardship program, the rate of C. difficile went down. Okay. So as a result of that, the Joint Commission, which provides accreditation for all the hospitals in America, required in 2017 that hospitals have an antibiotic stewardship program. That is less than two years ago. Okay. We've known about this for a long time and it took regulation to get the hospitals to do it. At the time the Joint Commission put this in in 2017, only 48% of hospitals had these programs. So what's my point for today? Are antibiotic stewardship programs important? Yes. Is going and using a hospital with a low rate of C. difficile infection important? Yes. Because you can pick up C. difficile infection from like not totally washed hands and you might not have it. You might be in a room with somebody that had it and you can pick it up from them. So in terms of like hospital acquired infections, you absolutely want to go to a place that has low rates of C. difficile. But the third point I want to make is that look, and I'm going to be straight to the point here, the hospitals didn't do it on their own. Okay. Like the mechanism of, okay, person got C. difficile, they sue the doctor, the doctor then changes his practices as a result of that. Like the whole process of like litigation as a form of quality control, like didn't work. Right? It took regulation. And so really, if it took regulation to get hospitals to do something that was scientifically proven to help, like what else is there out there? And that's my point for today. Thank you for watching A Healthcare Z. All right. Thank you. Thank you.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:07]  Today's topic is antibiotic stewardship programs.
+[0:07 - 0:12]  Now an antibiotic stewardship program is found at a hospital where there are policies and
+[0:12 - 0:16]  procedures related to the use of what are referred to as broad spectrum antibiotics.
+[0:16 - 0:22]  So some examples of broad spectrum antibiotics are Zocin, which is the brand name for Piptazotazobactam
+[0:22 - 0:23]  and also Imapenem.
+[0:23 - 0:29]  And by broad spectrum this means that they kill a huge variety of bacteria.
+[0:29 - 0:34]  So they kill bacteria that are highly resistant to other antibiotics.
+[0:34 - 0:39]  They kill very serious bacteria that are causing like life threatening infections, whether they
+[0:39 - 0:43]  be in the stomach or the intestines or the skin or the bloodstream.
+[0:43 - 0:46]  And the challenge with these broad spectrum antibiotics is that they don't know the difference
+[0:46 - 0:49]  between bad bacteria and good bacteria.
+[0:49 - 0:54]  Yes, believe it or not, in our bodies we have good bacteria that we have to have.
+[0:54 - 1:00]  And that brings us to our digestive system person, okay, where we have the mouth, the esophagus,
+[1:00 - 1:04]  which leads to the stomach and then the small intestine and then the large intestine and then
+[1:04 - 1:04]  the rectum.
+[1:04 - 1:10]  And so in the large intestine we actually have good bacteria that we have to have.
+[1:10 - 1:14]  Our large intestine will not function correctly unless we have that good bacteria.
+[1:14 - 1:19]  So when you take the Zocin or the Imapenem or these other broad spectrum antibiotics, it kills
+[1:19 - 1:20]  the good bacteria.
+[1:20 - 1:27]  And just like the good grass keeps the weeds away, that good bacteria keeps the bad intestinal
+[1:27 - 1:30]  bacteria away or in very small quantities.
+[1:30 - 1:34]  So if you kill all the grass and all the good bacteria, then that gives the opportunity for
+[1:34 - 1:39]  that bad bacteria to grow and cause horrible intestinal infections.
+[1:39 - 1:45]  Now, of course, everybody hears about, okay, well, bacteria can mutate to develop resistance,
+[1:45 - 1:45]  right?
+[1:45 - 1:51]  So that's sort of the societal reason or the public health reason for not using these broad
+[1:51 - 1:52]  spectrum antibiotics.
+[1:52 - 1:53]  And that's good.
+[1:53 - 1:57]  But of course, most individual doctors and most individual patients are like, I don't really
+[1:57 - 1:58]  care about society right now.
+[1:58 - 2:01]  I just care about me or I just care about the patient that's in front of me.
+[2:01 - 2:06]  And so just for that person, you can even like forget the societal benefits just for that
+[2:06 - 2:11]  specific person, you don't want to kill all that good bacteria in the large intestine because
+[2:11 - 2:16]  it gives rise to what's referred to as Clostridium difficile or C. diff for short.
+[2:16 - 2:19]  So that's like the weeds of the large intestine.
+[2:19 - 2:20]  That's the bad bacteria.
+[2:20 - 2:26]  It actually stays dormant in spores, but then for a variety of reasons, including killing the
+[2:26 - 2:31]  good bacteria, the spores disperse and you can have these horrible intestinal infections to
+[2:31 - 2:35]  the point where you might even need to have your colon surgically removed or you might even die.
+[2:36 - 2:38]  I've literally seen this happen.
+[2:38 - 2:38]  Okay.
+[2:38 - 2:44]  So a stewardship program is run by the infectious disease department and the pharmacy where they
+[2:44 - 2:49]  have to provide approval to the ordering physician in order for a certain antibiotic like Zocin or
+[2:49 - 2:50]  Imapenem to be used.
+[2:50 - 2:55]  So if a hospital does not have one of these stewardship programs, literally the doctors can just order
+[2:55 - 2:57]  whatever they want.
+[2:57 - 3:02]  Now, when I changed at Johns Hopkins at, you know, 12 years ago, they had one of these programs.
+[3:02 - 3:08]  And in my residency in Johns Hopkins, I saw three patients with C. diff.
+[3:08 - 3:11]  The three years I was there, I saw one patient a year.
+[3:11 - 3:13]  Then I went to work at a community hospital.
+[3:13 - 3:18]  I would see a new case of C. diff almost every week.
+[3:18 - 3:22]  And this hospital had no antibiotic stewardship program.
+[3:22 - 3:28]  And I would see, you know, non-infectious disease doctors ordering this stuff like water.
+[3:28 - 3:31]  And the important thing is, is that you also have to monitor it.
+[3:31 - 3:35]  Because after you take a culture of the bacteria after one, two, or three days,
+[3:35 - 3:39]  you can actually figure out what the bacteria is and what antibiotics it's sensitive to.
+[3:39 - 3:42]  So you can take them off of the Imapenem.
+[3:42 - 3:46]  You can take them off of the Piptazo and put them on something else.
+[3:46 - 3:50]  So it's not only the initial approval, but it's the ongoing monitoring by the pharmacy.
+[3:50 - 3:51]  That's super important.
+[3:51 - 3:59]  So if it can be changed to a more narrow antibiotic, you do it to save the good bacteria in your large intestine.
+[3:59 - 4:00]  Okay.
+[4:00 - 4:03]  Now, what's practical information that we can use about this?
+[4:03 - 4:05]  This is great in terms of theory, Dr. Bricker.
+[4:05 - 4:07]  But tell me, how can I use it?
+[4:07 - 4:12]  So if you go to the Medicare website, Medicare.gov, and you go to Hospital Compare,
+[4:12 - 4:16]  and then you look up complications and deaths, and then you look up infections,
+[4:16 - 4:19]  then you can actually find the Clostridium difficile.
+[4:19 - 4:21]  And you can look this up by hospital.
+[4:21 - 4:24]  So if you're, let's say you've got a surgeon in mind, and you're like,
+[4:24 - 4:26]  okay, well, they operate at two hospitals.
+[4:26 - 4:27]  You can look up those two hospitals.
+[4:27 - 4:30]  If you have a loved one that is in a particular hospital,
+[4:30 - 4:33]  then you can like look up that specific hospital.
+[4:33 - 4:35]  Now, this is for Medicare patients.
+[4:35 - 4:38]  But I would say that a lot of what's happening to the Medicare patients
+[4:38 - 4:41]  applies to the commercially insured patients as well.
+[4:41 - 4:45]  And then if you click on Show Graphs, you've got to do quite a few steps here, right?
+[4:45 - 4:51]  So it's not necessarily easy to get to, but you can actually see the rate of Clostridium difficile
+[4:51 - 4:57]  infections in that hospital related to the state average and related to the national average.
+[4:57 - 5:00]  And not only does it give you the average rate for that particular hospital,
+[5:00 - 5:03]  it also gives you the range of rates.
+[5:03 - 5:05]  And those ranges of rates are very interesting because at some hospitals,
+[5:05 - 5:07]  those ranges of rates are very narrow.
+[5:07 - 5:10]  For example, if you look up Johns Hopkins Hospital,
+[5:10 - 5:15]  their rate of C. difficile is incredibly narrow because they have a standardized process
+[5:15 - 5:17]  for antibiotic stewardship.
+[5:17 - 5:23]  Now, other places, it's very wide, which just means that, you know, potentially,
+[5:23 - 5:27]  there's not as much standardization or not as good of implementation
+[5:27 - 5:33]  of the standardization as other places that have been running stewardship programs for longer.
+[5:33 - 5:33]  Okay.
+[5:33 - 5:39]  This gets us to the, you know, is there evidence connecting the antibiotic stewardship program
+[5:39 - 5:40]  to lower rates of C. difficile?
+[5:40 - 5:41]  And the answer is absolutely.
+[5:41 - 5:47]  So the CDC, I'll leave a link to in the show notes, found four studies, not one, not two, not three,
+[5:47 - 5:52]  but four studies that showed that after the implementation of an antibiotic stewardship program,
+[5:52 - 5:55]  the rate of C. difficile went down.
+[5:55 - 5:55]  Okay.
+[5:55 - 6:01]  So as a result of that, the Joint Commission, which provides accreditation for all the hospitals
+[6:01 - 6:09]  in America, required in 2017 that hospitals have an antibiotic stewardship program.
+[6:09 - 6:12]  That is less than two years ago.
+[6:12 - 6:12]  Okay.
+[6:12 - 6:21]  We've known about this for a long time and it took regulation to get the hospitals to do it.
+[6:21 - 6:28]  At the time the Joint Commission put this in in 2017, only 48% of hospitals had these programs.
+[6:30 - 6:31]  So what's my point for today?
+[6:31 - 6:33]  Are antibiotic stewardship programs important?
+[6:33 - 6:33]  Yes.
+[6:35 - 6:39]  Is going and using a hospital with a low rate of C. difficile infection important?
+[6:39 - 6:40]  Yes.
+[6:40 - 6:44]  Because you can pick up C. difficile infection from like not totally washed hands and you might not
+[6:44 - 6:45]  have it.
+[6:45 - 6:48]  You might be in a room with somebody that had it and you can pick it up from them.
+[6:48 - 6:51]  So in terms of like hospital acquired infections, you absolutely want to go to a place that has
+[6:51 - 6:53]  low rates of C. difficile.
+[6:53 - 6:59]  But the third point I want to make is that look, and I'm going to be straight to the point here,
+[6:59 - 7:01]  the hospitals didn't do it on their own.
+[7:01 - 7:01]  Okay.
+[7:01 - 7:08]  Like the mechanism of, okay, person got C. difficile, they sue the doctor, the doctor then changes
+[7:08 - 7:10]  his practices as a result of that.
+[7:10 - 7:14]  Like the whole process of like litigation as a form of quality control, like didn't work.
+[7:15 - 7:15]  Right?
+[7:15 - 7:16]  It took regulation.
+[7:16 - 7:22]  And so really, if it took regulation to get hospitals to do something that was scientifically
+[7:22 - 7:25]  proven to help, like what else is there out there?
+[7:25 - 7:27]  And that's my point for today.
+[7:27 - 7:29]  Thank you for watching A Healthcare Z.
+[7:29 - 7:33]  All right.
+[7:37 - 7:47]  Thank you.
+[7:47 - 7:55]  Thank you.

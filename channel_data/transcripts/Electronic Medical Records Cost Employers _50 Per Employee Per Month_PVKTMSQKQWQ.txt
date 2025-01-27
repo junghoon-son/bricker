@@ -1,0 +1,89 @@
+Title: Electronic Medical Records Cost Employers $50 Per Employee Per Month
+URL: https://www.youtube.com/watch?v=PVKTMSQKQWQ
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is EMR costs employers $50 PEPM. So, I obviously work with a ton of insurance brokers and benefits consultants. One of the common things they say to me is that employers are getting PEPM to death. So that got me thinking, what sort of healthcare costs are employers incurring that is not in a PEPM, so they're not necessarily paying attention to it, but it's still there. And guess what? One of the huge costs to employers is on a PEPM basis that they don't realize at all. It's the electronic medical record for the doctor themselves. That's right. The electronic medical record or the electronic health record or EHR can be incredibly expensive for a physician practice. In fact, I was recently speaking with an EMR company and guess what they charge? They charge 7% of physician practice revenue. Okay, let's run the numbers on that 7% here. So, on average, an employee costs $10,000 per employee per year. So you've got 100 employees, your health plan is going to cost you about a million bucks. If you've got a thousand employees, it's going to cost you $10 million. Now, you've got your 85% M.O.R. right? So let's just say 15% of that is for the insurance company that they are keeping, right? So that gives you $8,500. Now, let's say you applied that 7% to that remaining $8,500 in, because that's claims, right? And if the electronic health record or medical record company is receiving 7% of claims, then one person's spending is another person's income. So the employer spending on claims is the physician's income. And yes, I know it's facility fees as well. But let's just say in total, regardless of if it was a physician practice or a facility, that their EMR still charging the equivalent of 7%, well then shoot, the 0.7 times the $8,500, that's $595 per year divided by 12 is $50 PEPM. And so even if you took like 20% out for our expense, it's still $40 PEPM. So when you think about your PEPM costs, just know that buried in your claims, you got a $40 to $50 PEPM charge to your health plan. Okay, now let's break it down, not at the individual employee level, but let's break it down in terms of what it costs a physician, right? So a primary care physician, a PCP on average collects $1.4 million a year in revenue. Likewise, a specialist collects about $1.6 million a year in revenue for their professional fees. So let's just split the difference between the $1.4 and $1.6 million and you get $1.5 million. Now, if the EMR company is getting 7% of that $1.5 million due to the $1.5 times the $0.7, and that means that the EMR costs $105,000 per doctor? Like a super high-end luxury vehicle per year, per doctor? If you, look, if you divide the $105,000 by the $1.5 million, that doctor needs to work approximately one month a year. They need to work almost one month a year just to pay for their EMR. So if they didn't pay anyone else and they're like, I'm just going to pay my EMR this month, it would take them like three and a half weeks just to pay for their EMR. Okay. Now, notice this relationship here on a percentage of revenue basis actually means that the EMR vendor encourages more fee-for-service. They don't want value-based care. They do not want capitation. They want that doctor to see as many patients as possible and they want them to bill as much as possible because they're getting 7% of every patient that they see and every bill that they collect on. Okay. So not all EMR vendors are set up this way, but this particular EMR vendor doesn't want value-based care at all. This particular EMR vendor wants as much fee-for-service as humanly possible. Okay. Next up. So what can a physician do about this? You can just exit the system. Like you don't have to play the insurance claim game. You don't have to. There's no law that says you have to do that in order to practice medicine. So you can opt out of insurance with billing and more and more physicians are doing this in the form of direct primary care and some are even doing direct specialty care as well. Now, an example of one of the original direct primary care practices is called Atlas MD in Wichita, Kansas. And they claim that their primary care physicians actually make 35% more than a fee-for-service primary care physician. A direct primary care physician makes 35% more than a fee-for-service physician. How is that possible? Well, for a family practice doctor on average for a fee-for-service doctor, they're making $228,000 a year. So first of all, look at that. The doctor's only taking home $228,000 and they got a bill $1.5 million. What? That's like $1.25 million of getting creamed off that doctor. So just know that like there's just a lot of administrative financial exploitation going on with doctors right now. If they're bringing in $1.5 million and they're only keeping $228,000, right? So if the Atlas MD docs are making 35% more, you just take the 228 times the 1.35, that means the Atlas MD docs are making $308,000 a year in Wichita, Kansas. What's that called? That's called really good life. Now, the way that these dot practices are set up is that they directly bill their patients or the employees for the patients a subscription of $50 per month. And if you run the numbers on that, the typical practice holds about 800 people that that one physician sees over the course of the year. And they see about 1% of their patients every day. So they're seeing eight patients a day instead of 25. It means they got longer visits, they can accomplish more, they can do more counseling with the patients. So at $50 a month times 800 patients times 12 a month, that means that that practice is billing out to the individuals, to the individual patients or to the employer, $480,000. So the physician is making $308,000 out of the $480,000. And the $480,000 is like a third of what the physician's practice, physician practice was billing out. So the physician, and they only have to see eight patients a day instead of 25. So the physician sees eight patients a day instead of 25. They can spend like an hour with the patient instead of seven minutes. They overall, they cost the healthcare system only $480,000. And they're taking home $308,000, which is 35% more. This from a numbers perspective is awesome. Now, someone obviously loses in this relationship. Who loses is the insurance company and all the administrative people on the provider side. So just know, and look, and I only quantified it minimally here to just know that, and I'm not even talking billers on the insurance side. I'm just talking billers on the doctor side are taking tons of money from the physician practices. And that could be quantified as a minimum of $40 to $50 PEPM that you, the employer, are paying just for the electronic medical record. Now, I will go one step further. And I will say, look, that administrative costs in healthcare, not only do they cost time and money, but they hurt patients. These administrative costs hurt patients. At a very basic level, physicians could increase access to patients because instead of working an entire month to pay for their EMR, what if they provided free care for an entire month? It used to be the professional responsibility of physicians to provide free care to those who could not pay. They don't do that anymore. And with changing this relationship with their EMR, they could work for a month for free and see patients and not bill them for an entire month instead of paying their EMR. So that shows how pernicious and wasteful administrative waste is in healthcare. And I wanted to share that with you today. Thank you for watching.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:12]  Today's topic is EMR costs employers $50 PEPM.
+[0:12 - 0:17]  So, I obviously work with a ton of insurance brokers and benefits consultants.
+[0:17 - 0:22]  One of the common things they say to me is that employers are getting PEPM to death.
+[0:22 - 0:29]  So that got me thinking, what sort of healthcare costs are employers incurring that is not
+[0:29 - 0:34]  in a PEPM, so they're not necessarily paying attention to it, but it's still there.
+[0:34 - 0:42]  And guess what? One of the huge costs to employers is on a PEPM basis that they don't realize at all.
+[0:43 - 0:48]  It's the electronic medical record for the doctor themselves. That's right.
+[0:49 - 0:55]  The electronic medical record or the electronic health record or EHR can be incredibly expensive
+[0:55 - 1:01]  for a physician practice. In fact, I was recently speaking with an EMR company and guess what they
+[1:01 - 1:11]  charge? They charge 7% of physician practice revenue. Okay, let's run the numbers on that 7% here.
+[1:11 - 1:20]  So, on average, an employee costs $10,000 per employee per year. So you've got 100 employees,
+[1:20 - 1:25]  your health plan is going to cost you about a million bucks. If you've got a thousand employees,
+[1:25 - 1:32]  it's going to cost you $10 million. Now, you've got your 85% M.O.R. right? So let's just say 15% of that
+[1:32 - 1:39]  is for the insurance company that they are keeping, right? So that gives you $8,500. Now, let's say you
+[1:39 - 1:51]  applied that 7% to that remaining $8,500 in, because that's claims, right? And if the electronic health
+[1:51 - 1:57]  record or medical record company is receiving 7% of claims, then one person's spending is another
+[1:57 - 2:02]  person's income. So the employer spending on claims is the physician's income. And yes, I know it's
+[2:02 - 2:07]  facility fees as well. But let's just say in total, regardless of if it was a physician practice or a
+[2:07 - 2:13]  facility, that their EMR still charging the equivalent of 7%, well then shoot, the 0.7 times
+[2:13 - 2:22]  the $8,500, that's $595 per year divided by 12 is $50 PEPM. And so even if you took like 20% out
+[2:22 - 2:30]  for our expense, it's still $40 PEPM. So when you think about your PEPM costs, just know that buried
+[2:30 - 2:38]  in your claims, you got a $40 to $50 PEPM charge to your health plan. Okay, now let's break it down,
+[2:38 - 2:43]  not at the individual employee level, but let's break it down in terms of what it costs a physician,
+[2:43 - 2:50]  right? So a primary care physician, a PCP on average collects $1.4 million a year in revenue.
+[2:51 - 2:57]  Likewise, a specialist collects about $1.6 million a year in revenue for their professional fees. So
+[2:57 - 3:02]  let's just split the difference between the $1.4 and $1.6 million and you get $1.5 million. Now,
+[3:02 - 3:08]  if the EMR company is getting 7% of that $1.5 million due to the $1.5 times the $0.7,
+[3:08 - 3:21]  and that means that the EMR costs $105,000 per doctor? Like a super high-end luxury vehicle per year,
+[3:21 - 3:31]  per doctor? If you, look, if you divide the $105,000 by the $1.5 million, that doctor needs to work
+[3:31 - 3:38]  approximately one month a year. They need to work almost one month a year just to pay for their EMR.
+[3:38 - 3:42]  So if they didn't pay anyone else and they're like, I'm just going to pay my EMR this month, it would take
+[3:42 - 3:49]  them like three and a half weeks just to pay for their EMR. Okay. Now, notice this relationship
+[3:49 - 3:56]  here on a percentage of revenue basis actually means that the EMR vendor encourages more fee-for-service.
+[3:56 - 4:00]  They don't want value-based care. They do not want capitation. They want that doctor to see as many
+[4:00 - 4:05]  patients as possible and they want them to bill as much as possible because they're getting 7% of every
+[4:05 - 4:12]  patient that they see and every bill that they collect on. Okay. So not all EMR vendors are set
+[4:12 - 4:16]  up this way, but this particular EMR vendor doesn't want value-based care at all. This particular EMR vendor
+[4:16 - 4:22]  wants as much fee-for-service as humanly possible. Okay. Next up. So what can a physician do about this?
+[4:22 - 4:29]  You can just exit the system. Like you don't have to play the insurance claim game. You don't have to.
+[4:29 - 4:35]  There's no law that says you have to do that in order to practice medicine. So you can opt out
+[4:35 - 4:38]  of insurance with billing and more and more physicians are doing this in the form of direct
+[4:38 - 4:43]  primary care and some are even doing direct specialty care as well. Now, an example of one
+[4:43 - 4:50]  of the original direct primary care practices is called Atlas MD in Wichita, Kansas. And they claim
+[4:50 - 5:01]  that their primary care physicians actually make 35% more than a fee-for-service primary care physician.
+[5:01 - 5:07]  A direct primary care physician makes 35% more than a fee-for-service physician. How is that possible?
+[5:07 - 5:13]  Well, for a family practice doctor on average for a fee-for-service doctor, they're making $228,000 a
+[5:13 - 5:20]  year. So first of all, look at that. The doctor's only taking home $228,000 and they got a bill $1.5 million.
+[5:20 - 5:30]  What? That's like $1.25 million of getting creamed off that doctor. So just know that like there's just a lot of
+[5:30 - 5:34]  administrative financial exploitation going on with doctors right now. If they're bringing in
+[5:34 - 5:40]  $1.5 million and they're only keeping $228,000, right? So if the Atlas MD docs are making 35% more,
+[5:40 - 5:45]  you just take the 228 times the 1.35, that means the Atlas MD docs are making $308,000 a year in
+[5:45 - 5:51]  Wichita, Kansas. What's that called? That's called really good life. Now, the way that these
+[5:51 - 5:56]  dot practices are set up is that they directly bill their patients or the employees for the patients a
+[5:56 - 6:03]  subscription of $50 per month. And if you run the numbers on that, the typical practice holds about
+[6:03 - 6:08]  800 people that that one physician sees over the course of the year. And they see about 1% of their
+[6:08 - 6:13]  patients every day. So they're seeing eight patients a day instead of 25. It means they got longer
+[6:13 - 6:17]  visits, they can accomplish more, they can do more counseling with the patients. So at $50 a month times
+[6:17 - 6:24]  800 patients times 12 a month, that means that that practice is billing out to the individuals, to the
+[6:24 - 6:33]  individual patients or to the employer, $480,000. So the physician is making $308,000 out of the $480,000.
+[6:33 - 6:39]  And the $480,000 is like a third of what the physician's practice, physician practice was billing out.
+[6:39 - 6:44]  So the physician, and they only have to see eight patients a day instead of 25. So the physician sees
+[6:44 - 6:50]  eight patients a day instead of 25. They can spend like an hour with the patient instead of seven minutes.
+[6:50 - 6:56]  They overall, they cost the healthcare system only $480,000. And they're taking home $308,000,
+[6:56 - 7:02]  which is 35% more. This from a numbers perspective is awesome. Now, someone obviously loses in this
+[7:02 - 7:08]  relationship. Who loses is the insurance company and all the administrative people on the provider side.
+[7:08 - 7:14]  So just know, and look, and I only quantified it minimally here to just know that, and I'm not even
+[7:14 - 7:20]  talking billers on the insurance side. I'm just talking billers on the doctor side are taking tons
+[7:20 - 7:29]  of money from the physician practices. And that could be quantified as a minimum of $40 to $50 PEPM
+[7:29 - 7:36]  that you, the employer, are paying just for the electronic medical record. Now, I will go one
+[7:36 - 7:41]  step further. And I will say, look, that administrative costs in healthcare, not only do they cost time and
+[7:41 - 7:47]  money, but they hurt patients. These administrative costs hurt patients. At a very basic level,
+[7:47 - 7:52]  physicians could increase access to patients because instead of working an entire month to pay for
+[7:52 - 7:58]  their EMR, what if they provided free care for an entire month? It used to be the professional
+[7:58 - 8:05]  responsibility of physicians to provide free care to those who could not pay. They don't do that anymore.
+[8:05 - 8:12]  And with changing this relationship with their EMR, they could work for a month for free and see
+[8:12 - 8:19]  patients and not bill them for an entire month instead of paying their EMR. So that shows how
+[8:19 - 8:24]  pernicious and wasteful administrative waste is in healthcare. And I wanted to share that with you today.
+[8:24 - 8:30]  Thank you for watching.

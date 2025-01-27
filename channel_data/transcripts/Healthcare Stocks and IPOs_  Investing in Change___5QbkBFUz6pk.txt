@@ -1,0 +1,108 @@
+Title: Healthcare Stocks and IPOs:  Investing in Change??
+URL: https://www.youtube.com/watch?v=5QbkBFUz6pk
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is healthcare stocks, IPOs, and is that really investing in change? So I've been listening to a lot of Q2 earnings reports for 2021 and they have been fascinating and they've been fascinatingly confusing. Now, as someone who is a physician, a former hospital finance consultant, I started a healthcare navigation firm and then sold it. I've been creating over 300 healthcare finance videos. I'm now the chief medical officer of a telemedicine company. So like, I kind of know the industry. And even I have a hard time understanding with any clarity what is actually being said on any of these quarterly earnings calls, any of them. And so, listen, I can't understand everything, but arguably maybe I should be able to understand something. So let's just use this as a case study for Privia Health. Now, Privia Health is a practice enablement company. Okay. That's a perfect example here. What in the world does that mean? You listen to these conference calls, you have no idea what they're saying. Okay. It's a practice association. It's an IPA, an independent practice associate, which is essentially a confederacy of physician practices that typically gets together for administrative and billing purposes. What does that mean? That means, look, they all roll up under the same tax ID, which means that they can then go out and they can negotiate better fee for service reimbursement rates from the insurance carriers for a visit. So that instead of getting $120 a visit, they're getting like $140 a visit. Okay. Now, then they can collectively buy an EMR. So maybe they can buy that EMR for cheaper and they can integrate it across all these things. And it's a lot easier than each individual practice having to integrate that EMR because putting in an EMR is hard. Okay. Finally, for revenue cycle, which is billing and collections. I used to be a hospital revenue consultant. Okay. Billing and collections is notoriously screwed up by physician practices. So the practice association comes in and says, Hey, we're actually competent when it comes to billing and collections. The physician practice is like, great, you take it over because we obviously can't do it. And then, like I said before, fine with contracting. So the individual practice, Blue Cross United, Cigna, Aetna say, look, we're going to pay you this amount per visit. You're going to like it. And if they can actually band together and have, and especially in a geographic region, then they can have more negotiating power from a fee for service aspect with the carriers. Okay, great. So that's what that means. Okay. Now we bring in this story of, okay, so Privia Health is meant to enable practices for value-based care. Okay. What in the world does value-based care mean? It means it can say these different people, right? So in other words, it means physicians are financially at risk for their patient population. In the strictest sense, it means capitation. They're given a fixed amount. And if they don't come in underneath that fixed amount for total cost of care for that patient, then the physician and the practice is on the hook for that. Now, Privia started out in the Washington, D.C., Maryland, and Virginia area. And they've expanded to more parts of Virginia, like Western Virginia and Southeastern Virginia. They got about 42 practices in that area. Now, they started out as mostly internal medicine and family practice physicians. And that makes sense from a value-based care perspective, because it's these primary care physicians that can actually take control of a population of health, and they can make them healthier, and they can do proactive outreach, and they can help in terms of behavior modification, help in terms of screening, help in terms of being adherent to medications so that they can keep you out of the hospital and keep you out of the specialist office, et cetera, et cetera. So you would decrease specialist visits, you would decrease hospitalizations. And in a capitated, risk-based world, then the decreased health care costs would then result in the internal medicine or family practice physician group getting paid more, right? Because they were being paid a fixed fee, health care costs came in lower, and the practice would be able to keep the difference. Okay, that is the model of value-based care. All right. So what did Privia do? They did a roll-up, which is sort of a classic private equity, because their private equity backed before they went public. They did a roll-up, which is sort of a classic private equity strategy, where like 75% of their practices are for doctors or less. So they took all these small practices around the Washington, D.C., Maryland, Virginia area, and they rolled them up. And of course, if you're an individual practice, you can't afford to upgrade your EMR. You couldn't negotiate your contract. You were pretty cruddy with your revenue cycle and your billing. So they would aggregate all that. And then they would keep track of things like your gaps in care and their clinical performance, because if you were a primary care practice, you would be involved in one of these ACOs. And all of this was formed back in 2016, when like ACOs were like all the rage. And traditional Medicare was going to do these alternative payment models. And alternative payment models, where if you, the primary care doc, didn't take good care of your patient population, like you were going to be financially penalized. So to a certain extent, Privia could go into these internal medicine practices and be like, look, how are you going to deal with all these ACOs and these alternative payment models? And the physician practice, the four doctors is like, we don't know. And Privia's like, we got an answer for you. Come join our practice. Listen, and that worked until it didn't. And what happened was ACOs didn't really play out. Like don't, didn't really happen. Like, especially in the commercial insurance world, like ACOs didn't really happen. Okay. And CMMI and Medicare are scaling back their alternative payment. Like they're not pushing down full throttle on their alternative payment. They're scaling them back. And I'll leave a link in the show note that describes specifically how they're scaling them back. So what did Privia do? They had to change their strategy. So they started going outside of Washington, DC. And they said, Hey, look, we'll go down to Georgia and we'll do a clinic, a practice down there. That's got dermatologists. They started going to specialists. They went down to Houston. They signed up a ton of OBGYNs. They went over to Fort Worth and they signed up a huge practice of physicians there. It's multi-specialty. It has a ton of surgeons in the practice. Guess what? Dermatologists, OBGYNs, and surgeons don't do. They don't do value-based care. Like all they do is fee for service. There's no such thing as dermatology, OBGYN, and surgeon value-based care. It's just a primary care thing. All these specialists, they just built fee for service and they want to make as much money as they can, which means they want to do as many services as they can. And they want to have as high reimbursement for each service as they possibly can. So that, so there goes the alignment of value-based care. There goes the alignment of the ACO and the alternative payment model. You're just left with traditional misaligned fee for service. So fine. So the Privia finally IPOs in April 21, they go out at 23 bucks. It goes all the way up to 46. It doubles by July, May, June. In three months, the stock doubled and now it comes back down to $21 here in October. Now I don't really understand. I don't know why it did that, but it did. Okay. So on the Q2 call, guess what the entire Q2 call is about? Value-based care. What? Like, that's not the direction that they've gone in. They've signed up all these specialists and ACOs and Medicare APMs are like, they're not materializing. So I was listening to this call and I'm like, what they're talking about in this call is not what their actual business is, right? So, and they're even changing strategies again, where now they're saying, look, they don't even have to have the tax ID of the physician practice. So they're not even going to roll up the physician practices under their tax ID. So all they're going to do is maybe like a management fee for taking over their revenue cycle. Like they can't do, if they're not taking over the tax ID, they can't do any contracting to get any higher reimbursement from the carrier. So it's just the same misaligned fee for service. And it's just the same model where in order for Privia to make more money, they just have to increase overall healthcare costs. So my point overall is, is that this is not unique to Privia. This is true for others as well. If you listen to the big major insurance carriers conference calls or to the other big healthcare company conference calls, they're like baffling. Okay. Even to me, I'm like, what are you really talking about here? And what they're talking about on these calls is not what their business actually is. It's not what the underlying economics of the business actually is. And so this, this is just to say, look, if you're going to do healthcare investing, listen, I'm all for healthcare investing. I'm all for allocating capital to lower healthcare costs. If you want to invest and allocate capital, lower healthcare costs and increase quality, that's great. That's not what a lot of healthcare investing is. And that's my point for today. Thank you for watching a healthcare seat.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:06]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:06 - 0:15]  healthcare stocks, IPOs, and is that really investing in change? So I've been listening
+[0:15 - 0:21]  to a lot of Q2 earnings reports for 2021 and they have been fascinating and they've been
+[0:21 - 0:29]  fascinatingly confusing. Now, as someone who is a physician, a former hospital finance consultant,
+[0:29 - 0:34]  I started a healthcare navigation firm and then sold it. I've been creating over 300 healthcare
+[0:34 - 0:39]  finance videos. I'm now the chief medical officer of a telemedicine company. So like,
+[0:40 - 0:48]  I kind of know the industry. And even I have a hard time understanding with any clarity what is
+[0:48 - 0:55]  actually being said on any of these quarterly earnings calls, any of them. And so, listen,
+[0:55 - 1:00]  I can't understand everything, but arguably maybe I should be able to understand something.
+[1:01 - 1:07]  So let's just use this as a case study for Privia Health. Now, Privia Health is a practice
+[1:07 - 1:13]  enablement company. Okay. That's a perfect example here. What in the world does that mean? You listen
+[1:13 - 1:18]  to these conference calls, you have no idea what they're saying. Okay. It's a practice association.
+[1:18 - 1:24]  It's an IPA, an independent practice associate, which is essentially a confederacy of physician
+[1:24 - 1:29]  practices that typically gets together for administrative and billing purposes. What does
+[1:29 - 1:35]  that mean? That means, look, they all roll up under the same tax ID, which means that they can then go
+[1:35 - 1:40]  out and they can negotiate better fee for service reimbursement rates from the insurance carriers
+[1:40 - 1:45]  for a visit. So that instead of getting $120 a visit, they're getting like $140 a visit. Okay.
+[1:45 - 1:51]  Now, then they can collectively buy an EMR. So maybe they can buy that EMR for cheaper and they can
+[1:51 - 1:55]  integrate it across all these things. And it's a lot easier than each individual practice having
+[1:55 - 2:00]  to integrate that EMR because putting in an EMR is hard. Okay. Finally, for revenue cycle,
+[2:00 - 2:06]  which is billing and collections. I used to be a hospital revenue consultant. Okay. Billing and
+[2:06 - 2:12]  collections is notoriously screwed up by physician practices. So the practice association comes in and
+[2:12 - 2:16]  says, Hey, we're actually competent when it comes to billing and collections. The physician practice
+[2:16 - 2:20]  is like, great, you take it over because we obviously can't do it. And then, like I said before,
+[2:20 - 2:24]  fine with contracting. So the individual practice, Blue Cross United, Cigna, Aetna say, look, we're
+[2:24 - 2:29]  going to pay you this amount per visit. You're going to like it. And if they can actually band together
+[2:29 - 2:33]  and have, and especially in a geographic region, then they can have more negotiating power from a
+[2:33 - 2:38]  fee for service aspect with the carriers. Okay, great. So that's what that means. Okay.
+[2:38 - 2:47]  Now we bring in this story of, okay, so Privia Health is meant to enable practices for value-based
+[2:47 - 2:51]  care. Okay. What in the world does value-based care mean? It means it can say these different
+[2:51 - 2:56]  people, right? So in other words, it means physicians are financially at risk for their
+[2:56 - 3:01]  patient population. In the strictest sense, it means capitation. They're given a fixed amount.
+[3:01 - 3:05]  And if they don't come in underneath that fixed amount for total cost of care for that patient,
+[3:05 - 3:11]  then the physician and the practice is on the hook for that. Now, Privia started out in the
+[3:11 - 3:15]  Washington, D.C., Maryland, and Virginia area. And they've expanded to more parts of Virginia,
+[3:15 - 3:21]  like Western Virginia and Southeastern Virginia. They got about 42 practices in that area. Now,
+[3:22 - 3:27]  they started out as mostly internal medicine and family practice physicians. And that makes sense
+[3:27 - 3:32]  from a value-based care perspective, because it's these primary care physicians that can actually
+[3:32 - 3:37]  take control of a population of health, and they can make them healthier, and they can do proactive
+[3:37 - 3:42]  outreach, and they can help in terms of behavior modification, help in terms of screening, help in
+[3:42 - 3:48]  terms of being adherent to medications so that they can keep you out of the hospital and keep you out of
+[3:48 - 3:52]  the specialist office, et cetera, et cetera. So you would decrease specialist visits, you would decrease
+[3:52 - 4:02]  hospitalizations. And in a capitated, risk-based world, then the decreased health care costs would then
+[4:02 - 4:08]  result in the internal medicine or family practice physician group getting paid more, right? Because
+[4:08 - 4:12]  they were being paid a fixed fee, health care costs came in lower, and the practice would be able to
+[4:12 - 4:18]  keep the difference. Okay, that is the model of value-based care. All right. So what did Privia do?
+[4:19 - 4:23]  They did a roll-up, which is sort of a classic private equity, because their private equity backed before
+[4:23 - 4:29]  they went public. They did a roll-up, which is sort of a classic private equity strategy, where like 75% of their
+[4:29 - 4:34]  practices are for doctors or less. So they took all these small practices around the Washington,
+[4:34 - 4:38]  D.C., Maryland, Virginia area, and they rolled them up. And of course, if you're an individual
+[4:38 - 4:45]  practice, you can't afford to upgrade your EMR. You couldn't negotiate your contract. You were pretty
+[4:45 - 4:50]  cruddy with your revenue cycle and your billing. So they would aggregate all that. And then they would
+[4:50 - 4:55]  keep track of things like your gaps in care and their clinical performance, because if you were a primary
+[4:55 - 5:01]  care practice, you would be involved in one of these ACOs. And all of this was formed back in 2016, when like ACOs
+[5:01 - 5:07]  were like all the rage. And traditional Medicare was going to do these alternative payment models. And alternative
+[5:07 - 5:13]  payment models, where if you, the primary care doc, didn't take good care of your patient population, like you were going to be
+[5:13 - 5:19]  financially penalized. So to a certain extent, Privia could go into these internal medicine practices and be like,
+[5:19 - 5:24]  look, how are you going to deal with all these ACOs and these alternative payment models? And the physician
+[5:24 - 5:29]  practice, the four doctors is like, we don't know. And Privia's like, we got an answer for you. Come join our
+[5:29 - 5:38]  practice. Listen, and that worked until it didn't. And what happened was ACOs didn't really play out. Like
+[5:38 - 5:45]  don't, didn't really happen. Like, especially in the commercial insurance world, like ACOs didn't really
+[5:45 - 5:53]  happen. Okay. And CMMI and Medicare are scaling back their alternative payment. Like they're not pushing
+[5:53 - 5:58]  down full throttle on their alternative payment. They're scaling them back. And I'll leave a link in
+[5:58 - 6:04]  the show note that describes specifically how they're scaling them back. So what did Privia do? They had to
+[6:04 - 6:09]  change their strategy. So they started going outside of Washington, DC. And they said, Hey, look,
+[6:09 - 6:13]  we'll go down to Georgia and we'll do a clinic, a practice down there. That's got dermatologists.
+[6:13 - 6:18]  They started going to specialists. They went down to Houston. They signed up a ton of OBGYNs. They went
+[6:18 - 6:24]  over to Fort Worth and they signed up a huge practice of physicians there. It's multi-specialty. It has a ton
+[6:24 - 6:32]  of surgeons in the practice. Guess what? Dermatologists, OBGYNs, and surgeons don't do. They don't do value-based
+[6:32 - 6:37]  care. Like all they do is fee for service. There's no such thing as dermatology, OBGYN,
+[6:38 - 6:42]  and surgeon value-based care. It's just a primary care thing. All these specialists,
+[6:43 - 6:48]  they just built fee for service and they want to make as much money as they can, which means they
+[6:48 - 6:53]  want to do as many services as they can. And they want to have as high reimbursement for each service
+[6:53 - 7:00]  as they possibly can. So that, so there goes the alignment of value-based care. There goes the
+[7:00 - 7:05]  alignment of the ACO and the alternative payment model. You're just left with traditional misaligned
+[7:05 - 7:12]  fee for service. So fine. So the Privia finally IPOs in April 21, they go out at 23 bucks. It goes all
+[7:12 - 7:19]  the way up to 46. It doubles by July, May, June. In three months, the stock doubled and now it comes
+[7:19 - 7:25]  back down to $21 here in October. Now I don't really understand. I don't know why it did that, but it did.
+[7:25 - 7:34]  Okay. So on the Q2 call, guess what the entire Q2 call is about? Value-based care. What? Like,
+[7:34 - 7:39]  that's not the direction that they've gone in. They've signed up all these specialists and ACOs and
+[7:39 - 7:46]  Medicare APMs are like, they're not materializing. So I was listening to this call and I'm like,
+[7:46 - 7:51]  what they're talking about in this call is not what their actual business is, right? So,
+[7:51 - 7:55]  and they're even changing strategies again, where now they're saying, look, they don't even have to
+[7:55 - 8:00]  have the tax ID of the physician practice. So they're not even going to roll up the physician
+[8:00 - 8:06]  practices under their tax ID. So all they're going to do is maybe like a management fee for taking over
+[8:06 - 8:09]  their revenue cycle. Like they can't do, if they're not taking over the tax ID, they can't do any
+[8:09 - 8:15]  contracting to get any higher reimbursement from the carrier. So it's just the same misaligned fee for
+[8:15 - 8:21]  service. And it's just the same model where in order for Privia to make more money, they just have
+[8:21 - 8:27]  to increase overall healthcare costs. So my point overall is, is that this is not unique to Privia.
+[8:28 - 8:32]  This is true for others as well. If you listen to the big major insurance carriers conference calls
+[8:32 - 8:39]  or to the other big healthcare company conference calls, they're like baffling. Okay. Even to me,
+[8:39 - 8:45]  I'm like, what are you really talking about here? And what they're talking about on these calls is
+[8:45 - 8:51]  not what their business actually is. It's not what the underlying economics of the business actually
+[8:51 - 8:56]  is. And so this, this is just to say, look, if you're going to do healthcare investing, listen,
+[8:56 - 9:02]  I'm all for healthcare investing. I'm all for allocating capital to lower healthcare costs.
+[9:02 - 9:06]  If you want to invest and allocate capital, lower healthcare costs and increase quality,
+[9:06 - 9:12]  that's great. That's not what a lot of healthcare investing is. And that's my point for today.
+[9:12 - 9:13]  Thank you for watching a healthcare seat.

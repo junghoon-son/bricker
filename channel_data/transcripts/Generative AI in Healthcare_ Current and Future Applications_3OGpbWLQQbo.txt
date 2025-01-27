@@ -1,0 +1,144 @@
+Title: Generative AI in Healthcare: Current and Future Applications
+URL: https://www.youtube.com/watch?v=3OGpbWLQQbo
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, good morning everyone. This is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's training topic is generative AI in healthcare. So let's spend the rest of this conversation talking about healthcare applications for AI. And I wanted to focus on applications that are literally being done like right now or starting to be done right now. I mean, you could probably think of all sorts of pie in the sky things that you can do. So this is not meant to be an exhaustive list, but these are things that are being done right now that, in my opinion, are incredibly helpful in healthcare. So one is documentation. Okay, so there is gobs and gobs of documentation that healthcare professionals have to do in the doctor's office, in the hospital, you name it. So the doctors, the occupational therapists, the respiratory therapists, name it. It's like you just spent so much time doing documentation. It's like unreal. Unreal. So with that, 62% of doctor's time is spent with the electronic medical record, not with the patient. Okay, so there actually is today a way for the generative AI. So like you've got the note, right? The note has to communicate, you know, it's a legal record. It has to communicate to other healthcare professionals or other doctors, like what's actually transpired during the office visit. It can be shared with the patient so that the patient can see. It's used for billing purposes to justify the billing that's performed. Now, today, like literally, we can pair ambient listening devices. So like I can just, I, Dr. Bricker, can have a visit with Joe and Jane. And that you can have just a microphone, sort of like an Amazon Echo in the room. And it can just like listen to the conversation. And it has voice recognition and natural language processing. So it knows that like my voice is the doctor's voice and that the patient's voice is the patient. And then it can use generative AI that has learned how to create a note in the style and the format that physicians create notes. It has to have like a, it has to have a chief complaint. It has to have a history. It has different sections. Chief complaint, history of present illness, past medical history, family history, social history, etc. And it can just listen to the office visit and it can create the note. So you don't have to spend all this time writing the note. How incredibly helpful is that? That is like the coolest thing ever. Now, this is done today. Deep Scribe is a company that literally does this today. They're doing it at Stanford and at the Texas Medical Center down in Houston. Now, I have no connection with Deep Scribe. But it literally saves three hours a day. And it only costs one-sixth the cost of a human scribe. I mean, there are some physicians that use scribes, like literally a person. All they do is come with their little laptop and they just sit there and type the note so that the doctor doesn't have to do that. And so you can save three hours a day for a doctor. I mean, that is unreal. Okay, next up. Prior authorizations. This is one of the first things that came out when Chan GPT came out is that a doctor in Florida who's a rheumatologist said, what if I put in a prompt of write a letter to UnitedHealthcare asking them to approve an echocardiogram on a patient with systemic sclerosis, which is a rheumatic disease that causes your skin and your soft tissues to harden, and make reference to supporting scientific literature and list the appropriate articles. And guess what? It did it in like a second. So doctors today have to do this by hand. They've got to write a letter. Dear UnitedHealthcare, I would like to have an echocardiogram for John or Jane Doe. They've got systemic sclerosis. This is why I want it to be done. Here's why echocardiograms are clinically justified. Here's some references. I mean, it takes a ton of time. And he just said, hey, could you just do this for me? And then, of course, everything in healthcare has to be done by fax. So we take this amazing new technology, and then we have to transmit it to the health insurance company by a fax machine. But the point is that it can do it. And in fact, Doximity has a beta version of this that they are using right now. And again, I have no connection to Doximity. Now, it's important to note that there are sort of limitations here. So like ChatGPT is not actively connected to the internet. In fact, ChatGPT was pre-trained on the internet pre-2021. So there's a lot of like standards of care and a lot of things in the medical literature and a lot of things that can be justified for prior authorization where information as of pre-2020-2021 is totally okay. But just note that if there are like newer studies that come out or newer articles or what have you, if it's from 2021 or later, it's not going to show up because ChatGPT was not trained on that. Now, the rheumatologist in Florida also said, look, when you see those references, you also need to double check them as well. So that there was actually a case of an attorney that used ChatGPT. And apparently the AI actually even made up the sources. It made up the cases. These cases did not exist. So certainly it's not perfect. So you're going to want to. But when he read the clinical justification for like why it should be done, he's like, oh, that's totally right. Now, another thing that AI can be used for is to search. And this is a personal favorite of mine is to search. Plan. So everybody. So a lot of people here work in health. And like the plan documents. I mean, I mean, it's obviously all in PDFs these days. But, you know, back when they used to print them out. I mean, they're like this thick. And then also, and that describes like what your insurance covers and what it doesn't cover and how it covers it. Like what's your deductible? What's your coinsurance? Like how does it cover dermal medical equipment? And it's got gobs and gobs of fine print in there. Now, there's also medical policy, which is even more layers of fine print, which is, hey, your health insurance plan will pay for this medical procedure in this situation. But it won't pay for the same medical procedure in a different situation. And I have a whole nother training session on medical policy and its source of denials. And it's incredibly long and complicated. Me, as a physician, I have a super hard time understanding this. So like your typical like layperson or plan member, they would have no clue how to read and interpret this. Plus, you'd have to go through these pages and pages and pages that are not easily searchable to find the information that you need. But you can have AI. You can just ask AI a question about a document. And it'll go through the document. And it'll answer that question for you. And there is a software tool that's called Unriddle AI that reads PDFs. And you can just type in queries. Or you can just ask it to summarize it for you. And you can use it for free for a document up to 120 pages. And you can do four queries a month for free. Now, if you want to upgrade it, you can do up to 4,000 page documents. And you can do 250 queries a month for $50 a month. Again, I have no connection to Unriddle AI. But if you were working as a, let's say, an account manager as a brokerage firm. And let's say your client is like, hey, or, you know, I've got or even if you work in benefits in HR. And you've got an employee that's like, hey, you know, can I, you know, my health insurance is saying it doesn't cover this or whatever. And you're like, I don't even know if our plan does or does not cover that. And instead of you having to rifle through the planned documents of the medical policy, you could just use Unriddle AI to be like, hey, for our Blue Cross United Cigna Aetna policy, does it cover, you know, echocardiograms for 17-year-olds who had one episode of palpitations while playing soccer? And like, it'll shoot out an answer for you. Now, interestingly, it can also search medical records. And so there's actually a partnership between the Mayo Clinic and Google that was just announced on June 7th of this year, 2023, where Mayo is going to take, you know, de-identified patient data. And they're going to allow Google's generative AI to then look through those medical records. And that would be extremely helpful as well because doctors and, you know, clinicians, we have to do what we call sort of the slang term for it is a chart biopsy where, you know, you've got these complex patients that have gobs of gobs of previous visits or their hospital stay might already be a month long. And you're just coming on to be consulted as the cardiologist or what have you. And you're like, oh, man, I got to spend all this time looking through their medical record. Whereas literally, you could just use the AI to be like, hey, could you summarize their stay for me? Or could you tell me specifically what happened with this particular, like, I know the guy had a cardiac cath, but can you just find that in there and let me know what happened in the cardiac cath? So the effectiveness and the accuracy of the chart biopsy of actually looking through those charts could be tremendously better, especially in the ER, right? Because in the ER, you don't have time to look through all this stuff, right? So the patients would come into the ER and the ER doctor would look at their medical record that was already in the system. And they're like, oh, man, I can't keep this straight. There's no way I can figure all this out. It's an emergency. Whereas they could actually just use the AI to, like, very quickly answer, like, what they would need to know from the huge medical record. I mean, that would be unbelievable.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:08]  Hello, good morning everyone. This is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:08 - 0:15]  Today's training topic is generative AI in healthcare.
+[0:15 - 0:24]  So let's spend the rest of this conversation talking about healthcare applications for AI.
+[0:24 - 0:32]  And I wanted to focus on applications that are literally being done like right now or starting to be done right now.
+[0:32 - 0:36]  I mean, you could probably think of all sorts of pie in the sky things that you can do.
+[0:37 - 0:46]  So this is not meant to be an exhaustive list, but these are things that are being done right now that, in my opinion, are incredibly helpful in healthcare.
+[0:46 - 0:48]  So one is documentation.
+[0:48 - 0:59]  Okay, so there is gobs and gobs of documentation that healthcare professionals have to do in the doctor's office, in the hospital, you name it.
+[1:00 - 1:06]  So the doctors, the occupational therapists, the respiratory therapists, name it.
+[1:07 - 1:10]  It's like you just spent so much time doing documentation.
+[1:11 - 1:12]  It's like unreal.
+[1:12 - 1:13]  Unreal.
+[1:13 - 1:21]  So with that, 62% of doctor's time is spent with the electronic medical record, not with the patient.
+[1:22 - 1:30]  Okay, so there actually is today a way for the generative AI.
+[1:30 - 1:31]  So like you've got the note, right?
+[1:31 - 1:34]  The note has to communicate, you know, it's a legal record.
+[1:34 - 1:40]  It has to communicate to other healthcare professionals or other doctors, like what's actually transpired during the office visit.
+[1:40 - 1:43]  It can be shared with the patient so that the patient can see.
+[1:43 - 1:46]  It's used for billing purposes to justify the billing that's performed.
+[1:46 - 1:55]  Now, today, like literally, we can pair ambient listening devices.
+[1:56 - 2:00]  So like I can just, I, Dr. Bricker, can have a visit with Joe and Jane.
+[2:00 - 2:06]  And that you can have just a microphone, sort of like an Amazon Echo in the room.
+[2:06 - 2:08]  And it can just like listen to the conversation.
+[2:08 - 2:12]  And it has voice recognition and natural language processing.
+[2:12 - 2:16]  So it knows that like my voice is the doctor's voice and that the patient's voice is the patient.
+[2:16 - 2:28]  And then it can use generative AI that has learned how to create a note in the style and the format that physicians create notes.
+[2:29 - 2:31]  It has to have like a, it has to have a chief complaint.
+[2:31 - 2:32]  It has to have a history.
+[2:32 - 2:33]  It has different sections.
+[2:34 - 2:41]  Chief complaint, history of present illness, past medical history, family history, social history, etc.
+[2:41 - 2:46]  And it can just listen to the office visit and it can create the note.
+[2:46 - 2:50]  So you don't have to spend all this time writing the note.
+[2:51 - 2:54]  How incredibly helpful is that?
+[2:54 - 2:56]  That is like the coolest thing ever.
+[2:57 - 2:58]  Now, this is done today.
+[2:59 - 3:02]  Deep Scribe is a company that literally does this today.
+[3:02 - 3:07]  They're doing it at Stanford and at the Texas Medical Center down in Houston.
+[3:07 - 3:08]  Now, I have no connection with Deep Scribe.
+[3:08 - 3:14]  But it literally saves three hours a day.
+[3:14 - 3:18]  And it only costs one-sixth the cost of a human scribe.
+[3:18 - 3:21]  I mean, there are some physicians that use scribes, like literally a person.
+[3:21 - 3:28]  All they do is come with their little laptop and they just sit there and type the note so that the doctor doesn't have to do that.
+[3:28 - 3:34]  And so you can save three hours a day for a doctor.
+[3:34 - 3:36]  I mean, that is unreal.
+[3:36 - 3:38]  Okay, next up.
+[3:38 - 3:39]  Prior authorizations.
+[3:39 - 3:48]  This is one of the first things that came out when Chan GPT came out is that a doctor in Florida who's a rheumatologist said,
+[3:48 - 4:01]  what if I put in a prompt of write a letter to UnitedHealthcare asking them to approve an echocardiogram on a patient with systemic sclerosis,
+[4:01 - 4:07]  which is a rheumatic disease that causes your skin and your soft tissues to harden,
+[4:07 - 4:16]  and make reference to supporting scientific literature and list the appropriate articles.
+[4:16 - 4:17]  And guess what?
+[4:17 - 4:20]  It did it in like a second.
+[4:20 - 4:24]  So doctors today have to do this by hand.
+[4:24 - 4:25]  They've got to write a letter.
+[4:25 - 4:30]  Dear UnitedHealthcare, I would like to have an echocardiogram for John or Jane Doe.
+[4:30 - 4:32]  They've got systemic sclerosis.
+[4:32 - 4:34]  This is why I want it to be done.
+[4:35 - 4:37]  Here's why echocardiograms are clinically justified.
+[4:38 - 4:39]  Here's some references.
+[4:39 - 4:41]  I mean, it takes a ton of time.
+[4:42 - 4:45]  And he just said, hey, could you just do this for me?
+[4:46 - 4:48]  And then, of course, everything in healthcare has to be done by fax.
+[4:48 - 4:53]  So we take this amazing new technology, and then we have to transmit it to the health insurance company by a fax machine.
+[4:53 - 4:56]  But the point is that it can do it.
+[4:56 - 5:01]  And in fact, Doximity has a beta version of this that they are using right now.
+[5:02 - 5:05]  And again, I have no connection to Doximity.
+[5:05 - 5:09]  Now, it's important to note that there are sort of limitations here.
+[5:09 - 5:13]  So like ChatGPT is not actively connected to the internet.
+[5:13 - 5:22]  In fact, ChatGPT was pre-trained on the internet pre-2021.
+[5:22 - 5:37]  So there's a lot of like standards of care and a lot of things in the medical literature and a lot of things that can be justified for prior authorization where information as of pre-2020-2021 is totally okay.
+[5:37 - 5:51]  But just note that if there are like newer studies that come out or newer articles or what have you, if it's from 2021 or later, it's not going to show up because ChatGPT was not trained on that.
+[5:51 - 5:59]  Now, the rheumatologist in Florida also said, look, when you see those references, you also need to double check them as well.
+[5:59 - 6:05]  So that there was actually a case of an attorney that used ChatGPT.
+[6:05 - 6:10]  And apparently the AI actually even made up the sources.
+[6:11 - 6:12]  It made up the cases.
+[6:13 - 6:15]  These cases did not exist.
+[6:15 - 6:17]  So certainly it's not perfect.
+[6:17 - 6:18]  So you're going to want to.
+[6:19 - 6:24]  But when he read the clinical justification for like why it should be done, he's like, oh, that's totally right.
+[6:24 - 6:32]  Now, another thing that AI can be used for is to search.
+[6:33 - 6:36]  And this is a personal favorite of mine is to search.
+[6:38 - 6:38]  Plan.
+[6:40 - 6:42]  So everybody.
+[6:42 - 6:44]  So a lot of people here work in health.
+[6:45 - 6:47]  And like the plan documents.
+[6:48 - 6:50]  I mean, I mean, it's obviously all in PDFs these days.
+[6:50 - 6:52]  But, you know, back when they used to print them out.
+[6:52 - 6:53]  I mean, they're like this thick.
+[6:53 - 6:59]  And then also, and that describes like what your insurance covers and what it doesn't cover and how it covers it.
+[6:59 - 7:00]  Like what's your deductible?
+[7:00 - 7:01]  What's your coinsurance?
+[7:01 - 7:04]  Like how does it cover dermal medical equipment?
+[7:04 - 7:07]  And it's got gobs and gobs of fine print in there.
+[7:07 - 7:16]  Now, there's also medical policy, which is even more layers of fine print, which is, hey, your health insurance plan will pay for this medical procedure in this situation.
+[7:16 - 7:20]  But it won't pay for the same medical procedure in a different situation.
+[7:20 - 7:28]  And I have a whole nother training session on medical policy and its source of denials.
+[7:28 - 7:30]  And it's incredibly long and complicated.
+[7:30 - 7:35]  Me, as a physician, I have a super hard time understanding this.
+[7:35 - 7:42]  So like your typical like layperson or plan member, they would have no clue how to read and interpret this.
+[7:42 - 7:48]  Plus, you'd have to go through these pages and pages and pages that are not easily searchable to find the information that you need.
+[7:48 - 7:52]  But you can have AI.
+[7:53 - 7:56]  You can just ask AI a question about a document.
+[7:56 - 7:58]  And it'll go through the document.
+[7:58 - 8:00]  And it'll answer that question for you.
+[8:00 - 8:06]  And there is a software tool that's called Unriddle AI that reads PDFs.
+[8:06 - 8:08]  And you can just type in queries.
+[8:08 - 8:11]  Or you can just ask it to summarize it for you.
+[8:11 - 8:17]  And you can use it for free for a document up to 120 pages.
+[8:17 - 8:21]  And you can do four queries a month for free.
+[8:22 - 8:28]  Now, if you want to upgrade it, you can do up to 4,000 page documents.
+[8:28 - 8:34]  And you can do 250 queries a month for $50 a month.
+[8:34 - 8:36]  Again, I have no connection to Unriddle AI.
+[8:36 - 8:41]  But if you were working as a, let's say, an account manager as a brokerage firm.
+[8:42 - 8:48]  And let's say your client is like, hey, or, you know, I've got or even if you work in benefits in HR.
+[8:48 - 8:56]  And you've got an employee that's like, hey, you know, can I, you know, my health insurance is saying it doesn't cover this or whatever.
+[8:56 - 8:58]  And you're like, I don't even know if our plan does or does not cover that.
+[8:58 - 9:15]  And instead of you having to rifle through the planned documents of the medical policy, you could just use Unriddle AI to be like, hey, for our Blue Cross United Cigna Aetna policy, does it cover, you know, echocardiograms for 17-year-olds who had one episode of palpitations while playing soccer?
+[9:16 - 9:18]  And like, it'll shoot out an answer for you.
+[9:18 - 9:25]  Now, interestingly, it can also search medical records.
+[9:25 - 9:39]  And so there's actually a partnership between the Mayo Clinic and Google that was just announced on June 7th of this year, 2023, where Mayo is going to take, you know, de-identified patient data.
+[9:39 - 9:46]  And they're going to allow Google's generative AI to then look through those medical records.
+[9:46 - 10:03]  And that would be extremely helpful as well because doctors and, you know, clinicians, we have to do what we call sort of the slang term for it is a chart biopsy where, you know, you've got these complex patients that have gobs of gobs of previous visits or their hospital stay might already be a month long.
+[10:03 - 10:07]  And you're just coming on to be consulted as the cardiologist or what have you.
+[10:07 - 10:11]  And you're like, oh, man, I got to spend all this time looking through their medical record.
+[10:12 - 10:17]  Whereas literally, you could just use the AI to be like, hey, could you summarize their stay for me?
+[10:17 - 10:27]  Or could you tell me specifically what happened with this particular, like, I know the guy had a cardiac cath, but can you just find that in there and let me know what happened in the cardiac cath?
+[10:27 - 10:38]  So the effectiveness and the accuracy of the chart biopsy of actually looking through those charts could be tremendously better, especially in the ER, right?
+[10:38 - 10:41]  Because in the ER, you don't have time to look through all this stuff, right?
+[10:41 - 10:46]  So the patients would come into the ER and the ER doctor would look at their medical record that was already in the system.
+[10:46 - 10:48]  And they're like, oh, man, I can't keep this straight.
+[10:48 - 10:50]  There's no way I can figure all this out.
+[10:50 - 10:51]  It's an emergency.
+[10:51 - 11:00]  Whereas they could actually just use the AI to, like, very quickly answer, like, what they would need to know from the huge medical record.
+[11:00 - 11:02]  I mean, that would be unbelievable.

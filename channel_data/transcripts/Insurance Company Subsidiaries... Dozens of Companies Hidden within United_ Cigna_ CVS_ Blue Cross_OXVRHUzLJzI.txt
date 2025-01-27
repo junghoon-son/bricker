@@ -1,0 +1,226 @@
+Title: Insurance Company Subsidiaries... Dozens of Companies Hidden within United, Cigna, CVS, Blue Cross
+URL: https://www.youtube.com/watch?v=OXVRHUzLJzI
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker, and thank you for watching A Healthcare Z. And today's topic is health insurance company subsidiaries. So, the major health insurance companies in America have a lot of subsidiaries, and those subsidiaries are confusing, and they have all sorts of different names, so it's not obvious what companies are actually subsidiaries of the major health insurance companies. So we're going to go through some of them today. It is so complicated. We have an A Healthcare Z first. It requires more than one whiteboard. So this is just part one, and in the second half of the video, we will have part two. Okay, first of all, we're going to start off with United Health Group. Now, United Health Group has the subsidiary of United Healthcare Insurance, or UHC, and then there's a subsidiary of United Healthcare Insurance, which is UMR, which is just the TPA underneath UHC for self-funded employers that need to do more flexibility than your traditional UHC, what are called ASO, administrative services only. Okay, next up, we have Optum. Of course, everybody's heard about Optum, right? Like, the revenue from Optum is almost equal to the revenue of UHC itself. Okay, then Optum, look at this. It has a ton of subsidiaries. Okay, so one is OptumRx. That's the PBM within Optum. And then even OptumRx has a subsidiary within that, which is called MSR. And MSR is a group purchasing organization, a GPO that's actually headquartered in Europe that is used as a mechanism for collecting payments from the pharmaceutical companies. I have a whole other video about that. I will leave a link to it in the show notes. Okay, next up, then there is the Optum Specialty Pharmacy. That's right, because if you get your specialty medications through OptumRx, you can't just go fill that at your local pharmacy. You have to get a mail order through the Optum Specialty Pharmacy. Okay, next up is Change Healthcare. Of course, many of you are familiar with Change Healthcare because they had that large ransomware problem earlier in 2024. Now, Change Healthcare acts as the electronic interface for billing and then record of payment between the multiple health insurance carriers and thousands of doctors and hospitals across America. It's essentially the piping that allows those electronic transactions of billing and payment to occur. Okay, so there are the pipes. Change Healthcare itself has a subsidiary. It's called Interqual. Interqual actually creates the quote-unquote standards for the number of bed days that are allowed for various diagnoses. So if you have pneumonia, they'll give you three days in the hospital. If you have acute renal failure, they might give you four days in the hospital and on and on and on. Okay, all those quote-unquote standard guidelines are created by Interqual, which is a subsidiary of Change Healthcare, which is a subsidiary of Optum, which is a subsidiary of UnitedHealth Group. Whoa, look at that. It's four layers deep. Okay, next up. Okay, next up. Okay, next up. We have the advisory board company. The advisory board company is actually a consulting firm that consults four large hospital systems to show them how to get paid more. That's right. UnitedHealth Group owns a consulting firm that tells hospitals how to make more money from UnitedHealthcare itself, along with other health insurance companies. Next up, UnitedHealth Group actually owns large physician practices. One of the ones that it owns down in Houston is called Kelsey Siebold. Now, Kelsey Siebold is actually sort of like a mini Kaiser in that it's capitated. It gets a fixed amount of capitated payment per patient, and then it provides outpatient care, ambulatory surgery care. It provides imaging. It does lab. It's got OBGYN services. It's got home infusions. It does all sorts of stuff, but they don't actually run hospitals. Then there's WellMed, which is, again, is a group of physicians in Texas and Florida and some other places as well. And, again, it's capitated, similar to Kelsey Siebold. They take care of Medicare Advantage patients. And then there's Atreus, which is up in Massachusetts. And they're kind of your historical, you know, it's kind of fee-for-service physician group. And they own physician groups in California as well. Okay. Now, before I move on, what I've done is I've put these up and down arrows in circles. What are these up and down arrows? So how do each of these subsidiaries make money? Do they make money by increasing health care costs to the government, employers, and patients? Right? Those are the three folks that pay for things, right? It's the government, either federal or state. It's employers. And then patients out of pocket costs themselves. So it's those three. So do these companies make more money by increasing health care costs? Or do they make more money by decreasing health care costs? Because all you need to do is listen to a quarterly earnings call for United Health Group. And they explicitly tell their investors, like, how they're going to maximize revenue and how they're going to maximize earnings and how they're going to maximize shareholder value. That's the whole point of the conference call. So let's see how each one of these different subsidiaries of United Health Group, let's see how they make money. Okay. United Health Care makes money by making health care costs go down. UMR makes money by making health care costs go down. Okay. Optum Rx makes money by health care costs going up. MSR makes money by health care costs going up. Optum Specialty Pharmacy makes money by health care costs going up. Change Healthcare makes money by health care costs going up. They want more claims and they want to charge their hospital and doctor customers more money for processing those claims. So they want to add cost to the system in order to make more money for change healthcare. Okay, next, Interqual actually makes money by healthcare costs going down. So interestingly, a subsidiary of change healthcare that actually wants healthcare costs to go up, Interqual actually wants healthcare costs to go down. Okay, the advisory board company, they make money by having healthcare costs go up. Now, even within their physician groups, it varies. Kelsey Siebel makes more money if healthcare costs go down. WellMed makes more money if healthcare costs go down. But Atreus, because they're traditional fee for service, they make more money if healthcare costs go up. So United Health Group makes money with a sort of mix and up and down arrows. All right, let's move on to the Cigna Group. The Cigna Group has Cigna Healthcare, which is the health insurance arm, which is analogous to United Healthcare. And then it has a TPA subsidiary that's called Allegiance, which is analogous to UMR. That's for self-funded groups that want more of that flexible TPA. Okay, next up, then there's EverNorth, which is the other main subsidiary of the Cigna Group. It's analogous to Optum. And EverNorth, the vast majority of EverNorth is actually ExpressGrips, which is the very large PBM that is sometimes abbreviated ESI. And then ESI also has a subsidiary called Ascent Health Services, which again is headquartered in Europe and is just like MSR. It's used as a mechanism for collecting payments from pharmaceutical companies for the PBM. Okay, next up, then you have EverNorth also has a subsidiary called EverCore. And EverCore is one of the two largest prior authorization companies in America. So they do a lot of the prior authorizations for United. United outsourced much of their prior authorizations to EverCore, which is a subsidiary of their competitor Cigna. So all these orthopedists and surgeons and all these other doctors that are trying to get prior cardiologists that are kind of trying to get prior authorization for services, they're actually using EverCore, which is actually a subsidiary of EverNorth, which is actually a subsidiary of the Cigna Group. So it's three layers deep. Okay, next up, EverNorth also has MD Live, which is a large telemedicine company. Next you have EverNorth made a multi-billion dollar investment in Village MD, which is co-owned by Walgreens. And one of the, and of course, there's like these Village MDs that are in Walgreens pharmacies, and they're shutting a whole bunch of them down, and it's not working out. But they also own huge physician practices. It owns a huge physician practice in the Northeast called Summit Health, which is a bunch of like orthopedic surgeons and other specialists as well. So again, let's go through the up and down arrows for all the subsidiaries of Cigna, the Cigna Group, to see if they make more money when healthcare costs go up, or if they make more money when healthcare costs go down. Okay, Cigna Healthcare makes more money when healthcare costs go down. Allusionz makes more money when healthcare costs go down. Express Scripts, as a PBM, makes more money when healthcare costs go up. Ascent Health Services makes more money when healthcare costs go up. Evercore is kind of similar to Interqual. Evercore makes more money when healthcare costs go down. MD Live, it's fee for service. They make more money when healthcare costs go up. Village MD makes more money when healthcare costs go up. Again, it's fee for service. Summit Health, again, it's a massive fee for service physician practice. They make money when healthcare costs go up. So again, for the Cigna Group, you have a combination of up and down arrows. You even have up and down arrows within Evernorth. All right, so this is just the end of part one. Stay tuned for part two. All right, part two of health insurance company subsidiaries. Now we have CVS Health. Now, CVS Health has a health insurance arm, and that is Aetna. And Aetna has one of these TPA subsidiaries as well, which is Meritain, which is analogous to UMR and Allegiance from United and Cigna. Next, you have CVS Caremark, which is the massive PBM within CVS Health. In fact, CVS Caremark, the PBM itself, is actually the largest part of CVS Health. And again, it too has a subsidiary called Zinc, which again is a group purchasing organization, which is analogous to the GPOs that the other PBMs have as well, again, as a mechanism for collecting payments from pharmaceutical companies. Next, then you also have CVS Specialty Pharmacy. Again, if you're using CVS Caremark as your PBM and you need a specialty medication, then again, you can't just like walk into any random pharmacy to get that filled. You got to get a mail order through the CVS Specialty Pharmacy or through one of the CVS Retail Locations, which then brings me to the CVS Pharmacy Locations. Of course, all of the retail pharmacies that so many of us are familiar with. And then interestingly, a newer subsidiary is Cordavis. What in the world is Cordavis? Cordavis is actually a pharmaceutical manufacturer. That's right. CVS Health is actually starting to make its own medications. But in fact, they're not actually making anything. Cordavis doesn't have any like manufacturing plants. They just license it from other pharmaceutical companies that they contract with to make it. So essentially, Cordavis is just a pharmaceutical company like Shell Company. They don't actually have any manufacturing facilities. Okay, next up, we're moving on to Elevance Health, which is the largest Blue Cross plan in America. And Elevance has Anthem, which many of you are familiar with. And then they also have WellPoint. And both of them are the health insurance arms. Anthem, of course, does commercial insurance. And then WellPoint does a bunch of Medicare Advantage plans and Medicaid. And they also have ACA plans. And then there's also Carillon within Elevance as well. And Carillon is analogous to like Optum within United, where it's sort of the healthcare services arm of Elevance. And they have AIM Specialty Health. And what is AIM Specialty Health? Well, it's just like Evercore. So when most Blue Cross plans need prior authorization, they don't use Evercore. They use AIM Specialty Health, which does kind of the same thing that Evercore does. And then Carillon actually owns physician practices as well. It owns this physician group called Millennium Physician Group in Florida, which is a huge physician group. It's like one of the largest, if not the largest physician group in Florida. And it's actually a joint venture with a private equity firm called CD&R. Again, let's go through the up and down arrows for CVS Health and Elevance. Okay. Again, where does this subsidiary of these two companies, does it make money when healthcare costs go up? Or does it make money when healthcare costs go down? And so Aetna makes money when healthcare costs go down. Maritain makes money when healthcare costs go down. Caremark makes money when healthcare costs go up. Zinc makes money when healthcare costs go up. CVS Specialty Pharmacy makes money when healthcare costs go up. Cor肉 Davis makes money when healthcare costs go up. The CVS pharmacies themselves make money when healthcare costs go up. Next, we move to Elevent's Health. Anthem makes money when healthcare costs go down. Well Point makes money when healthcare costs go down. Carillon subsidiaries, AIM Specialty Health, makes money when health care costs go down. Millennium Physician Group, again, they do fee-for-service. So Millennium Physician Group, they make money when health care costs go up. So why? Why do United, the Cigna Group, CVS Health, and Elevance have all of these subsidiaries? So there's a variety of reasons. So one is to give the appearance of choice and competition. This is a strategy that's used by the hotel industry. Shoot, Marriott owns all the Westins, and then there's W Hotels. And then you've got like Marriott Courtyard, and then you've got all these other things. So you think you've got all these choices. You don't think they coordinate those prices for all those hotel rooms? Of course they coordinate all those prices for all those hotel rooms, because they're all owned by the same company. So you as a consumer, you think you have a choice in all these hotels when you really don't. And so as an employer, or as an individual patient, or as a state government, or even as the federal government, you think you have all these choices of all these different health care companies. And the point is, you don't. Because they're all subsidiaries of essentially four. All right, what's another reason? It's because these companies grew, especially over the last 10 to 15 years, by acquisitions. So many of these subsidiaries were an acquisition. United acquired Change Healthcare. And United acquired Interqual. And United acquired the advisory board company. And CVS acquired Caremark. And Cigna acquired Express Scripts. And Elevans Anthem acquired WellPoint. Okay, so why is that important? It's important because these companies, and the concentration of health insurance companies in America, grew because of industry consolidation through acquisition. And that acquisition was really financed through ultra-low interest rates. In other words, cheap debt after the great financial crisis of 2008-2009. So these companies became huge behemoths, even larger than they were before, because of cheap debt and using that cheap debt to make acquisitions. Well, why does that matter? These companies didn't grow because they were better or faster or cheaper. These companies didn't grow by out-competing. They grew by acquisition and cheap debt. So it's not like we're getting better, faster, cheaper service as a result of this consolidation. We're just the best horses won. The best horses didn't win. The hungriest horses won. The hungriest horses with the most ability to raise debt won. So that is why we have so many subsidiaries, and that is why I wanted to let you know what these subsidiaries are. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker, and thank you for watching A Healthcare Z.
+[0:05 - 0:10]  And today's topic is health insurance company subsidiaries.
+[0:10 - 0:16]  So, the major health insurance companies in America have a lot of subsidiaries,
+[0:16 - 0:20]  and those subsidiaries are confusing, and they have all sorts of different names,
+[0:21 - 0:27]  so it's not obvious what companies are actually subsidiaries of the major health insurance companies.
+[0:27 - 0:29]  So we're going to go through some of them today.
+[0:29 - 0:31]  It is so complicated.
+[0:32 - 0:34]  We have an A Healthcare Z first.
+[0:34 - 0:36]  It requires more than one whiteboard.
+[0:36 - 0:40]  So this is just part one, and in the second half of the video, we will have part two.
+[0:41 - 0:44]  Okay, first of all, we're going to start off with United Health Group.
+[0:45 - 0:50]  Now, United Health Group has the subsidiary of United Healthcare Insurance, or UHC,
+[0:51 - 0:56]  and then there's a subsidiary of United Healthcare Insurance, which is UMR,
+[0:56 - 1:05]  which is just the TPA underneath UHC for self-funded employers that need to do more flexibility
+[1:05 - 1:12]  than your traditional UHC, what are called ASO, administrative services only.
+[1:12 - 1:14]  Okay, next up, we have Optum.
+[1:14 - 1:16]  Of course, everybody's heard about Optum, right?
+[1:16 - 1:21]  Like, the revenue from Optum is almost equal to the revenue of UHC itself.
+[1:21 - 1:23]  Okay, then Optum, look at this.
+[1:23 - 1:24]  It has a ton of subsidiaries.
+[1:24 - 1:26]  Okay, so one is OptumRx.
+[1:26 - 1:29]  That's the PBM within Optum.
+[1:29 - 1:34]  And then even OptumRx has a subsidiary within that, which is called MSR.
+[1:34 - 1:42]  And MSR is a group purchasing organization, a GPO that's actually headquartered in Europe
+[1:42 - 1:51]  that is used as a mechanism for collecting payments from the pharmaceutical companies.
+[1:52 - 1:54]  I have a whole other video about that.
+[1:54 - 1:55]  I will leave a link to it in the show notes.
+[1:55 - 1:59]  Okay, next up, then there is the Optum Specialty Pharmacy.
+[1:59 - 2:03]  That's right, because if you get your specialty medications through OptumRx,
+[2:03 - 2:06]  you can't just go fill that at your local pharmacy.
+[2:06 - 2:10]  You have to get a mail order through the Optum Specialty Pharmacy.
+[2:11 - 2:13]  Okay, next up is Change Healthcare.
+[2:13 - 2:21]  Of course, many of you are familiar with Change Healthcare because they had that large ransomware problem earlier in 2024.
+[2:21 - 2:28]  Now, Change Healthcare acts as the electronic interface for billing and then record of payment
+[2:28 - 2:35]  between the multiple health insurance carriers and thousands of doctors and hospitals across America.
+[2:35 - 2:42]  It's essentially the piping that allows those electronic transactions of billing and payment to occur.
+[2:43 - 2:43]  Okay, so there are the pipes.
+[2:44 - 2:47]  Change Healthcare itself has a subsidiary.
+[2:47 - 2:48]  It's called Interqual.
+[2:48 - 2:58]  Interqual actually creates the quote-unquote standards for the number of bed days that are allowed for various diagnoses.
+[2:58 - 3:00]  So if you have pneumonia, they'll give you three days in the hospital.
+[3:00 - 3:06]  If you have acute renal failure, they might give you four days in the hospital and on and on and on.
+[3:06 - 3:16]  Okay, all those quote-unquote standard guidelines are created by Interqual, which is a subsidiary of Change Healthcare, which is a subsidiary of Optum, which is a subsidiary of UnitedHealth Group.
+[3:16 - 3:17]  Whoa, look at that.
+[3:17 - 3:19]  It's four layers deep.
+[3:19 - 3:20]  Okay, next up.
+[3:20 - 3:20]  Okay, next up.
+[3:20 - 3:20]  Okay, next up.
+[3:20 - 3:22]  We have the advisory board company.
+[3:22 - 3:34]  The advisory board company is actually a consulting firm that consults four large hospital systems to show them how to get paid more.
+[3:34 - 3:35]  That's right.
+[3:35 - 3:46]  UnitedHealth Group owns a consulting firm that tells hospitals how to make more money from UnitedHealthcare itself, along with other health insurance companies.
+[3:46 - 3:51]  Next up, UnitedHealth Group actually owns large physician practices.
+[3:51 - 3:54]  One of the ones that it owns down in Houston is called Kelsey Siebold.
+[3:54 - 3:59]  Now, Kelsey Siebold is actually sort of like a mini Kaiser in that it's capitated.
+[3:59 - 4:07]  It gets a fixed amount of capitated payment per patient, and then it provides outpatient care, ambulatory surgery care.
+[4:07 - 4:09]  It provides imaging.
+[4:09 - 4:10]  It does lab.
+[4:10 - 4:12]  It's got OBGYN services.
+[4:12 - 4:13]  It's got home infusions.
+[4:13 - 4:15]  It does all sorts of stuff, but they don't actually run hospitals.
+[4:15 - 4:22]  Then there's WellMed, which is, again, is a group of physicians in Texas and Florida and some other places as well.
+[4:22 - 4:25]  And, again, it's capitated, similar to Kelsey Siebold.
+[4:25 - 4:26]  They take care of Medicare Advantage patients.
+[4:27 - 4:30]  And then there's Atreus, which is up in Massachusetts.
+[4:30 - 4:33]  And they're kind of your historical, you know, it's kind of fee-for-service physician group.
+[4:33 - 4:36]  And they own physician groups in California as well.
+[4:36 - 4:37]  Okay.
+[4:37 - 4:42]  Now, before I move on, what I've done is I've put these up and down arrows in circles.
+[4:42 - 4:43]  What are these up and down arrows?
+[4:43 - 4:48]  So how do each of these subsidiaries make money?
+[4:48 - 4:55]  Do they make money by increasing health care costs to the government, employers, and patients?
+[4:55 - 4:55]  Right?
+[4:55 - 4:57]  Those are the three folks that pay for things, right?
+[4:57 - 4:59]  It's the government, either federal or state.
+[4:59 - 5:00]  It's employers.
+[5:00 - 5:01]  And then patients out of pocket costs themselves.
+[5:02 - 5:02]  So it's those three.
+[5:03 - 5:07]  So do these companies make more money by increasing health care costs?
+[5:08 - 5:10]  Or do they make more money by decreasing health care costs?
+[5:10 - 5:16]  Because all you need to do is listen to a quarterly earnings call for United Health Group.
+[5:17 - 5:25]  And they explicitly tell their investors, like, how they're going to maximize revenue and how they're going to maximize earnings and how they're going to maximize shareholder value.
+[5:25 - 5:26]  That's the whole point of the conference call.
+[5:26 - 5:34]  So let's see how each one of these different subsidiaries of United Health Group, let's see how they make money.
+[5:34 - 5:34]  Okay.
+[5:34 - 5:38]  United Health Care makes money by making health care costs go down.
+[5:38 - 5:41]  UMR makes money by making health care costs go down.
+[5:41 - 5:41]  Okay.
+[5:42 - 5:44]  Optum Rx makes money by health care costs going up.
+[5:45 - 5:48]  MSR makes money by health care costs going up.
+[5:49 - 5:52]  Optum Specialty Pharmacy makes money by health care costs going up.
+[5:53 - 5:55]  Change Healthcare makes money by health care costs going up.
+[5:55 - 6:00]  They want more claims and they want to charge their hospital and doctor customers more money
+[6:00 - 6:05]  for processing those claims. So they want to add cost to the system in order to make more money
+[6:05 - 6:09]  for change healthcare. Okay, next, Interqual actually makes money by healthcare costs going
+[6:09 - 6:13]  down. So interestingly, a subsidiary of change healthcare that actually wants healthcare costs
+[6:13 - 6:17]  to go up, Interqual actually wants healthcare costs to go down. Okay, the advisory board company,
+[6:17 - 6:22]  they make money by having healthcare costs go up. Now, even within their physician groups,
+[6:22 - 6:27]  it varies. Kelsey Siebel makes more money if healthcare costs go down. WellMed makes more
+[6:27 - 6:31]  money if healthcare costs go down. But Atreus, because they're traditional fee for service,
+[6:31 - 6:37]  they make more money if healthcare costs go up. So United Health Group makes money with a sort of
+[6:37 - 6:44]  mix and up and down arrows. All right, let's move on to the Cigna Group. The Cigna Group has Cigna
+[6:44 - 6:50]  Healthcare, which is the health insurance arm, which is analogous to United Healthcare. And then it has a
+[6:50 - 6:55]  TPA subsidiary that's called Allegiance, which is analogous to UMR. That's for self-funded groups
+[6:55 - 7:01]  that want more of that flexible TPA. Okay, next up, then there's EverNorth, which is the other main
+[7:01 - 7:06]  subsidiary of the Cigna Group. It's analogous to Optum. And EverNorth, the vast majority of EverNorth
+[7:06 - 7:13]  is actually ExpressGrips, which is the very large PBM that is sometimes abbreviated ESI. And then ESI
+[7:13 - 7:19]  also has a subsidiary called Ascent Health Services, which again is headquartered in Europe
+[7:19 - 7:24]  and is just like MSR. It's used as a mechanism for collecting payments from pharmaceutical companies
+[7:24 - 7:33]  for the PBM. Okay, next up, then you have EverNorth also has a subsidiary called EverCore. And EverCore
+[7:33 - 7:41]  is one of the two largest prior authorization companies in America. So they do a lot of the prior
+[7:41 - 7:45]  authorizations for United. United outsourced much of their prior authorizations to EverCore,
+[7:46 - 7:53]  which is a subsidiary of their competitor Cigna. So all these orthopedists and surgeons and all these
+[7:53 - 7:57]  other doctors that are trying to get prior cardiologists that are kind of trying to get
+[7:57 - 8:02]  prior authorization for services, they're actually using EverCore, which is actually a subsidiary of
+[8:02 - 8:07]  EverNorth, which is actually a subsidiary of the Cigna Group. So it's three layers deep. Okay,
+[8:07 - 8:13]  next up, EverNorth also has MD Live, which is a large telemedicine company. Next you have EverNorth
+[8:13 - 8:19]  made a multi-billion dollar investment in Village MD, which is co-owned by Walgreens. And one of the,
+[8:20 - 8:24]  and of course, there's like these Village MDs that are in Walgreens pharmacies, and they're shutting a
+[8:24 - 8:28]  whole bunch of them down, and it's not working out. But they also own huge physician practices.
+[8:28 - 8:33]  It owns a huge physician practice in the Northeast called Summit Health, which is a bunch of like
+[8:33 - 8:39]  orthopedic surgeons and other specialists as well. So again, let's go through the up and down arrows
+[8:39 - 8:45]  for all the subsidiaries of Cigna, the Cigna Group, to see if they make more money when healthcare costs
+[8:45 - 8:50]  go up, or if they make more money when healthcare costs go down. Okay, Cigna Healthcare makes more
+[8:50 - 8:54]  money when healthcare costs go down. Allusionz makes more money when healthcare costs go down.
+[8:55 - 9:00]  Express Scripts, as a PBM, makes more money when healthcare costs go up. Ascent Health Services makes
+[9:00 - 9:05]  more money when healthcare costs go up. Evercore is kind of similar to Interqual. Evercore makes
+[9:05 - 9:11]  more money when healthcare costs go down. MD Live, it's fee for service. They make more money when
+[9:11 - 9:16]  healthcare costs go up. Village MD makes more money when healthcare costs go up. Again, it's fee for
+[9:16 - 9:21]  service. Summit Health, again, it's a massive fee for service physician practice. They make money when
+[9:21 - 9:26]  healthcare costs go up. So again, for the Cigna Group, you have a combination of up and down arrows.
+[9:26 - 9:32]  You even have up and down arrows within Evernorth. All right, so this is just the end of part one.
+[9:32 - 9:42]  Stay tuned for part two. All right, part two of health insurance company subsidiaries. Now we have
+[9:42 - 9:50]  CVS Health. Now, CVS Health has a health insurance arm, and that is Aetna. And Aetna has one of these
+[9:50 - 9:57]  TPA subsidiaries as well, which is Meritain, which is analogous to UMR and Allegiance from United and
+[9:57 - 10:05]  Cigna. Next, you have CVS Caremark, which is the massive PBM within CVS Health. In fact, CVS Caremark,
+[10:05 - 10:13]  the PBM itself, is actually the largest part of CVS Health. And again, it too has a subsidiary called
+[10:13 - 10:22]  Zinc, which again is a group purchasing organization, which is analogous to the GPOs that the other PBMs
+[10:22 - 10:29]  have as well, again, as a mechanism for collecting payments from pharmaceutical companies. Next, then you also
+[10:29 - 10:36]  have CVS Specialty Pharmacy. Again, if you're using CVS Caremark as your PBM and you need a specialty medication,
+[10:36 - 10:41]  then again, you can't just like walk into any random pharmacy to get that filled. You got to get a mail order
+[10:41 - 10:46]  through the CVS Specialty Pharmacy or through one of the CVS Retail Locations, which then brings me to
+[10:46 - 10:52]  the CVS Pharmacy Locations. Of course, all of the retail pharmacies that so many of us are familiar
+[10:52 - 10:59]  with. And then interestingly, a newer subsidiary is Cordavis. What in the world is Cordavis? Cordavis is
+[10:59 - 11:08]  actually a pharmaceutical manufacturer. That's right. CVS Health is actually starting to make its own
+[11:08 - 11:14]  medications. But in fact, they're not actually making anything. Cordavis doesn't have any like
+[11:14 - 11:21]  manufacturing plants. They just license it from other pharmaceutical companies that they contract
+[11:21 - 11:27]  with to make it. So essentially, Cordavis is just a pharmaceutical company like Shell Company. They
+[11:27 - 11:33]  don't actually have any manufacturing facilities. Okay, next up, we're moving on to Elevance Health,
+[11:33 - 11:39]  which is the largest Blue Cross plan in America. And Elevance has Anthem, which many of you are
+[11:39 - 11:46]  familiar with. And then they also have WellPoint. And both of them are the health insurance arms.
+[11:46 - 11:51]  Anthem, of course, does commercial insurance. And then WellPoint does a bunch of Medicare Advantage
+[11:51 - 11:58]  plans and Medicaid. And they also have ACA plans. And then there's also Carillon within Elevance as well.
+[11:58 - 12:05]  And Carillon is analogous to like Optum within United, where it's sort of the healthcare services
+[12:05 - 12:11]  arm of Elevance. And they have AIM Specialty Health. And what is AIM Specialty Health? Well,
+[12:11 - 12:19]  it's just like Evercore. So when most Blue Cross plans need prior authorization, they don't use Evercore.
+[12:19 - 12:24]  They use AIM Specialty Health, which does kind of the same thing that Evercore does. And then Carillon
+[12:24 - 12:28]  actually owns physician practices as well. It owns this physician group called Millennium
+[12:28 - 12:32]  Physician Group in Florida, which is a huge physician group. It's like one of the largest,
+[12:32 - 12:38]  if not the largest physician group in Florida. And it's actually a joint venture with a private
+[12:38 - 12:44]  equity firm called CD&R. Again, let's go through the up and down arrows for CVS Health and Elevance.
+[12:45 - 12:51]  Okay. Again, where does this subsidiary of these two companies, does it make money when healthcare
+[12:51 - 12:57]  costs go up? Or does it make money when healthcare costs go down? And so Aetna makes money when healthcare
+[12:57 - 13:02]  costs go down. Maritain makes money when healthcare costs go down. Caremark makes money when healthcare
+[13:02 - 13:08]  costs go up. Zinc makes money when healthcare costs go up. CVS Specialty Pharmacy makes money when
+[13:08 - 13:12]  healthcare costs go up. Cor肉 Davis makes money when healthcare costs go up. The CVS pharmacies
+[13:12 - 13:18]  themselves make money when healthcare costs go up. Next, we move to Elevent's Health. Anthem
+[13:18 - 13:23]  makes money when healthcare costs go down. Well Point makes money when healthcare costs go down.
+[13:24 - 13:29]  Carillon subsidiaries, AIM Specialty Health, makes money when health care costs go down.
+[13:29 - 13:32]  Millennium Physician Group, again, they do fee-for-service.
+[13:33 - 13:37]  So Millennium Physician Group, they make money when health care costs go up.
+[13:37 - 13:38]  So why?
+[13:38 - 13:50]  Why do United, the Cigna Group, CVS Health, and Elevance have all of these subsidiaries?
+[13:50 - 13:52]  So there's a variety of reasons.
+[13:52 - 13:56]  So one is to give the appearance of choice and competition.
+[13:57 - 13:59]  This is a strategy that's used by the hotel industry.
+[14:00 - 14:06]  Shoot, Marriott owns all the Westins, and then there's W Hotels.
+[14:06 - 14:10]  And then you've got like Marriott Courtyard, and then you've got all these other things.
+[14:10 - 14:12]  So you think you've got all these choices.
+[14:13 - 14:16]  You don't think they coordinate those prices for all those hotel rooms?
+[14:17 - 14:20]  Of course they coordinate all those prices for all those hotel rooms,
+[14:20 - 14:21]  because they're all owned by the same company.
+[14:21 - 14:26]  So you as a consumer, you think you have a choice in all these hotels when you really don't.
+[14:27 - 14:33]  And so as an employer, or as an individual patient, or as a state government, or even as the federal government,
+[14:33 - 14:37]  you think you have all these choices of all these different health care companies.
+[14:37 - 14:39]  And the point is, you don't.
+[14:39 - 14:43]  Because they're all subsidiaries of essentially four.
+[14:43 - 14:44]  All right, what's another reason?
+[14:45 - 14:52]  It's because these companies grew, especially over the last 10 to 15 years, by acquisitions.
+[14:52 - 14:55]  So many of these subsidiaries were an acquisition.
+[14:56 - 14:58]  United acquired Change Healthcare.
+[14:59 - 15:02]  And United acquired Interqual.
+[15:02 - 15:06]  And United acquired the advisory board company.
+[15:06 - 15:08]  And CVS acquired Caremark.
+[15:09 - 15:13]  And Cigna acquired Express Scripts.
+[15:13 - 15:17]  And Elevans Anthem acquired WellPoint.
+[15:17 - 15:20]  Okay, so why is that important?
+[15:20 - 15:22]  It's important because these companies,
+[15:22 - 15:25]  and the concentration of health insurance companies in America,
+[15:25 - 15:30]  grew because of industry consolidation through acquisition.
+[15:30 - 15:35]  And that acquisition was really financed through ultra-low interest rates.
+[15:36 - 15:41]  In other words, cheap debt after the great financial crisis of 2008-2009.
+[15:41 - 15:46]  So these companies became huge behemoths, even larger than they were before,
+[15:46 - 15:51]  because of cheap debt and using that cheap debt to make acquisitions.
+[15:51 - 15:52]  Well, why does that matter?
+[15:52 - 15:57]  These companies didn't grow because they were better or faster or cheaper.
+[15:57 - 16:00]  These companies didn't grow by out-competing.
+[16:01 - 16:04]  They grew by acquisition and cheap debt.
+[16:04 - 16:10]  So it's not like we're getting better, faster, cheaper service as a result of this consolidation.
+[16:10 - 16:12]  We're just the best horses won.
+[16:13 - 16:14]  The best horses didn't win.
+[16:15 - 16:16]  The hungriest horses won.
+[16:17 - 16:20]  The hungriest horses with the most ability to raise debt won.
+[16:20 - 16:25]  So that is why we have so many subsidiaries,
+[16:26 - 16:29]  and that is why I wanted to let you know what these subsidiaries are.
+[16:29 - 16:31]  And thank you for watching A Healthcare Z.

@@ -1,0 +1,78 @@
+Title: Insurance Carriers May Hold $9.5 Billion a Month in Excess Cash from COVID
+URL: https://www.youtube.com/watch?v=mJcxFVeVV8M
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is insurance carrier fully insured cash. So as many of you are aware, I've actually made a previous video about this, there has been a dramatic decrease in procedures, surgeries, and tests at healthcare systems across America because of coronavirus. And in the previous video I mentioned it's because of, hey, they want to keep people from coming to the hospital and picking up coronavirus there. They want to keep the ICUs open for potential people that will need them with coronavirus. And they also want to save any personal protective equipment, PPE, that they might use in a test of procedure so that they can use it for the coronavirus patients. Okay, so as a result of that, if the hospitals are losing a ton of revenue, then de facto, somebody has to be keeping a lot of that money. And one of the groups that's keeping a lot of that money are insurance carriers for their fully insured plans. So what is all the premium that they're saving? Let's actually calculate that. So that's what we're going to do today. Now, in order to do that, let's first start out by calculating how much, approximately how much fully insured premium are insurance carriers in America collecting. Okay, there are 157 million Americans that are on commercial insurance plans through their employer. And I will leave a link in the show note to the source for all these statistics. That one in particular is from the Kaiser Family Foundation. Now, 39% of those folks are on fully insured plan and the other 61% are on self-funded plans. Okay, so we're only going to talk about the folks that are on fully insured plans. So that's 61 million people. The 157 times 0.39. Okay, now, those are total members. But to get to the subscriber, to the employee level, we're going to divide that by two. Because typically there's two members, or what they refer to as belly buttons or heartbeat, for every one employee or subscriber, or what's referred to as a doorbell. So we're talking about 300 point, 30.5 million employees. Okay, now, all those employees don't have the same coverage. There's different types of coverage, right? So there's single coverage. So 52% of those employees have single coverage. 18% of those employees have single plus one coverage. And then the remaining 30% have what's referred to as family coverage. Now, the premium for those three different types is also different. So on average, the premium for single coverage, again, this is from the Kaiser Family Foundation, is $7,188. The premium approximately for single plus one is $14,375. And the premium for family coverage is $20,576. Again, from the Kaiser Family Foundation. Now, if you take these percentages and apply them to the 30 million employees, 30.5 million employees, then you get 16 million on single coverage, 5.5 million on single plus one coverage, and 9.1 million on family coverage. So then you just take the premium times the number of people to get the total amount of premium. For singles, it's $115 billion. For single plus ones, it's $79 billion. And for family coverage, it's $187 billion. So when you add the $115 plus the $79 plus the $287, that means that insurance carriers in America are collecting approximately $381 billion a year in fully insured premium. Okay. Now, because of the decrease in the amount of claims that are going out, we have to estimate what that amount is. I'll leave a link in the show notes to a Becker's Hospital review that does a fantastic accounting of all the hospitals that are furloughing and are reporting all of their decreases in revenue. And just as an example, I'll just take the Virginia Mason health care system in Seattle, which is reporting that they have seen a 30% decrease in revenue. So we're going to say that's a 30% decrease in claims. All right. So as many of you know, the loss ratio for fully insured plans is approximately 80%. In other words, of the $381 billion, 80% of that has to be paid out in claims. So that's $305 billion of claims. That's what they should be paying out in claims. And then the $76 billion in administrative that they get to keep. So if you do the 305 plus the 76, that gets you to the 381. Okay. But let's take that $305 billion in claims and reduce it by 30%. So that means that you're only getting now $213 billion of claims as a result of people not going into the hospital. And again, that's on an annual basis. So for that, for that $381 billion of claims that they're collecting, that's only a 56% loss ratio. So by definition, the insurance carriers have to give some of that money back. So the amount of premium that they would need to collect to have an 80% loss ratio with $213 billion of claims is $266 billion of revenue. Okay. Well, $381 billion that they're actually collecting minus the $266 billion that they would need to collect to get that 80% loss ratio gives you with $115 billion. So the insurance carriers are collecting an extra $115 billion on an annualized basis that they need to do, in my opinion, one of two things with. One, they either need to give it back to their employer customers, or they just need to make lump sum payments out to the healthcare providers, kind of like the federal government's doing. So let's take the first case of actually giving it back to the employers. Now, if you take $115 billion and divide it by 12, that's $9.5 billion a month of extra premium that the insurance carriers are collecting. And if you divide that by the 61 million members, that comes up to $156 per member per month. Now remember, there's approximately two members for every one employee. So if you multiply the 156 times two, and then let's just say this is for a 100 employee company, then that's $31,200 back a month that the company should be getting. Now, because of all the layoffs that are going on, let's translate that into jobs. So the average wage in America is approximately $46,000 a year, which comes out to like $3,600 a month. And so if you divide the $31,000 by the $3,600, in other words, $3,100, $200, $3,000, $31,200 divided by approximately $3,600, then you get nine jobs. In other words, $31,000 a month should be able to preserve about nine jobs out of that 100 employee company. Or in other words, like 9% of the jobs could be kept. So if we're talking about minimizing layoffs, maximizing employment, one could argue that the insurance carriers in America for their fully insured plans are a source of cash that could be put to better use. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:05 - 0:13]  insurance carrier fully insured cash. So as many of you are aware, I've actually made a previous
+[0:13 - 0:19]  video about this, there has been a dramatic decrease in procedures, surgeries, and tests
+[0:19 - 0:25]  at healthcare systems across America because of coronavirus. And in the previous video I mentioned
+[0:25 - 0:29]  it's because of, hey, they want to keep people from coming to the hospital and picking up
+[0:29 - 0:34]  coronavirus there. They want to keep the ICUs open for potential people that will need them
+[0:34 - 0:38]  with coronavirus. And they also want to save any personal protective equipment, PPE, that
+[0:38 - 0:42]  they might use in a test of procedure so that they can use it for the coronavirus patients.
+[0:42 - 0:49]  Okay, so as a result of that, if the hospitals are losing a ton of revenue, then de facto,
+[0:49 - 0:55]  somebody has to be keeping a lot of that money. And one of the groups that's keeping a lot
+[0:55 - 1:02]  of that money are insurance carriers for their fully insured plans. So what is all the premium
+[1:02 - 1:06]  that they're saving? Let's actually calculate that. So that's what we're going to do today.
+[1:06 - 1:12]  Now, in order to do that, let's first start out by calculating how much, approximately how
+[1:12 - 1:19]  much fully insured premium are insurance carriers in America collecting. Okay, there are 157 million
+[1:19 - 1:24]  Americans that are on commercial insurance plans through their employer. And I will leave a link in the show
+[1:24 - 1:29]  note to the source for all these statistics. That one in particular is from the Kaiser Family Foundation.
+[1:29 - 1:36]  Now, 39% of those folks are on fully insured plan and the other 61% are on self-funded plans.
+[1:36 - 1:40]  Okay, so we're only going to talk about the folks that are on fully insured plans. So that's 61 million people.
+[1:40 - 1:50]  The 157 times 0.39. Okay, now, those are total members. But to get to the subscriber, to the employee level,
+[1:50 - 1:54]  we're going to divide that by two. Because typically there's two members, or what they refer to as
+[1:54 - 2:00]  belly buttons or heartbeat, for every one employee or subscriber, or what's referred to as a doorbell.
+[2:00 - 2:07]  So we're talking about 300 point, 30.5 million employees. Okay, now, all those employees don't
+[2:07 - 2:11]  have the same coverage. There's different types of coverage, right? So there's single coverage.
+[2:11 - 2:16]  So 52% of those employees have single coverage. 18% of those employees have single plus one coverage.
+[2:16 - 2:22]  And then the remaining 30% have what's referred to as family coverage. Now, the premium for those
+[2:22 - 2:27]  three different types is also different. So on average, the premium for single coverage, again,
+[2:27 - 2:34]  this is from the Kaiser Family Foundation, is $7,188. The premium approximately for single plus one is
+[2:34 - 2:42]  $14,375. And the premium for family coverage is $20,576. Again, from the Kaiser Family Foundation.
+[2:42 - 2:51]  Now, if you take these percentages and apply them to the 30 million employees, 30.5 million employees,
+[2:51 - 3:00]  then you get 16 million on single coverage, 5.5 million on single plus one coverage, and 9.1 million
+[3:00 - 3:05]  on family coverage. So then you just take the premium times the number of people to get the
+[3:05 - 3:11]  total amount of premium. For singles, it's $115 billion. For single plus ones, it's $79 billion.
+[3:11 - 3:18]  And for family coverage, it's $187 billion. So when you add the $115 plus the $79 plus the $287,
+[3:18 - 3:24]  that means that insurance carriers in America are collecting approximately $381 billion a year
+[3:24 - 3:33]  in fully insured premium. Okay. Now, because of the decrease in the amount of claims that are going
+[3:33 - 3:36]  out, we have to estimate what that amount is. I'll leave a link in the show notes to a Becker's
+[3:36 - 3:42]  Hospital review that does a fantastic accounting of all the hospitals that are furloughing and are
+[3:42 - 3:46]  reporting all of their decreases in revenue. And just as an example, I'll just take the Virginia
+[3:46 - 3:52]  Mason health care system in Seattle, which is reporting that they have seen a 30% decrease in revenue.
+[3:52 - 4:00]  So we're going to say that's a 30% decrease in claims. All right. So as many of you know,
+[4:00 - 4:07]  the loss ratio for fully insured plans is approximately 80%. In other words, of the $381
+[4:07 - 4:14]  billion, 80% of that has to be paid out in claims. So that's $305 billion of claims. That's what they
+[4:14 - 4:18]  should be paying out in claims. And then the $76 billion in administrative that they get to keep.
+[4:18 - 4:24]  So if you do the 305 plus the 76, that gets you to the 381. Okay. But let's take that $305 billion
+[4:24 - 4:33]  in claims and reduce it by 30%. So that means that you're only getting now $213 billion of claims as a
+[4:33 - 4:39]  result of people not going into the hospital. And again, that's on an annual basis. So for that,
+[4:39 - 4:45]  for that $381 billion of claims that they're collecting, that's only a 56% loss ratio. So by definition,
+[4:45 - 4:50]  the insurance carriers have to give some of that money back. So the amount of premium that they
+[4:50 - 5:01]  would need to collect to have an 80% loss ratio with $213 billion of claims is $266 billion of revenue.
+[5:01 - 5:08]  Okay. Well, $381 billion that they're actually collecting minus the $266 billion that they would
+[5:08 - 5:15]  need to collect to get that 80% loss ratio gives you with $115 billion. So the insurance carriers are
+[5:15 - 5:22]  collecting an extra $115 billion on an annualized basis that they need to do, in my opinion, one of
+[5:22 - 5:30]  two things with. One, they either need to give it back to their employer customers, or they just need
+[5:30 - 5:33]  to make lump sum payments out to the healthcare providers, kind of like the federal government's
+[5:33 - 5:39]  doing. So let's take the first case of actually giving it back to the employers. Now, if you take
+[5:39 - 5:46]  $115 billion and divide it by 12, that's $9.5 billion a month of extra premium that the insurance
+[5:46 - 5:54]  carriers are collecting. And if you divide that by the 61 million members, that comes up to $156
+[5:54 - 5:59]  per member per month. Now remember, there's approximately two members for every one employee.
+[5:59 - 6:06]  So if you multiply the 156 times two, and then let's just say this is for a 100 employee company,
+[6:06 - 6:14]  then that's $31,200 back a month that the company should be getting. Now, because of all the layoffs
+[6:14 - 6:26]  that are going on, let's translate that into jobs. So the average wage in America is approximately $46,000
+[6:26 - 6:38]  a year, which comes out to like $3,600 a month. And so if you divide the $31,000 by the $3,600,
+[6:38 - 6:47]  in other words, $3,100, $200, $3,000, $31,200 divided by approximately $3,600, then you get
+[6:48 - 6:56]  nine jobs. In other words, $31,000 a month should be able to preserve about nine jobs out of that
+[6:56 - 7:02]  100 employee company. Or in other words, like 9% of the jobs could be kept. So if we're talking about
+[7:02 - 7:10]  minimizing layoffs, maximizing employment, one could argue that the insurance carriers in America for
+[7:10 - 7:17]  their fully insured plans are a source of cash that could be put to better use. And that's my point for
+[7:17 - 7:27]  today. Thank you for watching A Healthcare Z.

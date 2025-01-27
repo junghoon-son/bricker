@@ -1,0 +1,95 @@
+Title: Payvider: Health Insurance Payer and Healthcare Provider Combination Explained
+URL: https://www.youtube.com/watch?v=UP_WmSz8QdQ
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is the payvider. The payer-provider combination explained. So what is a payvider? A payvider is with what is historically thought of as a health insurance company which collects premium and takes on risk is actually combined with the actual provision of care. It's got the hospitals, it's got the doctors, it's got the nurses, it's got the clinics, etc. This is not a new model. What is the oldest payvider in America? Or arguably the largest payvider in America? It's Kaiser, which is headquartered in Oakland, California. It was started in 1945. It has over 12 million members. It's got 40 hospitals that it runs. It's got 618 clinics. It's an insurance company. It charges premium to employers. It collects premium from the government for Medicare Advantage. It collects premium. It takes on risks. And it has gobs and gobs of providers that actually provide care. Okay, payviders are not new. But historically, Kaiser was kind of the out there on its own as a payvider. But more and more folks within healthcare are becoming payviders. Okay, so hospital systems themselves have become payviders. Not a lot, but a handful. Okay, the University of Pittsburgh Medical Center, UPMC, they're a payvider. They sell insurance in western Pennsylvania. They collect premium. They take on risk. UPMC provides care. Likewise, the Intermountain Health System, which is mostly in Utah, but it's a little bit in Colorado and Nevada as well. Okay, they've got their Intermountain hospitals and doctors, etc. They have a health insurance company called Select Health that collects premium and takes on risk. They're a payvider as well. However, the vast majority of hospitals in America are not payviders. However, the majority of major health insurance carriers in America are becoming payviders. The movement for the payers to become providers is huge. It's much bigger than the effort of providers becoming payers. Let's go through these payers, these health insurance companies becoming providers. Now, of course, the granddaddy of them all is United Healthcare has its provider arm, which is Optum. I've made multiple videos about Optum. I will leave a link to those videos in the show notes. That's been around for a while. Really, ever since the Affordable Care Act in 2010, that's kind of when Optum got started, and then it's just ballooned. It's essentially half of all of United is now Optum. Aetna bought Oak Street Health. Oak Street is a provider. Okay. Cigna made a $2.5 billion in Village MD, which is a bunch of clinics under their, sort of their equivalent. Cigna's equivalent of Optum, their quote-unquote provider arm, is called Evernorth. Okay. Next, we have Anthem, which is the insurance arm of Elevance, right? So the parent company is called Elevance, and then Anthem's the health insurance company. And it has its sort of equivalent of Optum, its provider, if you will, that's called Caroline. Now, it was just in the news that Caroline just made two more acquisitions or a partnership with a private equity firm for a health navigation firm called the Pre, and then a huge medical group in Florida called Millennium that has over 150 clinic locations, and they expect it to have like $4 or $5 billion of revenue in the future. So this is a huge movement by Elevance and Anthem into the payviter space. Okay. So that then begs the question, why? Why in the world are these carriers becoming payviter? And here is why. It's because, mostly because, of Medicare Advantage. As you know, I'll leave a link in the show notes to the massive explosion of Medicare Advantage. It's over half of all Medicare beneficiaries now have a Medicare Advantage plan where people get their Medicare through a health insurance company now. And let's say, and it depends upon how sick you are, yada, yada, yada. But let's just say, as an example, the insurance company gets a check for about $18,000 per beneficiary per year. Okay. Well, there was a rule as part of the ACA, which says that the insurance company had to spend 85% of the money on health care and could only keep 15% of the money in the form of profit and administration and blah, blah, blah. Okay. That means that United and Aetna and Cigna and Anthem, oh, by the way, even smaller blue plans like Blue KC, they've got SpiraCare in the Kansas City area. So you don't have to be a huge carrier, even smaller carriers like Blue Cross of Kansas City, they're doing this too. Okay. So that means that the insurance company had to pay $15,300, in other words, 85% of the premium that they collected out to doctors and hospitals, and then they could keep $2,700 for administration and profit. Aha. But then they're like, we've got a fantastic idea. We can use this accounting approach called intercompany eliminations, and we'll create these subsidiary companies that we also own, like Optum and Oak Street and Village MD and Carillon. And we will pay the $15,300 to the provider to ourselves because we're the provider. So all these big insurance companies pay themselves $15,300. And they pay it to like a primary care group that goes at full risk for that full $15,300. And then if the person has to be admitted to the hospital or has to have surgery or whatever, then the primary group essentially is paying out from that $15,300 to like your traditional hospital, et cetera, et cetera, et cetera. Guess what, though, one of these primary care groups, guess what they can provide care for? They can actually only need to spend about 60%, in other words, $9,180 of the $15,300 on traditional like hospital care and specialists and blah, blah, blah. That means that the primary care groups that are within Optum and Oak Street and Village MD and Carillon, et cetera, et cetera, that means they get to keep $6,120 that is completely separate from that MLR, 85% that needs to be spent on care. So what the insurance company then gets to keep is not only the $2,700 off the original $18,000, but the insurance company also gets to keep the $6,120 from what wasn't paid from the primary care group. So you add the $2,700 plus the $6,120, that gets you $8,820, which is almost half of the full premium that the government gave them. So when the government is paying out $18,000 per beneficiary for a Medicare Advantage member, the insurance company is keeping half. So what's happening to the doctors in the hospitals, the traditional providers of care? Okay. They're only, they used to get $15,300. They used to get 85%. Now they're only getting $9,180. In other words, a 40% decrease in what that they were previously getting. So I've used this expression in previous videos. This is how health insurance companies today are eating the lunch of traditional hospital systems. Okay. So the final point that I will leave with you is that this trend is just warming up. And you might hear in the news, well, the government's going to like decrease this $18,000. Like to a certain extent to the insurance company, look at it, look at how much they're making. Like, believe me, they know that the government is going to, you know, turn the screws down on this $18,000. They've got lobbyists and people to try to keep that $18,000 as high as humanly possible. Okay. Believe me, they've thought about that possibility. They don't care. They're still going to make tons of money through intercompany eliminations and the actual quote unquote provision of care themselves by paying themselves as the provider. So will hospitals eventually become payviders themselves? Will hospitals eventually catch on to this? I don't know, but I'll tell you what they're doing right now. The hospital's only getting nine grand instead of 15.3 grand. You know what they're doing? They're going to the carrier and they're saying, well, you're commercially insured folks on your self-funded plans. They better pay us more. And so the employers of America are essentially making up the difference for the hospital. So it's only going to get worse for the employers. That's a whole nother subject for another day, but it's super important for all of us to understand what a payviders is and how it's affecting the healthcare system in America. And thank you for watching a Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:06]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:06 - 0:15]  the payvider. The payer-provider combination explained. So what is a payvider? A payvider is
+[0:15 - 0:19]  with what is historically thought of as a health insurance company which collects premium and takes
+[0:19 - 0:25]  on risk is actually combined with the actual provision of care. It's got the hospitals, it's
+[0:25 - 0:29]  got the doctors, it's got the nurses, it's got the clinics, etc. This is not a new model.
+[0:30 - 0:36]  What is the oldest payvider in America? Or arguably the largest payvider in America? It's Kaiser,
+[0:36 - 0:43]  which is headquartered in Oakland, California. It was started in 1945. It has over 12 million
+[0:43 - 0:50]  members. It's got 40 hospitals that it runs. It's got 618 clinics. It's an insurance company. It
+[0:50 - 0:57]  charges premium to employers. It collects premium from the government for Medicare Advantage.
+[0:57 - 1:02]  It collects premium. It takes on risks. And it has gobs and gobs of providers that actually provide
+[1:02 - 1:11]  care. Okay, payviders are not new. But historically, Kaiser was kind of the out there on its own as a
+[1:11 - 1:21]  payvider. But more and more folks within healthcare are becoming payviders. Okay, so hospital systems
+[1:21 - 1:29]  themselves have become payviders. Not a lot, but a handful. Okay, the University of Pittsburgh Medical
+[1:29 - 1:36]  Center, UPMC, they're a payvider. They sell insurance in western Pennsylvania. They collect premium.
+[1:36 - 1:42]  They take on risk. UPMC provides care. Likewise, the Intermountain Health System, which is mostly in
+[1:42 - 1:47]  Utah, but it's a little bit in Colorado and Nevada as well. Okay, they've got their Intermountain
+[1:47 - 1:53]  hospitals and doctors, etc. They have a health insurance company called Select Health that collects
+[1:53 - 2:00]  premium and takes on risk. They're a payvider as well. However, the vast majority of hospitals in
+[2:00 - 2:11]  America are not payviders. However, the majority of major health insurance carriers in America are becoming
+[2:11 - 2:21]  payviders. The movement for the payers to become providers is huge. It's much bigger than the effort of
+[2:21 - 2:28]  providers becoming payers. Let's go through these payers, these health insurance companies becoming
+[2:28 - 2:35]  providers. Now, of course, the granddaddy of them all is United Healthcare has its provider arm,
+[2:35 - 2:40]  which is Optum. I've made multiple videos about Optum. I will leave a link to those videos in the
+[2:40 - 2:46]  show notes. That's been around for a while. Really, ever since the Affordable Care Act in 2010, that's
+[2:46 - 2:51]  kind of when Optum got started, and then it's just ballooned. It's essentially half of all of United
+[2:51 - 3:03]  is now Optum. Aetna bought Oak Street Health. Oak Street is a provider. Okay. Cigna made a $2.5 billion
+[3:03 - 3:11]  in Village MD, which is a bunch of clinics under their, sort of their equivalent. Cigna's equivalent
+[3:11 - 3:18]  of Optum, their quote-unquote provider arm, is called Evernorth. Okay. Next, we have Anthem,
+[3:18 - 3:22]  which is the insurance arm of Elevance, right? So the parent company is called Elevance, and then
+[3:22 - 3:29]  Anthem's the health insurance company. And it has its sort of equivalent of Optum, its provider,
+[3:29 - 3:36]  if you will, that's called Caroline. Now, it was just in the news that Caroline just made two more
+[3:36 - 3:41]  acquisitions or a partnership with a private equity firm for a health navigation firm called
+[3:41 - 3:48]  the Pre, and then a huge medical group in Florida called Millennium that has over 150 clinic locations,
+[3:49 - 3:55]  and they expect it to have like $4 or $5 billion of revenue in the future. So this is a huge movement
+[3:55 - 4:03]  by Elevance and Anthem into the payviter space. Okay. So that then begs the question, why? Why in the world
+[4:03 - 4:12]  are these carriers becoming payviter? And here is why. It's because, mostly because, of Medicare
+[4:12 - 4:16]  Advantage. As you know, I'll leave a link in the show notes to the massive explosion of Medicare
+[4:16 - 4:20]  Advantage. It's over half of all Medicare beneficiaries now have a Medicare Advantage plan
+[4:20 - 4:26]  where people get their Medicare through a health insurance company now. And let's say, and it depends
+[4:26 - 4:30]  upon how sick you are, yada, yada, yada. But let's just say, as an example, the insurance company
+[4:30 - 4:37]  gets a check for about $18,000 per beneficiary per year. Okay. Well, there was a rule as part of the
+[4:37 - 4:44]  ACA, which says that the insurance company had to spend 85% of the money on health care and could
+[4:44 - 4:50]  only keep 15% of the money in the form of profit and administration and blah, blah, blah. Okay.
+[4:50 - 4:58]  That means that United and Aetna and Cigna and Anthem, oh, by the way, even smaller blue plans like
+[4:58 - 5:05]  Blue KC, they've got SpiraCare in the Kansas City area. So you don't have to be a huge carrier,
+[5:05 - 5:10]  even smaller carriers like Blue Cross of Kansas City, they're doing this too. Okay. So that means
+[5:10 - 5:18]  that the insurance company had to pay $15,300, in other words, 85% of the premium that they collected
+[5:18 - 5:24]  out to doctors and hospitals, and then they could keep $2,700 for administration and profit.
+[5:24 - 5:31]  Aha. But then they're like, we've got a fantastic idea. We can use this accounting approach called
+[5:31 - 5:37]  intercompany eliminations, and we'll create these subsidiary companies that we also own,
+[5:38 - 5:47]  like Optum and Oak Street and Village MD and Carillon. And we will pay the $15,300 to the provider
+[5:47 - 5:54]  to ourselves because we're the provider. So all these big insurance companies pay themselves
+[5:54 - 6:04]  $15,300. And they pay it to like a primary care group that goes at full risk for that full $15,300.
+[6:05 - 6:10]  And then if the person has to be admitted to the hospital or has to have surgery or whatever,
+[6:10 - 6:17]  then the primary group essentially is paying out from that $15,300 to like your traditional hospital,
+[6:17 - 6:22]  et cetera, et cetera, et cetera. Guess what, though, one of these primary care groups,
+[6:23 - 6:30]  guess what they can provide care for? They can actually only need to spend about 60%,
+[6:30 - 6:40]  in other words, $9,180 of the $15,300 on traditional like hospital care and specialists and blah, blah, blah.
+[6:40 - 6:47]  That means that the primary care groups that are within Optum and Oak Street and Village MD and
+[6:47 - 6:58]  Carillon, et cetera, et cetera, that means they get to keep $6,120 that is completely separate from that
+[6:58 - 7:09]  MLR, 85% that needs to be spent on care. So what the insurance company then gets to keep is not only
+[7:09 - 7:19]  the $2,700 off the original $18,000, but the insurance company also gets to keep the $6,120
+[7:19 - 7:29]  from what wasn't paid from the primary care group. So you add the $2,700 plus the $6,120, that gets you
+[7:29 - 7:38]  $8,820, which is almost half of the full premium that the government gave them. So when the government
+[7:38 - 7:44]  is paying out $18,000 per beneficiary for a Medicare Advantage member, the insurance company is keeping
+[7:44 - 7:49]  half. So what's happening to the doctors in the hospitals, the traditional providers of care?
+[7:49 - 7:58]  Okay. They're only, they used to get $15,300. They used to get 85%. Now they're only getting $9,180.
+[7:59 - 8:05]  In other words, a 40% decrease in what that they were previously getting. So I've used this expression
+[8:05 - 8:11]  in previous videos. This is how health insurance companies today are eating the lunch of traditional
+[8:11 - 8:21]  hospital systems. Okay. So the final point that I will leave with you is that this trend is just
+[8:21 - 8:26]  warming up. And you might hear in the news, well, the government's going to like decrease this $18,000.
+[8:26 - 8:29]  Like to a certain extent to the insurance company, look at it, look at how much they're making.
+[8:30 - 8:34]  Like, believe me, they know that the government is going to, you know, turn the screws down on this
+[8:34 - 8:39]  $18,000. They've got lobbyists and people to try to keep that $18,000 as high as humanly possible.
+[8:39 - 8:44]  Okay. Believe me, they've thought about that possibility. They don't care. They're still
+[8:44 - 8:49]  going to make tons of money through intercompany eliminations and the actual quote unquote provision
+[8:49 - 8:56]  of care themselves by paying themselves as the provider. So will hospitals eventually become
+[8:56 - 9:03]  payviders themselves? Will hospitals eventually catch on to this? I don't know, but I'll tell you
+[9:03 - 9:08]  what they're doing right now. The hospital's only getting nine grand instead of 15.3 grand. You know
+[9:08 - 9:11]  what they're doing? They're going to the carrier and they're saying, well, you're commercially
+[9:11 - 9:16]  insured folks on your self-funded plans. They better pay us more. And so the employers of America
+[9:16 - 9:20]  are essentially making up the difference for the hospital. So it's only going to get worse
+[9:20 - 9:25]  for the employers. That's a whole nother subject for another day, but it's super important for all
+[9:25 - 9:30]  of us to understand what a payviders is and how it's affecting the healthcare system in America.
+[9:30 - 9:32]  And thank you for watching a Healthcare Z.

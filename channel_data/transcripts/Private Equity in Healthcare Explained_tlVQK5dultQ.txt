@@ -1,0 +1,81 @@
+Title: Private Equity in Healthcare Explained
+URL: https://www.youtube.com/watch?v=tlVQK5dultQ
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing private equity in healthcare. So first of all, what is a private equity firm? So a private equity firm is what used to be called back in the 1980s an LBO or a leveraged buyout firm. So this is essentially an organization that has investors and they take that investor money plus debt that they raise to go out and buy companies that are either private or publicly traded and then do various things to increase revenue and cut costs and then flip them either by selling them to another company or by taking them public in the stock exchange. Okay, so that's what a private equity firm is. They are heavily involved in healthcare and typically they have to fall on either one of two sides. So either they're going to be on the provider side or they're going to be on the payer side. Now keep in mind if a private equity firm is involved on the provider side either owning hospitals or owning physician groups or owning pharmaceutical companies or owning medical device companies or owning anything that has to do with the service of healthcare then that company's increased revenue comes from increased healthcare costs. Okay, so just know that any company that's on the provider side is looking to increase revenue and increase healthcare costs. Okay, so now if the private equity firm is investing in a company on the payer side, whether it be an insurance company or for employers because the employers are ultimately the payers, then they are looking to increase their revenue by decreasing healthcare costs, right? Whereas the healthcare costs go down, typically those companies will either take a percentage or they'll charge a fee that may or may not be contingent upon actually lowering or at least mitigating the rise in healthcare costs. Okay, so keep in mind that you typically have to be on one side or the other. This is just my opinion. I really haven't seen folks that have done well on both sides. And if they say they're on both sides, I'm not sure that's really the case. So typically you have to pick a side. Okay, so let me tell you a story. And that story is about Envision Healthcare. Okay, so Envision Healthcare is the nation's largest physician staffing firm. They have about 25,000 providers, most of which are physicians. And they tend to be hospital-based physicians like emergency room physicians, anesthesiologists, and radiologists. And Envision was recently purchased by the private equity firm KKR. And it was a huge deal. You can see that it was $9.9 billion is what KKR bought Envision for. Now, Envision has been in the news a lot over the past one to two years because many of their ER physicians were not in-network. And in fact, a very significant percentage of Envision's revenue was from, you go to an in-network hospital. You think you're going to have an in-network ER physician. It turns out it is an out-of-network ER physician. And those out-of-network ER physicians were charging 975% of Medicare. Okay? Now, Envision even got in a big, they even filed a lawsuit against UnitedHealthcare. And they had a really hard time negotiating their contract. They finally, just in the past several months, had negotiated their contract for 2019. But UnitedHealthcare was like, look, we pay out-of-network ER doctors like 700% of Medicare. And you want like close to 1,000% of Medicare or 10 times what Medicare reimburses. And so, you know, there's the argument, okay, well, Medicare doesn't pay enough. Hey, that's another argument for another day. Maybe Medicare does not pay enough. But is charging 10 times Medicare considered a reasonable rate of reimbursement? Again, we're not here to discuss that today. I'm just here to let you know that that's what they were charging. Now, in response to that, Envision has come back and said that they are moving to have greater than 90% of their revenue come from in-network physicians. Now, granted, that was a statement back in 2017. I personally have not found any data as to how much of their revenue they've been able to move to inpatient. But they've realized that they need to move in that direction. Now, as part of the, quote, unquote, bitter battle between UHC and Envision, Envision came back with a campaign about, quote, unquote, surprise benefits. Because as all of you know, if you go see an out-of-network physician, it's going to fall to your out-of-network deductible and your out-of-network coinsurance and your out-of-network out-of-pocket max. So it's going to fall to sort of a different accumulator than your in-network charges. And so then much of that is going to be borne by the patient. And, of course, as you can imagine, the patients were becoming very upset about this to the point where there was even a person in Congress who wrote a letter to Envision asking them to reveal more of their billing practices because this person's constituents were quite upset about it. Okay? So all that being said, it's important to know that 66% of ERs in America are actually staffed by these staffing companies. It might be Envision. It might be a different staffing company. So it's likely that that ER physician is not, quote, unquote, an employee of a hospital or part of a local small physician practice, but it's part of a very large group practice. And what those root practices, very large staffing firms can do is they can essentially negotiate with the insurance carrier and say, look, your members don't have a choice when they come to the ER. And, yes, the hospital's in-network. But, hey, we might not be in-network. And so, therefore, we're going to charge maybe upwards of 975% of Medicare if you don't give us what we, quote, unquote, want in our contract to be in-network. So it gives those ER docs, anesthesiologists, radiologists, it gives them a very strong lever because plan design and, quote, unquote, steerage and choice is really hard in emergency situations. So that is referred to as inelastic demand, right, where the demand for a service will not change based upon its price. And in the case of an emergency, you could theoretically charge almost whatever you want because it's an emergency. Okay? So that's another discussion for another day. But the point I'm trying to make with this story around private equity firms and Envision is is that there are investors and there are people that are specifically strategizing to increase health care costs. Okay? And while the insurance is doing its best to combat that, as part of the Affordable Care Act, there is a minimum loss ratio such that the insurance company is just going to take whatever increased claims costs they have and pass that on in the form of higher premiums. Or if you're self-funded, you're just paying an ASO fee anyway. The insurance carrier is just passing on that claims expense, obviously, to you as the self-funded employer. So ultimately, it's really the employers that are being subjected to the activities of these private equity firms and these businesses. Now, this is America. It's a free country. I'm not saying they can't do this. But what I am saying is that if you, as a plan sponsor or as a consultant, HR, CFO, etc., if you do nothing, just the inertia of this process is going to continue to escalate your health care costs. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:17]  Hello this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing private equity in healthcare. So first of all, what is a private equity firm? So a private equity firm is what used to be called back in the 1980s an LBO or a leveraged buyout firm.
+[0:17 - 0:40]  So this is essentially an organization that has investors and they take that investor money plus debt that they raise to go out and buy companies that are either private or publicly traded and then do various things to increase revenue and cut costs and then flip them either by selling them to another company or by taking them public in the stock exchange.
+[0:40 - 0:55]  Okay, so that's what a private equity firm is. They are heavily involved in healthcare and typically they have to fall on either one of two sides. So either they're going to be on the provider side or they're going to be on the payer side.
+[0:55 - 1:15]  Now keep in mind if a private equity firm is involved on the provider side either owning hospitals or owning physician groups or owning pharmaceutical companies or owning medical device companies or owning anything that has to do with the service of healthcare then that company's increased revenue comes from increased healthcare costs.
+[1:15 - 1:23]  Okay, so just know that any company that's on the provider side is looking to increase revenue and increase healthcare costs.
+[1:24 - 1:35]  Okay, so now if the private equity firm is investing in a company on the payer side, whether it be an insurance company or for employers because the employers are ultimately the payers,
+[1:35 - 1:39]  then they are looking to increase their revenue by decreasing healthcare costs, right?
+[1:39 - 1:52]  Whereas the healthcare costs go down, typically those companies will either take a percentage or they'll charge a fee that may or may not be contingent upon actually lowering or at least mitigating the rise in healthcare costs.
+[1:52 - 1:57]  Okay, so keep in mind that you typically have to be on one side or the other.
+[1:58 - 2:02]  This is just my opinion. I really haven't seen folks that have done well on both sides.
+[2:03 - 2:06]  And if they say they're on both sides, I'm not sure that's really the case.
+[2:06 - 2:08]  So typically you have to pick a side.
+[2:08 - 2:11]  Okay, so let me tell you a story.
+[2:11 - 2:13]  And that story is about Envision Healthcare.
+[2:13 - 2:18]  Okay, so Envision Healthcare is the nation's largest physician staffing firm.
+[2:18 - 2:22]  They have about 25,000 providers, most of which are physicians.
+[2:22 - 2:29]  And they tend to be hospital-based physicians like emergency room physicians, anesthesiologists, and radiologists.
+[2:29 - 2:34]  And Envision was recently purchased by the private equity firm KKR.
+[2:34 - 2:36]  And it was a huge deal.
+[2:36 - 2:42]  You can see that it was $9.9 billion is what KKR bought Envision for.
+[2:42 - 2:51]  Now, Envision has been in the news a lot over the past one to two years because many of their ER physicians were not in-network.
+[2:52 - 2:59]  And in fact, a very significant percentage of Envision's revenue was from, you go to an in-network hospital.
+[2:59 - 3:02]  You think you're going to have an in-network ER physician.
+[3:02 - 3:04]  It turns out it is an out-of-network ER physician.
+[3:05 - 3:11]  And those out-of-network ER physicians were charging 975% of Medicare.
+[3:12 - 3:12]  Okay?
+[3:12 - 3:18]  Now, Envision even got in a big, they even filed a lawsuit against UnitedHealthcare.
+[3:18 - 3:20]  And they had a really hard time negotiating their contract.
+[3:20 - 3:24]  They finally, just in the past several months, had negotiated their contract for 2019.
+[3:24 - 3:31]  But UnitedHealthcare was like, look, we pay out-of-network ER doctors like 700% of Medicare.
+[3:31 - 3:38]  And you want like close to 1,000% of Medicare or 10 times what Medicare reimburses.
+[3:38 - 3:41]  And so, you know, there's the argument, okay, well, Medicare doesn't pay enough.
+[3:42 - 3:44]  Hey, that's another argument for another day.
+[3:44 - 3:45]  Maybe Medicare does not pay enough.
+[3:45 - 3:51]  But is charging 10 times Medicare considered a reasonable rate of reimbursement?
+[3:51 - 3:53]  Again, we're not here to discuss that today.
+[3:54 - 3:56]  I'm just here to let you know that that's what they were charging.
+[3:56 - 4:05]  Now, in response to that, Envision has come back and said that they are moving to have greater than 90% of their revenue come from in-network physicians.
+[4:05 - 4:07]  Now, granted, that was a statement back in 2017.
+[4:07 - 4:13]  I personally have not found any data as to how much of their revenue they've been able to move to inpatient.
+[4:13 - 4:17]  But they've realized that they need to move in that direction.
+[4:17 - 4:27]  Now, as part of the, quote, unquote, bitter battle between UHC and Envision, Envision came back with a campaign about, quote, unquote, surprise benefits.
+[4:28 - 4:35]  Because as all of you know, if you go see an out-of-network physician, it's going to fall to your out-of-network deductible and your out-of-network coinsurance and your out-of-network out-of-pocket max.
+[4:35 - 4:38]  So it's going to fall to sort of a different accumulator than your in-network charges.
+[4:39 - 4:41]  And so then much of that is going to be borne by the patient.
+[4:41 - 4:59]  And, of course, as you can imagine, the patients were becoming very upset about this to the point where there was even a person in Congress who wrote a letter to Envision asking them to reveal more of their billing practices because this person's constituents were quite upset about it.
+[4:59 - 5:00]  Okay?
+[5:00 - 5:09]  So all that being said, it's important to know that 66% of ERs in America are actually staffed by these staffing companies.
+[5:09 - 5:10]  It might be Envision.
+[5:10 - 5:11]  It might be a different staffing company.
+[5:11 - 5:22]  So it's likely that that ER physician is not, quote, unquote, an employee of a hospital or part of a local small physician practice, but it's part of a very large group practice.
+[5:22 - 5:32]  And what those root practices, very large staffing firms can do is they can essentially negotiate with the insurance carrier and say, look, your members don't have a choice when they come to the ER.
+[5:32 - 5:33]  And, yes, the hospital's in-network.
+[5:33 - 5:35]  But, hey, we might not be in-network.
+[5:35 - 5:46]  And so, therefore, we're going to charge maybe upwards of 975% of Medicare if you don't give us what we, quote, unquote, want in our contract to be in-network.
+[5:46 - 5:59]  So it gives those ER docs, anesthesiologists, radiologists, it gives them a very strong lever because plan design and, quote, unquote, steerage and choice is really hard in emergency situations.
+[5:59 - 6:07]  So that is referred to as inelastic demand, right, where the demand for a service will not change based upon its price.
+[6:07 - 6:13]  And in the case of an emergency, you could theoretically charge almost whatever you want because it's an emergency.
+[6:13 - 6:13]  Okay?
+[6:13 - 6:16]  So that's another discussion for another day.
+[6:16 - 6:33]  But the point I'm trying to make with this story around private equity firms and Envision is is that there are investors and there are people that are specifically strategizing to increase health care costs.
+[6:34 - 6:34]  Okay?
+[6:34 - 6:49]  And while the insurance is doing its best to combat that, as part of the Affordable Care Act, there is a minimum loss ratio such that the insurance company is just going to take whatever increased claims costs they have and pass that on in the form of higher premiums.
+[6:49 - 6:52]  Or if you're self-funded, you're just paying an ASO fee anyway.
+[6:53 - 6:58]  The insurance carrier is just passing on that claims expense, obviously, to you as the self-funded employer.
+[6:58 - 7:08]  So ultimately, it's really the employers that are being subjected to the activities of these private equity firms and these businesses.
+[7:09 - 7:10]  Now, this is America.
+[7:10 - 7:11]  It's a free country.
+[7:11 - 7:13]  I'm not saying they can't do this.
+[7:13 - 7:30]  But what I am saying is that if you, as a plan sponsor or as a consultant, HR, CFO, etc., if you do nothing, just the inertia of this process is going to continue to escalate your health care costs.
+[7:30 - 7:32]  And thank you for watching A Healthcare Z.

@@ -1,0 +1,62 @@
+Title: Map of HIGH Hospital ICU Occupancy During COVID 2020
+URL: https://www.youtube.com/watch?v=MexsR0IuKcI
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Map of Hospital ICU Occupancy. So here we are on Wednesday, December 16th, and just two days ago I made a video about how we don't know nationwide hospital occupancy by hospital, and look what happens! The New York Times publishes today, December 16th of 2020, specifically a map entitled How Full Are Hospital ICUs Near You? Now is this a coincidence? There's probably like a 95% chance this is a coincidence. But regardless of why the New York Times did this, this is awesome! They essentially went to the exact same dataset that I went to, but they parsed it out by specific hospital, and they turned it into a map so you can literally look at the ICU occupancy rates for hospitals where you are, or anywhere in America! And the data and the map are fascinating! Here's what I found. Dallas, Fort Worth, Houston, Austin, San Antonio, and El Paso, the majority of the hospitals have greater than 90% occupancy of their ICUs. Now they color code it so they're red! You look at the map of America and there is a ton of red for the major cities in Texas. Now, this is for data at the week ending December 10th, so it's not real time. So, just know that, you know, listen, people get transferred out of the ICU and into the ICU, so this is just a snapshot for that week, but it's a very telling snapshot, and you can still learn information from it. Next up, Las Vegas is at a hundred percent! I think there was like one bed in all of Las Vegas that was available in their ICUs. What do they got? A bunch of people congregated together in casinos! Los Angeles is actually in rough shape. So, if you look at the map, more than half of the hospitals in the Los Angeles area have greater than 90% occupancy, and California has recently announced much more stringent, for lack of a better term, lockdown measures, probably because of what's going on in the Los Angeles ICU situation. In general, if you look at the Southeast, if you look at Birmingham and Atlanta and many of the hospitals in North Carolina, they're at greater than 90%. Florida isn't as bad, but those other states in the Southeast are pretty high as well. Now, what's interesting is that there are blank circles where there is no data for that hospital. And where are these blank circles? They are in rural hospital. There are gobs and swaths of America, of rural America, that have a bunch of blank circles because there's no data. What states am I talking about? North Dakota, South Dakota, Nebraska, Kansas, a lot of Iowa and Minnesota. So, these are places we hear about in the news, especially the Dakotas, of having incredibly high rates of COVID. And, like, we don't know. Like, if we knew the data for those rural states and those rural hospitals, it might be all red. It might be horrible. Or it might be pretty good. We don't know. So, I just really want to thank the New York Times. I mean, listen, I don't agree with them all the time. Listen, that's okay. You don't agree with me all the time. But, I think they did a great service in creating this map. I encourage you, please look at this map yourself. Share in the comments below things that you've seen from looking at this map yourself. You do need to enroll in the New York Times. You've got to put in your email address and a password. You don't have to pay any money. But in order to actually see the map, you do got to put in your email address and create a password for a logon onto the New York Times. Unfortunately, they restricted it. But at least you don't have to pay for it. Now, the question then becomes, okay, what kind of response are we going to have? So, I would say, look, Governor Abbott in Texas, what are you going to do? The mayors of the major cities in Texas, what are you going to do? Like, Nevada and Las Vegas, what are you going to do? I mean, someone, if you have connections to these people, let them know about this map. Have them take a look at it. What are we going to do? And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:05 - 0:10]  Today's topic is Map of Hospital ICU Occupancy.
+[0:10 - 0:20]  So here we are on Wednesday, December 16th, and just two days ago I made a video about how we don't know
+[0:20 - 0:26]  nationwide hospital occupancy by hospital, and look what happens!
+[0:26 - 0:33]  The New York Times publishes today, December 16th of 2020, specifically a map entitled
+[0:33 - 0:37]  How Full Are Hospital ICUs Near You?
+[0:37 - 0:41]  Now is this a coincidence? There's probably like a 95% chance this is a coincidence.
+[0:41 - 0:45]  But regardless of why the New York Times did this, this is awesome!
+[0:45 - 0:51]  They essentially went to the exact same dataset that I went to, but they parsed it out by specific hospital,
+[0:51 - 0:59]  and they turned it into a map so you can literally look at the ICU occupancy rates for hospitals where you are,
+[0:59 - 1:03]  or anywhere in America! And the data and the map are fascinating!
+[1:03 - 1:08]  Here's what I found. Dallas, Fort Worth, Houston, Austin, San Antonio, and El Paso,
+[1:08 - 1:14]  the majority of the hospitals have greater than 90% occupancy of their ICUs.
+[1:14 - 1:17]  Now they color code it so they're red!
+[1:17 - 1:23]  You look at the map of America and there is a ton of red for the major cities in Texas.
+[1:23 - 1:28]  Now, this is for data at the week ending December 10th, so it's not real time.
+[1:28 - 1:34]  So, just know that, you know, listen, people get transferred out of the ICU and into the ICU,
+[1:34 - 1:38]  so this is just a snapshot for that week, but it's a very telling snapshot,
+[1:38 - 1:40]  and you can still learn information from it.
+[1:40 - 1:44]  Next up, Las Vegas is at a hundred percent!
+[1:44 - 1:50]  I think there was like one bed in all of Las Vegas that was available in their ICUs.
+[1:50 - 1:54]  What do they got? A bunch of people congregated together in casinos!
+[1:54 - 1:57]  Los Angeles is actually in rough shape.
+[1:57 - 2:01]  So, if you look at the map, more than half of the hospitals in the Los Angeles area
+[2:01 - 2:07]  have greater than 90% occupancy, and California has recently announced much more stringent,
+[2:07 - 2:09]  for lack of a better term, lockdown measures,
+[2:09 - 2:14]  probably because of what's going on in the Los Angeles ICU situation.
+[2:14 - 2:18]  In general, if you look at the Southeast, if you look at Birmingham and Atlanta
+[2:18 - 2:23]  and many of the hospitals in North Carolina, they're at greater than 90%.
+[2:23 - 2:29]  Florida isn't as bad, but those other states in the Southeast are pretty high as well.
+[2:29 - 2:37]  Now, what's interesting is that there are blank circles where there is no data for that hospital.
+[2:37 - 2:42]  And where are these blank circles? They are in rural hospital.
+[2:42 - 2:48]  There are gobs and swaths of America, of rural America, that have a bunch of blank circles
+[2:48 - 2:51]  because there's no data. What states am I talking about?
+[2:51 - 2:57]  North Dakota, South Dakota, Nebraska, Kansas, a lot of Iowa and Minnesota.
+[2:57 - 3:04]  So, these are places we hear about in the news, especially the Dakotas, of having incredibly high rates of COVID.
+[3:04 - 3:11]  And, like, we don't know. Like, if we knew the data for those rural states and those rural hospitals,
+[3:11 - 3:16]  it might be all red. It might be horrible. Or it might be pretty good. We don't know.
+[3:16 - 3:19]  So, I just really want to thank the New York Times.
+[3:19 - 3:23]  I mean, listen, I don't agree with them all the time. Listen, that's okay. You don't agree with me all the time.
+[3:23 - 3:28]  But, I think they did a great service in creating this map. I encourage you, please look at this map yourself.
+[3:28 - 3:33]  Share in the comments below things that you've seen from looking at this map yourself.
+[3:33 - 3:40]  You do need to enroll in the New York Times. You've got to put in your email address and a password.
+[3:40 - 3:45]  You don't have to pay any money. But in order to actually see the map, you do got to put in your email address
+[3:45 - 3:49]  and create a password for a logon onto the New York Times. Unfortunately, they restricted it.
+[3:49 - 3:54]  But at least you don't have to pay for it. Now, the question then becomes, okay, what kind of response are we going to have?
+[3:54 - 3:58]  So, I would say, look, Governor Abbott in Texas, what are you going to do?
+[3:58 - 4:01]  The mayors of the major cities in Texas, what are you going to do?
+[4:01 - 4:04]  Like, Nevada and Las Vegas, what are you going to do?
+[4:04 - 4:08]  I mean, someone, if you have connections to these people, let them know about this map.
+[4:08 - 4:12]  Have them take a look at it. What are we going to do? And that's my point for today.
+[4:12 - 4:15]  Thank you for watching A Healthcare Z.

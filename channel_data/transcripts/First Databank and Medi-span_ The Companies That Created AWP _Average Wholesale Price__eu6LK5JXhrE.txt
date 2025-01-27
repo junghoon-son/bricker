@@ -1,0 +1,71 @@
+Title: First Databank and Medi-span: The Companies That Created AWP (Average Wholesale Price)
+URL: https://www.youtube.com/watch?v=eu6LK5JXhrE
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Brooker and thank you for watching A Health Care Z. Today's topic is First Data Bank, MedSpan, and AWP. So AWP stands for the average wholesale price and it's used as the basis for prescription drug discounts from your pharmacy benefit manager. Now, the average wholesale price is not based on the national average drug acquisition cost, the NADAC, right? And so what happens is, is then you get what is called spread pricing. And I have a whole other video that talks about how PBMs make money with spread pricing off of generic medications. But let's just say for the sake of brevity, that the average wholesale price, which is sort of the benchmark price, and then they take a discount off of that, and that's the amount that the employer would pay, that is much, much more than the actual cost of the drug or the acquisition cost. And the spread between the two is what the middleman, the PBM, keeps. Now that's highly simplified. I encourage you to go to this other video to learn more about that. But I am going to tell you a story specifically about First Data Bank. Because these two firms, First Data Bank and MedSpan, they're the companies that come up with these benchmark prices like AWP. So that begs the question, who in the world are First Data Bank and MedSpan? Okay, so First Data Bank is headquartered in San Francisco. It is over 40 years old, and it is a subsidiary of a company called Hearst Health. Aha! Hearst Health, as in like Hearst, as in like William Randolph Hearst, as in like the media company that owns a bunch of cable TV channels and newspapers. That's kind of odd. Now, this is the same Hearst Health that also owns the MCG Care guidelines that are used as the basis for pre-certification utilization review and denials by the majority of healthcare systems and health insurance companies in America. So you mean to tell me that the company that owns all the clinical requirements for patient care for most Americans and the source of the data for prescription pricing for most of Americans is owned by the same company? And that company has been around for over a hundred years and it's privately held? That is odd. I'll just leave it at that. Now, you can go on Google. I encourage you to do this. Look at the headquarters of First Data Bank on Google Maps. Okay? It is 701 Gateway Boulevard in San Francisco. There is no sign on the building. It is incredibly nondescript. Like, right next door is the San Mateo health plan. Who's ever heard of the San Mateo health plan? They got a sign, but First Data Bank with this much power and this much influence and this much control and this much data, they got no sign. Again, for such a prominent company, why no sign? Okay? So there was a big, big lawsuit that ended in 2009 in regards to First Data Bank and MedSpan and it involved U.S. federal court and I won't get into the details of it, but basically First Data Bank and MedSpan agreed to voluntarily make AWP go away because it was found to be unfair, potentially rigged. Like I said, there was a settlement. I'll let you look into and I'll leave the link in the show notes to what that settlement was. Okay? Now, as a result of AWP going away, if you go into the First Data Bank website, you can see the other price databases that have replaced AWP and I'm going to go through them now. There are seven of them. Okay. There is the average acquisition cost. There is the wholesale acquisition cost. There is the direct price. There is the suggested wholesale price. There is the federal financing participation Aberta limit. There is the Medicare Part B price, which is a little odd because the Medicare prescription drug program is Medicare Part D. It's not even Medicare Part B. There is the national average drug acquisition cost, the NADAC that I was talking about. Okay. That's a lot of different prices. Now, if you get down to it, there is a drug manufacturer who is the maker and there is a patient or a customer who is the consumer. And in a very simple world, there is one price. It's the price that the pharmaceutical company drug manufacturer sells the drug for. And that's the same price that the customer or the patient pays for, right? There's one price, which means that if there are all of these different prices, like what price are you as an employer paying and who's paying all these other prices? So believe it or not, today's episode of A Healthcare Z actually has some homework. So if you are an insurance broker or a benefit consultant, or if you are an employer, I would ask you to go to your PBM and pick a medication. You could say atorvastatin, which is generic Lipitor, and say, Hey, here are these seven prices from First Data Bank. Which of these seven prices are we paying? And what's the price for atorvastatin? Just ask me that. They should, I mean, I would think they would be able to tell you, I mean, you're paying it. They should be able to tell you that price. Fine. Now you probably won't get them to tell you what the, what the price is for that atorvastatin for these other ones, but that's okay. Just ask them who is paying these other prices. Okay? So who's paying the average acquisition cost? Who's paying the wholesale acquisition cost? Who's paying the direct price? Who's paying the suggested wholesale price? Who's paying the federal financing, uh, participation at the limit? Who's paying the Medicare Part B price? Who's paying the national average drug acquisition cost? This is so complicated that maybe, maybe it's too complicated on purpose. And maybe if we do our homework and figure out what the price is for you and who's actually paying these prices, then we can be more educated payers of our healthcare services as employers. Because remember, we've got the golden rule. He who has the gold makes the rules and you as employers, you got the gold. And that's my point for today. Thank you for watching. A Hub Care Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Brooker and thank you for watching A Health Care Z. Today's
+[0:04 - 0:11]  topic is First Data Bank, MedSpan, and AWP. So AWP stands for the average wholesale price
+[0:11 - 0:16]  and it's used as the basis for prescription drug discounts from your pharmacy benefit
+[0:16 - 0:24]  manager. Now, the average wholesale price is not based on the national average drug acquisition
+[0:24 - 0:30]  cost, the NADAC, right? And so what happens is, is then you get what is called spread pricing.
+[0:30 - 0:36]  And I have a whole other video that talks about how PBMs make money with spread pricing
+[0:36 - 0:41]  off of generic medications. But let's just say for the sake of brevity, that the average
+[0:41 - 0:45]  wholesale price, which is sort of the benchmark price, and then they take a discount off of
+[0:45 - 0:50]  that, and that's the amount that the employer would pay, that is much, much more than the
+[0:50 - 0:56]  actual cost of the drug or the acquisition cost. And the spread between the two is what
+[0:56 - 1:03]  the middleman, the PBM, keeps. Now that's highly simplified. I encourage you to go to this other
+[1:03 - 1:10]  video to learn more about that. But I am going to tell you a story specifically about First
+[1:10 - 1:15]  Data Bank. Because these two firms, First Data Bank and MedSpan, they're the companies that
+[1:15 - 1:22]  come up with these benchmark prices like AWP. So that begs the question, who in the world are
+[1:22 - 1:29]  First Data Bank and MedSpan? Okay, so First Data Bank is headquartered in San Francisco.
+[1:30 - 1:38]  It is over 40 years old, and it is a subsidiary of a company called Hearst Health. Aha! Hearst Health,
+[1:38 - 1:45]  as in like Hearst, as in like William Randolph Hearst, as in like the media company that owns a
+[1:45 - 1:56]  bunch of cable TV channels and newspapers. That's kind of odd. Now, this is the same Hearst Health that
+[1:56 - 2:05]  also owns the MCG Care guidelines that are used as the basis for pre-certification utilization review
+[2:05 - 2:17]  and denials by the majority of healthcare systems and health insurance companies in America. So you mean to tell me
+[2:17 - 2:23]  that the company that owns all the clinical requirements for patient care for most Americans
+[2:24 - 2:32]  and the source of the data for prescription pricing for most of Americans is owned by the same company?
+[2:32 - 2:43]  And that company has been around for over a hundred years and it's privately held? That is odd. I'll just leave it at that.
+[2:44 - 2:52]  Now, you can go on Google. I encourage you to do this. Look at the headquarters of First Data Bank on Google Maps.
+[2:52 - 3:03]  Okay? It is 701 Gateway Boulevard in San Francisco. There is no sign on the building. It is incredibly nondescript. Like,
+[3:03 - 3:10]  right next door is the San Mateo health plan. Who's ever heard of the San Mateo health plan? They got a sign,
+[3:10 - 3:15]  but First Data Bank with this much power and this much influence and this much control and this much data,
+[3:15 - 3:26]  they got no sign. Again, for such a prominent company, why no sign? Okay? So there was a big, big lawsuit
+[3:26 - 3:34]  that ended in 2009 in regards to First Data Bank and MedSpan and it involved U.S. federal court and
+[3:35 - 3:40]  I won't get into the details of it, but basically First Data Bank and MedSpan agreed to voluntarily make
+[3:40 - 3:47]  AWP go away because it was found to be unfair, potentially rigged. Like I said, there was a
+[3:47 - 3:52]  settlement. I'll let you look into and I'll leave the link in the show notes to what that settlement was.
+[3:52 - 3:58]  Okay? Now, as a result of AWP going away, if you go into the First Data Bank website, you can see the
+[3:58 - 4:06]  other price databases that have replaced AWP and I'm going to go through them now. There are seven of them.
+[4:06 - 4:12]  Okay. There is the average acquisition cost. There is the wholesale acquisition cost. There is the
+[4:12 - 4:21]  direct price. There is the suggested wholesale price. There is the federal financing participation
+[4:21 - 4:28]  Aberta limit. There is the Medicare Part B price, which is a little odd because the Medicare
+[4:28 - 4:35]  prescription drug program is Medicare Part D. It's not even Medicare Part B. There is the national average
+[4:35 - 4:42]  drug acquisition cost, the NADAC that I was talking about. Okay. That's a lot of different prices.
+[4:42 - 4:50]  Now, if you get down to it, there is a drug manufacturer who is the maker and there is a
+[4:50 - 4:58]  patient or a customer who is the consumer. And in a very simple world, there is one price. It's the price
+[4:58 - 5:05]  that the pharmaceutical company drug manufacturer sells the drug for. And that's the same price
+[5:05 - 5:11]  that the customer or the patient pays for, right? There's one price, which means that if there are
+[5:11 - 5:21]  all of these different prices, like what price are you as an employer paying and who's paying all these
+[5:21 - 5:27]  other prices? So believe it or not, today's episode of A Healthcare Z actually has some homework. So if
+[5:27 - 5:32]  you are an insurance broker or a benefit consultant, or if you are an employer, I would ask you to go to
+[5:32 - 5:38]  your PBM and pick a medication. You could say atorvastatin, which is generic Lipitor, and say,
+[5:38 - 5:46]  Hey, here are these seven prices from First Data Bank. Which of these seven prices are we paying?
+[5:46 - 5:50]  And what's the price for atorvastatin? Just ask me that. They should, I mean, I would think they would be able to
+[5:50 - 5:55]  tell you, I mean, you're paying it. They should be able to tell you that price. Fine. Now you probably
+[5:55 - 6:02]  won't get them to tell you what the, what the price is for that atorvastatin for these other ones,
+[6:02 - 6:11]  but that's okay. Just ask them who is paying these other prices. Okay? So who's paying the average
+[6:11 - 6:16]  acquisition cost? Who's paying the wholesale acquisition cost? Who's paying the direct price?
+[6:16 - 6:20]  Who's paying the suggested wholesale price? Who's paying the federal financing, uh,
+[6:20 - 6:24]  participation at the limit? Who's paying the Medicare Part B price? Who's paying the national
+[6:24 - 6:33]  average drug acquisition cost? This is so complicated that maybe, maybe it's too complicated on purpose.
+[6:33 - 6:39]  And maybe if we do our homework and figure out what the price is for you and who's actually paying
+[6:39 - 6:45]  these prices, then we can be more educated payers of our healthcare services as employers. Because
+[6:45 - 6:50]  remember, we've got the golden rule. He who has the gold makes the rules and you as employers,
+[6:50 - 6:53]  you got the gold. And that's my point for today. Thank you for watching.
+[6:53 - 7:02]  A Hub Care Z.

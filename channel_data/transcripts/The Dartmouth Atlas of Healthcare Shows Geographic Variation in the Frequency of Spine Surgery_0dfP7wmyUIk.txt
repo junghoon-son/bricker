@@ -1,0 +1,109 @@
+Title: The Dartmouth Atlas of Healthcare Shows Geographic Variation in the Frequency of Spine Surgery
+URL: https://www.youtube.com/watch?v=0dfP7wmyUIk
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing the Dartmouth Healthcare Atlas or the Dartmouth Atlas of Healthcare. And this is a very famous essentially map of the United States as it relates to the utilization of healthcare services. The Dartmouth Healthcare Atlas is not new news. However, what we're going to do today is specifically apply the great degree of variation in the frequency of surgery to an employer sponsored health plan. So we're going to take this data and apply it directly to an employee plan. Now, keep in mind, this is Medicare data, but this is also utilization data and utilization rates. So I think that the application of utilization rates to employer health plans will be very similar. So I don't really think that surgeons change their practice pattern based upon the person's insurance of Medicare versus commercial insurance too much. So what we're going to see here is a great amount of variation. Okay, now I have to start off with an acknowledgement. So the data set forth in the ahealthcarez.com publication. Release was obtained from the Dartmouth Atlas data website, which was funded in part by the National Institute of Aging under award number, there you see it, and by the Dartmouth Institute of Health Policy and Clinical Practice. Okay, required to show you that. I've showed you that. All right. Now, you go into the Dartmouth Atlas and it gives you, you can look up all surgical discharges and there you have a map of the United States. Okay, fantastic. But let's specifically look at spinal surgery by metropolitan area. So you can see here, let's start out with New York and you can kind of just recognize the metro area, if you will, and you can see Manhattan right there. It's all at about 2.5% excuse me, 2.5 surgeries per thousand Medicare enrollees. Okay, so it's pretty consistent across the entire New York metro area. Okay, next let's move on to San Francisco. Let's go to the completely opposite side of the country. And there you can see San Francisco, Bay Area, et cetera. And again, they're all about 2.5%. So it's all pretty similar. Not only is it pretty similar to New York, but it's also pretty similar across the San Francisco Bay Area, just like it's similar across the New York City area. Okay, great. Good to know. So, but now we start getting into other metro areas where there's a significant amount of variation. So one, you can see here for Dallas, that the city of Dallas itself is at 4.9. Okay, so it's considerably higher. And then within that metro area, you can see that you have, this is Denton County, you can see that it's up at 8.8. So that is a full, like almost, two times higher rate just within the same metro area. Now let's move on to Houston. Okay, the city of Houston itself is at 3.6. And you can see in this area up here, which is a suburb called Tomball, is at 6.2. Again, within the same metro area, you have a significant, again, it's almost like a two times difference in terms of the rate of spinal surgeries. Now with Dallas and Houston, there could be a few reasons for this. One, do they have dramatically more, like, back pathology than they do in those other areas? I don't really think so. And then even within the Dallas and Houston areas, is there a lot more back pathology up here in the Tomball area as opposed to Houston proper? Again, I don't really think so. It's more likely due to the difference in the surgical practice patterns of the orthopedic spine and neurosurgeons in that area in terms of who they do or do not decide to take to surgery. So they're just much more aggressive in Houston and Dallas overall. And they're also really aggressive in places like Denton and Tomball. Okay, let's move on to the next metropolitan area. Chicago. Okay, so the city of Chicago, pretty similar to New York and San Francisco, it's at 2.7 per 1,000. But you can see down here in Northwest Indiana in Gary, it's at 6.8. So it gets like twice as high. Now I will tell you, what do Indiana and Texas have in common? They both have tort reform where they have maximum punitive damages, whereas most other states do not. And so there's two types of, there's sort of a joke, there's two types of neurosurgeons, those that have been sued and those that will be. And so to a certain extent, are there just more spine surgeries in these places because they have a more favorable medical malpractice environment than other places? I will tell you in the city of Chicago versus Northwest Indiana, that's a huge deal. And there are like OBGYNs who can't get decently priced medical malpractice insurance in Chicago until they move to Northwest Indiana. Okay, so there are, again, here is an example of a great degree of variation within a metropolitan area. Now let's move on to Boston in the Northeast. The city of Boston, also pretty similar to New York and San Francisco at 3.4. Down here in Plymouth, that's at 6.7. Again, high degree of variability within a metro area. Now let's move on to Los Angeles, complete opposite corner of the country. In the city of Los Angeles, this is a little higher, it's 4.0. But then out here, and I believe that's Torrance, it's at 6.5. Again, are people in Torrance like not lifting with their knees or do they have particularly bad spine pathology? Probably not. There's probably something going on with those orthospine surgeons and neurosurgeons that are in Torrance versus in Los Angeles. Okay, now overall, the highest rate of spine surgery is in the Southeast. You can see it's in rural Alabama, Georgia, South Carolina, North Carolina, and Tennessee. Where the average eight, these are all around eight. Okay, so these are literally like four times higher than in New York and San Francisco, you know, part of the city of Chicago proper. So, there again, is pathology in the Southeast particularly bad or is it that the practice patterns in the rural South just happen to be such that they're more aggressive in taking these people to the OR? So what are the implications? One, there is a 400% geographic difference between the back surgery rates, the spine surgery rates across the country. And this is particularly applicable to spine because one, spine tends to be elective. Okay, so most spine surgeries are not quote unquote emergent, right? So you have time. It's typically because of degenerative joint disease or arthritis, a herniated disc, etc. So it tends to be a chronic pain that people have been dealing with over long periods of time. Surgery is also highly controversial in that there's some estimates that upwards of 50% of spine surgeries are like not necessary. So I didn't look at all the other types of surgery that the Dartmouth Atlas has. I specifically looked at spine surgery, one, because it tends to be elective. You can quote unquote, you know, have time in your decision. Two, oftentimes it's reasonable to not have surgery. And then three, it's part of that diagnostic category of overall musculoskeletal, right? And the top three cost drivers from a diagnosis standpoint for an employer health plan are musculoskeletal, cancer, and cardiovascular. So this is absolutely apropos to the medical span of an employer-sponsored health plan. Okay. And then lastly, listen, in terms of your intervention programs, maybe you should have a second opinion program, but it's not going to make a lot of sense if you have all of your employees in like the New York City area, because it's already low. And if you get a second opinion in the New York City area, it's probably going to be pretty similar. However, it might make sense to have a second opinion program if you're in Dallas, Houston, Chicago, Boston, Los Angeles, and in the rural south. Or if you have employees all over the country that you would want to target your communication around your second opinion program, specifically in these areas for spine surgery. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:05 - 0:11]  Today we're going to be discussing the Dartmouth Healthcare Atlas or the Dartmouth Atlas of Healthcare.
+[0:11 - 0:20]  And this is a very famous essentially map of the United States as it relates to the utilization of healthcare services.
+[0:20 - 0:22]  The Dartmouth Healthcare Atlas is not new news.
+[0:22 - 0:34]  However, what we're going to do today is specifically apply the great degree of variation in the frequency of surgery to an employer sponsored health plan.
+[0:34 - 0:40]  So we're going to take this data and apply it directly to an employee plan.
+[0:40 - 0:46]  Now, keep in mind, this is Medicare data, but this is also utilization data and utilization rates.
+[0:46 - 0:53]  So I think that the application of utilization rates to employer health plans will be very similar.
+[0:53 - 1:00]  So I don't really think that surgeons change their practice pattern based upon the person's insurance of Medicare versus commercial insurance too much.
+[1:00 - 1:03]  So what we're going to see here is a great amount of variation.
+[1:03 - 1:05]  Okay, now I have to start off with an acknowledgement.
+[1:05 - 1:07]  So the data set forth in the ahealthcarez.com publication.
+[1:07 - 1:14]  Release was obtained from the Dartmouth Atlas data website, which was funded in part by the National Institute of Aging under award number, there you see it,
+[1:14 - 1:17]  and by the Dartmouth Institute of Health Policy and Clinical Practice.
+[1:17 - 1:18]  Okay, required to show you that.
+[1:18 - 1:19]  I've showed you that.
+[1:19 - 1:20]  All right.
+[1:20 - 1:27]  Now, you go into the Dartmouth Atlas and it gives you, you can look up all surgical discharges and there you have a map of the United States.
+[1:27 - 1:28]  Okay, fantastic.
+[1:28 - 1:33]  But let's specifically look at spinal surgery by metropolitan area.
+[1:33 - 1:42]  So you can see here, let's start out with New York and you can kind of just recognize the metro area, if you will, and you can see Manhattan right there.
+[1:42 - 1:49]  It's all at about 2.5% excuse me, 2.5 surgeries per thousand Medicare enrollees.
+[1:49 - 1:53]  Okay, so it's pretty consistent across the entire New York metro area.
+[1:53 - 1:55]  Okay, next let's move on to San Francisco.
+[1:55 - 1:57]  Let's go to the completely opposite side of the country.
+[1:57 - 2:01]  And there you can see San Francisco, Bay Area, et cetera.
+[2:01 - 2:04]  And again, they're all about 2.5%.
+[2:04 - 2:06]  So it's all pretty similar.
+[2:06 - 2:13]  Not only is it pretty similar to New York, but it's also pretty similar across the San Francisco Bay Area, just like it's similar across the New York City area.
+[2:13 - 2:14]  Okay, great.
+[2:14 - 2:15]  Good to know.
+[2:15 - 2:20]  So, but now we start getting into other metro areas where there's a significant amount of variation.
+[2:20 - 2:25]  So one, you can see here for Dallas, that the city of Dallas itself is at 4.9.
+[2:25 - 2:27]  Okay, so it's considerably higher.
+[2:27 - 2:33]  And then within that metro area, you can see that you have, this is Denton County, you can see that it's up at 8.8.
+[2:33 - 2:40]  So that is a full, like almost, two times higher rate just within the same metro area.
+[2:40 - 2:42]  Now let's move on to Houston.
+[2:42 - 2:44]  Okay, the city of Houston itself is at 3.6.
+[2:44 - 2:49]  And you can see in this area up here, which is a suburb called Tomball, is at 6.2.
+[2:49 - 2:59]  Again, within the same metro area, you have a significant, again, it's almost like a two times difference in terms of the rate of spinal surgeries.
+[2:59 - 3:02]  Now with Dallas and Houston, there could be a few reasons for this.
+[3:02 - 3:08]  One, do they have dramatically more, like, back pathology than they do in those other areas?
+[3:08 - 3:09]  I don't really think so.
+[3:09 - 3:18]  And then even within the Dallas and Houston areas, is there a lot more back pathology up here in the Tomball area as opposed to Houston proper?
+[3:18 - 3:20]  Again, I don't really think so.
+[3:20 - 3:31]  It's more likely due to the difference in the surgical practice patterns of the orthopedic spine and neurosurgeons in that area in terms of who they do or do not decide to take to surgery.
+[3:31 - 3:35]  So they're just much more aggressive in Houston and Dallas overall.
+[3:35 - 3:39]  And they're also really aggressive in places like Denton and Tomball.
+[3:39 - 3:41]  Okay, let's move on to the next metropolitan area.
+[3:41 - 3:42]  Chicago.
+[3:42 - 3:49]  Okay, so the city of Chicago, pretty similar to New York and San Francisco, it's at 2.7 per 1,000.
+[3:49 - 3:53]  But you can see down here in Northwest Indiana in Gary, it's at 6.8.
+[3:53 - 3:55]  So it gets like twice as high.
+[3:55 - 3:59]  Now I will tell you, what do Indiana and Texas have in common?
+[3:59 - 4:05]  They both have tort reform where they have maximum punitive damages, whereas most other states do not.
+[4:05 - 4:13]  And so there's two types of, there's sort of a joke, there's two types of neurosurgeons, those that have been sued and those that will be.
+[4:13 - 4:23]  And so to a certain extent, are there just more spine surgeries in these places because they have a more favorable medical malpractice environment than other places?
+[4:23 - 4:27]  I will tell you in the city of Chicago versus Northwest Indiana, that's a huge deal.
+[4:27 - 4:36]  And there are like OBGYNs who can't get decently priced medical malpractice insurance in Chicago until they move to Northwest Indiana.
+[4:36 - 4:43]  Okay, so there are, again, here is an example of a great degree of variation within a metropolitan area.
+[4:43 - 4:45]  Now let's move on to Boston in the Northeast.
+[4:45 - 4:49]  The city of Boston, also pretty similar to New York and San Francisco at 3.4.
+[4:49 - 4:54]  Down here in Plymouth, that's at 6.7. Again, high degree of variability within a metro area.
+[4:54 - 4:58]  Now let's move on to Los Angeles, complete opposite corner of the country.
+[4:58 - 5:01]  In the city of Los Angeles, this is a little higher, it's 4.0.
+[5:01 - 5:05]  But then out here, and I believe that's Torrance, it's at 6.5.
+[5:05 - 5:11]  Again, are people in Torrance like not lifting with their knees or do they have particularly bad spine pathology?
+[5:11 - 5:18]  Probably not. There's probably something going on with those orthospine surgeons and neurosurgeons that are in Torrance versus in Los Angeles.
+[5:18 - 5:25]  Okay, now overall, the highest rate of spine surgery is in the Southeast.
+[5:25 - 5:30]  You can see it's in rural Alabama, Georgia, South Carolina, North Carolina, and Tennessee.
+[5:30 - 5:33]  Where the average eight, these are all around eight.
+[5:33 - 5:43]  Okay, so these are literally like four times higher than in New York and San Francisco, you know, part of the city of Chicago proper.
+[5:43 - 5:55]  So, there again, is pathology in the Southeast particularly bad or is it that the practice patterns in the rural South just happen to be such that they're more aggressive in taking these people to the OR?
+[5:55 - 5:56]  So what are the implications?
+[5:56 - 6:05]  One, there is a 400% geographic difference between the back surgery rates, the spine surgery rates across the country.
+[6:05 - 6:10]  And this is particularly applicable to spine because one, spine tends to be elective.
+[6:10 - 6:13]  Okay, so most spine surgeries are not quote unquote emergent, right?
+[6:13 - 6:14]  So you have time.
+[6:14 - 6:20]  It's typically because of degenerative joint disease or arthritis, a herniated disc, etc.
+[6:20 - 6:24]  So it tends to be a chronic pain that people have been dealing with over long periods of time.
+[6:24 - 6:31]  Surgery is also highly controversial in that there's some estimates that upwards of 50% of spine surgeries are like not necessary.
+[6:31 - 6:36]  So I didn't look at all the other types of surgery that the Dartmouth Atlas has.
+[6:36 - 6:39]  I specifically looked at spine surgery, one, because it tends to be elective.
+[6:39 - 6:42]  You can quote unquote, you know, have time in your decision.
+[6:42 - 6:45]  Two, oftentimes it's reasonable to not have surgery.
+[6:45 - 6:52]  And then three, it's part of that diagnostic category of overall musculoskeletal, right?
+[6:52 - 7:00]  And the top three cost drivers from a diagnosis standpoint for an employer health plan are musculoskeletal, cancer, and cardiovascular.
+[7:00 - 7:06]  So this is absolutely apropos to the medical span of an employer-sponsored health plan.
+[7:06 - 7:07]  Okay.
+[7:07 - 7:12]  And then lastly, listen, in terms of your intervention programs, maybe you should have a second opinion program,
+[7:12 - 7:17]  but it's not going to make a lot of sense if you have all of your employees in like the New York City area,
+[7:17 - 7:18]  because it's already low.
+[7:18 - 7:22]  And if you get a second opinion in the New York City area, it's probably going to be pretty similar.
+[7:22 - 7:29]  However, it might make sense to have a second opinion program if you're in Dallas, Houston, Chicago, Boston, Los Angeles,
+[7:29 - 7:30]  and in the rural south.
+[7:30 - 7:36]  Or if you have employees all over the country that you would want to target your communication around your second opinion program,
+[7:36 - 7:39]  specifically in these areas for spine surgery.
+[7:39 - 7:41]  And that's my point for today.
+[7:41 - 7:43]  Thank you for watching A Healthcare Z.

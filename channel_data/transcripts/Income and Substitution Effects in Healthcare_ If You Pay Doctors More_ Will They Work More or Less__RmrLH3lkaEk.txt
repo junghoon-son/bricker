@@ -1,0 +1,83 @@
+Title: Income and Substitution Effects in Healthcare: If You Pay Doctors More, Will They Work More or Less?
+URL: https://www.youtube.com/watch?v=RmrLH3lkaEk
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Pay More, Work More, The Income and Substitution Effect in Healthcare. Now this topic is so important I had to have two lines for the title, not just one. So today we're going to be talking about the economic concept of the income and the substitution effect. And like all economic concepts, it's pretty boring. But this is super important. If we work in healthcare and healthcare finance, then we have to understand the economic concepts of the income and the substitution effect. And what do they have to do with? Well, most often they have to do with pay. All right. So a person gets paid and they typically get paid by the hour or the week or the month or the year. So they could be an hourly worker or they could be a salaried worker. So the question becomes, okay, well if you increase the amount that you pay somebody, how is that going to affect the amount that they work versus the amount of leisure time they have? And in economics, because all economic models try to simplify things, they basically say, look, every person during their waking hours has essentially two choices. They can either be working to generate income or they can have leisure time where they're not generating income. Now of course the leisure time includes like your chores and taking care of your family and all sorts of stuff. So you're not necessarily like sitting next to the pool. But the point is, is that your time is split between two things, work and leisure. So if you change the amount you pay somebody, how is that going to impact their work and their leisure? So let's discuss that. So the first is the income effect. And the income effect says, look, if you pay somebody more, they're going to want to maintain the same income. So they're going to work less and they're going to spend more on leisure time. They're going to maintain the same income. Now that's fine. That makes sense. Okay. You're like, okay, I'm not interested in paying, making more money. So if you increase me from $10 an hour to $20 an hour, then instead of working 40 hours a week, maybe I'll just work 20 hours a week and I'll bring in the same income, right? That's the income effect. Okay. Next up, the substitution effect, which says, look, if you pay somebody more, they're actually going to work more. Now, why is that? Okay. It's because of this thing called the opportunity cost, which is a concept that many of you are probably already familiar with. But all the opportunity cost is, is that the cost of something is measured in terms of how it compares to something else, the other opportunity. So in this case, when your pay goes up, that means that the opportunity cost for leisure also goes up. So in that same scenario, you go from paying somebody $10 an hour to $20 an hour. That means if they choose to not work for an hour, they're missing out on $20 instead of $10. So the cost of that one hour of not working actually goes up. So the opportunity cost goes up. And anytime the cost goes up, the amount that you consume of it goes down. So in this case, if you pay somebody more, they're actually going to work more and they're going to have less leisure. Now, of course, the opposite is true for both of these. So with the income effect, if you pay somebody less, they're going to work more to maintain their income. And with the substitution effect, if you pay somebody less, they're going to work less. They work and they go in the same direction. Okay. So, income effect, pay and work in opposite directions. Substitution effect, pay and work in the same direction. You get the point. Now, let's go to two true stories that illustrate this. So, true story number one. Medicare decreased the amount that it was going to pay for echocardiograms for echocardiograms in cardiologist's office. And echocardiograms, which is an ultrasound of the heart, see how it's pumping, looking at the valves, etc. Cardiologists do these all the time. And so if you're going to decrease the amount that Medicare reimburses for echocardiograms, then the cardiologists are going to get paid less. And this happened to a cardiologist group that I, I'm an internist, but I worked a lot with this cardiology group. And guess what they did? The income effect dominated for this cardiology group. So they said, we're going to increase the number of visits, the number of patients per day that we're going to see by 20%. In other words, they used to see 20 patients a day, and now they started seeing 24 patients a day. So they started working more in order to maintain the same income. Aha! Medicare was trying to decrease their costs by decreasing the amount they paid per echocardiogram. But as we all know, one person's costs is another person's income. Therefore, if the cardiologist just increased their number of patient visits in order to maintain their income because of the income effect dominating, then Medicare didn't save any money, right? If the cardiologist kept their income the same, that means that Medicare was paying out the same, assuming that Medicare was accounting for 100% of your income. Of course, this is just a model. That's just an assumption. But you get the point. The point is, is that decreasing the cost of something doesn't necessarily save money if the income effect dominates. And those cardiologists obviously could actually fill the 24 spots, which of course they could. But that's another video for another day. Now, let's talk about when the substitution effect dominates. There's an actual radiology group that I'm familiar with, where, you know, your typical radiologist, they can make upwards of $600,000 a year. They can make a lot of money, but you've got to be really busy. You've got to be sitting down looking at those MRIs and X-rays and CT skins for many hours a day. You've got to work nights. You've got to work weekends. You're putting in long hours to make that over half a million dollars a year. $600,000 a year. So, there's another radiology group that was offering $400,000 a year. I mean, shoot. That is only two-thirds of what they could have been making. But, they offered 16 weeks of vacation time as well. What's another word for 16 weeks? Almost four months of vacation. What's that called? A lot of vacation. So, here, the radiologists, here the substitution effect dominated, right? Because in the substitution effect, we're saying, look, the pay goes down. So, the work goes down and the leisure goes up. The leisure went up to 16 weeks of vacation and the work went down because the pay went down. So, what's the point? The point is, is that as we're making decisions as to whether we're going to decrease pay or increase pay or increase cost or decrease cost, the question is, is more stuff going to be done? Is more work going to be done? And the answer is, is that it depends. It depends upon whether or not the income effect is going to dominate or whether the substitution effect is going to dominate. Now, it can dominate in different situations for different people just depending upon their personality. There's some people where money is more important to them. There's some people where their leisure time is more important to them. But the point is, is there is a distinct economic difference and it's explained empirically through the income and substitution effect. And that's my point for today. Thank you for watching me, Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:07]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:07 - 0:14]  Pay More, Work More, The Income and Substitution Effect in Healthcare. Now this topic is so
+[0:14 - 0:19]  important I had to have two lines for the title, not just one. So today we're going to be talking
+[0:19 - 0:24]  about the economic concept of the income and the substitution effect. And like all economic
+[0:24 - 0:30]  concepts, it's pretty boring. But this is super important. If we work in healthcare and healthcare
+[0:30 - 0:37]  finance, then we have to understand the economic concepts of the income and the substitution effect.
+[0:37 - 0:42]  And what do they have to do with? Well, most often they have to do with pay. All right. So a person
+[0:42 - 0:48]  gets paid and they typically get paid by the hour or the week or the month or the year. So they could
+[0:48 - 0:52]  be an hourly worker or they could be a salaried worker. So the question becomes, okay, well if
+[0:52 - 0:57]  you increase the amount that you pay somebody, how is that going to affect the amount that they
+[0:57 - 1:02]  work versus the amount of leisure time they have? And in economics, because all economic
+[1:02 - 1:08]  models try to simplify things, they basically say, look, every person during their waking
+[1:08 - 1:13]  hours has essentially two choices. They can either be working to generate income or they
+[1:13 - 1:17]  can have leisure time where they're not generating income. Now of course the leisure time includes
+[1:17 - 1:21]  like your chores and taking care of your family and all sorts of stuff. So you're not necessarily
+[1:21 - 1:28]  like sitting next to the pool. But the point is, is that your time is split between two
+[1:28 - 1:33]  things, work and leisure. So if you change the amount you pay somebody, how is that going
+[1:33 - 1:38]  to impact their work and their leisure? So let's discuss that. So the first is the income
+[1:38 - 1:42]  effect. And the income effect says, look, if you pay somebody more, they're going to want
+[1:42 - 1:46]  to maintain the same income. So they're going to work less and they're going to spend more
+[1:46 - 1:52]  on leisure time. They're going to maintain the same income. Now that's fine. That makes
+[1:52 - 1:57]  sense. Okay. You're like, okay, I'm not interested in paying, making more money. So if you increase
+[1:57 - 2:03]  me from $10 an hour to $20 an hour, then instead of working 40 hours a week, maybe I'll just
+[2:03 - 2:06]  work 20 hours a week and I'll bring in the same income, right? That's the income effect.
+[2:06 - 2:13]  Okay. Next up, the substitution effect, which says, look, if you pay somebody more, they're
+[2:13 - 2:18]  actually going to work more. Now, why is that? Okay. It's because of this thing called the
+[2:18 - 2:22]  opportunity cost, which is a concept that many of you are probably already familiar with.
+[2:22 - 2:28]  But all the opportunity cost is, is that the cost of something is measured in terms of how
+[2:28 - 2:36]  it compares to something else, the other opportunity. So in this case, when your pay goes up, that
+[2:36 - 2:42]  means that the opportunity cost for leisure also goes up. So in that same scenario, you
+[2:42 - 2:47]  go from paying somebody $10 an hour to $20 an hour. That means if they choose to not work
+[2:47 - 2:54]  for an hour, they're missing out on $20 instead of $10. So the cost of that one hour of not working
+[2:54 - 2:59]  actually goes up. So the opportunity cost goes up. And anytime the cost goes up, the amount
+[2:59 - 3:04]  that you consume of it goes down. So in this case, if you pay somebody more, they're actually
+[3:04 - 3:10]  going to work more and they're going to have less leisure. Now, of course, the opposite is
+[3:10 - 3:15]  true for both of these. So with the income effect, if you pay somebody less, they're going
+[3:15 - 3:21]  to work more to maintain their income. And with the substitution effect, if you pay somebody
+[3:21 - 3:28]  less, they're going to work less. They work and they go in the same direction. Okay. So,
+[3:28 - 3:32]  income effect, pay and work in opposite directions. Substitution effect, pay and work in the same
+[3:32 - 3:39]  direction. You get the point. Now, let's go to two true stories that illustrate this. So,
+[3:39 - 3:46]  true story number one. Medicare decreased the amount that it was going to pay for echocardiograms
+[3:46 - 3:51]  for echocardiograms in cardiologist's office. And echocardiograms, which is an ultrasound of
+[3:51 - 3:56]  the heart, see how it's pumping, looking at the valves, etc. Cardiologists do these all the time.
+[3:56 - 4:01]  And so if you're going to decrease the amount that Medicare reimburses for echocardiograms,
+[4:01 - 4:05]  then the cardiologists are going to get paid less. And this happened to a cardiologist group
+[4:05 - 4:10]  that I, I'm an internist, but I worked a lot with this cardiology group. And guess what they did?
+[4:10 - 4:16]  The income effect dominated for this cardiology group. So they said, we're going to increase the
+[4:16 - 4:22]  number of visits, the number of patients per day that we're going to see by 20%. In other words,
+[4:22 - 4:29]  they used to see 20 patients a day, and now they started seeing 24 patients a day. So they started
+[4:29 - 4:39]  working more in order to maintain the same income. Aha! Medicare was trying to decrease their costs by
+[4:39 - 4:48]  decreasing the amount they paid per echocardiogram. But as we all know, one person's costs is another
+[4:48 - 4:55]  person's income. Therefore, if the cardiologist just increased their number of patient visits in order
+[4:55 - 5:03]  to maintain their income because of the income effect dominating, then Medicare didn't save any money, right?
+[5:03 - 5:08]  If the cardiologist kept their income the same, that means that Medicare was paying out the same, assuming that
+[5:08 - 5:13]  Medicare was accounting for 100% of your income. Of course, this is just a model. That's just an assumption.
+[5:13 - 5:20]  But you get the point. The point is, is that decreasing the cost of something doesn't necessarily save money
+[5:20 - 5:27]  if the income effect dominates. And those cardiologists obviously could actually fill the 24 spots, which of course they could.
+[5:27 - 5:32]  But that's another video for another day. Now, let's talk about when the substitution effect dominates.
+[5:32 - 5:43]  There's an actual radiology group that I'm familiar with, where, you know, your typical radiologist, they can make upwards of $600,000 a year.
+[5:43 - 5:51]  They can make a lot of money, but you've got to be really busy. You've got to be sitting down looking at those MRIs and X-rays and CT skins for many hours a day.
+[5:51 - 5:58]  You've got to work nights. You've got to work weekends. You're putting in long hours to make that over half a million dollars a year.
+[5:58 - 6:08]  $600,000 a year. So, there's another radiology group that was offering $400,000 a year. I mean, shoot.
+[6:08 - 6:20]  That is only two-thirds of what they could have been making. But, they offered 16 weeks of vacation time as well.
+[6:20 - 6:26]  What's another word for 16 weeks? Almost four months of vacation. What's that called? A lot of vacation.
+[6:26 - 6:36]  So, here, the radiologists, here the substitution effect dominated, right? Because in the substitution effect, we're saying, look, the pay goes down.
+[6:36 - 6:47]  So, the work goes down and the leisure goes up. The leisure went up to 16 weeks of vacation and the work went down because the pay went down.
+[6:47 - 6:55]  So, what's the point? The point is, is that as we're making decisions as to whether we're going to decrease pay or increase pay or increase cost or decrease cost,
+[6:55 - 7:04]  the question is, is more stuff going to be done? Is more work going to be done? And the answer is, is that it depends.
+[7:04 - 7:11]  It depends upon whether or not the income effect is going to dominate or whether the substitution effect is going to dominate.
+[7:11 - 7:16]  Now, it can dominate in different situations for different people just depending upon their personality.
+[7:16 - 7:21]  There's some people where money is more important to them. There's some people where their leisure time is more important to them.
+[7:21 - 7:28]  But the point is, is there is a distinct economic difference and it's explained empirically through the income and substitution effect.
+[7:28 - 7:31]  And that's my point for today. Thank you for watching me, Healthcare Z.

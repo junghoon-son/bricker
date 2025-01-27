@@ -1,0 +1,142 @@
+Title: Traditional Medicare vs Medicare Advantage vs Medicare Part D vs Medicare Supplement Explained
+URL: https://www.youtube.com/watch?v=KRzBxPj-eQk
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Medicare. Traditional Medicare versus Medicare Advantage versus Medicare Part D versus Medicare Supplement. Now, this video is actually in response to multiple requests that I have received from viewers to cover this. So I just want you to know, I'm trying to be responsive here and this is in know I meant to be exhausted because the difference among these four plans is super complicated. So this is just a high level overview and as you can see from this grid, even a high level overview, pretty complicated. So let's get started in our comparison. Okay, so traditional Medicare is divided up, believe it or not, there's actually sub parts to traditional Medicare. They're Part A and Part B. And oh, by the way, I know that many of you already know this, but there's a lot of you that don't. So this is for everybody. It's a review for you if you already know this. Okay, traditional Medicare, Part A and Part B. Part A is the hospital coverage, like for the hospital facility charge. And then Part B is for the doctor fees and then also for everything that's outpatient, whether it be outpatient testing or outpatient labs. Okay, so believe it or not, so the vast majority of people, you know, if you work enough, and I won't get into the details of it, but if you work enough, it's like 10 years, then you actually have a zero premium for your Medicare Part A. You just sort of automatically get it when you turn 65. Now, for, it does have a deductible though. So if you go into the hospital, you will have to pay a deductible. Now, Medicare Part B, you do have to proactively sign up for. There is a premium that you have to pay for it, no matter what. It's pretty low, depending upon who you are, but it's pretty low. Okay, and it doesn't cover everything. So you still have to pay 20% coinsurance for all the physician fees and all the lab and all testing. And as you know, so much more of healthcare is done on an outpatient basis that that 20% can be a very significant out-of-pocket cost for an individual, and there's no out-of-pocket max. So we'll get into how that then relates to Medicare supplements in a little bit. Okay, now, what does traditional Medicare look like if you are a doctor or a hospital? So the prices are set by CMS. Oh, and also the payment for overall Medicare comes from taxes. I assumed you all knew that, right? Okay, so then if you're a doctor or a hospital, the prices are set by CMS. So there's no negotiation between the government and the hospital. The government's like, we're going to pay you this. And the hospital's like, okay. Now, it's straight fee for service. So there's no prior authorizations. There's no referrals required. The vast majority of doctors and hospitals in America take Medicare. So you can, so it's incredibly, you know, there's a lot of freedom in that Medicare plan because you don't need to get permission to see like a dermatologist or anything like that. And if the doctor wants to order a cardiac stress test, there's no prior authorization from Medicare at CMS that they have to go through. Okay, next up, Medicare Advantage, oftentimes abbreviated MA, or sometimes referred to as Medicare Part C is where the hospital coverage, the doctor and the outpatient coverage, and they also add in dental coverage, vision coverage, hearing coverage for things like hearing aid, and most of the time your prescription coverage as well all comes from a commercial insurance company. And the 800-pound gorillas in Medicare Advantage are United Healthcare and Humana. And the Blue Cross plans like Anthem do it and Aetna and Cigna do it. And there's all these sort of like smaller, like regional Medicare Advantage plans. Some hospitals even have their own Medicare Advantage plans that they run as well. So no, it's a big difference between what you get from Medicare Advantage versus traditional Medicare. Traditional Medicare has no vision coverage. It has no dental coverage. It has no hearing coverage. It doesn't automatically give you prescription coverage. You got to sign up for Medicare Part D in order to get your permission, prescription coverage if you have traditional Medicare. And when talking about the money, believe it or not, for many, it's like a significant minority of people that are on Medicare Advantage plans, their premium is zero. They get it from the insurance company at zero out-of-pocket cost, or it's at a low premium. So it's like for the individual member, in some respects, it's a better deal. And as a result of that, that's why 40% now, four zero, 40% of people that are on Medicare are now on a Medicare Advantage plan, and the remaining 60% are on traditional Medicare. Now, just a few years ago, it was 30% Medicare Advantage and 70% traditional Medicare. And a few years from that, it was 20% Medicare Advantage, 80%. So as you can see, you notice the trend here. So Medicare Advantage is growing by leaps and bounds. And in part, it's growing because of all these additional benefits that you get, like the dental and the vision and the hearing, and the premiums tend to be less or zero. That's why they're growing so much. Now, the government pays a fixed amount to the health insurance company. Now, it depends upon how sick you are and your age, blah, blah, blah. I will not get into that. But on average, let's just say it's around $1,000 per beneficiary per month. So the insurance company is getting $12,000 a year from the government. And the insurance company is like, okay, well, if we can take care of people and keep them being sicker, or in some cases, depending upon which side of the fence you're on, restrict care and not give you the access to care that you need. Now, need, you know, whether it's waste or appropriate, that's a whole other discussion for another day. But the point is, is that the health insurance carriers are able to make about $1,600 of profit off of every beneficiary every year. So if they're getting $12,000 a year, that means they're spending out $10,400 in claims for medical, dental, vision, yada, yada, yada, and they're keeping the balance $1,600 in profit, which, oh, by the way, is twice as much as the typical per member profit they receive from their employer commercial insured members. So in other words, your employer at Walmart or like a local small accounting firm, like they, the insurance companies only make $800 a year off of you there. They make $1,600 off of you for Medicare Advantage. So guess what? Health insurance companies love Medicare Advantage. That's why it's not only growing because the patients love it, but it's also growing because the health insurance companies love it. Now, in terms of the reimbursement to the hospitals, it's very different, and to the doctors, it's very different. So we're going to get into that. Okay. So the unit cost back is about 95 to 105% of what Medicare is. So it's about what Medicare would pay for an individual claim, like an MRI or a CT scan or an office visit. Sometimes it's a little less, sometimes it's a little more. Now, however, this is where most of the innovation is happening. I shouldn't say most. A lot of the innovation in the Medicare space is happening because what's happening is that these health insurance companies are doing capitated and value-based payments out to physician groups, especially primary care physician groups. I listed some here, like ChenMed and Oak Street. There's a newer startup called Devoted as well. They do a ton of this out in California where physician groups will get capitated payments from Medicare Advantage plans for a population. And this is where, like the ChenMeds and the Oak Streaks of the world, they take on the risk of keeping the patients healthy. And they, essentially, to the extent that they can keep the patients healthy, proactive, yada, yada, yada, then they also get a share in the savings of that $12,000 per month, $12,000 a year that the government is paying out to the insurance company. So the government pays the insurance company $12,000. The insurance company pays, let's say, you know, ChenMed, let's say $8,000. And then if ChenMed can keep them, you know, underneath it at like $6,000, then ChenMed's going to keep the $2,000 difference. Now, I am making up those numbers. I'm not saying what the numbers are, but you get the idea in terms of how the money flows. So how is it that they spend so much less per Medicare beneficiary? Aha! Here is the huge difference. Almost all Medicare Advantage plans are HMO plans with a PCP gatekeeper where if you want to go see a specialist or have a test or procedure, like the primary care physician has to sign off on it and say, okay, or say, no, we're not going to do that. We're not going to get an MRI of your liver spine. We're going to do physical therapy instead, okay, as an example. Or they're a narrow network PPL. So for example, you may have United Healthcare as an employee, and you can go to XYZ Hospital System in the Dallas-Fort Worth area that's huge. But then if you turn 65, you go on Medicare Advantage, and you choose United Healthcare for your Medicare Advantage plan, you cannot necessarily go to that same large hospital system in Dallas-Fort Worth or in whatever town you're in because Dallas-Fort Worth is, excuse me, because that hospital system is contracted with United if you're a commercial insurance employee because your commercial insurance, if you're an employee, it pays a lot more. But because Medicare Advantage only pays $0.995, since, 95 to 100%, a lot of big hospital systems are not in that narrow network. So just because you have United Healthcare, now you're getting it through Medicare Advantage. Now you can't go to that same hospital system anymore because it's a narrow network. There's also prior authorizations for tests and procedures and surgeries as well. So that is how the Medicare Advantage plans are able to provide additional benefits and have low or zero premiums because they have much tighter rules around care restriction as opposed to traditional Medicare, which is quote-unquote willy-nilly fee-for-service. Okay? It's important to understand that. Now, up until the George Bush administration, there was no prescription coverage at all for Medicare. And so as part of the Medicare Modernization Act, they added Medicare Part D for prescription coverage. Now, there's either a low or a $0 premium for the Medicare Part D coverage. Now keep in mind, you typically get your prescriptions through your Medicare Advantage plan if you sign up for Medicare Advantage. So you sign up for a separate Medicare Part D plan only if you're part of that traditional Medicare 60%. Now, there are tiers. There's a formulary and there are tiers. There's one, two, three, three, four. There's co-pays. There's co-insurts. Oftentimes with the plans, it's what's called a donut hole, where you might actually receive like a co-pay for up to a certain number of prescriptions or a certain amount of prescription spend. And then you got to pay all the costs. And then the prescription drug plan kicks in again. So it's complicated. And again, these prescription drug plans are administered through private health insurance companies. Now, there's prior authorizations for the meds as well. And there's formula. So there's controls around the RS. So regardless of if you're traditional Medicare or Medicare Advantage, just know that there's going to be prior authorizations and controls around the meds. Now, finally, we get to Medicare supplements. What are those? Sometimes they're called a Medigap plan. Sometimes it's called Medicare Part G. And this is an optional coverage. It comes from a commercial insurance company. And you can get it from UnitedHealthcare, right? It's like you can get it from AARP, sponsored by UnitedHealthcare, blah, blah, blah. But actually, there's non-health insurance companies that offer these plans as well. Like, Mutual of Omaha sells a ton of these plans. Okay. So now it's low premium. It covers all... Look at all those out-of-pocket costs, especially that 20% in Medicare Part B that you're responsible for. So you can buy insurance to help you cover that out-of-pocket cost on your traditional Medicare. That's what a Medicare supplement is. So as far as being a doctor or a hospital, there's really no change to you. You're essentially... You as an individual are essentially buying an additional insurance policy against the out-of-pocket costs that you might have from your traditional Medicare coverage. Okay? So, whoo! And that's at a high level. This is, like, not even close to the level of detail of, like, fully understanding this. But it's an overview, and I wanted to give it to you today. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:06]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:06 - 0:13]  Medicare. Traditional Medicare versus Medicare Advantage versus Medicare Part D versus Medicare
+[0:13 - 0:18]  Supplement. Now, this video is actually in response to multiple requests that I have received from
+[0:18 - 0:25]  viewers to cover this. So I just want you to know, I'm trying to be responsive here and this is in
+[0:25 - 0:30]  know I meant to be exhausted because the difference among these four plans is super complicated. So
+[0:30 - 0:35]  this is just a high level overview and as you can see from this grid, even a high level overview,
+[0:36 - 0:42]  pretty complicated. So let's get started in our comparison. Okay, so traditional Medicare is
+[0:42 - 0:47]  divided up, believe it or not, there's actually sub parts to traditional Medicare. They're Part A
+[0:47 - 0:51]  and Part B. And oh, by the way, I know that many of you already know this, but there's a lot of you
+[0:51 - 0:55]  that don't. So this is for everybody. It's a review for you if you already know this. Okay,
+[0:55 - 1:01]  traditional Medicare, Part A and Part B. Part A is the hospital coverage, like for the hospital
+[1:01 - 1:08]  facility charge. And then Part B is for the doctor fees and then also for everything that's outpatient,
+[1:08 - 1:13]  whether it be outpatient testing or outpatient labs. Okay, so believe it or not, so the vast
+[1:13 - 1:16]  majority of people, you know, if you work enough, and I won't get into the details of it, but if you
+[1:16 - 1:21]  work enough, it's like 10 years, then you actually have a zero premium for your Medicare Part A. You
+[1:21 - 1:26]  just sort of automatically get it when you turn 65. Now, for, it does have a deductible though. So if
+[1:26 - 1:32]  you go into the hospital, you will have to pay a deductible. Now, Medicare Part B, you do have to
+[1:32 - 1:36]  proactively sign up for. There is a premium that you have to pay for it, no matter what. It's pretty low,
+[1:36 - 1:41]  depending upon who you are, but it's pretty low. Okay, and it doesn't cover everything. So you still have to
+[1:41 - 1:48]  pay 20% coinsurance for all the physician fees and all the lab and all testing. And as you know,
+[1:48 - 1:55]  so much more of healthcare is done on an outpatient basis that that 20% can be a very significant
+[1:55 - 2:01]  out-of-pocket cost for an individual, and there's no out-of-pocket max. So we'll get into how that then
+[2:01 - 2:06]  relates to Medicare supplements in a little bit. Okay, now, what does traditional Medicare look like
+[2:06 - 2:12]  if you are a doctor or a hospital? So the prices are set by CMS. Oh, and also the payment for overall
+[2:12 - 2:17]  Medicare comes from taxes. I assumed you all knew that, right? Okay, so then if you're a doctor or a
+[2:17 - 2:22]  hospital, the prices are set by CMS. So there's no negotiation between the government and the
+[2:22 - 2:27]  hospital. The government's like, we're going to pay you this. And the hospital's like, okay. Now,
+[2:27 - 2:34]  it's straight fee for service. So there's no prior authorizations. There's no referrals required.
+[2:34 - 2:39]  The vast majority of doctors and hospitals in America take Medicare. So you can, so it's
+[2:39 - 2:43]  incredibly, you know, there's a lot of freedom in that Medicare plan because you don't need to
+[2:43 - 2:48]  get permission to see like a dermatologist or anything like that. And if the doctor wants to
+[2:48 - 2:52]  order a cardiac stress test, there's no prior authorization from Medicare at CMS that they have
+[2:52 - 2:58]  to go through. Okay, next up, Medicare Advantage, oftentimes abbreviated MA, or sometimes referred to
+[2:58 - 3:07]  as Medicare Part C is where the hospital coverage, the doctor and the outpatient coverage, and they
+[3:07 - 3:13]  also add in dental coverage, vision coverage, hearing coverage for things like hearing aid,
+[3:13 - 3:20]  and most of the time your prescription coverage as well all comes from a commercial insurance company.
+[3:20 - 3:27]  And the 800-pound gorillas in Medicare Advantage are United Healthcare and Humana. And the Blue Cross plans
+[3:27 - 3:32]  like Anthem do it and Aetna and Cigna do it. And there's all these sort of like smaller,
+[3:32 - 3:37]  like regional Medicare Advantage plans. Some hospitals even have their own Medicare Advantage
+[3:37 - 3:42]  plans that they run as well. So no, it's a big difference between what you get from Medicare
+[3:42 - 3:47]  Advantage versus traditional Medicare. Traditional Medicare has no vision coverage. It has no dental
+[3:47 - 3:53]  coverage. It has no hearing coverage. It doesn't automatically give you prescription coverage.
+[3:53 - 3:56]  You got to sign up for Medicare Part D in order to get your permission,
+[3:56 - 4:01]  prescription coverage if you have traditional Medicare. And when talking about the money,
+[4:01 - 4:06]  believe it or not, for many, it's like a significant minority of people that are on Medicare Advantage
+[4:06 - 4:12]  plans, their premium is zero. They get it from the insurance company at zero out-of-pocket cost,
+[4:12 - 4:19]  or it's at a low premium. So it's like for the individual member, in some respects, it's a better
+[4:19 - 4:25]  deal. And as a result of that, that's why 40% now, four zero, 40% of people that are on Medicare
+[4:25 - 4:31]  are now on a Medicare Advantage plan, and the remaining 60% are on traditional Medicare. Now,
+[4:31 - 4:38]  just a few years ago, it was 30% Medicare Advantage and 70% traditional Medicare. And a few years
+[4:38 - 4:43]  from that, it was 20% Medicare Advantage, 80%. So as you can see, you notice the trend here. So Medicare
+[4:43 - 4:49]  Advantage is growing by leaps and bounds. And in part, it's growing because of all these additional
+[4:49 - 4:53]  benefits that you get, like the dental and the vision and the hearing, and the premiums tend to
+[4:53 - 5:00]  be less or zero. That's why they're growing so much. Now, the government pays a fixed amount to the
+[5:00 - 5:05]  health insurance company. Now, it depends upon how sick you are and your age, blah, blah, blah. I will not
+[5:05 - 5:10]  get into that. But on average, let's just say it's around $1,000 per beneficiary per month. So the
+[5:10 - 5:16]  insurance company is getting $12,000 a year from the government. And the insurance company is like,
+[5:16 - 5:21]  okay, well, if we can take care of people and keep them being sicker, or in some cases, depending upon
+[5:21 - 5:27]  which side of the fence you're on, restrict care and not give you the access to care that you need.
+[5:27 - 5:32]  Now, need, you know, whether it's waste or appropriate, that's a whole other discussion for
+[5:32 - 5:37]  another day. But the point is, is that the health insurance carriers are able to make about $1,600
+[5:37 - 5:43]  of profit off of every beneficiary every year. So if they're getting $12,000 a year,
+[5:43 - 5:48]  that means they're spending out $10,400 in claims for medical, dental, vision, yada, yada,
+[5:48 - 5:55]  yada, and they're keeping the balance $1,600 in profit, which, oh, by the way, is twice as much
+[5:55 - 6:01]  as the typical per member profit they receive from their employer commercial insured members.
+[6:01 - 6:07]  So in other words, your employer at Walmart or like a local small accounting firm, like they,
+[6:07 - 6:13]  the insurance companies only make $800 a year off of you there. They make $1,600 off of you
+[6:13 - 6:16]  for Medicare Advantage. So guess what? Health insurance companies love Medicare Advantage.
+[6:17 - 6:19]  That's why it's not only growing because the patients love it, but it's also growing because
+[6:19 - 6:25]  the health insurance companies love it. Now, in terms of the reimbursement to the hospitals,
+[6:25 - 6:28]  it's very different, and to the doctors, it's very different. So we're going to get into that.
+[6:28 - 6:36]  Okay. So the unit cost back is about 95 to 105% of what Medicare is. So it's about what Medicare
+[6:36 - 6:40]  would pay for an individual claim, like an MRI or a CT scan or an office visit. Sometimes it's a
+[6:40 - 6:46]  little less, sometimes it's a little more. Now, however, this is where most of the innovation
+[6:46 - 6:49]  is happening. I shouldn't say most. A lot of the innovation in the Medicare space is happening
+[6:49 - 6:54]  because what's happening is that these health insurance companies are doing capitated and value-based
+[6:54 - 6:58]  payments out to physician groups, especially primary care physician groups. I listed some
+[6:58 - 7:04]  here, like ChenMed and Oak Street. There's a newer startup called Devoted as well. They do a ton
+[7:04 - 7:09]  of this out in California where physician groups will get capitated payments from Medicare Advantage
+[7:09 - 7:14]  plans for a population. And this is where, like the ChenMeds and the Oak Streaks of the world,
+[7:14 - 7:21]  they take on the risk of keeping the patients healthy. And they, essentially, to the extent that
+[7:21 - 7:29]  they can keep the patients healthy, proactive, yada, yada, yada, then they also get a share in the savings
+[7:29 - 7:36]  of that $12,000 per month, $12,000 a year that the government is paying out to the insurance company.
+[7:36 - 7:40]  So the government pays the insurance company $12,000. The insurance company pays, let's say,
+[7:40 - 7:45]  you know, ChenMed, let's say $8,000. And then if ChenMed can keep them, you know, underneath it at like
+[7:45 - 7:50]  $6,000, then ChenMed's going to keep the $2,000 difference. Now, I am making up those numbers. I'm not
+[7:50 - 7:55]  saying what the numbers are, but you get the idea in terms of how the money flows. So how is it that
+[7:55 - 8:04]  they spend so much less per Medicare beneficiary? Aha! Here is the huge difference. Almost all Medicare
+[8:04 - 8:10]  Advantage plans are HMO plans with a PCP gatekeeper where if you want to go see a specialist or have a
+[8:10 - 8:17]  test or procedure, like the primary care physician has to sign off on it and say, okay, or say, no, we're not
+[8:17 - 8:21]  going to do that. We're not going to get an MRI of your liver spine. We're going to do physical therapy
+[8:21 - 8:30]  instead, okay, as an example. Or they're a narrow network PPL. So for example, you may have United Healthcare
+[8:30 - 8:39]  as an employee, and you can go to XYZ Hospital System in the Dallas-Fort Worth area that's huge. But then if you turn 65,
+[8:39 - 8:44]  you go on Medicare Advantage, and you choose United Healthcare for your Medicare Advantage plan,
+[8:45 - 8:52]  you cannot necessarily go to that same large hospital system in Dallas-Fort Worth or in whatever
+[8:52 - 8:59]  town you're in because Dallas-Fort Worth is, excuse me, because that hospital system is contracted
+[8:59 - 9:04]  with United if you're a commercial insurance employee because your commercial insurance,
+[9:04 - 9:08]  if you're an employee, it pays a lot more. But because Medicare Advantage only pays $0.995,
+[9:08 - 9:16]  since, 95 to 100%, a lot of big hospital systems are not in that narrow network. So just because
+[9:16 - 9:21]  you have United Healthcare, now you're getting it through Medicare Advantage. Now you can't go to
+[9:21 - 9:27]  that same hospital system anymore because it's a narrow network. There's also prior authorizations
+[9:27 - 9:33]  for tests and procedures and surgeries as well. So that is how the Medicare Advantage plans are able
+[9:33 - 9:38]  to provide additional benefits and have low or zero premiums because they have much tighter rules
+[9:38 - 9:44]  around care restriction as opposed to traditional Medicare, which is quote-unquote willy-nilly fee-for-service.
+[9:45 - 9:52]  Okay? It's important to understand that. Now, up until the George Bush administration, there was no
+[9:52 - 9:57]  prescription coverage at all for Medicare. And so as part of the Medicare Modernization Act, they added
+[9:57 - 10:04]  Medicare Part D for prescription coverage. Now, there's either a low or a $0 premium for the Medicare
+[10:04 - 10:09]  Part D coverage. Now keep in mind, you typically get your prescriptions through your Medicare Advantage
+[10:09 - 10:14]  plan if you sign up for Medicare Advantage. So you sign up for a separate Medicare Part D plan
+[10:14 - 10:21]  only if you're part of that traditional Medicare 60%. Now, there are tiers. There's a formulary and there are tiers.
+[10:21 - 10:25]  There's one, two, three, three, four. There's co-pays. There's co-insurts. Oftentimes with the plans,
+[10:25 - 10:31]  it's what's called a donut hole, where you might actually receive like a co-pay for up to a certain
+[10:31 - 10:34]  number of prescriptions or a certain amount of prescription spend. And then you got to pay all
+[10:34 - 10:40]  the costs. And then the prescription drug plan kicks in again. So it's complicated. And again,
+[10:40 - 10:44]  these prescription drug plans are administered through private health insurance companies.
+[10:44 - 10:50]  Now, there's prior authorizations for the meds as well. And there's formula. So there's controls around
+[10:50 - 10:54]  the RS. So regardless of if you're traditional Medicare or Medicare Advantage, just know that there's going to be
+[10:54 - 11:00]  prior authorizations and controls around the meds. Now, finally, we get to Medicare supplements.
+[11:01 - 11:05]  What are those? Sometimes they're called a Medigap plan. Sometimes it's called Medicare Part G.
+[11:06 - 11:10]  And this is an optional coverage. It comes from a commercial insurance company. And you can get it from
+[11:10 - 11:15]  UnitedHealthcare, right? It's like you can get it from AARP, sponsored by UnitedHealthcare, blah, blah, blah.
+[11:15 - 11:18]  But actually, there's non-health insurance companies that offer these plans as well.
+[11:18 - 11:25]  Like, Mutual of Omaha sells a ton of these plans. Okay. So now it's low premium. It covers all...
+[11:25 - 11:30]  Look at all those out-of-pocket costs, especially that 20% in Medicare Part B that you're responsible for.
+[11:30 - 11:35]  So you can buy insurance to help you cover that out-of-pocket cost on your traditional Medicare.
+[11:35 - 11:41]  That's what a Medicare supplement is. So as far as being a doctor or a hospital, there's really no change to you.
+[11:41 - 11:46]  You're essentially... You as an individual are essentially buying an additional insurance policy
+[11:46 - 11:51]  against the out-of-pocket costs that you might have from your traditional Medicare coverage.
+[11:51 - 11:55]  Okay? So, whoo! And that's at a high level.
+[11:55 - 12:00]  This is, like, not even close to the level of detail of, like, fully understanding this.
+[12:00 - 12:04]  But it's an overview, and I wanted to give it to you today.
+[12:04 - 12:06]  And thank you for watching A Healthcare Z.

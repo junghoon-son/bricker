@@ -1,0 +1,130 @@
+Title: How Cardiology Patient Care Works: EKG, Echo, Stress Test, Monitor
+URL: https://www.youtube.com/watch?v=L5-1dn2wTPs
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing the cardiac patient progression. Now this is a continuation in the series that started out with the cancer patient progression, but because the three highest costing diagnostic categories for employers are cancer, cardiac, and musculoskeletal, we're going to go over cardiac as well. And by cardiac I mean heart. So typically it starts off with a symptom and the two most common symptoms are shortness of breath and chest pain. Now it's not literally chest pain, it's actually chest tightness or chest heaviness or chest tightening, but it's typically just shorthanded as chest pain. Now, the overall flow chart here basically divides up here into either the ER or going straight to a cardiologist or going to a primary care physician. And really the big differentiator between the two is basically how severe and emergent the symptoms are. So if it's crushing chest pain, if the person is very concerned about, they of course go to the ER. Or if they're so short of breath that they're having trouble functioning, then of course they go to the ER. Now, oftentimes people will then, if it's not as emergent, go to the primary care physician or they might even self-refer to a cardiologist. Regardless, oftentimes they will end up at the cardiologist's office. So they'll either be discharged from the ER and sent to the cardiologist. They might be admitted to the hospital and then sent to the cardiologist or they'll go to the primary care physician. And the primary care physician will be, hey, we have to check out to see if the shortness of breath and the chest pain are of cardiac origin or of heart origin. Okay. Next up, when someone goes to the cardiologist, they will almost always get this battery of tests. Now, maybe not all of these tests, but some sort of permutation or combination of them. They are an EKG or an ECG, an electrocardiogram, an echocardiogram, which is an ultrasound of the heart. It's done actually in the doctor's office. A stress test. Now, this could be either done in the doctor's office. And we could do a whole other video on the different types of stress tests. But just know that there's a bunch of different types of stress tests. They could be as cheap as about $150 to $200 in terms of the allowed amount. They could be as expensive as like $5,000 for the allowed amount. So they're all over the map in terms of how much they cost. Or also for a Holter monitor or what's referred to as an event monitor. So a Holter monitor will monitor the heart's rhythm and rate for about 24 hours. Whereas an event monitor is when a person feels palpitation or some sort of symptom, they will actually be able to push a button or hold it up to their chest. And it typically is done over the course of several days or even a week. And that is to diagnose various types of arrhythmias or irregular heartbeats. Okay. So they run through all these tests. And then there's going to be one of five outcomes. And I've drawn these five outcomes here. So first off is medical management by the cardiologist themselves. So they might give a medication to change the rate of the heart. They might give medications to lower blood pressure and lower cholesterol because they're risk factors for cardiovascular disease. There's various other. They might actually give anticoagulants if you have, or blood thinners rather, if you actually have an irregular heartbeat like AFib, which is very common to prevent strokes. You need to be on anticoagulation. Okay. So that's one common outcome. Another common outcome is they send you back to the primary care physician because after doing all of this workup, they're like, look, your chest pain or shortness of breath, it is of non-cardiac origin. And guess what? This path number two is probably the most common because in your chest, there's a whole bunch of things that can cause shortness of breath or chest pain. And as an internist, this is like my bread and butter. All day long, I would go through the deferential diagnosis of like shortness of breath and chest pain. So they could be things like reflux or GERD or heartburn, right? So those are all kind of the same thing that can cause the same sort of sensation right here. Two, what else is in your chest? Your lungs. So when you go to the ER, they might actually check for something called a pulmonary embolism with a CT scan. So you can get a blood clot in your lungs that causes these exact same sort of symptoms. Or you could have pneumonia. Or you could have a pleural effusion. I mean, there's a gazillion lung reasons why you could have these symptoms as well. Now, what else is in your chest? Well, you actually have your ribs and what are called your intercostal muscles. So you can have musculoskeletal causes of chest pain. It's common. You have like weightlifters doing a bunch of bench press. Middle-aged man trying to get in shape back in the gym has a bunch of chest pain. Well, shoot, it's because you pulled your ribcage muscles. Okay, what else? Stress and anxiety. They totally cause shortness of breath and chest pain. So just because the person doesn't have cardiac manifestations or cardiac reasons for chest pain or shortness of breath, that doesn't mean that their chest pain and shortness of breath isn't real. It just means that it's not within the purview of the cardiologist in terms of being able to diagnose and address it. Okay, so that's the most common. Next up, interventional cardiologists. So there's actually different types of cardiologists. There are general cardiologists, there are interventional cardiologists, and there are electrophysiologists. And so the interventional cardiologists are the ones that actually perform the cardiac catheterization. So this is where, whether it be on the echo or the stress test, they see signs of what is referred to as ischemia or decreased blood flow through the coronary artery. Which actually feed blood to the heart itself. And that needs to be investigated with a cardiac catheterization. And then if they find a narrowing or a blockage that needs to be then opened with a stent, it's referred to as PCI or percutaneous intervention. Okay? So that can either be done as an outpatient basis or sometimes the person actually has to be admitted for it as well, depending upon the duration, the number of stents, if there's any complications during the procedure. That's done at the hospital. Okay. Next up, if they find that there's an arrhythmia problem, so the heart could be beating too fast, the heart could be beating too slow, the heart could just be beating at an abnormal rate and rhythm, then oftentimes they'll send the person to an electrophysiologist, which is a subspecialty of cardiology. Where they might do an actual electrophysiology study to find where the electrical system in the heart has pathology or has an issue. Or they might actually put in a pacemaker or they can actually burn and destroy the sort of aberrant or erred electrical transmission within the heart. It's probably too many words to describe that. And that's referred to as an ablation. Okay. Then, probably the least common one is a referral to the cardiothoracic surgeon, a CT surgeon. Typically because there's either a valve defect, either the valve is too narrow, which is called a stenosis, or the valve is leaky, which is referred to as regurgitation. Or because the person has such severe blockages or they're a severe diabetic, that instead of having a stent place, they actually need to have a coronary artery bypass graft, or a CABG performed. And this is where the blockage is then circumvented by looping various arteries and veins around the blockage. Okay. So those are the potential outcomes for the cardiac patient progression. And this is like rather complicated, but this is super important for employee benefits professionals to know because it's this patient progression that then drives your cardiac claims costs. And there are various efficiencies and breakdowns along the way that you as an employer can actually intervene on. And so that is beyond the scope of this discussion today, but at a basic level, we at least need to understand what this cardiac patient progression is. And thank you for watching a healthcare to see.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:24]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing the cardiac patient progression. Now this is a continuation in the series that started out with the cancer patient progression, but because the three highest costing diagnostic categories for employers are cancer, cardiac, and musculoskeletal, we're going to go over cardiac as well. And by cardiac I mean heart.
+[0:24 - 0:39]  So typically it starts off with a symptom and the two most common symptoms are shortness of breath and chest pain. Now it's not literally chest pain, it's actually chest tightness or chest heaviness or chest tightening, but it's typically just shorthanded as chest pain.
+[0:39 - 0:54]  Now, the overall flow chart here basically divides up here into either the ER or going straight to a cardiologist or going to a primary care physician. And really the big differentiator between the two is basically how severe and emergent the symptoms are.
+[0:54 - 1:04]  So if it's crushing chest pain, if the person is very concerned about, they of course go to the ER. Or if they're so short of breath that they're having trouble functioning, then of course they go to the ER.
+[1:05 - 1:11]  Now, oftentimes people will then, if it's not as emergent, go to the primary care physician or they might even self-refer to a cardiologist.
+[1:12 - 1:19]  Regardless, oftentimes they will end up at the cardiologist's office. So they'll either be discharged from the ER and sent to the cardiologist.
+[1:19 - 1:24]  They might be admitted to the hospital and then sent to the cardiologist or they'll go to the primary care physician.
+[1:24 - 1:32]  And the primary care physician will be, hey, we have to check out to see if the shortness of breath and the chest pain are of cardiac origin or of heart origin.
+[1:32 - 1:38]  Okay. Next up, when someone goes to the cardiologist, they will almost always get this battery of tests.
+[1:38 - 1:42]  Now, maybe not all of these tests, but some sort of permutation or combination of them.
+[1:42 - 1:49]  They are an EKG or an ECG, an electrocardiogram, an echocardiogram, which is an ultrasound of the heart.
+[1:49 - 1:51]  It's done actually in the doctor's office.
+[1:51 - 1:55]  A stress test. Now, this could be either done in the doctor's office.
+[1:55 - 1:59]  And we could do a whole other video on the different types of stress tests.
+[1:59 - 2:01]  But just know that there's a bunch of different types of stress tests.
+[2:01 - 2:05]  They could be as cheap as about $150 to $200 in terms of the allowed amount.
+[2:06 - 2:09]  They could be as expensive as like $5,000 for the allowed amount.
+[2:09 - 2:13]  So they're all over the map in terms of how much they cost.
+[2:14 - 2:17]  Or also for a Holter monitor or what's referred to as an event monitor.
+[2:18 - 2:22]  So a Holter monitor will monitor the heart's rhythm and rate for about 24 hours.
+[2:23 - 2:27]  Whereas an event monitor is when a person feels palpitation or some sort of symptom,
+[2:27 - 2:30]  they will actually be able to push a button or hold it up to their chest.
+[2:30 - 2:34]  And it typically is done over the course of several days or even a week.
+[2:34 - 2:39]  And that is to diagnose various types of arrhythmias or irregular heartbeats.
+[2:40 - 2:40]  Okay.
+[2:40 - 2:42]  So they run through all these tests.
+[2:42 - 2:45]  And then there's going to be one of five outcomes.
+[2:46 - 2:48]  And I've drawn these five outcomes here.
+[2:48 - 2:51]  So first off is medical management by the cardiologist themselves.
+[2:51 - 2:56]  So they might give a medication to change the rate of the heart.
+[2:56 - 3:01]  They might give medications to lower blood pressure and lower cholesterol
+[3:01 - 3:03]  because they're risk factors for cardiovascular disease.
+[3:04 - 3:05]  There's various other.
+[3:05 - 3:10]  They might actually give anticoagulants if you have, or blood thinners rather,
+[3:10 - 3:13]  if you actually have an irregular heartbeat like AFib,
+[3:13 - 3:15]  which is very common to prevent strokes.
+[3:15 - 3:17]  You need to be on anticoagulation.
+[3:17 - 3:17]  Okay.
+[3:17 - 3:19]  So that's one common outcome.
+[3:19 - 3:22]  Another common outcome is they send you back to the primary care physician
+[3:22 - 3:24]  because after doing all of this workup, they're like,
+[3:24 - 3:29]  look, your chest pain or shortness of breath, it is of non-cardiac origin.
+[3:29 - 3:29]  And guess what?
+[3:30 - 3:34]  This path number two is probably the most common because in your chest,
+[3:34 - 3:38]  there's a whole bunch of things that can cause shortness of breath or chest pain.
+[3:38 - 3:40]  And as an internist, this is like my bread and butter.
+[3:40 - 3:43]  All day long, I would go through the deferential diagnosis of like
+[3:43 - 3:45]  shortness of breath and chest pain.
+[3:45 - 3:49]  So they could be things like reflux or GERD or heartburn, right?
+[3:49 - 3:52]  So those are all kind of the same thing that can cause the same sort of sensation right here.
+[3:53 - 3:54]  Two, what else is in your chest?
+[3:54 - 3:55]  Your lungs.
+[3:55 - 3:59]  So when you go to the ER, they might actually check for something called a pulmonary embolism
+[3:59 - 3:59]  with a CT scan.
+[3:59 - 4:04]  So you can get a blood clot in your lungs that causes these exact same sort of symptoms.
+[4:04 - 4:06]  Or you could have pneumonia.
+[4:06 - 4:08]  Or you could have a pleural effusion.
+[4:08 - 4:11]  I mean, there's a gazillion lung reasons why you could have these symptoms as well.
+[4:12 - 4:14]  Now, what else is in your chest?
+[4:14 - 4:19]  Well, you actually have your ribs and what are called your intercostal muscles.
+[4:19 - 4:22]  So you can have musculoskeletal causes of chest pain.
+[4:22 - 4:22]  It's common.
+[4:22 - 4:25]  You have like weightlifters doing a bunch of bench press.
+[4:25 - 4:28]  Middle-aged man trying to get in shape back in the gym has a bunch of chest pain.
+[4:28 - 4:31]  Well, shoot, it's because you pulled your ribcage muscles.
+[4:31 - 4:32]  Okay, what else?
+[4:32 - 4:33]  Stress and anxiety.
+[4:33 - 4:36]  They totally cause shortness of breath and chest pain.
+[4:36 - 4:41]  So just because the person doesn't have cardiac manifestations or cardiac reasons for chest
+[4:41 - 4:44]  pain or shortness of breath, that doesn't mean that their chest pain and shortness of breath
+[4:44 - 4:45]  isn't real.
+[4:45 - 4:49]  It just means that it's not within the purview of the cardiologist in terms of being able
+[4:49 - 4:51]  to diagnose and address it.
+[4:51 - 4:52]  Okay, so that's the most common.
+[4:52 - 4:55]  Next up, interventional cardiologists.
+[4:55 - 4:57]  So there's actually different types of cardiologists.
+[4:57 - 5:01]  There are general cardiologists, there are interventional cardiologists, and there are electrophysiologists.
+[5:01 - 5:05]  And so the interventional cardiologists are the ones that actually perform the cardiac
+[5:05 - 5:06]  catheterization.
+[5:06 - 5:10]  So this is where, whether it be on the echo or the stress test, they see signs of what
+[5:10 - 5:15]  is referred to as ischemia or decreased blood flow through the coronary artery.
+[5:15 - 5:18]  Which actually feed blood to the heart itself.
+[5:18 - 5:21]  And that needs to be investigated with a cardiac catheterization.
+[5:22 - 5:26]  And then if they find a narrowing or a blockage that needs to be then opened with a stent,
+[5:26 - 5:30]  it's referred to as PCI or percutaneous intervention.
+[5:31 - 5:31]  Okay?
+[5:31 - 5:36]  So that can either be done as an outpatient basis or sometimes the person actually has to
+[5:36 - 5:40]  be admitted for it as well, depending upon the duration, the number of stents, if there's
+[5:40 - 5:41]  any complications during the procedure.
+[5:42 - 5:43]  That's done at the hospital.
+[5:43 - 5:43]  Okay.
+[5:44 - 5:47]  Next up, if they find that there's an arrhythmia problem, so the heart could be beating too
+[5:47 - 5:51]  fast, the heart could be beating too slow, the heart could just be beating at an abnormal
+[5:51 - 5:55]  rate and rhythm, then oftentimes they'll send the person to an electrophysiologist, which
+[5:55 - 5:57]  is a subspecialty of cardiology.
+[5:57 - 6:03]  Where they might do an actual electrophysiology study to find where the electrical system in
+[6:03 - 6:05]  the heart has pathology or has an issue.
+[6:05 - 6:12]  Or they might actually put in a pacemaker or they can actually burn and destroy the sort
+[6:12 - 6:17]  of aberrant or erred electrical transmission within the heart.
+[6:17 - 6:20]  It's probably too many words to describe that.
+[6:20 - 6:21]  And that's referred to as an ablation.
+[6:21 - 6:22]  Okay.
+[6:22 - 6:28]  Then, probably the least common one is a referral to the cardiothoracic surgeon, a CT surgeon.
+[6:28 - 6:33]  Typically because there's either a valve defect, either the valve is too narrow, which is called
+[6:33 - 6:37]  a stenosis, or the valve is leaky, which is referred to as regurgitation.
+[6:37 - 6:41]  Or because the person has such severe blockages or they're a severe diabetic, that instead
+[6:41 - 6:44]  of having a stent place, they actually need to have a coronary artery bypass graft, or
+[6:44 - 6:47]  a CABG performed.
+[6:47 - 6:53]  And this is where the blockage is then circumvented by looping various arteries and veins around
+[6:53 - 6:54]  the blockage.
+[6:54 - 6:55]  Okay.
+[6:55 - 6:59]  So those are the potential outcomes for the cardiac patient progression.
+[6:59 - 7:03]  And this is like rather complicated, but this is super important for employee benefits
+[7:03 - 7:09]  professionals to know because it's this patient progression that then drives your cardiac claims
+[7:09 - 7:10]  costs.
+[7:10 - 7:16]  And there are various efficiencies and breakdowns along the way that you as an employer can
+[7:16 - 7:18]  actually intervene on.
+[7:18 - 7:23]  And so that is beyond the scope of this discussion today, but at a basic level, we at least need
+[7:23 - 7:26]  to understand what this cardiac patient progression is.
+[7:26 - 7:28]  And thank you for watching a healthcare to see.

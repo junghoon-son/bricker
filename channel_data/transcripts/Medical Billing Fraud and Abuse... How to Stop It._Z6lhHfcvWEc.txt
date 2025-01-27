@@ -1,0 +1,153 @@
+Title: Medical Billing Fraud and Abuse... How to Stop It.
+URL: https://www.youtube.com/watch?v=Z6lhHfcvWEc
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ On to today's topic of fraud and abuse. So let's talk about the size of billing fraud and abuse. So it is estimated that approximately 3 to 10% of all healthcare spending is fraud and abuse. And that's according to the FBI, which obviously investigate that for Medicare and Medicaid, but is also the case for commercial insurance as well, which many of you are associated with commercial insurance, whether you be a broker, benefit consultant, HR, various vendor, people at insurance carriers yourselves. So that means that if you had a group of 1,000 employees, an employer with 1,000 employees, let's say it was manufacturing or it could be a municipality, typically they spend about $10,000 per employee per year that's on the plan, which means that the total healthcare spend for that plan would be about $10 million a year. So if you take 3 to 10% of that $10 million, that means that that group of 1,000 employees is spending about $300,000 to $1 million a year on claims that are fraudulent or as a result of abusive billing. Specifically, as it relates to abusive billing, the main crux of abusive billing is in the form of upcoding. And obviously, many of you are A Healthcare Z watchers, and I have multiple videos on billing and the ICD-10 codes, the diagnosis codes, and the CPT codes, which are the procedural codes, and then the DRG codes, which are used for inpatient services only. And then there are the HCPCS codes, which are additional codes as well. So if you work in healthcare, you need to have a basic understanding of coding, because it's the codes that ultimately drive the reimbursement. So we said that the physicians write the orders and they drive the cost, but those orders then drive the codes. And so literally what determines the reimbursement is the codes themselves. And so upcoding, or what, if you talk to a doctor or a hospital, they would never call it quote-unquote upcoding. They don't use this term, but they would call it write coding, or accurately coding what they are actually doing, is the application of codes so as to maximize reimbursement. Now, when I say maximize reimbursement, there's a huge gray area as to whether or not that maximization is completely legitimate, or that maximization is abusive. Now, let me give you an example of sepsis. So this training session today is meant to be in conjunction with the training session from last week about insurance denials and prior authorizations, which talked about how insurance carriers are doing massive amounts of inappropriate claims denials and massive amounts of prior authorizations and denials of prior authorizations. So that is essentially the converse. It's the flip opposite issue. So the issue of fraud and abuse is of healthcare providers billing too much, and the issue of denial and prior authorization is the issue of insurance carriers not paying too much. And these two issues can coexist, and they can both be true. So the doctors in the hospital say, wow, the insurance companies, they deny too much. And the insurance companies say, wow, the doctors in the hospitals, they bill too much. And both are true. And this graphic shows why this is a problem that still exists. So it is a problem because this box here represents all submitted claims. And then this part over on the right is the F and the A stands for the fraud and abuse. So this is the segment of claim dollars that are fraudulent and abusive claims. Okay. Now, the segment here at the top, you can see are the denied and the prior author and the, and the prior, the claims that require prior authorization. So you can see that the insurance carrier is denying and require prior authorization on tons of good claims that are not, it's only the top right-hand corner where the insurance company is actually denying and doing prior authorization on fraudulent and abusive claims. Okay. But they are then denying gobs of claims that actually should be paid. Likewise. Likewise. So you can see here on top, there's all these claims that should be paid that are not, that are not fraudulent, but they're not paying them. And then likewise, over here on the bottom, right, you have tons of fraudulent claims that the, the denial and prior authorization process is not catching. And the payer is still paying them out cleanly. And so the problem is, is that the denial and prior authorization process is not accurately applied to the fraudulent and abusive claims. So you should essentially take this top rectangle and you should rotate it 90 degrees and you would want it to overlap the fraudulent and abusive claims. And the point is, is that these two rectangles don't overlap. And so honest physicians and hospitals that are billing correctly are getting denied and fraudulent and abusive doctors in hospitals are still getting paid. Now, what to do about it? The take home points is, is that if you break it down on a PEPM, a level, that means that billing fraud and abuse costs plans approximately $25 to $83 per employee per month. Okay. What's that called? That is equivalent to the entire ASO or TPA admin fee. So you do RFPs, you have brokers and consultants that are vetting all these carriers. You go into these complex negotiations for your ASO and TPA admin fees. And here you are throwing away the exact same amount of money in an area that you are applying much less scrutiny. So I would just say that it's fine if you want to pay gobs of attention to your ASO and TPA admin fee. Fantastic. That is an area where you want to be, you want to be focused. However, you are throwing away an equivalent amount of money. Just know that. Okay. Next two, denials and prior authorizations are an ineffective tool because they're a blunt instrument for addressing fraud and abuse. So practically what you can do is you can double check. One, you can be self-funded. Two, you can double check your carriers, fraud, waste, and abuse effectiveness. Okay. You need, if you're a self-funded employer, you need to assume that you are paying out fraudulent and abusive claims until proven otherwise. This is happening unbeknownst to you. And it will continue to happen until you do something about it. Now you can move to a TPA that has a lower threshold for reviewing claims. So TPAs will go down to 3000 or 5000 or even lower for their review, which is much lower than the 10 to 15,000 of major carriers. You can move as much of your reimbursement away from fee for service as you can. You can have an onsite clinic, which is not fee for service. You can have direct contracting, which is not fee for service. So fee for all of this, by the way, when I was a hospital finance consultant back in the late nineties, all of this was still happening. Okay. So this has been going on for over 25 years. Okay. This is not a new problem. So just know that if this has been going on for at least 25 years, it is going to continue to go on for another 25 years until you actively do something about it. Okay. And the powers are within your hands. You can absolutely do something about this. Steve Goldberg did something about it. Steve Goldberg is an awesome person, but he's human just like you and me. So if Steve Goldberg can do it, you can do it. Okay. With that, thank you so much for attending this training session. If you would like a copy of today's slides, feel free to email me at ericb at ahealthcarez.com. If you would like to subscribe to my A Healthcare Z email newsletter, you can email me at ericb at ahealthcarez.com. Feel free to connect with me on LinkedIn or subscribe to my A Healthcare Z YouTube channel. I mean, you guys are my partners in making things better for patients in America. And I'm incredibly appreciative of that partnership. And so with that, it's hard work. It's Friday. So have a restful weekend and we will be back at it next week. Thank you so much. Bye now.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:08]  On to today's topic of fraud and abuse. So let's talk about the size of billing fraud and abuse.
+[0:08 - 0:18]  So it is estimated that approximately 3 to 10% of all healthcare spending is fraud and abuse.
+[0:18 - 0:23]  And that's according to the FBI, which obviously investigate that for Medicare and Medicaid,
+[0:23 - 0:31]  but is also the case for commercial insurance as well, which many of you are associated with commercial insurance,
+[0:31 - 0:36]  whether you be a broker, benefit consultant, HR, various vendor, people at insurance carriers yourselves.
+[0:37 - 0:42]  So that means that if you had a group of 1,000 employees, an employer with 1,000 employees,
+[0:42 - 0:44]  let's say it was manufacturing or it could be a municipality,
+[0:45 - 0:52]  typically they spend about $10,000 per employee per year that's on the plan,
+[0:52 - 0:58]  which means that the total healthcare spend for that plan would be about $10 million a year.
+[0:59 - 1:05]  So if you take 3 to 10% of that $10 million, that means that that group of 1,000 employees
+[1:05 - 1:18]  is spending about $300,000 to $1 million a year on claims that are fraudulent or as a result of abusive billing.
+[1:18 - 1:23]  Specifically, as it relates to abusive billing,
+[1:25 - 1:30]  the main crux of abusive billing is in the form of upcoding.
+[1:31 - 1:35]  And obviously, many of you are A Healthcare Z watchers,
+[1:35 - 1:42]  and I have multiple videos on billing and the ICD-10 codes, the diagnosis codes,
+[1:42 - 1:50]  and the CPT codes, which are the procedural codes, and then the DRG codes, which are used for inpatient services only.
+[1:50 - 1:55]  And then there are the HCPCS codes, which are additional codes as well.
+[1:55 - 2:01]  So if you work in healthcare, you need to have a basic understanding of coding,
+[2:02 - 2:07]  because it's the codes that ultimately drive the reimbursement.
+[2:07 - 2:11]  So we said that the physicians write the orders and they drive the cost,
+[2:11 - 2:16]  but those orders then drive the codes.
+[2:16 - 2:21]  And so literally what determines the reimbursement is the codes themselves.
+[2:22 - 2:28]  And so upcoding, or what, if you talk to a doctor or a hospital,
+[2:28 - 2:30]  they would never call it quote-unquote upcoding.
+[2:30 - 2:34]  They don't use this term, but they would call it write coding,
+[2:34 - 2:38]  or accurately coding what they are actually doing,
+[2:38 - 2:45]  is the application of codes so as to maximize reimbursement.
+[2:45 - 2:47]  Now, when I say maximize reimbursement,
+[2:47 - 2:52]  there's a huge gray area as to whether or not that maximization is completely legitimate,
+[2:53 - 2:56]  or that maximization is abusive.
+[2:56 - 2:58]  Now, let me give you an example of sepsis.
+[2:58 - 3:07]  So this training session today is meant to be in conjunction with the training session from last week
+[3:07 - 3:10]  about insurance denials and prior authorizations,
+[3:10 - 3:17]  which talked about how insurance carriers are doing massive amounts of inappropriate claims denials
+[3:17 - 3:21]  and massive amounts of prior authorizations and denials of prior authorizations.
+[3:22 - 3:24]  So that is essentially the converse.
+[3:24 - 3:25]  It's the flip opposite issue.
+[3:25 - 3:32]  So the issue of fraud and abuse is of healthcare providers billing too much,
+[3:32 - 3:37]  and the issue of denial and prior authorization is the issue of insurance carriers not paying too much.
+[3:38 - 3:43]  And these two issues can coexist, and they can both be true.
+[3:43 - 3:44]  So the doctors in the hospital say,
+[3:45 - 3:47]  wow, the insurance companies, they deny too much.
+[3:47 - 3:48]  And the insurance companies say,
+[3:48 - 3:51]  wow, the doctors in the hospitals, they bill too much.
+[3:51 - 3:53]  And both are true.
+[3:53 - 3:59]  And this graphic shows why this is a problem that still exists.
+[3:59 - 4:06]  So it is a problem because this box here represents all submitted claims.
+[4:06 - 4:13]  And then this part over on the right is the F and the A stands for the fraud and abuse.
+[4:13 - 4:18]  So this is the segment of claim dollars that are fraudulent and abusive claims.
+[4:18 - 4:18]  Okay.
+[4:18 - 4:24]  Now, the segment here at the top, you can see are the denied and the prior author and the,
+[4:24 - 4:26]  and the prior, the claims that require prior authorization.
+[4:26 - 4:36]  So you can see that the insurance carrier is denying and require prior authorization on tons of good claims that are not,
+[4:36 - 4:43]  it's only the top right-hand corner where the insurance company is actually denying and doing prior authorization on fraudulent and abusive claims.
+[4:44 - 4:44]  Okay.
+[4:44 - 4:48]  But they are then denying gobs of claims that actually should be paid.
+[4:49 - 4:49]  Likewise.
+[4:49 - 4:50]  Likewise.
+[4:50 - 4:55]  So you can see here on top, there's all these claims that should be paid that are not,
+[4:55 - 4:58]  that are not fraudulent, but they're not paying them.
+[4:59 - 5:02]  And then likewise, over here on the bottom, right,
+[5:02 - 5:07]  you have tons of fraudulent claims that the,
+[5:07 - 5:11]  the denial and prior authorization process is not catching.
+[5:11 - 5:14]  And the payer is still paying them out cleanly.
+[5:14 - 5:25]  And so the problem is, is that the denial and prior authorization process is not accurately applied to the fraudulent and abusive claims.
+[5:25 - 5:34]  So you should essentially take this top rectangle and you should rotate it 90 degrees and you would want it to overlap the fraudulent and abusive claims.
+[5:34 - 5:37]  And the point is, is that these two rectangles don't overlap.
+[5:37 - 5:45]  And so honest physicians and hospitals that are billing correctly are getting denied and fraudulent and abusive doctors in hospitals are still getting paid.
+[5:46 - 5:47]  Now, what to do about it?
+[5:49 - 5:54]  The take home points is, is that if you break it down on a PEPM, a level,
+[5:54 - 6:01]  that means that billing fraud and abuse costs plans approximately $25 to $83 per employee per month.
+[6:02 - 6:02]  Okay.
+[6:02 - 6:03]  What's that called?
+[6:03 - 6:07]  That is equivalent to the entire ASO or TPA admin fee.
+[6:07 - 6:09]  So you do RFPs,
+[6:09 - 6:12]  you have brokers and consultants that are vetting all these carriers.
+[6:12 - 6:17]  You go into these complex negotiations for your ASO and TPA admin fees.
+[6:17 - 6:25]  And here you are throwing away the exact same amount of money in an area that you are applying much less scrutiny.
+[6:25 - 6:33]  So I would just say that it's fine if you want to pay gobs of attention to your ASO and TPA admin fee.
+[6:33 - 6:34]  Fantastic.
+[6:34 - 6:39]  That is an area where you want to be, you want to be focused.
+[6:39 - 6:43]  However, you are throwing away an equivalent amount of money.
+[6:43 - 6:43]  Just know that.
+[6:43 - 6:44]  Okay.
+[6:44 - 6:45]  Next two,
+[6:45 - 6:51]  denials and prior authorizations are an ineffective tool because they're a blunt instrument for addressing fraud and abuse.
+[6:51 - 6:55]  So practically what you can do is you can double check.
+[6:55 - 6:56]  One,
+[6:56 - 6:56]  you can be self-funded.
+[6:57 - 6:57]  Two,
+[6:57 - 6:59]  you can double check your carriers,
+[6:59 - 6:59]  fraud,
+[6:59 - 7:00]  waste,
+[7:00 - 7:01]  and abuse effectiveness.
+[7:01 - 7:01]  Okay.
+[7:01 - 7:02]  You need,
+[7:02 - 7:03]  if you're a self-funded employer,
+[7:03 - 7:09]  you need to assume that you are paying out fraudulent and abusive claims until proven otherwise.
+[7:09 - 7:12]  This is happening unbeknownst to you.
+[7:12 - 7:16]  And it will continue to happen until you do something about it.
+[7:16 - 7:22]  Now you can move to a TPA that has a lower threshold for reviewing claims.
+[7:23 - 7:29]  So TPAs will go down to 3000 or 5000 or even lower for their review,
+[7:29 - 7:32]  which is much lower than the 10 to 15,000 of major carriers.
+[7:32 - 7:37]  You can move as much of your reimbursement away from fee for service as you can.
+[7:38 - 7:39]  You can have an onsite clinic,
+[7:39 - 7:40]  which is not fee for service.
+[7:40 - 7:41]  You can have direct contracting,
+[7:42 - 7:43]  which is not fee for service.
+[7:43 - 7:45]  So fee for all of this,
+[7:45 - 7:45]  by the way,
+[7:45 - 7:48]  when I was a hospital finance consultant back in the late nineties,
+[7:48 - 7:50]  all of this was still happening.
+[7:51 - 7:51]  Okay.
+[7:51 - 7:54]  So this has been going on for over 25 years.
+[7:55 - 7:55]  Okay.
+[7:55 - 7:57]  This is not a new problem.
+[7:57 - 8:02]  So just know that if this has been going on for at least 25 years,
+[8:02 - 8:10]  it is going to continue to go on for another 25 years until you actively do something about it.
+[8:10 - 8:11]  Okay.
+[8:11 - 8:12]  And the powers are within your hands.
+[8:12 - 8:15]  You can absolutely do something about this.
+[8:16 - 8:18]  Steve Goldberg did something about it.
+[8:18 - 8:21]  Steve Goldberg is an awesome person,
+[8:21 - 8:23]  but he's human just like you and me.
+[8:23 - 8:24]  So if Steve Goldberg can do it,
+[8:24 - 8:25]  you can do it.
+[8:25 - 8:25]  Okay.
+[8:26 - 8:27]  With that,
+[8:27 - 8:30]  thank you so much for attending this training session.
+[8:30 - 8:33]  If you would like a copy of today's slides,
+[8:33 - 8:36]  feel free to email me at ericb at ahealthcarez.com.
+[8:36 - 8:41]  If you would like to subscribe to my A Healthcare Z email newsletter,
+[8:41 - 8:44]  you can email me at ericb at ahealthcarez.com.
+[8:44 - 8:49]  Feel free to connect with me on LinkedIn or subscribe to my A Healthcare Z YouTube channel.
+[8:49 - 8:50]  I mean,
+[8:50 - 8:56]  you guys are my partners in making things better for patients in America.
+[8:56 - 8:59]  And I'm incredibly appreciative of that partnership.
+[9:00 - 9:01]  And so with that,
+[9:01 - 9:02]  it's hard work.
+[9:02 - 9:03]  It's Friday.
+[9:03 - 9:07]  So have a restful weekend and we will be back at it next week.
+[9:07 - 9:08]  Thank you so much.
+[9:08 - 9:09]  Bye now.

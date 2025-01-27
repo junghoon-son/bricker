@@ -1,0 +1,150 @@
+Title: ER Imaging Overutilization: CT Scans in 36% of Visits!!
+URL: https://www.youtube.com/watch?v=DEAiLdRyNXk
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic is ER imaging over utilization. So let me start off with a quick story. So a few years ago I had to go to the emergency department with a horrible abdominal pain, nausea, throwing up, it kept getting worse, not better, I'll spare you the gory details, but during that ER visit I ended up having a CT scan. Fast forward, I ended up getting the bill on the EOB for that ER visit and it turns out the billed charges for that CT scan of my abdomen and pelvis was $5,000 and the total billed charges for the ER visit was $6,000. Okay, so like there was a thousand bucks for like the ER doctor seeing me and the actual ER facility itself and the medications and the labs, all that added up to a thousand bucks and then the CT scan was $5,000. Okay, so fine, so you have the insurance discount, so the allowed amount for that ER visit was $2,500 for the CT scan and the total ER visit was $3,000. So if you do the $2,500 divided by $3,000, that means that 83% of the cost of that ER visit was just in the imaging, was just in the CT scan. So imaging in the emergency department is a huge deal. Okay, let's talk about ER visits and imaging in America. There are about 150 million ER visits every year. And guess what? 50% of those ER visits involve some type of imaging. Now, it could be an x-ray, it could be an ultrasound, or it could be advanced imaging like a CT scan or an MRI. Okay, well how frequent are the CT scans in the MRI? It turns out that 36% of ER visits have an associated CT scan. That means that if you go into the ER, there is over a one-third chance you're going to get a CT scan. Okay, and for MRIs there's a 2.5% of ER visits have an associated MRI. Okay, that's a huge deal because literally 10, 15 years ago, like that number was like almost zero. It was almost unheard of to actually get an MRI in the ER. You could have a scheduled outpatient MRI, you could be an inpatient and have an MRI, but to have like a sprained ankle and to get an MRI in the ER was like unfathomable. But like now you can totally do that. In ER, see like hundreds of patients a day. So they're probably ordering 5, 10, 15, 20, 20 plus MRIs a day just in the ER. Okay, so according to one study there was like 300% increase in CT scans and MRIs. And sometimes when you're scanned, it's not just one study. It's multiple scans. So like if you have an MRI of your brain, oftentimes they'll also do what's called an MRA, or a magnetic resonance angiogram. Okay, you're just in the MRI once and you're like, okay, well it's one scan. It's not one scan. They're doing the MRI and the MRI of which each of them might have their own $3,000 allowed amount. You might have $6,000 of MRIs done in the ER. And like a few years ago, almost zero MRIs were done. So there's been this huge push for more frequent imaging in the ER, more frequent advanced imaging in the ER. Oh, by the way, okay, so fine. Keep in mind, 86% of people who go to the ER, they go home. Okay, so basically only 14% are admitted. So basically the ER has become a high volume 24-7 advanced imaging center. They shouldn't even call it the emergency room. They should call it the 24-7 advanced imaging center, right? The 83% of the cost is associated with advanced imaging. Okay, so what are the associated factors? Like what are things that increase the likelihood of advanced imaging during an ER visit? Well, there was a study that looked at that. Okay, if you had a middle-age or an older patient, that was associated with higher frequency of advanced imaging like CTs and MRIs. If the patient had drug use, if the patient couldn't speak English, there were higher levels of advanced imaging. If the patient had anxiety or had a specific expectation of a CT or MRI, then it was more likely to happen in the ER. To physicians who were particularly careful about avoiding malpractice, you were more likely to get a CT scan or an MRI. Okay, this is an interesting one. The specific request of a non-ER physician. What? Why in the world would a doctor outside of the ER impact what's ordered in the ER? Aha! It's because what happens is that the doctor will see the patient in the clinic and they might need some sort of scan and they're like, well, I don't want to deal with the prior authorization or maybe it's late in the day and I don't want to have to wait until tomorrow or later on next week to get the study. I just want to get it done now. So they'll send the patient to the ER and either through the electronic medical record or they'll just call up the ER and they say, hey, when Ms. Jones gets there, can you do a CT scan on her? So it's not uncommon for physicians to actually circumvent either administrative or prior authorization challenges just by sending people to the ER to get imaging done. Again, because the ER is a 24-7 advanced imaging center. Okay. Also, patients not in California also were more likely to have advanced imaging. Why is that? Because what is one of the major providers of healthcare in California is Kaiser, which does not operate on fee for service. Also, if the patient was not a member of a group HMO, they also had more advanced imaging in the ER. Why? Because Kaiser is a group HMO. So again, so the financial model actually impacts the advanced imaging in the ER, right? Because Kaiser is taken on risk and they're capitated, whereas most of the rest of the country is fee for service. So if you're fee for service, you were more likely to be associated with higher levels of advanced imaging in the ER, which gets me to the whole point here, number five, of appropriate use criteria. What in the world is that? Well, healthcare policy makers and researchers had identified a little long ago that there's way too much over-utilization of advanced imaging in healthcare. So they said, so the Centers of Medicare and Medicaid said, okay, we're going to put in these specific criteria for when it's appropriate to order a CT or an MRI, etc. And we're going to require doctors and hospitals to put a decision support tool in their electronic medical record as like a checklist to be like, okay, do they meet these criteria? And if they do meet the criteria, then they can order the scan. And this was actually put into law by the Protecting Access to Medicare Act of 2014. So Congress put into place and the president signed a law saying that they were going to require doctors to use appropriate use criteria when ordering MRIs and CT scans. Guess what happened? It took six years up until 2020 just to make it an educational program, just to give like feedback to the doctors as to whether or not the scans they were ordering were appropriate or not. There was no financial penalty associated with it. And then just this year in 2024, they paused the entire program. Like, so you mean to tell me, it's only took 10 years. You mean to tell me Congress passed, the president signed a law and basically CMS like couldn't implement it for 10 years. And so they're like, eh, forget it. So, and again, I'm not blaming one particular administration. This happened under both Democrat and Republican administrations. So just know that from a health policy perspective, like that's not necessarily a great tool for changing health care because you can change the policy. But just because you change the policy doesn't mean it's implemented. In this case, it took 10 years and they still couldn't implement it. Okay. There was a huge exemption in appropriate use criteria. And that huge exemption was the emergency department, meaning that the emergency department could order any imaging they wanted to. And it was at the, just the discretion of the doctor. There was no decision support. There was no rules. There was no financial penalty. Okay. So here you have a situation where you have 24 seven access to advanced imaging, where all these, you know, prior authorization, utilization controls, appropriate use criteria, like it doesn't apply. So if you're an employer, what do you do? Well, guess what? There are employers that have put in place specific strategies to lower ER utilization, which in essence is actually lowering 24 seven access to high end imaging. Okay. What are those things that they've done? They put in 24 seven access to a primary care physician as an alternative. Now they would of course have coverage so that like your doctor didn't have to stay up 24 hours a day, every day. But the point is, is that for Medicare advantage plans, uh, and at risk primary care groups like ChenMed, and then also for, uh, employers that use an onsite clinic, a near site clinic or direct primary care, those employers whose clinics actually gave 24 seven access. And sometimes they came into the clinic and sometimes it was just over the phone. It depended upon the situation. Those that did that actually saw a 30% decrease in ER utilization in just one year, just in the first year of putting that into place. Now, keep in mind, like the classic thing, like 86% of people that are going to the ER are going home, right? So there's gobs of ER utilization and that ER utilization is oftentimes associated with imaging that's not needed in the first place. And so I just wanted to make you aware of that today of this challenge of over utilization of imaging in the ER and what folks have done to address it. And thank you for watching A Healthcare is Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z.
+[0:05 - 0:09]  Today's topic is ER imaging over utilization.
+[0:09 - 0:10]  So let me start off with a quick story.
+[0:10 - 0:16]  So a few years ago I had to go to the emergency department with a horrible abdominal pain, nausea, throwing up,
+[0:16 - 0:20]  it kept getting worse, not better, I'll spare you the gory details,
+[0:20 - 0:24]  but during that ER visit I ended up having a CT scan.
+[0:24 - 0:28]  Fast forward, I ended up getting the bill on the EOB for that ER visit
+[0:28 - 0:33]  and it turns out the billed charges for that CT scan of my abdomen and pelvis was $5,000
+[0:33 - 0:38]  and the total billed charges for the ER visit was $6,000.
+[0:38 - 0:44]  Okay, so like there was a thousand bucks for like the ER doctor seeing me and the actual ER facility itself
+[0:44 - 0:49]  and the medications and the labs, all that added up to a thousand bucks and then the CT scan was $5,000.
+[0:49 - 0:56]  Okay, so fine, so you have the insurance discount, so the allowed amount for that ER visit was $2,500 for the CT scan
+[0:56 - 0:59]  and the total ER visit was $3,000.
+[0:59 - 1:06]  So if you do the $2,500 divided by $3,000, that means that 83% of the cost of that ER visit
+[1:06 - 1:11]  was just in the imaging, was just in the CT scan.
+[1:11 - 1:15]  So imaging in the emergency department is a huge deal.
+[1:15 - 1:20]  Okay, let's talk about ER visits and imaging in America.
+[1:20 - 1:25]  There are about 150 million ER visits every year.
+[1:25 - 1:26]  And guess what?
+[1:26 - 1:30]  50% of those ER visits involve some type of imaging.
+[1:30 - 1:36]  Now, it could be an x-ray, it could be an ultrasound, or it could be advanced imaging like a CT scan or an MRI.
+[1:36 - 1:39]  Okay, well how frequent are the CT scans in the MRI?
+[1:39 - 1:47]  It turns out that 36% of ER visits have an associated CT scan.
+[1:47 - 1:55]  That means that if you go into the ER, there is over a one-third chance you're going to get a CT scan.
+[1:55 - 2:01]  Okay, and for MRIs there's a 2.5% of ER visits have an associated MRI.
+[2:01 - 2:06]  Okay, that's a huge deal because literally 10, 15 years ago, like that number was like almost zero.
+[2:06 - 2:10]  It was almost unheard of to actually get an MRI in the ER.
+[2:10 - 2:14]  You could have a scheduled outpatient MRI, you could be an inpatient and have an MRI,
+[2:14 - 2:20]  but to have like a sprained ankle and to get an MRI in the ER was like unfathomable.
+[2:20 - 2:22]  But like now you can totally do that.
+[2:22 - 2:24]  In ER, see like hundreds of patients a day.
+[2:24 - 2:30]  So they're probably ordering 5, 10, 15, 20, 20 plus MRIs a day just in the ER.
+[2:30 - 2:38]  Okay, so according to one study there was like 300% increase in CT scans and MRIs.
+[2:38 - 2:41]  And sometimes when you're scanned, it's not just one study.
+[2:41 - 2:43]  It's multiple scans.
+[2:43 - 2:47]  So like if you have an MRI of your brain, oftentimes they'll also do what's called an MRA,
+[2:47 - 2:49]  or a magnetic resonance angiogram.
+[2:49 - 2:52]  Okay, you're just in the MRI once and you're like, okay, well it's one scan.
+[2:52 - 2:53]  It's not one scan.
+[2:53 - 3:00]  They're doing the MRI and the MRI of which each of them might have their own $3,000 allowed amount.
+[3:00 - 3:03]  You might have $6,000 of MRIs done in the ER.
+[3:03 - 3:08]  And like a few years ago, almost zero MRIs were done.
+[3:08 - 3:13]  So there's been this huge push for more frequent imaging in the ER,
+[3:13 - 3:15]  more frequent advanced imaging in the ER.
+[3:15 - 3:18]  Oh, by the way, okay, so fine.
+[3:18 - 3:23]  Keep in mind, 86% of people who go to the ER, they go home.
+[3:23 - 3:26]  Okay, so basically only 14% are admitted.
+[3:26 - 3:36]  So basically the ER has become a high volume 24-7 advanced imaging center.
+[3:36 - 3:38]  They shouldn't even call it the emergency room.
+[3:38 - 3:41]  They should call it the 24-7 advanced imaging center, right?
+[3:41 - 3:45]  The 83% of the cost is associated with advanced imaging.
+[3:45 - 3:48]  Okay, so what are the associated factors?
+[3:48 - 3:54]  Like what are things that increase the likelihood of advanced imaging during an ER visit?
+[3:54 - 3:55]  Well, there was a study that looked at that.
+[3:55 - 3:58]  Okay, if you had a middle-age or an older patient,
+[3:58 - 4:03]  that was associated with higher frequency of advanced imaging like CTs and MRIs.
+[4:03 - 4:08]  If the patient had drug use, if the patient couldn't speak English,
+[4:08 - 4:10]  there were higher levels of advanced imaging.
+[4:10 - 4:15]  If the patient had anxiety or had a specific expectation of a CT or MRI,
+[4:15 - 4:17]  then it was more likely to happen in the ER.
+[4:17 - 4:21]  To physicians who were particularly careful about avoiding malpractice,
+[4:21 - 4:24]  you were more likely to get a CT scan or an MRI.
+[4:24 - 4:26]  Okay, this is an interesting one.
+[4:26 - 4:29]  The specific request of a non-ER physician.
+[4:29 - 4:30]  What?
+[4:30 - 4:36]  Why in the world would a doctor outside of the ER impact what's ordered in the ER?
+[4:36 - 4:37]  Aha!
+[4:37 - 4:41]  It's because what happens is that the doctor will see the patient in the clinic
+[4:41 - 4:42]  and they might need some sort of scan and they're like,
+[4:42 - 4:46]  well, I don't want to deal with the prior authorization or maybe it's late in the day
+[4:46 - 4:50]  and I don't want to have to wait until tomorrow or later on next week to get the study.
+[4:50 - 4:51]  I just want to get it done now.
+[4:51 - 4:55]  So they'll send the patient to the ER and either through the electronic medical record
+[4:55 - 4:59]  or they'll just call up the ER and they say, hey, when Ms. Jones gets there,
+[4:59 - 5:02]  can you do a CT scan on her?
+[5:02 - 5:08]  So it's not uncommon for physicians to actually circumvent either administrative
+[5:08 - 5:13]  or prior authorization challenges just by sending people to the ER to get imaging done.
+[5:13 - 5:16]  Again, because the ER is a 24-7 advanced imaging center.
+[5:16 - 5:17]  Okay.
+[5:17 - 5:21]  Also, patients not in California also were more likely to have advanced imaging.
+[5:21 - 5:22]  Why is that?
+[5:22 - 5:26]  Because what is one of the major providers of healthcare in California is Kaiser,
+[5:26 - 5:28]  which does not operate on fee for service.
+[5:28 - 5:31]  Also, if the patient was not a member of a group HMO,
+[5:31 - 5:33]  they also had more advanced imaging in the ER.
+[5:33 - 5:34]  Why?
+[5:34 - 5:36]  Because Kaiser is a group HMO.
+[5:36 - 5:42]  So again, so the financial model actually impacts the advanced imaging in the ER, right?
+[5:42 - 5:46]  Because Kaiser is taken on risk and they're capitated,
+[5:46 - 5:49]  whereas most of the rest of the country is fee for service.
+[5:49 - 5:55]  So if you're fee for service, you were more likely to be associated with higher levels of advanced imaging in the ER,
+[5:55 - 6:01]  which gets me to the whole point here, number five, of appropriate use criteria.
+[6:01 - 6:03]  What in the world is that?
+[6:03 - 6:07]  Well, healthcare policy makers and researchers had identified a little long ago
+[6:07 - 6:12]  that there's way too much over-utilization of advanced imaging in healthcare.
+[6:12 - 6:15]  So they said, so the Centers of Medicare and Medicaid said,
+[6:15 - 6:22]  okay, we're going to put in these specific criteria for when it's appropriate to order a CT or an MRI, etc.
+[6:22 - 6:28]  And we're going to require doctors and hospitals to put a decision support tool in their electronic medical record
+[6:28 - 6:31]  as like a checklist to be like, okay, do they meet these criteria?
+[6:31 - 6:34]  And if they do meet the criteria, then they can order the scan.
+[6:34 - 6:46]  And this was actually put into law by the Protecting Access to Medicare Act of 2014.
+[6:46 - 6:54]  So Congress put into place and the president signed a law saying that they were going to require doctors
+[6:54 - 6:59]  to use appropriate use criteria when ordering MRIs and CT scans.
+[6:59 - 7:05]  Guess what happened? It took six years up until 2020 just to make it an educational program,
+[7:05 - 7:10]  just to give like feedback to the doctors as to whether or not the scans they were ordering were appropriate or not.
+[7:10 - 7:13]  There was no financial penalty associated with it.
+[7:13 - 7:19]  And then just this year in 2024, they paused the entire program.
+[7:19 - 7:23]  Like, so you mean to tell me, it's only took 10 years.
+[7:23 - 7:30]  You mean to tell me Congress passed, the president signed a law and basically CMS like couldn't implement it for 10 years.
+[7:30 - 7:32]  And so they're like, eh, forget it.
+[7:32 - 7:35]  So, and again, I'm not blaming one particular administration.
+[7:35 - 7:38]  This happened under both Democrat and Republican administrations.
+[7:38 - 7:45]  So just know that from a health policy perspective, like that's not necessarily a great tool for changing health care
+[7:45 - 7:47]  because you can change the policy.
+[7:47 - 7:50]  But just because you change the policy doesn't mean it's implemented.
+[7:50 - 7:53]  In this case, it took 10 years and they still couldn't implement it.
+[7:53 - 7:54]  Okay.
+[7:54 - 7:58]  There was a huge exemption in appropriate use criteria.
+[7:58 - 8:05]  And that huge exemption was the emergency department, meaning that the emergency department could order any imaging they wanted to.
+[8:05 - 8:08]  And it was at the, just the discretion of the doctor.
+[8:08 - 8:09]  There was no decision support.
+[8:09 - 8:10]  There was no rules.
+[8:10 - 8:12]  There was no financial penalty.
+[8:12 - 8:13]  Okay.
+[8:13 - 8:27]  So here you have a situation where you have 24 seven access to advanced imaging, where all these, you know, prior authorization, utilization controls, appropriate use criteria, like it doesn't apply.
+[8:27 - 8:31]  So if you're an employer, what do you do?
+[8:31 - 8:32]  Well, guess what?
+[8:32 - 8:42]  There are employers that have put in place specific strategies to lower ER utilization, which in essence is actually lowering 24 seven access to high end imaging.
+[8:42 - 8:43]  Okay.
+[8:43 - 8:44]  What are those things that they've done?
+[8:44 - 8:51]  They put in 24 seven access to a primary care physician as an alternative.
+[8:51 - 8:57]  Now they would of course have coverage so that like your doctor didn't have to stay up 24 hours a day, every day.
+[8:57 - 9:15]  But the point is, is that for Medicare advantage plans, uh, and at risk primary care groups like ChenMed, and then also for, uh, employers that use an onsite clinic, a near site clinic or direct primary care, those employers whose clinics actually gave 24 seven access.
+[9:15 - 9:18]  And sometimes they came into the clinic and sometimes it was just over the phone.
+[9:18 - 9:19]  It depended upon the situation.
+[9:19 - 9:30]  Those that did that actually saw a 30% decrease in ER utilization in just one year, just in the first year of putting that into place.
+[9:30 - 9:35]  Now, keep in mind, like the classic thing, like 86% of people that are going to the ER are going home, right?
+[9:35 - 9:44]  So there's gobs of ER utilization and that ER utilization is oftentimes associated with imaging that's not needed in the first place.
+[9:44 - 9:52]  And so I just wanted to make you aware of that today of this challenge of over utilization of imaging in the ER and what folks have done to address it.
+[9:52 - 9:55]  And thank you for watching A Healthcare is Z.

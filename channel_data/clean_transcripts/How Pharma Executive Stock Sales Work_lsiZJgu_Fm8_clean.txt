@@ -1,0 +1,20 @@
+Title: How Pharma Executive Stock Sales Work_lsiZJgu_Fm8
+URL: https://www.youtube.com/watch?v=Fm8
+Language: en
+Duration: 3:57
+Upload Date: Unknown
+
+Transcription:
+
+Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is how PharmaExec stock sales work. So as many of you know, just last week it was announced that the Pfizer CEO sold $5.6 million worth of his own stock in Pfizer on the same day that Pfizer announced that they have a COVID vaccine that they have found in their trial to be 90% effective. So this is a story in CNBC. I'll leave a link to it in the show notes. And the rest of this video's information comes from a fantastic finding.
+
+He actually runs a hedge fund in the UK. His name is Patrick Boyle and he has a fantastic finance channel on YouTube and he specifically talks about the implications and the backstory behind this Pfizer CEO's stock sale. And it's highly instructive. And I think if we're going to talk about healthcare finance, we need to understand the dynamics of, and it could be not just for pharmaceutical companies, but for any publicly traded healthcare company. Now, of course, everyone's like, okay, well, that's a very odd coincidence that the CEO would just happen to sell $5.6 million worth of stock on the same day as the press release.
+
+How could that happen? Isn't that insider trading? Well, no. Okay. And here's the reason, because that stock sale was not decided that day. It was pre-planned. And this is very routine for executives at all types of companies where they have pre-planned stock sales. And I'm like, okay, so it was pre-planned. So maybe he didn't time the stock sale, but maybe he timed the press release to when his stock was planning to be sold. So I thought. So did he time the press release? And the answer is no. I was totally wrong with that theory because that's not how pre-planned stock sales for pharma executives work.
+
+Here's how they work. So in August, the CEO of Pfizer put in through a, it's very common to use these like third-party companies that sort of pre-planned their stock sales, but it was put in as a limit order. In other words, a date of the stock sale was not established, but rather a price of the stock was established. And once the Pfizer stock hit that predetermined price, then it would trigger the sale. That's what a limit order is. So, and by the way, he did also set the amount of stock that he would sell, which was 60% of all the stock that he owned, which amounted to that $5.6 million.
+
+Now, the, the, the way that that is filed or that is released is referred to as a 10 B5-1 trading plan. Okay. What a, you know, as Patrick Boyle says, what a, what a sort of challenging name, but the point is, is that this is all publicly released now. So what happened was, is there was the press release about the COVID vaccine that caused the price of the Pfizer stock to rise 15% such that it reached the price that triggered the sale. Now, the question isn't really, okay, well, why did the stock sell on the same day as the press release? Well, that's pretty obvious.
+
+It caused the stock to rise, triggered, triggered the limit order. And so the stock sold. What really, the question is, is what did the Pfizer CEO know in August when he reauthorized this stock sale to occur? Now, we don't know the answer to that. Patrick Boyle doesn't know the answer to that, but I think it's important for us to understand how stock sales for pharmaceutical company executives work. And that's my point for today. Thank you for watching a healthcare Z..
+

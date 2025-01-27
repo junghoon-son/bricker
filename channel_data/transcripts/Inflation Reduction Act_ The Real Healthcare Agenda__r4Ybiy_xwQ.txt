@@ -1,0 +1,201 @@
+Title: Inflation Reduction Act: The Real Healthcare Agenda
+URL: https://www.youtube.com/watch?v=_r4Ybiy_xwQ
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is the Inflation Reduction Act and the healthcare changes that are in it. That's right, this is August of 2022 and the Inflation Reduction Act was just passed by Congress and signed by President Biden and it has a lot of healthcare regulations in it. So we're going to go over those now. And first up, it has provisions for the Affordable Care Act plans, the Obamacare plans that you can buy on an exchange. The subsidies were actually put in place by the American Rescue Plan, but that was a previous piece of legislation by President Biden and that was only temporary and so those additional subsidies were set to expire at the end of 2022. And so the Inflation Reduction Act, it continues those subsidies for another three years. So for 2023, 2024 and through the end of 2025. Okay. Number two. Now, many of these changes now relate to Medicare going forward. So for Medicare's parts B and D, specifically as it relates to prescription drugs, part D because that's the prescription drug program for Medicare and then part B because that's for drugs that are like infusions or actually done through the medical claims, not the pharmacy claims, that Medicare is actually going to be able to negotiate with pharmaceutical companies for 10 drugs starting in 2026. And then that's going to increase the number of drugs over time to the point where it's 20 drugs as of 2029. And of course, this is a major change because previously the government had not been able to, it's like, now what's going to go on in this negotiation? I mean, is that just a nice word for price setting? There's going to be some degree of price setting for prescription drugs. Now, keep in mind, the government already does price setting today for like physician fees and hospital fees, right? I mean, Medicare like sets, okay, well, this is what we're going to pay the doctors and Medicare is like, okay, this is what we're going to pay the hospitals. So essentially, this is kind of getting the pharmaceutical industry kind of in line with what it already does for hospitals and doctors, but it's not even doing it for all the drugs. It's just starting, I mean, they're phasing it in, right? This is what a lot of legislation has, right? It's, you know, they're pushing it out, right? It's not going to happen immediately. It's not going to happen until 2026. And then it's not going to be with all drugs. It's only going to be with 10 and they're going to slowly increase it over time, right? So it's the whole sort of boiling frog technique, right? Where if you put a frog in water, it's less likely to hop out if you slowly turn up the temperature of the water over time, right? So they're just using that approach here in this legislation for Medicare. Now, it is, you know, it's controversial, right? It's like, okay, well, it's going to decrease investment in new drugs, you know, yada, yada. That is not the topic for today's video. It's just what's in the legislation. I want to make you aware. Okay. Next up, Part D, again, for the prescription drugs, the prescription drug prices in Medicare Part D plans must be less than the rate of inflation going forward. Now, granted, inflation is pretty high right now. It's at 8%. But the point is, is that the cost of those drugs can't go up by more than the amount of inflation. Again, it doesn't start right away. It starts in 2023. But that's just a few short months away. So let's say inflation stays at 8%. That means the prices cannot go up by more than 8%. And let's say three years from now, inflation is only at 2%. Then the price of the drugs can only go up by 2%. Now, which prices they talk about, it's actually, there's great information. I'll leave a link in the show notes to the Kaiser Family Foundation and to the Commonwealth Foundation articles about this. And it talks about, like, the different ways you measure pricing. So the devil's in the details. That hasn't been completely sort of hashed out yet. Okay, now, insulin, specifically for people that have diabetes and are on insulin, insulin copays are going to be maxed out at $35 a month. You cannot have an insulin copay for greater than, more than $35 a month starting in 2023. Again, this is for Part D plans only. Okay, vaccine out-of-pocket costs are $0. So the big one's, like, obviously, COVID vaccine, flu vaccine, but then also, like, pneumonia vaccines as well. So $0 out-of-pocket costs for vaccines. There's also expansion for vaccine coverage for Medicaid and for CHIP plans, the Children's Health Insurance Plan for kids. And that goes into effect in 2023. Then, also for Medicare Part D, there is a $2,000 out-of-pocket max for the year. So people, seniors, are not going to have to pay more than $2,000 total for their prescription dugs if they're on Medicare Part D starting in 2025. Now, for the premiums, because you actually have to pay a premium for Medicare Part D plans, it has to be, they have to be a less than 6% per year increase starting in 2024 and going through 2030. So let's say the premium was $100. Well, then it can't be more than $106 because it has to be less than 6% starting in 2024 through 2030. Okay. Next up. They are, for low-income seniors, they are expanding the subsidy because there's actually subsidies for these premiums that you'd have to pay. So if you're a senior and you don't have a lot of money, they say, okay, well, you don't have to pay the premium. We'll give you a subsidy. They expanded that to 150% of the federal poverty level. And also, when you had out-of-pocket costs historically in excess of $2,700, you still had to pay a 5% coinsurance on top of that. In other words, your out-of-pocket costs didn't stop. You still had to pay that coinsurance after $2,700. Well, anyway, they got rid of that. Okay. So going forward, you're not going to have to pay that 5% additional coinsurance once you've hit that catastrophic amount. Now, specifically as it relates to employer-sponsored plans, there is a small piece in the legislation related to that. And that is, the Inflation Reduction Act, it delays the removal of the anti-kickback safe harbor for PBMs. And if you know what that means, congratulations, you're in like the top 0.001% of healthcare knowledge in America. That's a super confusing statement right there. So let's unpack that. So right now, PBMs are able to receive payments from pharmaceutical companies. They're called rebates, right? But the pharmaceutical company pays the PBM. Okay. Now, that could be considered a kickback. So PBMs have a safe harbor that exempts them from that anti-kickback law so that PBMs can receive these rebates slash kickbacks from pharmaceutical companies. That can happen. During the Trump administration, they said, we want to stop that, but it's not going to be stopped until 2027, five years from now. Well, this law pushes that back even further to 10 years from now. In 2032, then PBMs are not going to be able to be exempt from the anti-kickback statute anymore. Therefore, if this actually happens, in 2032, PBMs will no longer be allowed to receive rebates or kickbacks from pharmaceutical companies. So they've essentially given the PBM industry a sort of a 10-year extension on continuing on making money this way on their Medicare Part D. Now, this only applies to Medicare Part D. This doesn't apply to any of the PBM payments that pharmaceutical companies give them for commercial folks. This is just for the government folks. Now, overall, so it's hugely confusing, right? A lot of stuff going on here. Helpful to just understand what's in the legislation and when it takes effect. What's the point? Obviously, I'll leave a link to a fantastic article from the Purchasers Business Group on Health, which, of course, advocates for self-funded employers and their employees on their health funds. They're like, look, there's been cost shifting in the healthcare industry for our hospitals where Medicare sets reimbursement for hospitals. And the hospitals are like, okay, we're just going to turn around and we're going to charge self-funded employers more. And the Purchasers Business Group on Health is saying, hey, look, the same thing is going to happen with prescriptions. You're going to sort of limit these payments on the prescription side through a variety of these natinations here. And so as a result, the pharmaceutical companies are just going to turn around and charge self-funded employers more to, quote unquote, cross-subsidize from the commercially insured folks to cover the loss of revenue from their government payer. So is that going to happen? I don't know. But I don't have a crystal ball. Nobody has a crystal ball. It's a reasonable conclusion. However, keep in mind, the overall goal of many in Washington, D.C. is to expand Medicare. Okay? So in order to expand Medicare, it's helpful to make Medicare as attractive as possible. Well, all of this, all of these healthcare changes in the Inflation Reduction Act make Medicare more attractive. They make Medicare Part D more attractive. They make ACA plans more attractive, right? One of the goals that President Biden, whether you agree with this or not, that's not the point. The point is, is that one of the goals that President Biden had was to, one of the ways to expand Medicare was to decrease the age of Medicare eligibility from 65 to 60. Well, more people are going to be in favor. In fact, a lot of businesses would probably be in favor of reducing the Medicare age from 65 to 60 so that they can get on this better health plan. They're like, my employer-sponsored health plan. It's really expensive, et cetera, et cetera. This government plan seems pretty good. Well, the more attractive the government can make that plan, then the more people and, frankly, the more businesses that are going to be in favor of expanding Medicare coverage. Now, who doesn't like this? Who is not directly involved in this that doesn't like this? It's actually the hospitals in America because the largest force against the expansion of Medicare and the reduction of the Medicare beneficiary age from 65 to 60 are hospitals in America because the Medicare reimbursement for those 60 to 65-year-olds is much lower than the commercial insurance reimbursement that they currently get today. And which folks on commercially insured plans drive more of the claim cost? It's the older folks. It's the people over 45, the people over 55, the people between the ages of 60 and 65. And so just know that the Inflation Reduction Act is not an island in of itself. It's part of an overall multi-year, likely multi-decade strategy to make government-financed health care more attractive so that it can, frankly, be expanded. Now, that's just my take on it. You could disagree with it. That's totally fine. But that's what I wanted to share with you today. Thank you for watching a Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:05 - 0:12]  Today's topic is the Inflation Reduction Act and the healthcare changes that are in it.
+[0:12 - 0:18]  That's right, this is August of 2022 and the Inflation Reduction Act was just passed by
+[0:18 - 0:25]  Congress and signed by President Biden and it has a lot of healthcare regulations in
+[0:25 - 0:25]  it.
+[0:25 - 0:27]  So we're going to go over those now.
+[0:27 - 0:35]  And first up, it has provisions for the Affordable Care Act plans, the Obamacare plans that you
+[0:35 - 0:37]  can buy on an exchange.
+[0:37 - 0:44]  The subsidies were actually put in place by the American Rescue Plan, but that was a previous
+[0:44 - 0:49]  piece of legislation by President Biden and that was only temporary and so those additional
+[0:49 - 0:52]  subsidies were set to expire at the end of 2022.
+[0:52 - 0:58]  And so the Inflation Reduction Act, it continues those subsidies for another three years.
+[0:58 - 1:01]  So for 2023, 2024 and through the end of 2025.
+[1:01 - 1:02]  Okay.
+[1:02 - 1:02]  Number two.
+[1:03 - 1:06]  Now, many of these changes now relate to Medicare going forward.
+[1:06 - 1:13]  So for Medicare's parts B and D, specifically as it relates to prescription drugs, part D because
+[1:13 - 1:17]  that's the prescription drug program for Medicare and then part B because that's for drugs that
+[1:17 - 1:23]  are like infusions or actually done through the medical claims, not the pharmacy claims,
+[1:23 - 1:28]  that Medicare is actually going to be able to negotiate with pharmaceutical companies for
+[1:28 - 1:31]  10 drugs starting in 2026.
+[1:32 - 1:34]  And then that's going to increase the number of drugs over time to the point where it's
+[1:34 - 1:37]  20 drugs as of 2029.
+[1:37 - 1:43]  And of course, this is a major change because previously the government had not been able
+[1:43 - 1:46]  to, it's like, now what's going to go on in this negotiation?
+[1:46 - 1:48]  I mean, is that just a nice word for price setting?
+[1:49 - 1:52]  There's going to be some degree of price setting for prescription drugs.
+[1:52 - 1:58]  Now, keep in mind, the government already does price setting today for like physician fees
+[1:58 - 2:00]  and hospital fees, right?
+[2:00 - 2:04]  I mean, Medicare like sets, okay, well, this is what we're going to pay the doctors and
+[2:04 - 2:06]  Medicare is like, okay, this is what we're going to pay the hospitals.
+[2:06 - 2:11]  So essentially, this is kind of getting the pharmaceutical industry kind of in line with
+[2:11 - 2:15]  what it already does for hospitals and doctors, but it's not even doing it for all the drugs.
+[2:15 - 2:17]  It's just starting, I mean, they're phasing it in, right?
+[2:17 - 2:19]  This is what a lot of legislation has, right?
+[2:19 - 2:20]  It's, you know, they're pushing it out, right?
+[2:20 - 2:22]  It's not going to happen immediately.
+[2:22 - 2:23]  It's not going to happen until 2026.
+[2:23 - 2:25]  And then it's not going to be with all drugs.
+[2:25 - 2:28]  It's only going to be with 10 and they're going to slowly increase it over time, right?
+[2:28 - 2:30]  So it's the whole sort of boiling frog technique, right?
+[2:30 - 2:35]  Where if you put a frog in water, it's less likely to hop out if you slowly turn up the
+[2:35 - 2:36]  temperature of the water over time, right?
+[2:36 - 2:40]  So they're just using that approach here in this legislation for Medicare.
+[2:40 - 2:43]  Now, it is, you know, it's controversial, right?
+[2:43 - 2:47]  It's like, okay, well, it's going to decrease investment in new drugs, you know, yada, yada.
+[2:47 - 2:50]  That is not the topic for today's video.
+[2:50 - 2:53]  It's just what's in the legislation.
+[2:53 - 2:53]  I want to make you aware.
+[2:54 - 2:54]  Okay.
+[2:54 - 3:01]  Next up, Part D, again, for the prescription drugs, the prescription drug prices in Medicare
+[3:01 - 3:09]  Part D plans must be less than the rate of inflation going forward.
+[3:09 - 3:11]  Now, granted, inflation is pretty high right now.
+[3:11 - 3:12]  It's at 8%.
+[3:12 - 3:15]  But the point is, is that the cost of those drugs can't go up by more than the amount
+[3:15 - 3:16]  of inflation.
+[3:16 - 3:18]  Again, it doesn't start right away.
+[3:18 - 3:19]  It starts in 2023.
+[3:19 - 3:21]  But that's just a few short months away.
+[3:21 - 3:23]  So let's say inflation stays at 8%.
+[3:23 - 3:25]  That means the prices cannot go up by more than 8%.
+[3:25 - 3:29]  And let's say three years from now, inflation is only at 2%.
+[3:29 - 3:32]  Then the price of the drugs can only go up by 2%.
+[3:32 - 3:37]  Now, which prices they talk about, it's actually, there's great information.
+[3:37 - 3:40]  I'll leave a link in the show notes to the Kaiser Family Foundation and to the Commonwealth
+[3:40 - 3:42]  Foundation articles about this.
+[3:43 - 3:45]  And it talks about, like, the different ways you measure pricing.
+[3:45 - 3:46]  So the devil's in the details.
+[3:46 - 3:49]  That hasn't been completely sort of hashed out yet.
+[3:49 - 3:55]  Okay, now, insulin, specifically for people that have diabetes and are on insulin, insulin
+[3:55 - 3:57]  copays are going to be maxed out at $35 a month.
+[3:58 - 4:02]  You cannot have an insulin copay for greater than, more than $35 a month starting in 2023.
+[4:03 - 4:06]  Again, this is for Part D plans only.
+[4:06 - 4:11]  Okay, vaccine out-of-pocket costs are $0.
+[4:11 - 4:15]  So the big one's, like, obviously, COVID vaccine, flu vaccine, but then also, like, pneumonia
+[4:15 - 4:17]  vaccines as well.
+[4:17 - 4:21]  So $0 out-of-pocket costs for vaccines.
+[4:21 - 4:27]  There's also expansion for vaccine coverage for Medicaid and for CHIP plans, the Children's
+[4:27 - 4:28]  Health Insurance Plan for kids.
+[4:29 - 4:31]  And that goes into effect in 2023.
+[4:32 - 4:39]  Then, also for Medicare Part D, there is a $2,000 out-of-pocket max for the year.
+[4:39 - 4:44]  So people, seniors, are not going to have to pay more than $2,000 total for their prescription
+[4:44 - 4:48]  dugs if they're on Medicare Part D starting in 2025.
+[4:48 - 4:53]  Now, for the premiums, because you actually have to pay a premium for Medicare Part D plans,
+[4:54 - 5:03]  it has to be, they have to be a less than 6% per year increase starting in 2024 and going
+[5:03 - 5:04]  through 2030.
+[5:04 - 5:07]  So let's say the premium was $100.
+[5:07 - 5:14]  Well, then it can't be more than $106 because it has to be less than 6% starting in 2024 through
+[5:14 - 5:15]  2030.
+[5:15 - 5:16]  Okay.
+[5:16 - 5:16]  Next up.
+[5:17 - 5:23]  They are, for low-income seniors, they are expanding the subsidy because there's actually
+[5:23 - 5:26]  subsidies for these premiums that you'd have to pay.
+[5:26 - 5:29]  So if you're a senior and you don't have a lot of money, they say, okay, well, you don't
+[5:29 - 5:30]  have to pay the premium.
+[5:30 - 5:31]  We'll give you a subsidy.
+[5:31 - 5:36]  They expanded that to 150% of the federal poverty level.
+[5:36 - 5:46]  And also, when you had out-of-pocket costs historically in excess of $2,700, you still had to pay a 5%
+[5:46 - 5:48]  coinsurance on top of that.
+[5:48 - 5:50]  In other words, your out-of-pocket costs didn't stop.
+[5:50 - 5:53]  You still had to pay that coinsurance after $2,700.
+[5:53 - 5:55]  Well, anyway, they got rid of that.
+[5:56 - 5:56]  Okay.
+[5:56 - 6:02]  So going forward, you're not going to have to pay that 5% additional coinsurance once
+[6:02 - 6:04]  you've hit that catastrophic amount.
+[6:05 - 6:13]  Now, specifically as it relates to employer-sponsored plans, there is a small piece in the legislation
+[6:13 - 6:14]  related to that.
+[6:14 - 6:24]  And that is, the Inflation Reduction Act, it delays the removal of the anti-kickback safe
+[6:24 - 6:26]  harbor for PBMs.
+[6:26 - 6:33]  And if you know what that means, congratulations, you're in like the top 0.001% of healthcare knowledge
+[6:33 - 6:34]  in America.
+[6:34 - 6:36]  That's a super confusing statement right there.
+[6:37 - 6:37]  So let's unpack that.
+[6:37 - 6:43]  So right now, PBMs are able to receive payments from pharmaceutical companies.
+[6:43 - 6:44]  They're called rebates, right?
+[6:44 - 6:47]  But the pharmaceutical company pays the PBM.
+[6:47 - 6:47]  Okay.
+[6:48 - 6:50]  Now, that could be considered a kickback.
+[6:50 - 7:01]  So PBMs have a safe harbor that exempts them from that anti-kickback law so that PBMs can receive
+[7:01 - 7:05]  these rebates slash kickbacks from pharmaceutical companies.
+[7:05 - 7:06]  That can happen.
+[7:07 - 7:11]  During the Trump administration, they said, we want to stop that, but it's not going to
+[7:11 - 7:15]  be stopped until 2027, five years from now.
+[7:15 - 7:20]  Well, this law pushes that back even further to 10 years from now.
+[7:20 - 7:33]  In 2032, then PBMs are not going to be able to be exempt from the anti-kickback statute anymore.
+[7:33 - 7:42]  Therefore, if this actually happens, in 2032, PBMs will no longer be allowed to receive rebates
+[7:42 - 7:44]  or kickbacks from pharmaceutical companies.
+[7:44 - 7:53]  So they've essentially given the PBM industry a sort of a 10-year extension on continuing
+[7:53 - 7:56]  on making money this way on their Medicare Part D.
+[7:56 - 7:58]  Now, this only applies to Medicare Part D.
+[7:58 - 8:04]  This doesn't apply to any of the PBM payments that pharmaceutical companies give them for
+[8:04 - 8:04]  commercial folks.
+[8:05 - 8:06]  This is just for the government folks.
+[8:06 - 8:10]  Now, overall, so it's hugely confusing, right?
+[8:10 - 8:11]  A lot of stuff going on here.
+[8:12 - 8:16]  Helpful to just understand what's in the legislation and when it takes effect.
+[8:17 - 8:18]  What's the point?
+[8:19 - 8:24]  Obviously, I'll leave a link to a fantastic article from the Purchasers Business Group on
+[8:24 - 8:29]  Health, which, of course, advocates for self-funded employers and their employees on their health
+[8:29 - 8:29]  funds.
+[8:29 - 8:36]  They're like, look, there's been cost shifting in the healthcare industry for our hospitals
+[8:36 - 8:39]  where Medicare sets reimbursement for hospitals.
+[8:39 - 8:42]  And the hospitals are like, okay, we're just going to turn around and we're going to charge
+[8:42 - 8:43]  self-funded employers more.
+[8:43 - 8:49]  And the Purchasers Business Group on Health is saying, hey, look, the same thing is going
+[8:49 - 8:51]  to happen with prescriptions.
+[8:51 - 8:55]  You're going to sort of limit these payments on the prescription side through a variety of
+[8:55 - 8:56]  these natinations here.
+[8:57 - 9:00]  And so as a result, the pharmaceutical companies are just going to turn around and charge self-funded
+[9:00 - 9:08]  employers more to, quote unquote, cross-subsidize from the commercially insured folks to cover
+[9:08 - 9:12]  the loss of revenue from their government payer.
+[9:13 - 9:14]  So is that going to happen?
+[9:15 - 9:16]  I don't know.
+[9:16 - 9:20]  But I don't have a crystal ball.
+[9:20 - 9:21]  Nobody has a crystal ball.
+[9:21 - 9:23]  It's a reasonable conclusion.
+[9:23 - 9:35]  However, keep in mind, the overall goal of many in Washington, D.C. is to expand Medicare.
+[9:35 - 9:35]  Okay?
+[9:36 - 9:42]  So in order to expand Medicare, it's helpful to make Medicare as attractive as possible.
+[9:42 - 9:47]  Well, all of this, all of these healthcare changes in the Inflation Reduction Act make
+[9:47 - 9:49]  Medicare more attractive.
+[9:49 - 9:52]  They make Medicare Part D more attractive.
+[9:52 - 9:56]  They make ACA plans more attractive, right?
+[9:57 - 10:01]  One of the goals that President Biden, whether you agree with this or not, that's not the point.
+[10:01 - 10:05]  The point is, is that one of the goals that President Biden had was to, one of the ways
+[10:05 - 10:10]  to expand Medicare was to decrease the age of Medicare eligibility from 65 to 60.
+[10:10 - 10:13]  Well, more people are going to be in favor.
+[10:13 - 10:19]  In fact, a lot of businesses would probably be in favor of reducing the Medicare age from
+[10:19 - 10:24]  65 to 60 so that they can get on this better health plan.
+[10:24 - 10:26]  They're like, my employer-sponsored health plan.
+[10:26 - 10:27]  It's really expensive, et cetera, et cetera.
+[10:27 - 10:29]  This government plan seems pretty good.
+[10:30 - 10:34]  Well, the more attractive the government can make that plan, then the more people and,
+[10:34 - 10:39]  frankly, the more businesses that are going to be in favor of expanding Medicare coverage.
+[10:39 - 10:41]  Now, who doesn't like this?
+[10:41 - 10:44]  Who is not directly involved in this that doesn't like this?
+[10:44 - 10:49]  It's actually the hospitals in America because the largest force against the expansion of
+[10:49 - 10:56]  Medicare and the reduction of the Medicare beneficiary age from 65 to 60 are hospitals in America
+[10:56 - 11:03]  because the Medicare reimbursement for those 60 to 65-year-olds is much lower than the commercial
+[11:03 - 11:05]  insurance reimbursement that they currently get today.
+[11:05 - 11:10]  And which folks on commercially insured plans drive more of the claim cost?
+[11:10 - 11:11]  It's the older folks.
+[11:11 - 11:15]  It's the people over 45, the people over 55, the people between the ages of 60 and 65.
+[11:16 - 11:22]  And so just know that the Inflation Reduction Act is not an island in of itself.
+[11:22 - 11:31]  It's part of an overall multi-year, likely multi-decade strategy to make government-financed
+[11:31 - 11:37]  health care more attractive so that it can, frankly, be expanded.
+[11:38 - 11:39]  Now, that's just my take on it.
+[11:39 - 11:40]  You could disagree with it.
+[11:40 - 11:41]  That's totally fine.
+[11:41 - 11:43]  But that's what I wanted to share with you today.
+[11:43 - 11:44]  Thank you for watching a Healthcare Z.

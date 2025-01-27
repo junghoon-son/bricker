@@ -1,0 +1,136 @@
+Title: Cancer is Highly Variable: Severity and Cost Explained
+URL: https://www.youtube.com/watch?v=Nl7WFVSk5ig
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is cancer is variable by its severity and by its cost. So if you work in healthcare administration or you work in health insurance or you work in employee benefits or HR and you're essentially a non-clinical person but you work with healthcare, then it's super important for you to understand cancer, right? So from a disease standpoint, we've always talked about the large three disease classifications that drive the highest degree of healthcare cost being musculoskeletal, cardiovascular, and cancer. And here on A Healthcare Z, we don't talk a lot about cancer, but there's some basic cancer terminology that you need to understand in order, frankly, to just do your job better, okay? So first of all, at a very basic level, we need to understand what is cancer, right? It is uncontrolled, oftentimes malfunctioning cell growth. So it's uncontrolled cell growth. So the cells are growing and those cells that are growing uncontrollably in a way that they shouldn't be growing, those cells also don't function the right way. And that's why it's such a devastating disease that can obviously lead to death, okay? Now, there's different ways to classify cancers, okay? And you hear these terms thrown around, so I'm going to explain them. First of all is the cancer grade, which is what it looks like under the microscope to the pathologist. And there are two grades. There's high grade, which means that the cells are poorly differentiated, which means that the cells look really abnormal, okay? So high grade is bad. And then there is low grade, which means that the cells are highly differentiated. And by differentiated, meaning they look like the cells they're supposed to look like. They're supposed to look like a skin cell. They're supposed to look like a colon cell. So low grade is better, all right? Now, there's also the stage. And the stage is broken down into what is referred to as the TNM system. And T stands for tumor, N stands for nodes, as in lymph nodes, and M is for metastasis. And it has to do with how big the cancer has become locally, that's the tumor, N if it has spread to the lymph nodes, and how many lymph nodes it's spread to. And then M if it has metastasized or spread to other organs in the body. So oftentimes, let's say colon cancer will metastasize to either the liver or the lungs. It also can go to the lymph nodes that are in the abdominal cavity, or it can be just a localized tumor in one specific area of the colon. Now, that's fine. But you might say, hey, Dr. Bricker, that's fine. But like when I hear about cancer, I hear about stage four cancer and stage one cancer. So where do those numbers come from? So what they do by each individual cancer, breast cancer, colon cancer, lung cancer, is they take the, and by the way, there's T1, 2, 3, and 4, depending upon how big the tumor is. There's nodes, 1, 2, 3, and 4. And there's metastasis, 1, 2, 3, depending upon how severe the tumor is, how many nodes it's gone to, and how many organ systems it's metastasized to. So by cancer, they then roll those TNM scores up into stage one, or stage two, or stage three, or stage four. And typically, stage one is like just a tumor, nodes are negative, no metastasis. Stage two is like a larger tumor, and no nodes, and no metastasis. Stage three is oftentimes a really large tumor. Yes, it's spread to the nodes, but there's no metastasis. And then stage four is there's a tumor, there's nodes, and there's metastasis. It varies by cancer type, but that's how you translate the tumor, the nodes, and the metastasis into that one through four, stage that you hear about. So how do you put the grade and the stage together? The worst type of cancer that you could possibly have is a high grade, right, because it's poorly differentiated, the cells are like really cancerous, and it's metastatic. And so what cancer oftentimes falls into that category is ovarian cancer. Oftentimes, it will grow inside the abdominal cavity, and become, and it's very high grade, and it's already spread to places like the liver or even the brain. And that's why ovarian cancer is so lethal. And then sort of your best case scenario for cancer would be a very low grade cancer. In other words, it's highly differentiated. It looks a lot like normal cells. It's only a little different. And it has a very, and it's only the tumor. So it would be only like stage one, okay? And that would be like a basal cell carcinoma of the skin, right? So basal cell carcinoma of the skin, it's like barely cancer. It's like a little like wimpy cancer, okay? Now, another term that you'll hear about is in situ. And in situ means that the cancer cells are on a microscopic level, very highly localized within the tissue. So not only has it not formed a tumor that you can see or that you can feel, but also at the microscopic level, it has stayed very contained. It hasn't broken through something called the lamina propria. So it's sort of boxed in, if you will, okay? So that's important because the most common type of breast cancer is what's referred to as DCIS, ductal carcinoma in situ. So there's two big types of breast cancer. There's ductal carcinoma and lobular carcinoma, okay? And then ductal is more common than lobular. And then the most common type of ductal is this ductal carcinoma in situ. So it's the ducts used for lactation and milk production that actually become cancerous in the breast. And 20% of all breast cancers are DCIS, which means they're very microscopically localized to just the duct. And that's a good thing, okay? Now, what that means is, is that the cancer, if it's DCIS, ductal carcinoma in situ, that means the treatment is just a typically surgical lumpectomy where they only need to remove a portion of the breast surgically. And then in certain situations, then the woman needs to undergo radiation. And in some situations, you don't even need to go under radiation. And the great news is, is that if it's ductal carcinoma in situ, then there's no need for chemotherapy. No need for the nausea or the weight loss or the hair falling out or the fatigue or the anemia. Okay. So for not all cancers have to get chemo, right? If you cut out a basal cell carcinoma, there's no, you don't get chemo at all. If you have DCIS breast cancer, you don't get chemo. Okay. So yeah, you might take tamoxifen or one of those pills, but that's hormone therapy. That's, that's different than actual like IV chemo. If you have like stage, you know, one, two, three, or four breast cancer, which is separate from DCIS, then you might actually need the chemo, which is something like, uh, adriamycin, cyclophosphamide, paclitaxel as well. Okay. Um, next, you often hear these different sort of words associated with like the naming of cancer. And we're going to go through those names, right? So the first one is carcinoma, right? So we talked about ductal carcinoma in situ. We talked about basal cell carcinoma. Okay. So carcinomas are solid tumors. So tumors of your solid organs of your body that arise from the, arise from epithelial cells and the epithelial cells are the lining or the covering of an organ or of a duct. Okay. So next we have sarcomas and sarcomas are cancers of the bone or the muscle or the fat. In other words, these are the connective tissues. Now sarcomas tend to not metastasize. They tend to just grow more locally, but they can still be lethal. I had a friend of mine from college who died of a sarcoma at the age of 35. So they can still be very serious. Okay. Next up we have leukemia, which is referred to as like a liquid tumor. So this is a tumor of your bone marrow. So the tumor manifests itself as your blood being thrown all out of whack, either because your white blood cell count is super high and your red blood cell count is super low, or sometimes your white blood cell count and your red blood cell count are super low. So there's a, but those are liquid tumors. Okay. Not solid tumors. And then there's lymphomas, which is a cancer of the lymph nodes or also the spleen, which is part of your immune system as well. Oftentimes that's where you hear like Hodgkin's and Nodg-Hodkin's lymphomas, right? There's also some mixed tumors as well, but these are the major classifications when you hear those words thrown around. Okay. Now, why is this important? Okay. There's a number of reasons why you would practically use this. When you are looking at claims data, you might see that some cancers are very large claims and other cancers are not. Let me give you some example. A basal cell carcinoma, you're only going to have the dermatologist remove it like in the office. Maybe that's a couple hundred bucks, 250 bucks to remove it. And then you're going to have the pathologist examine it under the microscope to make sure that it's basal cell carcinoma, not something else. All told might cost $400. Okay. So very low cost. Likewise, if a person has certain types of leukemia, it may require a bone marrow transplant and a bone marrow transplant costs over a million dollars. So there is a, so, so healthcare costs are a function of the cost per unit times the number of units. Well, in some cases, the cost per unit and the number of units is very low. And in other situations, the cost per unit and the number of units, right? Because the bone marrow transplant, it's got a whole bunch of different steps. It's got a long hospitalization. It's got a whole bunch of follow up afterwards. So you have a very high cost per unit and you have a large number of units. Okay. So cancer is highly heterogeneous in terms of its impact on your employees and impact on their family members in terms of impact on your claim costs on your plan. It is highly variable. Cancer is not one thing. It's, it's not a monolith. It's highly heterogeneous. Okay. The second reason you'd want to know about this is oftentimes if you use a stop loss carrier, um, or even if you don't use a stop loss carrier, you would want to know if claims are quote unquote ongoing or not. And that's going to impact, let's say your stop loss renewal. And that's where, um, the stop loss insurance to be like, look, there's, here's a case of breast cancer that's ongoing. And because you watched this video, you'll be like, yeah, but it was Dr. Carcinoma in C2 and the woman has already undergone her radiation and she had her surgery. So like that case is done. So like, it doesn't really make clinical sense for you to say to me from a risk perspective that this is an ongoing case because it's not. Whereas if you had somebody who maybe states through or states for breast cancer, then it would likely be ongoing. Okay. So in terms of your future risk and its implications for your stop loss premium, specifically your stop, your specific stop loss premiums, then you would want to know about this as well. Okay. Finally, the last piece that I would say to you is that, um, sometimes employers that are sort of more advanced or forward thinking, if you will, they put into place a second opinion program where they might travel to a, uh, center of excellence, um, for cancer. And it's important to note that not all cancers should go to a center of excellence. One might argue that a basal cell carcinoma, there's no reason somebody get on a plane for basal cell cell carcinoma. One might argue that for dental carcinoma in situ, one might not get on a plane to go to a center of excellence. Because the treatment is very, it's highly standardized. Okay. How would you determine which cancer is two or two not. Actually, the center that you're referring to, so Walmart uses Mayo, it would be good to talk to that center and be like, okay, what are the, what are the list of cancers that would be good for you to weigh in for a second opinion on? And what are ones that would specifically not be good for you to weigh in on? And then what are some of the ones that are kind of in between? And that would be a very, um, useful conversation to have if you are considering a cancer second opinion program. So that's my point on cancer today. Thank you for watching a healthcare seat.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:06]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:06 - 0:15]  cancer is variable by its severity and by its cost. So if you work in healthcare administration
+[0:15 - 0:19]  or you work in health insurance or you work in employee benefits or HR and you're essentially
+[0:19 - 0:24]  a non-clinical person but you work with healthcare, then it's super important for you to understand
+[0:24 - 0:29]  cancer, right? So from a disease standpoint, we've always talked about the large three disease
+[0:29 - 0:34]  classifications that drive the highest degree of healthcare cost being musculoskeletal,
+[0:34 - 0:40]  cardiovascular, and cancer. And here on A Healthcare Z, we don't talk a lot about cancer,
+[0:40 - 0:46]  but there's some basic cancer terminology that you need to understand in order, frankly,
+[0:46 - 0:51]  to just do your job better, okay? So first of all, at a very basic level, we need to understand
+[0:51 - 0:58]  what is cancer, right? It is uncontrolled, oftentimes malfunctioning cell growth. So it's uncontrolled
+[0:58 - 1:03]  cell growth. So the cells are growing and those cells that are growing uncontrollably in a way
+[1:03 - 1:07]  that they shouldn't be growing, those cells also don't function the right way. And that's why it's
+[1:07 - 1:14]  such a devastating disease that can obviously lead to death, okay? Now, there's different ways to
+[1:14 - 1:19]  classify cancers, okay? And you hear these terms thrown around, so I'm going to explain them.
+[1:19 - 1:25]  First of all is the cancer grade, which is what it looks like under the microscope to the pathologist.
+[1:25 - 1:33]  And there are two grades. There's high grade, which means that the cells are poorly differentiated,
+[1:33 - 1:39]  which means that the cells look really abnormal, okay? So high grade is bad. And then there is low
+[1:39 - 1:45]  grade, which means that the cells are highly differentiated. And by differentiated, meaning
+[1:45 - 1:51]  they look like the cells they're supposed to look like. They're supposed to look like a skin cell.
+[1:51 - 2:00]  They're supposed to look like a colon cell. So low grade is better, all right? Now, there's also
+[2:00 - 2:10]  the stage. And the stage is broken down into what is referred to as the TNM system. And T stands for
+[2:10 - 2:18]  tumor, N stands for nodes, as in lymph nodes, and M is for metastasis. And it has to do with
+[2:18 - 2:25]  how big the cancer has become locally, that's the tumor, N if it has spread to the lymph nodes,
+[2:25 - 2:32]  and how many lymph nodes it's spread to. And then M if it has metastasized or spread to other organs
+[2:32 - 2:40]  in the body. So oftentimes, let's say colon cancer will metastasize to either the liver or the lungs.
+[2:40 - 2:47]  It also can go to the lymph nodes that are in the abdominal cavity, or it can be just a localized
+[2:47 - 2:54]  tumor in one specific area of the colon. Now, that's fine. But you might say, hey, Dr. Bricker,
+[2:54 - 2:59]  that's fine. But like when I hear about cancer, I hear about stage four cancer and stage one cancer.
+[3:00 - 3:05]  So where do those numbers come from? So what they do by each individual cancer, breast cancer,
+[3:05 - 3:10]  colon cancer, lung cancer, is they take the, and by the way, there's T1, 2, 3, and 4, depending
+[3:10 - 3:16]  upon how big the tumor is. There's nodes, 1, 2, 3, and 4. And there's metastasis, 1, 2, 3, depending
+[3:16 - 3:22]  upon how severe the tumor is, how many nodes it's gone to, and how many organ systems it's
+[3:22 - 3:32]  metastasized to. So by cancer, they then roll those TNM scores up into stage one, or stage two,
+[3:32 - 3:38]  or stage three, or stage four. And typically, stage one is like just a tumor, nodes are negative,
+[3:38 - 3:45]  no metastasis. Stage two is like a larger tumor, and no nodes, and no metastasis. Stage three is
+[3:45 - 3:50]  oftentimes a really large tumor. Yes, it's spread to the nodes, but there's no metastasis. And then
+[3:50 - 3:56]  stage four is there's a tumor, there's nodes, and there's metastasis. It varies by cancer type,
+[3:56 - 4:02]  but that's how you translate the tumor, the nodes, and the metastasis into that one through four,
+[4:02 - 4:07]  stage that you hear about. So how do you put the grade and the stage together? The worst type of
+[4:07 - 4:13]  cancer that you could possibly have is a high grade, right, because it's poorly differentiated,
+[4:13 - 4:20]  the cells are like really cancerous, and it's metastatic. And so what cancer oftentimes falls
+[4:20 - 4:25]  into that category is ovarian cancer. Oftentimes, it will grow inside the abdominal cavity,
+[4:25 - 4:32]  and become, and it's very high grade, and it's already spread to places like the liver or even the
+[4:32 - 4:40]  brain. And that's why ovarian cancer is so lethal. And then sort of your best case scenario for cancer
+[4:40 - 4:44]  would be a very low grade cancer. In other words, it's highly differentiated. It looks a lot like
+[4:44 - 4:53]  normal cells. It's only a little different. And it has a very, and it's only the tumor. So it would
+[4:53 - 5:02]  be only like stage one, okay? And that would be like a basal cell carcinoma of the skin, right?
+[5:02 - 5:08]  So basal cell carcinoma of the skin, it's like barely cancer. It's like a little like wimpy cancer,
+[5:08 - 5:18]  okay? Now, another term that you'll hear about is in situ. And in situ means that the cancer cells
+[5:18 - 5:25]  are on a microscopic level, very highly localized within the tissue. So not only has it not formed
+[5:25 - 5:32]  a tumor that you can see or that you can feel, but also at the microscopic level, it has stayed
+[5:32 - 5:37]  very contained. It hasn't broken through something called the lamina propria. So it's sort of boxed in,
+[5:37 - 5:44]  if you will, okay? So that's important because the most common type of breast cancer is what's
+[5:44 - 5:50]  referred to as DCIS, ductal carcinoma in situ. So there's two big types of breast cancer. There's
+[5:50 - 5:56]  ductal carcinoma and lobular carcinoma, okay? And then ductal is more common than lobular.
+[5:56 - 6:02]  And then the most common type of ductal is this ductal carcinoma in situ. So it's the ducts
+[6:02 - 6:08]  used for lactation and milk production that actually become cancerous in the breast. And
+[6:08 - 6:17]  20% of all breast cancers are DCIS, which means they're very microscopically localized to just
+[6:17 - 6:23]  the duct. And that's a good thing, okay? Now, what that means is, is that the cancer,
+[6:23 - 6:29]  if it's DCIS, ductal carcinoma in situ, that means the treatment is just a typically surgical
+[6:29 - 6:33]  lumpectomy where they only need to remove a portion of the breast surgically. And then
+[6:33 - 6:39]  in certain situations, then the woman needs to undergo radiation. And in some situations,
+[6:39 - 6:42]  you don't even need to go under radiation. And the great news is, is that if it's ductal
+[6:42 - 6:48]  carcinoma in situ, then there's no need for chemotherapy. No need for the nausea or the weight
+[6:48 - 6:54]  loss or the hair falling out or the fatigue or the anemia. Okay. So for not all cancers have to
+[6:54 - 6:59]  get chemo, right? If you cut out a basal cell carcinoma, there's no, you don't get chemo at all.
+[6:59 - 7:05]  If you have DCIS breast cancer, you don't get chemo. Okay. So yeah, you might take tamoxifen or one of
+[7:05 - 7:10]  those pills, but that's hormone therapy. That's, that's different than actual like IV chemo. If you
+[7:10 - 7:14]  have like stage, you know, one, two, three, or four breast cancer, which is separate from DCIS,
+[7:14 - 7:18]  then you might actually need the chemo, which is something like, uh, adriamycin,
+[7:18 - 7:25]  cyclophosphamide, paclitaxel as well. Okay. Um, next, you often hear these different sort of
+[7:25 - 7:31]  words associated with like the naming of cancer. And we're going to go through those names,
+[7:31 - 7:35]  right? So the first one is carcinoma, right? So we talked about ductal carcinoma in situ.
+[7:35 - 7:42]  We talked about basal cell carcinoma. Okay. So carcinomas are solid tumors. So tumors of your solid
+[7:42 - 7:48]  organs of your body that arise from the, arise from epithelial cells and the epithelial cells
+[7:48 - 7:57]  are the lining or the covering of an organ or of a duct. Okay. So next we have sarcomas and sarcomas
+[7:57 - 8:03]  are cancers of the bone or the muscle or the fat. In other words, these are the connective tissues.
+[8:04 - 8:11]  Now sarcomas tend to not metastasize. They tend to just grow more locally, but they can still be lethal.
+[8:11 - 8:18]  I had a friend of mine from college who died of a sarcoma at the age of 35. So they can still be
+[8:18 - 8:25]  very serious. Okay. Next up we have leukemia, which is referred to as like a liquid tumor. So this is a
+[8:25 - 8:30]  tumor of your bone marrow. So the tumor manifests itself as your blood being thrown all out of whack,
+[8:30 - 8:34]  either because your white blood cell count is super high and your red blood cell count is super low,
+[8:34 - 8:38]  or sometimes your white blood cell count and your red blood cell count are super low. So there's a,
+[8:38 - 8:45]  but those are liquid tumors. Okay. Not solid tumors. And then there's lymphomas, which is a cancer of
+[8:45 - 8:51]  the lymph nodes or also the spleen, which is part of your immune system as well. Oftentimes that's
+[8:51 - 8:56]  where you hear like Hodgkin's and Nodg-Hodkin's lymphomas, right? There's also some mixed tumors
+[8:56 - 9:03]  as well, but these are the major classifications when you hear those words thrown around. Okay. Now,
+[9:03 - 9:08]  why is this important? Okay. There's a number of reasons why you would practically use this.
+[9:08 - 9:14]  When you are looking at claims data, you might see that some cancers are very large claims and
+[9:14 - 9:18]  other cancers are not. Let me give you some example. A basal cell carcinoma, you're only going
+[9:18 - 9:22]  to have the dermatologist remove it like in the office. Maybe that's a couple hundred bucks,
+[9:22 - 9:26]  250 bucks to remove it. And then you're going to have the pathologist examine it under the microscope
+[9:26 - 9:30]  to make sure that it's basal cell carcinoma, not something else. All told might cost $400.
+[9:30 - 9:38]  Okay. So very low cost. Likewise, if a person has certain types of leukemia, it may require a bone
+[9:38 - 9:43]  marrow transplant and a bone marrow transplant costs over a million dollars. So there is a, so,
+[9:43 - 9:48]  so healthcare costs are a function of the cost per unit times the number of units. Well, in some cases,
+[9:49 - 9:54]  the cost per unit and the number of units is very low. And in other situations, the cost per unit and
+[9:54 - 9:58]  the number of units, right? Because the bone marrow transplant, it's got a whole bunch of different
+[9:58 - 10:03]  steps. It's got a long hospitalization. It's got a whole bunch of follow up afterwards. So you have
+[10:03 - 10:11]  a very high cost per unit and you have a large number of units. Okay. So cancer is highly heterogeneous
+[10:11 - 10:17]  in terms of its impact on your employees and impact on their family members in terms of impact on your
+[10:17 - 10:22]  claim costs on your plan. It is highly variable. Cancer is not one thing. It's, it's not a monolith.
+[10:22 - 10:28]  It's highly heterogeneous. Okay. The second reason you'd want to know about this is oftentimes if you
+[10:28 - 10:33]  use a stop loss carrier, um, or even if you don't use a stop loss carrier, you would want to know if
+[10:33 - 10:38]  claims are quote unquote ongoing or not. And that's going to impact, let's say your stop loss renewal.
+[10:38 - 10:43]  And that's where, um, the stop loss insurance to be like, look, there's, here's a case of breast cancer
+[10:43 - 10:48]  that's ongoing. And because you watched this video, you'll be like, yeah, but it was Dr. Carcinoma in
+[10:48 - 10:54]  C2 and the woman has already undergone her radiation and she had her surgery. So like that
+[10:54 - 10:58]  case is done. So like, it doesn't really make clinical sense for you to say to me from a risk
+[10:58 - 11:04]  perspective that this is an ongoing case because it's not. Whereas if you had somebody who maybe
+[11:04 - 11:10]  states through or states for breast cancer, then it would likely be ongoing. Okay. So in terms of
+[11:10 - 11:16]  your future risk and its implications for your stop loss premium, specifically your stop, your specific
+[11:16 - 11:20]  stop loss premiums, then you would want to know about this as well. Okay. Finally, the last piece
+[11:20 - 11:26]  that I would say to you is that, um, sometimes employers that are sort of more advanced or forward
+[11:26 - 11:32]  thinking, if you will, they put into place a second opinion program where they might travel to a, uh,
+[11:32 - 11:40]  center of excellence, um, for cancer. And it's important to note that not all cancers should go to a
+[11:40 - 11:45]  center of excellence. One might argue that a basal cell carcinoma, there's no reason somebody get on a plane for
+[11:45 - 11:50]  basal cell cell carcinoma. One might argue that for dental carcinoma in situ, one might not get on a
+[11:50 - 11:55]  plane to go to a center of excellence. Because the treatment is very, it's highly standardized.
+[11:55 - 12:01]  Okay. How would you determine which cancer is two or two not. Actually, the center that you're referring
+[12:01 - 12:06]  to, so Walmart uses Mayo, it would be good to talk to that center and be like, okay, what are the,
+[12:06 - 12:13]  what are the list of cancers that would be good for you to weigh in for a second opinion on? And what are
+[12:13 - 12:17]  ones that would specifically not be good for you to weigh in on? And then what are some of the ones
+[12:17 - 12:23]  that are kind of in between? And that would be a very, um, useful conversation to have if you are
+[12:23 - 12:29]  considering a cancer second opinion program. So that's my point on cancer today. Thank you for
+[12:29 - 12:30]  watching a healthcare seat.

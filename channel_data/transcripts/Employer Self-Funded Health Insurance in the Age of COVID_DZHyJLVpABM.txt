@@ -1,0 +1,102 @@
+Title: Employer Self-Funded Health Insurance in the Age of COVID
+URL: https://www.youtube.com/watch?v=DZHyJLVpABM
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is self-funding in the age of coronavirus. Now, point number one, we have a graph here of self-funding over two decades. So, from 1998 to 2018 and the top line is the percent of employees that are on self-funded plans. And so, in 1998 it was 41% and over 20 years it grew to 59%, slow and steady increase. Now, the dotted line is the percent of employers that offered self-funded plans. And it went from 27% in 1998, slow and steady, up to 39% in 2018. Okay, so the number of employees is greater than the number of firms. It's because the much larger firms are the ones that tend to be more frequently self-funded, right? So, what's the point here? In there, we had a huge event. We had the Great Recession unemployment spiking to 10% and we had the passage of the Affordable Care Act in 2010. What did that do to self-funding? The answer is not that much. It was just a steady increase. There was no major change because of the recession and there was no major change because of the ACA. So, that is an important historical context to relate to coronavirus today. Alright, point number two is the percent of employees that are on self-funded plans by the group size. So, for groups that had greater than a thousand employees, 83% of those employees were on a self-funded plan. Why? Because very large employers, by and large, tend to be self-funded. Okay, that's new news. Everybody knows that. Okay, here we have what many would call the mid-market between 100 and 999 employees. Only 38% of those employees in those size firms are in self-funded plans because far fewer mid-market groups are self-funded. Many of them are still fully insured. And then finally, for groups under 100, only 14% are self-funded, of course, because the vast majority of groups that are under 100 are fully insured. Now, at Compass, we had a group as small as 30 that was self-funded. So, I have actually seen that. I've seen a ton of groups between 75 and 150 that are self-funded. And I've also seen a fully insured group of 800 employees. So, I have seen the game. Remember, Compass had over 2,000 employer clients. So, I've seen a lot. Alright, so, now, what are the reasons for this? What is the reasons, especially here in the mid-market, why does it drop off so much? Why does something that makes so much sense for a large employer of over 1,000, why does it not make so much sense for a mid-market employer? What is the reasons? So, I'm going to go through three. There's more than three reasons, but let me go through three of those reasons. One, there's much higher carrier margins, insurance carrier margins on fully insured business. Let's just take an example of a 200 employee company at $10,000 per employee per year, approximately. That would put their premium at $2 million per year. And if you gave them an 80% medical loss ratio, that means that the carrier would be able to hold on $400,000 of that $2 million in premium. Okay, that's a lot of money. If you thought of the carrier like Visa or MasterCard, that's like Visa or MasterCard keeping 20%. Okay, now, let's say they move to being self-funded. Then, you know, let's just say they're using a major carrier ASO. They're not going with local TPA. So, let's say major carrier ASO, PEPM, pretty high for ASO services, network access, PBM, yada, yada, yada. Let's say it's $35 PEPM all in. And then, of course, you've got to buy stop loss insurance. So, let's say, for example, a specific stop loss of $100,000 will get you a premium of about $100 per employee per month. And that's from a Mercer study survey, I should say. And I'll leave a link in the notes to that Mercer survey as well. And then the aggregate tends to be much less expensive, about $8 per employee per month. So, that gets you, if you do the math on that, that gets you to $84,000 a year off the ASO PEPM and gets you about $260,000 off the stop loss. So, you're talking $344,000 that the carrier, let's say you get the stop loss through the same carrier. That's only $344,000 that the carrier is being able to keep as opposed to $400,000, right? So, they don't make as much money. In turn, there is a much higher benefit consulting commission for keeping the group fully insured, right? So, let's just say they're on average getting, you know, in total 3%, whether it's 1.5% or 4%, you know, it varies, etc., etc. But then they're holding on to $60,000. I've seen many fully insured groups where the broker has like three meetings a year with the group and they do open enrollment. And for that, they get $60,000. I mean, that's like a full-time job for a year for a person and they're doing three meetings and open enrollment. Okay, so, listen, I'm not judging. I'm just saying that's what I've seen. Now, also too, there's a story that I'll leave in the link in the show notes, where Blue Cross Blue Shield in North Carolina was actually given $50,000 bonuses for keeping groups fully insured and not moving to self-funded. Or if they were self-funded and you moved them to fully insured, they give the broker a $50,000 bonus. Okay, so there's a lot more money to be made there for the broker consultant. Okay, and then I've also seen, of course, I've seen many broker consultants try so hard to get their clients to move to self-funding. I've literally been in the meeting with that group of 800 employees that was fully insured. I saw the broker, like, I don't want to say begging and pleading, but he was like really saying, look, you've got to look at self-funding. This is the right thing to do. This is what your peers do. And the CFO wasn't having it. There's huge employer resistance sometimes to self-funding out of fear. They just don't know, they don't have any experience in it, and they're scared that if they switch and something goes wrong, they're going to lose their job. Okay, so right, wrong, or indifferent, you could probably think of some more reasons than this, but these are reasons that I've seen. So what's the point? In the age of coronavirus, there's probably going to be little rapid change. I mean, one of the most effective things that an employer can do to be more cost-effective with their plan is the move to self-funding. Now, it's probably not going to, even with coronavirus, and even with unemployment, like 20%, like, it's probably not going to be rapid change if the previous trend continues. And then two, the ball's really in the employer court, okay? There's just so many broker consultants that I've seen that actually know a lot about self-funding, and they're trying to get their employer clients to do it. I think the ball's really in the employer's court to actually make the change. Now, here's something very interesting that I've seen, is that if there are new executives in mid-market employers that came from large-market employers, and they've either been laid off in either HR or finance, or they've had to move to a new part of the country, oftentimes because their spouse got a new job, and they just, together, they both went to that new part of the country. And so they bring all the experience of this large group market in self-funding, and they bring it to the mid-market employer and be like, look, we've got 400 employees, we're fully insured, that's crazy, we've got to move to self-funding. So you need, you essentially need to have new people on the bus, and the most effective, and those new people on the bus have to know how to do self-funding. Those people typically come from the fully insured, excuse me, from the large market. Therefore, if with all of the layoffs that are happening, if they happen in HR and finance executives, and those folks can then be hired in mid-market companies, then I think you will see, on a case-by-case basis, an uptick in self-funding. And that's the point for today. Thank you for watching A Healthcare to See.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:08]  Today's topic is self-funding in the age of coronavirus.
+[0:08 - 0:15]  Now, point number one, we have a graph here of self-funding over two decades.
+[0:15 - 0:24]  So, from 1998 to 2018 and the top line is the percent of employees that are on self-funded plans.
+[0:24 - 0:31]  And so, in 1998 it was 41% and over 20 years it grew to 59%, slow and steady increase.
+[0:31 - 0:37]  Now, the dotted line is the percent of employers that offered self-funded plans.
+[0:37 - 0:45]  And it went from 27% in 1998, slow and steady, up to 39% in 2018.
+[0:45 - 0:48]  Okay, so the number of employees is greater than the number of firms.
+[0:48 - 0:54]  It's because the much larger firms are the ones that tend to be more frequently self-funded, right?
+[0:54 - 0:57]  So, what's the point here? In there, we had a huge event.
+[0:57 - 1:03]  We had the Great Recession unemployment spiking to 10% and we had the passage of the Affordable Care Act in 2010.
+[1:03 - 1:07]  What did that do to self-funding? The answer is not that much.
+[1:07 - 1:11]  It was just a steady increase. There was no major change because of the recession
+[1:11 - 1:14]  and there was no major change because of the ACA.
+[1:14 - 1:20]  So, that is an important historical context to relate to coronavirus today.
+[1:20 - 1:26]  Alright, point number two is the percent of employees that are on self-funded plans by the group size.
+[1:26 - 1:31]  So, for groups that had greater than a thousand employees, 83% of those employees were on a self-funded plan.
+[1:31 - 1:36]  Why? Because very large employers, by and large, tend to be self-funded.
+[1:36 - 1:37]  Okay, that's new news. Everybody knows that.
+[1:37 - 1:43]  Okay, here we have what many would call the mid-market between 100 and 999 employees.
+[1:43 - 1:53]  Only 38% of those employees in those size firms are in self-funded plans because far fewer mid-market groups are self-funded.
+[1:53 - 1:54]  Many of them are still fully insured.
+[1:54 - 2:03]  And then finally, for groups under 100, only 14% are self-funded, of course, because the vast majority of groups that are under 100 are fully insured.
+[2:03 - 2:07]  Now, at Compass, we had a group as small as 30 that was self-funded. So, I have actually seen that.
+[2:07 - 2:13]  I've seen a ton of groups between 75 and 150 that are self-funded.
+[2:13 - 2:18]  And I've also seen a fully insured group of 800 employees.
+[2:18 - 2:22]  So, I have seen the game. Remember, Compass had over 2,000 employer clients.
+[2:22 - 2:25]  So, I've seen a lot.
+[2:25 - 2:29]  Alright, so, now, what are the reasons for this?
+[2:29 - 2:34]  What is the reasons, especially here in the mid-market, why does it drop off so much?
+[2:34 - 2:43]  Why does something that makes so much sense for a large employer of over 1,000, why does it not make so much sense for a mid-market employer?
+[2:43 - 2:44]  What is the reasons?
+[2:44 - 2:46]  So, I'm going to go through three.
+[2:46 - 2:48]  There's more than three reasons, but let me go through three of those reasons.
+[2:48 - 2:53]  One, there's much higher carrier margins, insurance carrier margins on fully insured business.
+[2:53 - 2:59]  Let's just take an example of a 200 employee company at $10,000 per employee per year, approximately.
+[2:59 - 3:03]  That would put their premium at $2 million per year.
+[3:03 - 3:11]  And if you gave them an 80% medical loss ratio, that means that the carrier would be able to hold on $400,000 of that $2 million in premium.
+[3:11 - 3:13]  Okay, that's a lot of money.
+[3:13 - 3:20]  If you thought of the carrier like Visa or MasterCard, that's like Visa or MasterCard keeping 20%.
+[3:20 - 3:24]  Okay, now, let's say they move to being self-funded.
+[3:24 - 3:27]  Then, you know, let's just say they're using a major carrier ASO.
+[3:27 - 3:28]  They're not going with local TPA.
+[3:28 - 3:34]  So, let's say major carrier ASO, PEPM, pretty high for ASO services, network access, PBM, yada, yada, yada.
+[3:34 - 3:37]  Let's say it's $35 PEPM all in.
+[3:37 - 3:39]  And then, of course, you've got to buy stop loss insurance.
+[3:39 - 3:48]  So, let's say, for example, a specific stop loss of $100,000 will get you a premium of about $100 per employee per month.
+[3:48 - 3:51]  And that's from a Mercer study survey, I should say.
+[3:51 - 3:54]  And I'll leave a link in the notes to that Mercer survey as well.
+[3:54 - 3:59]  And then the aggregate tends to be much less expensive, about $8 per employee per month.
+[3:59 - 4:09]  So, that gets you, if you do the math on that, that gets you to $84,000 a year off the ASO PEPM and gets you about $260,000 off the stop loss.
+[4:09 - 4:13]  So, you're talking $344,000 that the carrier, let's say you get the stop loss through the same carrier.
+[4:13 - 4:19]  That's only $344,000 that the carrier is being able to keep as opposed to $400,000, right?
+[4:19 - 4:21]  So, they don't make as much money.
+[4:21 - 4:27]  In turn, there is a much higher benefit consulting commission for keeping the group fully insured, right?
+[4:27 - 4:35]  So, let's just say they're on average getting, you know, in total 3%, whether it's 1.5% or 4%, you know, it varies, etc., etc.
+[4:35 - 4:38]  But then they're holding on to $60,000.
+[4:38 - 4:47]  I've seen many fully insured groups where the broker has like three meetings a year with the group and they do open enrollment.
+[4:47 - 4:49]  And for that, they get $60,000.
+[4:49 - 4:55]  I mean, that's like a full-time job for a year for a person and they're doing three meetings and open enrollment.
+[4:55 - 4:57]  Okay, so, listen, I'm not judging.
+[4:57 - 4:59]  I'm just saying that's what I've seen.
+[4:59 - 5:03]  Now, also too, there's a story that I'll leave in the link in the show notes, where Blue Cross Blue Shield
+[5:03 - 5:10]  in North Carolina was actually given $50,000 bonuses for keeping groups fully insured and not moving to self-funded.
+[5:10 - 5:14]  Or if they were self-funded and you moved them to fully insured, they give the broker a $50,000 bonus.
+[5:14 - 5:18]  Okay, so there's a lot more money to be made there for the broker consultant.
+[5:18 - 5:28]  Okay, and then I've also seen, of course, I've seen many broker consultants try so hard to get their clients to move to self-funding.
+[5:28 - 5:32]  I've literally been in the meeting with that group of 800 employees that was fully insured.
+[5:32 - 5:38]  I saw the broker, like, I don't want to say begging and pleading, but he was like really saying, look, you've got to look at self-funding.
+[5:38 - 5:40]  This is the right thing to do.
+[5:40 - 5:42]  This is what your peers do.
+[5:42 - 5:44]  And the CFO wasn't having it.
+[5:44 - 5:50]  There's huge employer resistance sometimes to self-funding out of fear.
+[5:50 - 5:58]  They just don't know, they don't have any experience in it, and they're scared that if they switch and something goes wrong, they're going to lose their job.
+[5:58 - 6:04]  Okay, so right, wrong, or indifferent, you could probably think of some more reasons than this, but these are reasons that I've seen.
+[6:04 - 6:06]  So what's the point?
+[6:06 - 6:10]  In the age of coronavirus, there's probably going to be little rapid change.
+[6:10 - 6:16]  I mean, one of the most effective things that an employer can do to be more cost-effective with their plan is the move to self-funding.
+[6:16 - 6:26]  Now, it's probably not going to, even with coronavirus, and even with unemployment, like 20%, like, it's probably not going to be rapid change if the previous trend continues.
+[6:26 - 6:30]  And then two, the ball's really in the employer court, okay?
+[6:30 - 6:37]  There's just so many broker consultants that I've seen that actually know a lot about self-funding, and they're trying to get their employer clients to do it.
+[6:37 - 6:41]  I think the ball's really in the employer's court to actually make the change.
+[6:41 - 6:50]  Now, here's something very interesting that I've seen, is that if there are new executives in mid-market employers that came from large-market employers,
+[6:50 - 6:56]  and they've either been laid off in either HR or finance, or they've had to move to a new part of the country,
+[6:56 - 7:01]  oftentimes because their spouse got a new job, and they just, together, they both went to that new part of the country.
+[7:01 - 7:07]  And so they bring all the experience of this large group market in self-funding, and they bring it to the mid-market employer and be like,
+[7:07 - 7:13]  look, we've got 400 employees, we're fully insured, that's crazy, we've got to move to self-funding.
+[7:13 - 7:20]  So you need, you essentially need to have new people on the bus, and the most effective, and those new people on the bus have to know how to do self-funding.
+[7:20 - 7:24]  Those people typically come from the fully insured, excuse me, from the large market.
+[7:24 - 7:31]  Therefore, if with all of the layoffs that are happening, if they happen in HR and finance executives,
+[7:31 - 7:41]  and those folks can then be hired in mid-market companies, then I think you will see, on a case-by-case basis, an uptick in self-funding.
+[7:41 - 7:44]  And that's the point for today. Thank you for watching A Healthcare to See.

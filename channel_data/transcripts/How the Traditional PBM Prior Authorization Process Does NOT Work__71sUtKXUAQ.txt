@@ -1,0 +1,71 @@
+Title: How the Traditional PBM Prior Authorization Process Does NOT Work
+URL: https://www.youtube.com/watch?v=_71sUtKXUAQ
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Traditional PBMs are a real pain for doctors who simply want to deliver the best care possible for their patients. Today, I'm going to open up the black box in which traditional PBMs operate. I'm Dr. Eric Bricker, and I'm also a healthcare finance expert. I know how doctors get taken advantage of financially, and that's why I've partnered with KnowMeHealth to share with you what I know. This is Healthcare Uncovered. Traditional pharmacy benefit managers, more commonly known simply as PBMs, are the departments within big health insurance companies that control whether or not a medication will be paid for. The big three in this space are CVS Caremark, Express Scripts, and OptumRx. Here's how the process works, or at least should work, or actually doesn't work. First, the doctor must determine if a medication needs prior authorization. Second, the doctor must submit the priorization either by fax or an online submission form. Third, the prior authorization tech at the PBM needs to enter the information from the fax into their own prior authorization system. I'm not making this up! Then, a pharmacist at the PBM reviews the prior authorization request. If the request is approved, the medication can be filled and the pharmacy will be paid. If the request is denied, the reason for the denial is sent back to the doctor. If the doctor disagrees with the denial, which is usually the case, the request can be escalated to a medical director at the PBM. Then, all bets are off. But, assuming things go fine, even then, the prior authorizations can take one to three business days, which can delay patient care and potentially harm patients. In fact, 25% of doctors say prior authorizations have caused adverse health events in their patients. And 16% say that delays due to medication prior authorization have resulted in unnecessary patient hospitalizations. Yes, PBMs are making people fare worse, not better. But why do these medication prior authorizations exist in the first place? When health insurance companies contract with employers and governments, they tell them that they will decrease over-prescribing by requiring prior authorization for certain medications. And employers and governments believe them. That's right. The most important thing is that the doctors are paying for healthcare in America are employers and governments, federal, state, and local. And these payers think doctors prescribe too many medications. Here's the thing, though. Are payers wrong to think doctors over-prescribe? Forty percent of older Americans take five or more prescription medications per day, which is a 300 percent increase in the last 20 years. Unfortunately, with more medications comes more adverse events. There are now over a quarter of a million hospitalizations every year for older Americans just because of an adverse drug event. So prior authorizations delay care and hurt patients. But too many prescriptions hurts patients, too. What to do? Some states are putting in so-called gold-card programs where if a doctor has been found to have his or her prior authorization requests consistently approved, they no longer are required to obtain prior authorizations in the future. These gold-card programs don't solve all the problems, but they are a start. I'm Dr. Eric Bricker, and this is Healthcare Uncovered, where we break down a broken system. Here you go. I'm Dr. Eric Bricker. I thank you. Bothrice two six here
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Traditional PBMs are a real pain for doctors who simply want to deliver the best care possible
+[0:05 - 0:06]  for their patients.
+[0:06 - 0:14]  Today, I'm going to open up the black box in which traditional PBMs operate.
+[0:14 - 0:18]  I'm Dr. Eric Bricker, and I'm also a healthcare finance expert.
+[0:18 - 0:23]  I know how doctors get taken advantage of financially, and that's why I've partnered with KnowMeHealth
+[0:23 - 0:26]  to share with you what I know.
+[0:26 - 0:27]  This is Healthcare Uncovered.
+[0:30 - 0:35]  Traditional pharmacy benefit managers, more commonly known simply as PBMs, are the departments
+[0:35 - 0:40]  within big health insurance companies that control whether or not a medication will be
+[0:40 - 0:41]  paid for.
+[0:41 - 0:48]  The big three in this space are CVS Caremark, Express Scripts, and OptumRx.
+[0:48 - 0:53]  Here's how the process works, or at least should work, or actually doesn't work.
+[0:53 - 0:58]  First, the doctor must determine if a medication needs prior authorization.
+[0:58 - 1:04]  Second, the doctor must submit the priorization either by fax or an online submission form.
+[1:04 - 1:11]  Third, the prior authorization tech at the PBM needs to enter the information from the
+[1:11 - 1:14]  fax into their own prior authorization system.
+[1:14 - 1:17]  I'm not making this up!
+[1:17 - 1:23]  Then, a pharmacist at the PBM reviews the prior authorization request.
+[1:23 - 1:28]  If the request is approved, the medication can be filled and the pharmacy will be paid.
+[1:28 - 1:34]  If the request is denied, the reason for the denial is sent back to the doctor.
+[1:34 - 1:40]  If the doctor disagrees with the denial, which is usually the case, the request can be escalated
+[1:40 - 1:43]  to a medical director at the PBM.
+[1:43 - 1:46]  Then, all bets are off.
+[1:46 - 1:51]  But, assuming things go fine, even then, the prior authorizations can take one to three business
+[1:51 - 1:55]  days, which can delay patient care and potentially harm patients.
+[1:55 - 2:02]  In fact, 25% of doctors say prior authorizations have caused adverse health events in their patients.
+[2:02 - 2:09]  And 16% say that delays due to medication prior authorization have resulted in unnecessary
+[2:09 - 2:11]  patient hospitalizations.
+[2:11 - 2:20]  Yes, PBMs are making people fare worse, not better.
+[2:20 - 2:24]  But why do these medication prior authorizations exist in the first place?
+[2:24 - 2:28]  When health insurance companies contract with employers and governments, they tell them
+[2:28 - 2:34]  that they will decrease over-prescribing by requiring prior authorization for certain medications.
+[2:34 - 2:37]  And employers and governments believe them.
+[2:37 - 2:38]  That's right.
+[2:38 - 2:40]  The most important thing is that the doctors are paying for healthcare in America are employers
+[2:40 - 2:43]  and governments, federal, state, and local.
+[2:43 - 2:48]  And these payers think doctors prescribe too many medications.
+[2:48 - 2:49]  Here's the thing, though.
+[2:49 - 2:52]  Are payers wrong to think doctors over-prescribe?
+[2:52 - 2:57]  Forty percent of older Americans take five or more prescription medications per day, which
+[2:57 - 3:00]  is a 300 percent increase in the last 20 years.
+[3:00 - 3:05]  Unfortunately, with more medications comes more adverse events.
+[3:05 - 3:12]  There are now over a quarter of a million hospitalizations every year for older Americans just because of
+[3:12 - 3:13]  an adverse drug event.
+[3:13 - 3:17]  So prior authorizations delay care and hurt patients.
+[3:17 - 3:20]  But too many prescriptions hurts patients, too.
+[3:20 - 3:22]  What to do?
+[3:22 - 3:26]  Some states are putting in so-called gold-card programs where if a doctor has been found to
+[3:26 - 3:33]  have his or her prior authorization requests consistently approved, they no longer are required to obtain
+[3:33 - 3:35]  prior authorizations in the future.
+[3:35 - 3:41]  These gold-card programs don't solve all the problems, but they are a start.
+[3:41 - 3:46]  I'm Dr. Eric Bricker, and this is Healthcare Uncovered, where we break down a broken system.
+[3:46 - 3:47]  Here you go.
+[3:47 - 3:49]  I'm Dr. Eric Bricker.
+[3:49 - 3:55]  I
+[3:55 - 3:56]  thank you.
+[3:56 - 3:57]  Both
+[3:57 - 3:58] rice
+[3:58 - 3:59]  two
+[4:01 - 4:13]  six
+[4:13 - 4:14]  here

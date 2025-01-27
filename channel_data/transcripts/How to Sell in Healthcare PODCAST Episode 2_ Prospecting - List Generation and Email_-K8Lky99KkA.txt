@@ -1,0 +1,488 @@
+Title: How to Sell in Healthcare PODCAST Episode 2: Prospecting - List Generation and Email
+URL: https://www.youtube.com/watch?v=-K8Lky99KkA
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker with A Healthcare Z Healthcare Finance Education, and this is the How to Sell in Healthcare podcast, episode two, where we are going to talk in more detail about prospecting. So at the end of episode one, we talked about the process of seeds, nets, and spears by small group, mid-market, and national accounts for prospecting. And so we're going to still talk about that, and we're going to take it industry segment by industry segment. So we're going to start with small group. And the prospecting for small group really does not involve directly prospecting the employer, but rather prospecting the broker, because as we talked about, it's really the broker that drives a lot of the decision-making for groups under 100. And I would say this even applies to the majority, not all, but the majority of mid-market employers as well. So what I say for prospecting in regards to seeds, nets, and spears is really going to be true for essentially all of small group, and I would say probably 75% of the mid-market. And the reason for that is because many of the individual broker producers within an insurance brokerage will have a book of business where they'll have a mix of both small group and mid-market clients. And so by working with that broker, they're going to then bring you into their small groups and their mid-market groups as opposed to, well, if you just go straight to the mid-market group, well, then you don't have that relationship with the broker who's then going to bring you into the small group. So you can kind of get two birds with one stone, if you will, by approaching the broker and the account manager in the brokerage space. Now, specifically in regards to the seeds, nets, and spears, and again, the seeds are your Rolodex. The nets is your outbound sort of mass prospecting, and your spears is your more targeted, focused, customized prospecting. But it's really the nets that are going to be what you use for small group and mid-market. You're going to use spears for the national accounts, and then you're obviously going to use your Rolodex with whatever you have. If you have a Rolodex, I started out without a Rolodex, without any seeds. So let's just talk about this in regards to no Rolodex, because if you don't have one, you can still be successful. So the process for prospecting involves interruption by email, interruption by phone, and interruption in person. And in order to interrupt, you have to interrupt. You have to have people to interrupt. You have to know who these people are. And Aaron Ross, in his books, talks about just locating the people, finding out who to talk to in and of itself is difficult. It's like at least 50% of the battle. So in other words, we're going to talk about list generation. In order to have people to email and people to call and people to meet with, you have to have a list of those people. Who are these people? And here's how you find those people. You go to, one, you use LinkedIn. And you, through your own, whatever connections you have, one, you just, whatever seeds you have, you just want to connect with everybody on LinkedIn that you've ever met in your life. And then what you can do is you can look at, and that's a first degree connection. In LinkedIn. And what you can do is you can look at your second and third degree connections. In other words, the first and second degree connections of all your first connections, you can then view. And you can see, you can't, they don't give you their phone number and their email address, but they give you their name and they give you where they work and they give you their job title and they give you the city where they work. So what you do then is you go, you need, you need a list of insurance brokerages. Okay. So some, maybe you know them, maybe you don't. What you do is you go to the business insurance magazine and you get the list of the 20 largest insurance, excuse me, 200 largest insurance brokerages in America. And you're going to go through and you're going to search your LinkedIn contacts by that brokerage. So let's just use Arthur Gallagher or AJG or Gallagher, Gallagher Benefit Services as an example. And it's hard because that firm goes by those three different names. So you have to use those three different search terms and that's going to be your keyword search term. And then what you're going to do is you're going to, and you don't even need the special version of LinkedIn to do this. You can just do this in the regular version, the free version of LinkedIn. And then what you're going to do is you're going to then search that up by geographic area. So it's going to give you 10 connections or a hundred connection or a thousand connections, depending upon how large your individual, your personal network is. So your personal network might be 250 people. Your second degree network might be 10,000 people. And your third degree network might be a hundred thousand people. And so you're not going to want to have all those people. You're going to want to have them by geographic area. So you're going to want to look them up and you can look them up by Atlanta, by Dallas, Fort Worth, by Houston, by Nashville, by Chicago, by New York City, et cetera. So let's just start and say, okay, well, we want, we just want to find Arthur Gallagher brokers that are in Atlanta. So you're going to type in AJG, Arthur Gallagher, Gallagher Benefit Services as the keyword in three separate searches. Then you're going to set the location as Atlanta. And then you're going to set it as only your second and third degree, well, first, second and third degree connections. And your first degree connections might be zero if you don't know anybody there, but you might have second and third degree connections. Now here's the challenge is that most brokerages sell both employee benefits and property and casualty. And so it's going to bring up the property and casualty people. And you don't want to talk to them. You don't want to email them. You don't want to meet them. It'll be a nuance to them. And so what you need to do is you need to separate out the employee benefits people from the property and casualty people. There are a few ways of doing that. One, the property and casualty people will oftentimes have a professional designation of CIC after their name. So you do not want the CIC people. The employee benefits people sometimes will have a CEBS designation. Sometimes they'll have an RHU designation. Sometimes they'll have an SPHR designation. Sometimes it'll just say VP employee benefits producer or EB producer. It'll actually say that in their job description. So you're going to want all those people and you want the account managers too. You don't just want the producers, the VP of so-and-so. You also want the account managers or the account executives as well. And then what you're going to do is you're going to write those names down in a spreadsheet. You're going to do – the columns are going to be as follows. First name, last name, and then the brokerage, AJG, and then the location, Atlanta. And then you're going to put down their role, either producer or account manager. And you're going to have that be either one or the other. And then you're going to have the – and then you're going to have a column then where you're going to fill in their email address. And you're going to do that because you understand the format of their email address is first name underscore last name at blank.com or it's first initial last name at blank.com or first name dot last name at blank.com. However, it's structured so that you can actually do a formula so that it auto-populates with the first and the last names to create those email addresses. It's called concatenate is the function. So you concatenate to create the emails. And then what you do is you just go on the internet and you find what the main telephone number is for that particular office. And then you just – you don't need to find everybody's extensions. Don't worry about that because all you're going to do is call the receptionist and ask to talk to Joe or Jane or whatever anyway. So then your final com is going to be that same phone number for all those people with Arthur Gallagher in Atlanta. And then you're going to have some sort of CRM that you're going to use to manage all of your contacts and your follow-ups. And we use salesforce.com. It's very easy. You can buy an individual plan for $50. And if your brokerage like doesn't pay for it or they don't have one, then just pay for it on your own. It's super cheap. And it's easy to use. There's a gazillion YouTube videos that show you how to use it. And you're going to then go through. And so you find you do Arthur J. Gallagher in Atlanta. And then you're going to do a number. You can do – and then you need to break it down by a number of ways. So if you specifically have a geographic territory and your geographic territory, let's say, is just Atlanta, then obviously you're not going to look for Arthur Gallagher in other cities. But then you're going to look for, let's say, USI in Atlanta. And then you're going to look for other – let's say, McGriff in Atlanta. You're going to go through all these different brokerages in Atlanta. And you're going to keep populating that Excel spreadsheet. And then you're going to do a mass upload to Salesforce. And I literally did this every morning from about 5 a.m. to 7 a.m., Monday through Friday. And I could generate about 250 names a week. So that's about 1,000 a month. And I did it straight for 10 months to create a list of 10,000 names. Now, it wasn't 10,000 names in one city. I was doing it nationwide. But I would say that that process of list creation needs to be done by you yourself. Do not buy a list, in my opinion. Because we bought some lists at Compass. And I will tell you that the quality of the information on the list was horrible. It was a huge waste of time. You ended up aggravating a bunch of people. You were getting a ton of bounced emails. Because people leave. They change jobs or they just never had a good email address to begin with. So I would not buy a list. And it is time intensive. But look, if you just do it for two hours a day, five days a week for a month, you've got 1,000 people. I mean, that's a sizable list. You can do some damage with 1,000 names. So to have to, quote, unquote, wait for a month, it's not a huge deal. If you want to work more than two hours a day, then do it. You can get it done faster. So you're going to create that list, right? And then what you're going to do is – so fine. So what you're going to do is then you're going to need to email those people and you're going to need to call those people. Okay, let's take a step back. Let's say you don't have enough people in your LinkedIn network to actually effectively find a decent number of people with Arthur Gallagher, USI, blah, blah, blah in Atlanta. Well, then you need to meet those people and connect with them on LinkedIn. And so this is where you're going to look up the SPHR, the – or excuse me, you're going to look up the SHRM. You're going to look up the web chapter if there's a world of employee benefits in your town. You're going to look up the SEBs chapter. You're going to look up the business group on health chapter. And you're going to go to their monthly meetings. And your job at that monthly meeting is not to sell anything or promote anything. Your job is just to meet people and ask other people about themselves. And you can ask them about what they're selling and what their work is like. You can talk about their dogs. I love talking about pets. It's a wonderful thing to talk about. And then you're going to exchange business cards. And then you're going to go home or in the parking lot and you're going to connect with that person on LinkedIn. And they're going to connect with you because you met them. It's not some sort of stranger. And so once you do that, then you're going to go back and redo your Arthur Gallagher search. You're going to redo your USI search because now you have more second and third degree connections because you just connected with that person as a first degree connection. So you need to go through that process. And it took me like a year of going to these events to get my initial LinkedIn contacts. I only knew like 250 people in my life. So I had like 250 LinkedIn contacts. And it took me like a year just to meet like another 250 people to get it over 500, right? Once you get to LinkedIn 500 plus, it was like that was my goal just to get to where it said 500 plus. So it takes a long time to meet these people. But you want to just meet every single person humanly possible. So even if that means going to like national conferences, because what will happen is that if you meet somebody at a conference and like – And I don't – you know, we're recording this during the age of COVID. So to the extent that the conference doesn't exist anymore, you're just going to have to wait until you can do things in person. But you just need to connect with these people. And even if they're not in your area, it's okay. Because if they work at Arthur Gallagher in Chicago, there's a high likelihood they're going to be connected to some Arthur Gallagher people in Atlanta, even if Chicago is not in your territory. So you still want to connect with them. So you've done this list creation, okay? Now you're going to do a combination of emails and phone calls out to them. Now if you're using Outlook, which most people do for their email, you know, Microsoft actually has a policy against – you can't like spam email people out of your Outlook, right? And so if they see that you're sending repetitious emails, the same email, out to different email addresses, like they're going to ding you for that and potentially, you know, suspend your license. So you can't do that. So you have to use some sort of email service. I personally use MailChimp, but there's other ones out there. The reason that I use MailChimp is because it's the largest one. And so because they're so big, they have to work very hard to make sure that their email list does not go to junk mail because their entire business is based upon their emails not going to junk mail but actually going to people's email inboxes. And it's actually free to start. So you get up – you know, you get like several thousand contacts, like 500 or 2,000 contacts to start where they don't charge you any money to send out those emails. But they're going to take care of the federally required like notice at the bottom. You have to have an address. You have to have a way of unsubscribing. I mean, MailChimp is going to take care of all that for you so that you're compliant with your emails. And what you're going to do is you're going to send – and this is an Aaron Ross thing. You're not going to send out more than 50 to 100 emails a day. So you don't want to send – you know, if you've got a list of 1,000 people, you don't send out 1,000 emails in a day, 1,000 emails in a day. You want to send out like 50 to 100 in a day. You want to do a smaller amount. And in your content of that email, the most important part of that email, you're going to use that same formula that I talked about in episode one of interrupt, engage, educate, offer. Interrupt, engage, educate, offer. Okay? So what are the ways that you're going to interrupt? One, you're going to interrupt with the subject. Okay? And then you're going to interrupt with the time of day. Right? So that is – those two things, the time of day that you send the email and the subject of your email are more important than what you actually send. What you say in your email? So before you sweat the contents of your email, the time of day and the subject line are super important. Okay. Let's talk about time of day. People get – you know, it's like running a marathon. People get burned out of email. So you do not want to email people, in my opinion, any later than 10 a.m. So all your emails – and what you can do is obviously is you can set the time so that it's delivered. But you want to set the email time so that it's in the morning. Okay? Whether it be – now, some people want to do it early. They want to do it like 6. Some people want to hit them as soon as they get into the office like 9. But I would not email anybody after 9 o'clock. Because by the time – if they get an email in the afternoon, they've already gotten 200 emails. And they're so burnt out from email, they don't want to answer any more emails. So believe me, do not do it late in the day. Two, don't do it late in the week. And don't do it on the weekends. Some people like to email on the weekends. I think that's protected time. I think that's rude to pull people away from their family. And so don't do it, in my opinion. So think about everybody's email lives by Thursday or Friday. They're so burnt out that they do not want to look at another email. So don't email people on Thursday or Friday. Do it Monday, Tuesday, and Wednesday before 9 a.m. That's the best time to email people. So if you're doing 100 emails a day, that means that you can get out like 300 a week. All right? So if you're doing 300 a week, then you don't necessarily email people weekly, right? Because you're going to maybe do a different batch of 300 in week too. And as things change, then maybe you're going to want to do an email batch at 6 a.m., an email batch at 7 a.m., an email batch at 8 a.m. Maybe you're going to want to, over time, increase it to more than 50 to 100 emails a day. But in the beginning, you're only going to want to do 50 to 100 emails a day. So you're talking like 300 a week. Maybe you can expand to Thursday. Okay? If you can expand at all, I'll give you one more day of the week. So time of day. Okay, now let's talk about the subject line. The subject line should always have a number in it. Because it should never have a platitude like great or awesome. It should never have the word value in it. It should never have the word quality in it. It should never have the word. All these superlatives, never use those. You want to use numbers. Numbers are eye-catching because most email subjects don't have numbers. So you want to use numbers to sell. And then you want to also make your email subject lines somewhat mysterious. And you want to make them incredibly short. But you also want to have the words in those emails have the first letter of each word be capitalized. Right? Because it's like a headline in a newspaper. Headlines in newspapers are not written in lower caps. I wouldn't do all upper caps because sometimes it's kind of annoying to read. But I would use numbers. Capitalize the first letter. Make and look at your email. Because email is mostly read on phones. So look at the email on your phone. And make sure the phone doesn't cut off your subject. So depending upon the length of the word, you can get away with anywhere from kind of four to six words. So it's got to fit within those four to six words so it doesn't get cut off on the subject line. Okay? Next, in the body of the email, the font should be at least 14-point font and never use italics. Because italics are hard to read. So you want to use 14-point font because you want to look at this email on your phone because that's how they're going to be reading it. It's on your phone. They're going to be meeting. They're going to be bored. They're going to be scanning through their email on their phone. So you're going to want to have your email to be easy to read. If you do the standard 11-point font, that might be kind of hard to read. So you want to do it in a larger font. And you want to make sure you have plenty of white space. Okay? So you're not going to do long prose and paragraph. Literally, you're going to do short sentences. You're going to have a full blank space. In other words, two returns, blank space of white space in between. You're going to use things like bold and underline to accentuate the text. And you're going to make that email no more than three or four sentences. And, again, you're going to follow that pattern of interrupt. So the interrupt is the timing in the subject line. Then engage is the very first line. And by engage, I mean you use their first name. And if that involves setting up the email blast such that it pulls in a field to put their first name in, do it. So you don't want to ever leave out their first name. Or if you need to manually send them out individually through MailChimp or whatever service you're using so that their first name is in there, do it. Okay? So you want to address them by their name. You just don't want to send a blanket thing in there. Okay? Next up, that very first line, as you can imagine, needs to be the engagement part. And so it specifically needs to address a problem that they have. So it's not solution-based. It's specifically based upon their problem. And it needs to be a specific problem. So obviously when you're selling to employers, everyone's like, health care costs, health care costs, health care costs. I would argue you would never use the word health care costs because it's such a general term that it's become a cliche. So you don't want to use that. So what you want to do is you want to point out some sort of hidden area of cost that maybe they didn't realize that they were getting shellacked by. That's what you want to do. Okay? Or whatever area it is. It could be in mental health. It could be in areas related to quality. You're not going to use the word quality, again, because it's cliche. But it could be related to that. That's fine. Okay? And then you're going to have one or two body paragraphs. And then the call to action is you're just going to ask for a five-minute phone call. That's all you want to do. And when you ask for the five-minute phone call, you're going to specifically state a date and a time. You're not going to leave it open-ended of, hey, I just want to connect with you some point next week. No. You're going to say, hey, are you available? And typically I would put it out. If I'm emailing out Monday, Tuesday, or Wednesday, I would put it out for Thursday or Friday. And I would be like, hey, are you available on – and I would do it until Friday at 1. A lot of people cut out early on Fridays. So Friday mornings – Thursdays and Fridays were my call times. So I loved calling on Thursdays. Thursday afternoons and Friday mornings were my favorite times to call. So – and I would set up sort of pre-scheduled calls, and then I would cold call whenever I didn't have scheduled call times. So you say, hey, are you – can we get on the phone for five minutes on Friday? And then you always do it in their time zone if you're not in their time zone. Can you do it on – can you get on the phone for five minutes at 9.30 on Friday 4.23 or whatever the date is. So you're going to have a specific time. And what they're going to do then is that then doesn't – they don't have to look at their calendar and be like, oh, where does it fit? They can just look in there. And what they're going to do is they're going to say either, yes, I'm interested and, yes, I have time. Or they're going to say, no, I'm not interested. Or they're going to say, yes, I am interested, but I don't have time then. And then what they can do is they can just – they'll just reply, I can't do then, which is awesome because if you've got a reply that says I can't do then, that means that they actually do want to talk to you, but they can't just do it at that time. So then I would go a little bit more open and I'd say, okay, so fine. So how about the following Monday, 4.26 or whatever the date is at 8.30? And I would try to get them early in the day because people are constantly fighting fires. So you want to try to get people before they have the fires come up. And we could talk in another episode more about the email writing, but you're going to email them. Okay, so fine. So you send them an email. Guess what? Your email – and you're going to measure your email open rates and your response rates so that you're going to test lots of different content. You're going to have no idea what subjects work. You're going to have no idea what days and what times work, but you're going to do a ton of testing, especially around the subject and the body and the call to action. So you're going to do a ton and ton and ton of testing around that. And your – okay. And then the best time of – there's also a time of year to best do this. So the best time of year to do this is January through June and – or the end of May. Say end of May, beginning of June. That's the best time to do it because that is when brokers are not, you know, busy doing their, you know, renewals and yada, yada, yada. And then a lot of them take time off over the summer at all sorts of various different times. So you get like vacation, you know, time problems, et cetera, et cetera. You can still go through the summer. So you can still make hay through the beginning of September. Really the ideal time is January through June. Now what you can do is you can even start as early as the last two weeks of December because that's when all their groups are kind of said and done and they're just wrapping up open enrollment, blah, blah, blah. But then your call to action is not to talk to them in December. Your call to action is, hey, I want to talk to you after the first of the year. Or can we talk on January 2nd at 4 p.m. or whatever it is. So and you're going to test lots and you're going to look at your email open rates and you're going to look at your response rates to see what types of content is resonating. OK, so you're going to be you're going to be a sort of an email creating machine. I probably created well over 200 different types of emails over the years. And oftentimes the emails that I thought were awesome got horrible responses. And the emails that I thought were just kind of meh, they actually got really good responses. I would do some emails that were just two lines long. It would be subject, hi, Joe or hi, Jane. And then sometimes it would just be like, can I talk to you next Friday at 4 p.m.? And it would be super short. And it would just have and then, OK, on the greeting on the, you know, your signature at the end, you've got to make the signature at the end look good. You just don't want to have some sort of dinky signature. I put my picture in the signature so that people can see what you look like. There's just something confirmatory that makes sure that you don't have like three eyes or something like that. You want to use a variety of colors in that signature. You want to have the font be big in your signature. You and I had my name in red and then the company's name was in blue. I had the company logo in there. I had my picture in there. So your signature needs to look really good. You don't just want to have some little dinky black and white signature. So you need to have a good, like, it almost looks like artistically good signature, OK? It has to look impressive. So, OK, so fine. So you've got that out there. And then you're like, OK, guess what? Email open rates, sub 10% response rates. Maybe you're going to get a 2% response rate. OK, so we're talking maybe double digit email open rates and you're talking low single digit response rates. OK, that's to be expected. OK, just know that's how it is. If you're not doing anything wrong, that's just the way it is. So then what you're going to do is you're going to send a second email. And the reason that you're going to use a CRM is because you have to keep track of what emails you've sent. So you're going to log. And there's ways to do this so that it will automatically log in in Salesforce through an API from MailChimp. Or, frankly, I would just hand enter it. And I had, like, two-word descriptions of the email so that I knew what date I was sending what I sent what email on. And you get into this rhythm where it's really fast to do it. So just document it. You don't have to spend a gazillion days documenting it. But you do need to document it in Salesforce. If you do it, it needs to go in Salesforce. If you do it, it needs to go in Salesforce. Everything. I don't care if it's one letter for, like, the very first word of, like, you know, HLMWB for had lunch meeting with Bob. Like, do that, OK? Because you have to document it, right? So that's the next thing. Now, after two emails, guess what? The vast majority of the time, you're not going to get a response. So then you're going to call them. And after, let's say, a couple of weeks, you're going to call them on a Thursday or Friday. And you're just going to leave a voicemail. And we'll talk about what the contents of that voicemail is later. But you're going to leave a voicemail. And, like, you're never going to – no one's ever going to answer. But occasionally they will. All right? So you're going to leave cold voicemails. And in those cold voicemails, you're actually going to reference the emails that you've been sending. So with that, I'm going to pause for today. And then we'll pick up on episode three next. Thank you so much.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:07]  Hello, this is Dr. Eric Bricker with A Healthcare Z Healthcare Finance Education, and this is
+[0:07 - 0:15]  the How to Sell in Healthcare podcast, episode two, where we are going to talk in more detail
+[0:15 - 0:16]  about prospecting.
+[0:17 - 0:22]  So at the end of episode one, we talked about the process of seeds, nets, and spears by
+[0:22 - 0:27]  small group, mid-market, and national accounts for prospecting.
+[0:27 - 0:32]  And so we're going to still talk about that, and we're going to take it industry segment
+[0:32 - 0:32]  by industry segment.
+[0:32 - 0:34]  So we're going to start with small group.
+[0:35 - 0:41]  And the prospecting for small group really does not involve directly prospecting the employer,
+[0:42 - 0:46]  but rather prospecting the broker, because as we talked about, it's really the broker
+[0:46 - 0:50]  that drives a lot of the decision-making for groups under 100.
+[0:50 - 0:57]  And I would say this even applies to the majority, not all, but the majority of mid-market employers
+[0:57 - 0:57]  as well.
+[0:57 - 1:03]  So what I say for prospecting in regards to seeds, nets, and spears is really going to
+[1:03 - 1:11]  be true for essentially all of small group, and I would say probably 75% of the mid-market.
+[1:11 - 1:15]  And the reason for that is because many of the individual broker producers within an insurance
+[1:15 - 1:20]  brokerage will have a book of business where they'll have a mix of both small group and
+[1:20 - 1:21]  mid-market clients.
+[1:21 - 1:26]  And so by working with that broker, they're going to then bring you into their small groups
+[1:26 - 1:30]  and their mid-market groups as opposed to, well, if you just go straight to the mid-market
+[1:30 - 1:34]  group, well, then you don't have that relationship with the broker who's then going to bring you
+[1:34 - 1:34]  into the small group.
+[1:34 - 1:39]  So you can kind of get two birds with one stone, if you will, by approaching the broker and
+[1:39 - 1:41]  the account manager in the brokerage space.
+[1:41 - 1:47]  Now, specifically in regards to the seeds, nets, and spears, and again, the seeds are your
+[1:47 - 1:47]  Rolodex.
+[1:47 - 1:55]  The nets is your outbound sort of mass prospecting, and your spears is your more targeted, focused,
+[1:55 - 1:58]  customized prospecting.
+[1:58 - 2:03]  But it's really the nets that are going to be what you use for small group and mid-market.
+[2:03 - 2:08]  You're going to use spears for the national accounts, and then you're obviously going
+[2:08 - 2:10]  to use your Rolodex with whatever you have.
+[2:10 - 2:13]  If you have a Rolodex, I started out without a Rolodex, without any seeds.
+[2:14 - 2:18]  So let's just talk about this in regards to no Rolodex, because if you don't have one,
+[2:18 - 2:19]  you can still be successful.
+[2:19 - 2:30]  So the process for prospecting involves interruption by email, interruption by phone, and interruption
+[2:30 - 2:30]  in person.
+[2:31 - 2:34]  And in order to interrupt, you have to interrupt.
+[2:36 - 2:37]  You have to have people to interrupt.
+[2:37 - 2:39]  You have to know who these people are.
+[2:39 - 2:44]  And Aaron Ross, in his books, talks about just locating the people, finding out who to
+[2:44 - 2:46]  talk to in and of itself is difficult.
+[2:47 - 2:48]  It's like at least 50% of the battle.
+[2:48 - 2:50]  So in other words, we're going to talk about list generation.
+[2:51 - 2:54]  In order to have people to email and people to call and people to meet with, you have
+[2:54 - 2:56]  to have a list of those people.
+[2:57 - 2:57]  Who are these people?
+[2:58 - 2:59]  And here's how you find those people.
+[3:00 - 3:02]  You go to, one, you use LinkedIn.
+[3:03 - 3:08]  And you, through your own, whatever connections you have, one, you just, whatever seeds you
+[3:08 - 3:11]  have, you just want to connect with everybody on LinkedIn that you've ever met in your life.
+[3:12 - 3:18]  And then what you can do is you can look at, and that's a first degree connection.
+[3:18 - 3:19]  In LinkedIn.
+[3:19 - 3:23]  And what you can do is you can look at your second and third degree connections.
+[3:23 - 3:28]  In other words, the first and second degree connections of all your first connections,
+[3:28 - 3:30]  you can then view.
+[3:30 - 3:33]  And you can see, you can't, they don't give you their phone number and their email address,
+[3:33 - 3:37]  but they give you their name and they give you where they work and they give you their
+[3:37 - 3:40]  job title and they give you the city where they work.
+[3:40 - 3:45]  So what you do then is you go, you need, you need a list of insurance brokerages.
+[3:45 - 3:45]  Okay.
+[3:45 - 3:47]  So some, maybe you know them, maybe you don't.
+[3:47 - 3:51]  What you do is you go to the business insurance magazine and you get the list of the 20 largest
+[3:51 - 3:56]  insurance, excuse me, 200 largest insurance brokerages in America.
+[3:56 - 4:03]  And you're going to go through and you're going to search your LinkedIn contacts by that brokerage.
+[4:03 - 4:08]  So let's just use Arthur Gallagher or AJG or Gallagher, Gallagher Benefit Services as an
+[4:08 - 4:08]  example.
+[4:08 - 4:11]  And it's hard because that firm goes by those three different names.
+[4:11 - 4:15]  So you have to use those three different search terms and that's going to be your keyword
+[4:15 - 4:16]  search term.
+[4:16 - 4:19]  And then what you're going to do is you're going to, and you don't even need the special
+[4:19 - 4:20]  version of LinkedIn to do this.
+[4:20 - 4:24]  You can just do this in the regular version, the free version of LinkedIn.
+[4:24 - 4:29]  And then what you're going to do is you're going to then search that up by geographic area.
+[4:29 - 4:33]  So it's going to give you 10 connections or a hundred connection or a thousand connections,
+[4:33 - 4:37]  depending upon how large your individual, your personal network is.
+[4:37 - 4:39]  So your personal network might be 250 people.
+[4:39 - 4:41]  Your second degree network might be 10,000 people.
+[4:42 - 4:44]  And your third degree network might be a hundred thousand people.
+[4:44 - 4:47]  And so you're not going to want to have all those people.
+[4:47 - 4:49]  You're going to want to have them by geographic area.
+[4:49 - 4:53]  So you're going to want to look them up and you can look them up by Atlanta, by Dallas,
+[4:53 - 4:59]  Fort Worth, by Houston, by Nashville, by Chicago, by New York City, et cetera.
+[4:59 - 5:04]  So let's just start and say, okay, well, we want, we just want to find Arthur Gallagher
+[5:04 - 5:05]  brokers that are in Atlanta.
+[5:05 - 5:09]  So you're going to type in AJG, Arthur Gallagher, Gallagher Benefit Services as the keyword in
+[5:09 - 5:10]  three separate searches.
+[5:10 - 5:12]  Then you're going to set the location as Atlanta.
+[5:12 - 5:17]  And then you're going to set it as only your second and third degree, well, first, second
+[5:17 - 5:18]  and third degree connections.
+[5:18 - 5:21]  And your first degree connections might be zero if you don't know anybody there, but you
+[5:21 - 5:22]  might have second and third degree connections.
+[5:23 - 5:28]  Now here's the challenge is that most brokerages sell both employee benefits and property and
+[5:28 - 5:29]  casualty.
+[5:29 - 5:31]  And so it's going to bring up the property and casualty people.
+[5:31 - 5:32]  And you don't want to talk to them.
+[5:32 - 5:33]  You don't want to email them.
+[5:33 - 5:34]  You don't want to meet them.
+[5:34 - 5:36]  It'll be a nuance to them.
+[5:36 - 5:40]  And so what you need to do is you need to separate out the employee benefits people from the property
+[5:40 - 5:41]  and casualty people.
+[5:41 - 5:43]  There are a few ways of doing that.
+[5:43 - 5:48]  One, the property and casualty people will oftentimes have a professional designation of CIC
+[5:48 - 5:49]  after their name.
+[5:49 - 5:51]  So you do not want the CIC people.
+[5:52 - 5:56]  The employee benefits people sometimes will have a CEBS designation.
+[5:57 - 5:59]  Sometimes they'll have an RHU designation.
+[5:59 - 6:02]  Sometimes they'll have an SPHR designation.
+[6:03 - 6:08]  Sometimes it'll just say VP employee benefits producer or EB producer.
+[6:08 - 6:10]  It'll actually say that in their job description.
+[6:11 - 6:14]  So you're going to want all those people and you want the account managers too.
+[6:14 - 6:17]  You don't just want the producers, the VP of so-and-so.
+[6:17 - 6:20]  You also want the account managers or the account executives as well.
+[6:20 - 6:24]  And then what you're going to do is you're going to write those names down in a spreadsheet.
+[6:24 - 6:27]  You're going to do – the columns are going to be as follows.
+[6:27 - 6:34]  First name, last name, and then the brokerage, AJG, and then the location, Atlanta.
+[6:35 - 6:39]  And then you're going to put down their role, either producer or account manager.
+[6:39 - 6:41]  And you're going to have that be either one or the other.
+[6:42 - 6:46]  And then you're going to have the – and then you're going to have a column then
+[6:46 - 6:48]  where you're going to fill in their email address.
+[6:48 - 6:51]  And you're going to do that because you understand the format of their email address
+[6:51 - 6:58]  is first name underscore last name at blank.com or it's first initial last name at blank.com
+[6:58 - 7:02]  or first name dot last name at blank.com.
+[7:02 - 7:06]  However, it's structured so that you can actually do a formula so that it auto-populates
+[7:06 - 7:08]  with the first and the last names to create those email addresses.
+[7:08 - 7:10]  It's called concatenate is the function.
+[7:11 - 7:13]  So you concatenate to create the emails.
+[7:13 - 7:14]  And then what you do is you just go on the internet
+[7:14 - 7:19]  and you find what the main telephone number is for that particular office.
+[7:19 - 7:22]  And then you just – you don't need to find everybody's extensions.
+[7:22 - 7:24]  Don't worry about that because all you're going to do is call the receptionist
+[7:24 - 7:27]  and ask to talk to Joe or Jane or whatever anyway.
+[7:27 - 7:29]  So then your final com is going to be that same phone number
+[7:29 - 7:32]  for all those people with Arthur Gallagher in Atlanta.
+[7:33 - 7:35]  And then you're going to have some sort of CRM
+[7:35 - 7:38]  that you're going to use to manage all of your contacts and your follow-ups.
+[7:39 - 7:40]  And we use salesforce.com.
+[7:40 - 7:41]  It's very easy.
+[7:41 - 7:44]  You can buy an individual plan for $50.
+[7:45 - 7:48]  And if your brokerage like doesn't pay for it or they don't have one,
+[7:48 - 7:49]  then just pay for it on your own.
+[7:49 - 7:50]  It's super cheap.
+[7:50 - 7:52]  And it's easy to use.
+[7:52 - 7:54]  There's a gazillion YouTube videos that show you how to use it.
+[7:55 - 7:58]  And you're going to then go through.
+[7:58 - 8:02]  And so you find you do Arthur J. Gallagher in Atlanta.
+[8:02 - 8:03]  And then you're going to do a number.
+[8:04 - 8:06]  You can do – and then you need to break it down by a number of ways.
+[8:06 - 8:08]  So if you specifically have a geographic territory
+[8:08 - 8:11]  and your geographic territory, let's say, is just Atlanta,
+[8:11 - 8:14]  then obviously you're not going to look for Arthur Gallagher in other cities.
+[8:14 - 8:17]  But then you're going to look for, let's say, USI in Atlanta.
+[8:17 - 8:21]  And then you're going to look for other – let's say, McGriff in Atlanta.
+[8:21 - 8:25]  You're going to go through all these different brokerages in Atlanta.
+[8:25 - 8:27]  And you're going to keep populating that Excel spreadsheet.
+[8:28 - 8:29]  And then you're going to do a mass upload to Salesforce.
+[8:30 - 8:35]  And I literally did this every morning from about 5 a.m. to 7 a.m.,
+[8:35 - 8:36]  Monday through Friday.
+[8:36 - 8:40]  And I could generate about 250 names a week.
+[8:41 - 8:42]  So that's about 1,000 a month.
+[8:42 - 8:46]  And I did it straight for 10 months to create a list of 10,000 names.
+[8:46 - 8:47]  Now, it wasn't 10,000 names in one city.
+[8:47 - 8:48]  I was doing it nationwide.
+[8:50 - 8:58]  But I would say that that process of list creation needs to be done by you yourself.
+[8:58 - 9:00]  Do not buy a list, in my opinion.
+[9:00 - 9:02]  Because we bought some lists at Compass.
+[9:02 - 9:05]  And I will tell you that the quality of the information on the list was horrible.
+[9:06 - 9:07]  It was a huge waste of time.
+[9:07 - 9:09]  You ended up aggravating a bunch of people.
+[9:10 - 9:12]  You were getting a ton of bounced emails.
+[9:12 - 9:12]  Because people leave.
+[9:13 - 9:15]  They change jobs or they just never had a good email address to begin with.
+[9:16 - 9:18]  So I would not buy a list.
+[9:18 - 9:20]  And it is time intensive.
+[9:20 - 9:25]  But look, if you just do it for two hours a day, five days a week for a month, you've got 1,000 people.
+[9:25 - 9:26]  I mean, that's a sizable list.
+[9:26 - 9:28]  You can do some damage with 1,000 names.
+[9:29 - 9:34]  So to have to, quote, unquote, wait for a month, it's not a huge deal.
+[9:34 - 9:37]  If you want to work more than two hours a day, then do it.
+[9:37 - 9:38]  You can get it done faster.
+[9:39 - 9:42]  So you're going to create that list, right?
+[9:42 - 9:45]  And then what you're going to do is – so fine.
+[9:45 - 9:50]  So what you're going to do is then you're going to need to email those people and you're going to need to call those people.
+[9:50 - 9:51]  Okay, let's take a step back.
+[9:51 - 10:03]  Let's say you don't have enough people in your LinkedIn network to actually effectively find a decent number of people with Arthur Gallagher, USI, blah, blah, blah in Atlanta.
+[10:03 - 10:06]  Well, then you need to meet those people and connect with them on LinkedIn.
+[10:06 - 10:13]  And so this is where you're going to look up the SPHR, the – or excuse me, you're going to look up the SHRM.
+[10:13 - 10:18]  You're going to look up the web chapter if there's a world of employee benefits in your town.
+[10:18 - 10:20]  You're going to look up the SEBs chapter.
+[10:20 - 10:21]  You're going to look up the business group on health chapter.
+[10:22 - 10:23]  And you're going to go to their monthly meetings.
+[10:24 - 10:28]  And your job at that monthly meeting is not to sell anything or promote anything.
+[10:28 - 10:31]  Your job is just to meet people and ask other people about themselves.
+[10:32 - 10:34]  And you can ask them about what they're selling and what their work is like.
+[10:34 - 10:36]  You can talk about their dogs.
+[10:36 - 10:37]  I love talking about pets.
+[10:37 - 10:38]  It's a wonderful thing to talk about.
+[10:39 - 10:41]  And then you're going to exchange business cards.
+[10:41 - 10:45]  And then you're going to go home or in the parking lot and you're going to connect with that person on LinkedIn.
+[10:46 - 10:48]  And they're going to connect with you because you met them.
+[10:48 - 10:49]  It's not some sort of stranger.
+[10:49 - 10:56]  And so once you do that, then you're going to go back and redo your Arthur Gallagher search.
+[10:56 - 11:04]  You're going to redo your USI search because now you have more second and third degree connections because you just connected with that person as a first degree connection.
+[11:04 - 11:06]  So you need to go through that process.
+[11:06 - 11:12]  And it took me like a year of going to these events to get my initial LinkedIn contacts.
+[11:12 - 11:14]  I only knew like 250 people in my life.
+[11:14 - 11:15]  So I had like 250 LinkedIn contacts.
+[11:15 - 11:22]  And it took me like a year just to meet like another 250 people to get it over 500, right?
+[11:22 - 11:26]  Once you get to LinkedIn 500 plus, it was like that was my goal just to get to where it said 500 plus.
+[11:27 - 11:30]  So it takes a long time to meet these people.
+[11:30 - 11:34]  But you want to just meet every single person humanly possible.
+[11:34 - 11:41]  So even if that means going to like national conferences, because what will happen is that if you meet somebody at a conference and like –
+[11:41 - 11:45]  And I don't – you know, we're recording this during the age of COVID.
+[11:45 - 11:50]  So to the extent that the conference doesn't exist anymore, you're just going to have to wait until you can do things in person.
+[11:50 - 11:52]  But you just need to connect with these people.
+[11:54 - 11:56]  And even if they're not in your area, it's okay.
+[11:56 - 12:02]  Because if they work at Arthur Gallagher in Chicago, there's a high likelihood they're going to be connected to some Arthur Gallagher people in Atlanta,
+[12:02 - 12:04]  even if Chicago is not in your territory.
+[12:04 - 12:05]  So you still want to connect with them.
+[12:06 - 12:09]  So you've done this list creation, okay?
+[12:09 - 12:13]  Now you're going to do a combination of emails and phone calls out to them.
+[12:14 - 12:21]  Now if you're using Outlook, which most people do for their email, you know, Microsoft actually has a policy against –
+[12:21 - 12:25]  you can't like spam email people out of your Outlook, right?
+[12:25 - 12:30]  And so if they see that you're sending repetitious emails, the same email, out to different email addresses,
+[12:30 - 12:34]  like they're going to ding you for that and potentially, you know, suspend your license.
+[12:34 - 12:35]  So you can't do that.
+[12:35 - 12:37]  So you have to use some sort of email service.
+[12:37 - 12:40]  I personally use MailChimp, but there's other ones out there.
+[12:40 - 12:43]  The reason that I use MailChimp is because it's the largest one.
+[12:43 - 12:50]  And so because they're so big, they have to work very hard to make sure that their email list does not go to junk mail
+[12:50 - 12:56]  because their entire business is based upon their emails not going to junk mail but actually going to people's email inboxes.
+[12:57 - 12:59]  And it's actually free to start.
+[12:59 - 13:06]  So you get up – you know, you get like several thousand contacts, like 500 or 2,000 contacts to start where they don't charge you any money to send out those emails.
+[13:06 - 13:11]  But they're going to take care of the federally required like notice at the bottom.
+[13:11 - 13:12]  You have to have an address.
+[13:13 - 13:15]  You have to have a way of unsubscribing.
+[13:15 - 13:19]  I mean, MailChimp is going to take care of all that for you so that you're compliant with your emails.
+[13:20 - 13:23]  And what you're going to do is you're going to send – and this is an Aaron Ross thing.
+[13:23 - 13:28]  You're not going to send out more than 50 to 100 emails a day.
+[13:28 - 13:34]  So you don't want to send – you know, if you've got a list of 1,000 people, you don't send out 1,000 emails in a day, 1,000 emails in a day.
+[13:34 - 13:35]  You want to send out like 50 to 100 in a day.
+[13:35 - 13:37]  You want to do a smaller amount.
+[13:37 - 13:49]  And in your content of that email, the most important part of that email, you're going to use that same formula that I talked about in episode one of interrupt, engage, educate, offer.
+[13:49 - 13:50]  Interrupt, engage, educate, offer.
+[13:50 - 13:51]  Okay?
+[13:51 - 13:53]  So what are the ways that you're going to interrupt?
+[13:53 - 13:55]  One, you're going to interrupt with the subject.
+[13:55 - 13:56]  Okay?
+[13:56 - 13:59]  And then you're going to interrupt with the time of day.
+[13:59 - 13:59]  Right?
+[13:59 - 14:05]  So that is – those two things, the time of day that you send the email and the subject of your email are more important than what you actually send.
+[14:05 - 14:06]  What you say in your email?
+[14:07 - 14:14]  So before you sweat the contents of your email, the time of day and the subject line are super important.
+[14:14 - 14:14]  Okay.
+[14:14 - 14:16]  Let's talk about time of day.
+[14:17 - 14:19]  People get – you know, it's like running a marathon.
+[14:19 - 14:21]  People get burned out of email.
+[14:21 - 14:26]  So you do not want to email people, in my opinion, any later than 10 a.m.
+[14:26 - 14:31]  So all your emails – and what you can do is obviously is you can set the time so that it's delivered.
+[14:31 - 14:34]  But you want to set the email time so that it's in the morning.
+[14:34 - 14:35]  Okay?
+[14:35 - 14:36]  Whether it be – now, some people want to do it early.
+[14:36 - 14:37]  They want to do it like 6.
+[14:37 - 14:40]  Some people want to hit them as soon as they get into the office like 9.
+[14:40 - 14:44]  But I would not email anybody after 9 o'clock.
+[14:44 - 14:48]  Because by the time – if they get an email in the afternoon, they've already gotten 200 emails.
+[14:48 - 14:51]  And they're so burnt out from email, they don't want to answer any more emails.
+[14:51 - 14:53]  So believe me, do not do it late in the day.
+[14:53 - 14:55]  Two, don't do it late in the week.
+[14:55 - 14:56]  And don't do it on the weekends.
+[14:56 - 14:58]  Some people like to email on the weekends.
+[14:58 - 14:59]  I think that's protected time.
+[14:59 - 15:02]  I think that's rude to pull people away from their family.
+[15:03 - 15:05]  And so don't do it, in my opinion.
+[15:05 - 15:09]  So think about everybody's email lives by Thursday or Friday.
+[15:10 - 15:12]  They're so burnt out that they do not want to look at another email.
+[15:13 - 15:15]  So don't email people on Thursday or Friday.
+[15:16 - 15:21]  Do it Monday, Tuesday, and Wednesday before 9 a.m.
+[15:21 - 15:23]  That's the best time to email people.
+[15:23 - 15:28]  So if you're doing 100 emails a day, that means that you can get out like 300 a week.
+[15:29 - 15:29]  All right?
+[15:29 - 15:33]  So if you're doing 300 a week, then you don't necessarily email people weekly, right?
+[15:33 - 15:36]  Because you're going to maybe do a different batch of 300 in week too.
+[15:37 - 15:41]  And as things change, then maybe you're going to want to do an email batch at 6 a.m.,
+[15:41 - 15:43]  an email batch at 7 a.m., an email batch at 8 a.m.
+[15:43 - 15:48]  Maybe you're going to want to, over time, increase it to more than 50 to 100 emails a day.
+[15:48 - 15:52]  But in the beginning, you're only going to want to do 50 to 100 emails a day.
+[15:52 - 15:53]  So you're talking like 300 a week.
+[15:54 - 15:56]  Maybe you can expand to Thursday.
+[15:57 - 15:57]  Okay?
+[15:57 - 15:59]  If you can expand at all, I'll give you one more day of the week.
+[16:00 - 16:01]  So time of day.
+[16:01 - 16:03]  Okay, now let's talk about the subject line.
+[16:03 - 16:07]  The subject line should always have a number in it.
+[16:07 - 16:12]  Because it should never have a platitude like great or awesome.
+[16:12 - 16:14]  It should never have the word value in it.
+[16:14 - 16:18]  It should never have the word quality in it.
+[16:18 - 16:20]  It should never have the word.
+[16:22 - 16:26]  All these superlatives, never use those.
+[16:26 - 16:27]  You want to use numbers.
+[16:28 - 16:31]  Numbers are eye-catching because most email subjects don't have numbers.
+[16:32 - 16:34]  So you want to use numbers to sell.
+[16:34 - 16:38]  And then you want to also make your email subject lines somewhat mysterious.
+[16:39 - 16:41]  And you want to make them incredibly short.
+[16:41 - 16:47]  But you also want to have the words in those emails have the first letter of each word be capitalized.
+[16:47 - 16:48]  Right?
+[16:48 - 16:49]  Because it's like a headline in a newspaper.
+[16:49 - 16:52]  Headlines in newspapers are not written in lower caps.
+[16:52 - 16:55]  I wouldn't do all upper caps because sometimes it's kind of annoying to read.
+[16:56 - 16:58]  But I would use numbers.
+[16:58 - 16:59]  Capitalize the first letter.
+[17:00 - 17:02]  Make and look at your email.
+[17:03 - 17:05]  Because email is mostly read on phones.
+[17:05 - 17:07]  So look at the email on your phone.
+[17:07 - 17:09]  And make sure the phone doesn't cut off your subject.
+[17:09 - 17:13]  So depending upon the length of the word, you can get away with anywhere from kind of four to six words.
+[17:14 - 17:19]  So it's got to fit within those four to six words so it doesn't get cut off on the subject line.
+[17:19 - 17:20]  Okay?
+[17:20 - 17:27]  Next, in the body of the email, the font should be at least 14-point font and never use italics.
+[17:27 - 17:28]  Because italics are hard to read.
+[17:28 - 17:37]  So you want to use 14-point font because you want to look at this email on your phone because that's how they're going to be reading it.
+[17:37 - 17:37]  It's on your phone.
+[17:37 - 17:38]  They're going to be meeting.
+[17:38 - 17:39]  They're going to be bored.
+[17:39 - 17:41]  They're going to be scanning through their email on their phone.
+[17:41 - 17:44]  So you're going to want to have your email to be easy to read.
+[17:44 - 17:47]  If you do the standard 11-point font, that might be kind of hard to read.
+[17:47 - 17:53]  So you want to do it in a larger font.
+[17:54 - 17:57]  And you want to make sure you have plenty of white space.
+[17:57 - 17:57]  Okay?
+[17:57 - 18:00]  So you're not going to do long prose and paragraph.
+[18:00 - 18:02]  Literally, you're going to do short sentences.
+[18:02 - 18:05]  You're going to have a full blank space.
+[18:05 - 18:08]  In other words, two returns, blank space of white space in between.
+[18:08 - 18:13]  You're going to use things like bold and underline to accentuate the text.
+[18:13 - 18:18]  And you're going to make that email no more than three or four sentences.
+[18:19 - 18:22]  And, again, you're going to follow that pattern of interrupt.
+[18:22 - 18:24]  So the interrupt is the timing in the subject line.
+[18:24 - 18:26]  Then engage is the very first line.
+[18:27 - 18:29]  And by engage, I mean you use their first name.
+[18:30 - 18:36]  And if that involves setting up the email blast such that it pulls in a field to put their first name in, do it.
+[18:36 - 18:38]  So you don't want to ever leave out their first name.
+[18:38 - 18:47]  Or if you need to manually send them out individually through MailChimp or whatever service you're using so that their first name is in there, do it.
+[18:47 - 18:48]  Okay?
+[18:48 - 18:50]  So you want to address them by their name.
+[18:50 - 18:52]  You just don't want to send a blanket thing in there.
+[18:53 - 18:53]  Okay?
+[18:53 - 18:59]  Next up, that very first line, as you can imagine, needs to be the engagement part.
+[18:59 - 19:04]  And so it specifically needs to address a problem that they have.
+[19:04 - 19:06]  So it's not solution-based.
+[19:07 - 19:08]  It's specifically based upon their problem.
+[19:08 - 19:10]  And it needs to be a specific problem.
+[19:10 - 19:13]  So obviously when you're selling to employers, everyone's like, health care costs, health care costs, health care costs.
+[19:13 - 19:22]  I would argue you would never use the word health care costs because it's such a general term that it's become a cliche.
+[19:22 - 19:23]  So you don't want to use that.
+[19:23 - 19:33]  So what you want to do is you want to point out some sort of hidden area of cost that maybe they didn't realize that they were getting shellacked by.
+[19:33 - 19:34]  That's what you want to do.
+[19:34 - 19:35]  Okay?
+[19:36 - 19:38]  Or whatever area it is.
+[19:39 - 19:40]  It could be in mental health.
+[19:40 - 19:44]  It could be in areas related to quality.
+[19:44 - 19:46]  You're not going to use the word quality, again, because it's cliche.
+[19:47 - 19:48]  But it could be related to that.
+[19:48 - 19:48]  That's fine.
+[19:49 - 19:49]  Okay?
+[19:49 - 19:54]  And then you're going to have one or two body paragraphs.
+[19:54 - 19:58]  And then the call to action is you're just going to ask for a five-minute phone call.
+[19:58 - 19:59]  That's all you want to do.
+[19:59 - 20:05]  And when you ask for the five-minute phone call, you're going to specifically state a date and a time.
+[20:05 - 20:08]  You're not going to leave it open-ended of, hey, I just want to connect with you some point next week.
+[20:08 - 20:08]  No.
+[20:09 - 20:11]  You're going to say, hey, are you available?
+[20:11 - 20:13]  And typically I would put it out.
+[20:13 - 20:19]  If I'm emailing out Monday, Tuesday, or Wednesday, I would put it out for Thursday or Friday.
+[20:19 - 20:25]  And I would be like, hey, are you available on – and I would do it until Friday at 1.
+[20:25 - 20:27]  A lot of people cut out early on Fridays.
+[20:27 - 20:30]  So Friday mornings – Thursdays and Fridays were my call times.
+[20:31 - 20:33]  So I loved calling on Thursdays.
+[20:33 - 20:36]  Thursday afternoons and Friday mornings were my favorite times to call.
+[20:37 - 20:43]  So – and I would set up sort of pre-scheduled calls, and then I would cold call whenever I didn't have scheduled call times.
+[20:43 - 20:48]  So you say, hey, are you – can we get on the phone for five minutes on Friday?
+[20:48 - 20:51]  And then you always do it in their time zone if you're not in their time zone.
+[20:51 - 21:02]  Can you do it on – can you get on the phone for five minutes at 9.30 on Friday 4.23 or whatever the date is.
+[21:02 - 21:03]  So you're going to have a specific time.
+[21:03 - 21:08]  And what they're going to do then is that then doesn't – they don't have to look at their calendar and be like, oh, where does it fit?
+[21:08 - 21:09]  They can just look in there.
+[21:10 - 21:14]  And what they're going to do is they're going to say either, yes, I'm interested and, yes, I have time.
+[21:14 - 21:16]  Or they're going to say, no, I'm not interested.
+[21:16 - 21:19]  Or they're going to say, yes, I am interested, but I don't have time then.
+[21:19 - 21:31]  And then what they can do is they can just – they'll just reply, I can't do then, which is awesome because if you've got a reply that says I can't do then, that means that they actually do want to talk to you, but they can't just do it at that time.
+[21:32 - 21:35]  So then I would go a little bit more open and I'd say, okay, so fine.
+[21:36 - 21:44]  So how about the following Monday, 4.26 or whatever the date is at 8.30?
+[21:44 - 21:51]  And I would try to get them early in the day because people are constantly fighting fires.
+[21:51 - 21:54]  So you want to try to get people before they have the fires come up.
+[21:56 - 22:01]  And we could talk in another episode more about the email writing, but you're going to email them.
+[22:01 - 22:02]  Okay, so fine.
+[22:02 - 22:03]  So you send them an email.
+[22:03 - 22:04]  Guess what?
+[22:04 - 22:10]  Your email – and you're going to measure your email open rates and your response rates so that you're going to test lots of different content.
+[22:10 - 22:12]  You're going to have no idea what subjects work.
+[22:12 - 22:19]  You're going to have no idea what days and what times work, but you're going to do a ton of testing, especially around the subject and the body and the call to action.
+[22:19 - 22:22]  So you're going to do a ton and ton and ton of testing around that.
+[22:23 - 22:27]  And your – okay.
+[22:27 - 22:32]  And then the best time of – there's also a time of year to best do this.
+[22:32 - 22:43]  So the best time of year to do this is January through June and – or the end of May.
+[22:43 - 22:44]  Say end of May, beginning of June.
+[22:44 - 22:51]  That's the best time to do it because that is when brokers are not, you know, busy doing their, you know, renewals and yada, yada, yada.
+[22:51 - 22:56]  And then a lot of them take time off over the summer at all sorts of various different times.
+[22:56 - 22:59]  So you get like vacation, you know, time problems, et cetera, et cetera.
+[22:59 - 23:01]  You can still go through the summer.
+[23:01 - 23:05]  So you can still make hay through the beginning of September.
+[23:05 - 23:10]  Really the ideal time is January through June.
+[23:11 - 23:20]  Now what you can do is you can even start as early as the last two weeks of December because that's when all their groups are kind of said and done and they're just wrapping up open enrollment, blah, blah, blah.
+[23:21 - 23:23]  But then your call to action is not to talk to them in December.
+[23:23 - 23:26]  Your call to action is, hey, I want to talk to you after the first of the year.
+[23:26 - 23:30]  Or can we talk on January 2nd at 4 p.m. or whatever it is.
+[23:32 - 23:42]  So and you're going to test lots and you're going to look at your email open rates and you're going to look at your response rates to see what types of content is resonating.
+[23:42 - 23:45]  OK, so you're going to be you're going to be a sort of an email creating machine.
+[23:45 - 23:52]  I probably created well over 200 different types of emails over the years.
+[23:53 - 23:58]  And oftentimes the emails that I thought were awesome got horrible responses.
+[23:58 - 24:02]  And the emails that I thought were just kind of meh, they actually got really good responses.
+[24:02 - 24:04]  I would do some emails that were just two lines long.
+[24:04 - 24:08]  It would be subject, hi, Joe or hi, Jane.
+[24:09 - 24:14]  And then sometimes it would just be like, can I talk to you next Friday at 4 p.m.?
+[24:14 - 24:15]  And it would be super short.
+[24:16 - 24:22]  And it would just have and then, OK, on the greeting on the, you know, your signature at the end, you've got to make the signature at the end look good.
+[24:22 - 24:24]  You just don't want to have some sort of dinky signature.
+[24:24 - 24:27]  I put my picture in the signature so that people can see what you look like.
+[24:28 - 24:32]  There's just something confirmatory that makes sure that you don't have like three eyes or something like that.
+[24:33 - 24:35]  You want to use a variety of colors in that signature.
+[24:36 - 24:37]  You want to have the font be big in your signature.
+[24:38 - 24:43]  You and I had my name in red and then the company's name was in blue.
+[24:44 - 24:46]  I had the company logo in there.
+[24:46 - 24:47]  I had my picture in there.
+[24:48 - 24:50]  So your signature needs to look really good.
+[24:50 - 24:53]  You don't just want to have some little dinky black and white signature.
+[24:54 - 25:00]  So you need to have a good, like, it almost looks like artistically good signature, OK?
+[25:01 - 25:02]  It has to look impressive.
+[25:03 - 25:03]  So, OK, so fine.
+[25:03 - 25:05]  So you've got that out there.
+[25:06 - 25:08]  And then you're like, OK, guess what?
+[25:09 - 25:13]  Email open rates, sub 10% response rates.
+[25:14 - 25:16]  Maybe you're going to get a 2% response rate.
+[25:17 - 25:24]  OK, so we're talking maybe double digit email open rates and you're talking low single digit response rates.
+[25:24 - 25:26]  OK, that's to be expected.
+[25:26 - 25:28]  OK, just know that's how it is.
+[25:28 - 25:32]  If you're not doing anything wrong, that's just the way it is.
+[25:32 - 25:36]  So then what you're going to do is you're going to send a second email.
+[25:37 - 25:41]  And the reason that you're going to use a CRM is because you have to keep track of what emails you've sent.
+[25:41 - 25:43]  So you're going to log.
+[25:43 - 25:49]  And there's ways to do this so that it will automatically log in in Salesforce through an API from MailChimp.
+[25:50 - 25:51]  Or, frankly, I would just hand enter it.
+[25:52 - 25:59]  And I had, like, two-word descriptions of the email so that I knew what date I was sending what I sent what email on.
+[25:59 - 26:02]  And you get into this rhythm where it's really fast to do it.
+[26:03 - 26:04]  So just document it.
+[26:04 - 26:06]  You don't have to spend a gazillion days documenting it.
+[26:06 - 26:08]  But you do need to document it in Salesforce.
+[26:08 - 26:11]  If you do it, it needs to go in Salesforce.
+[26:11 - 26:13]  If you do it, it needs to go in Salesforce.
+[26:13 - 26:13]  Everything.
+[26:13 - 26:25]  I don't care if it's one letter for, like, the very first word of, like, you know, HLMWB for had lunch meeting with Bob.
+[26:25 - 26:26]  Like, do that, OK?
+[26:26 - 26:28]  Because you have to document it, right?
+[26:29 - 26:30]  So that's the next thing.
+[26:31 - 26:32]  Now, after two emails, guess what?
+[26:32 - 26:36]  The vast majority of the time, you're not going to get a response.
+[26:37 - 26:38]  So then you're going to call them.
+[26:38 - 26:41]  And after, let's say, a couple of weeks, you're going to call them on a Thursday or Friday.
+[26:41 - 26:42]  And you're just going to leave a voicemail.
+[26:42 - 26:45]  And we'll talk about what the contents of that voicemail is later.
+[26:45 - 26:46]  But you're going to leave a voicemail.
+[26:46 - 26:48]  And, like, you're never going to – no one's ever going to answer.
+[26:49 - 26:50]  But occasionally they will.
+[26:50 - 26:51]  All right?
+[26:51 - 26:52]  So you're going to leave cold voicemails.
+[26:52 - 26:56]  And in those cold voicemails, you're actually going to reference the emails that you've been sending.
+[26:56 - 26:58]  So with that, I'm going to pause for today.
+[26:58 - 27:00]  And then we'll pick up on episode three next.
+[27:01 - 27:01]  Thank you so much.

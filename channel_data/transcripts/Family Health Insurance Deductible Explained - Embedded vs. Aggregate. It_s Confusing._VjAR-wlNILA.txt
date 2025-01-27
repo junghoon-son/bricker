@@ -1,0 +1,123 @@
+Title: Family Health Insurance Deductible Explained - Embedded vs. Aggregate. It's Confusing.
+URL: https://www.youtube.com/watch?v=VjAR-wlNILA
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic is the Family Health Insurance Deductible Explained. So family health insurance deductibles are actually pretty complicated. So let's start out real basic. What's a deductible? So the deductible is how much money a family pays out of pocket before the insurance company pays. And there's actually two different types of family health insurance deductibles. There is an embedded family deductible and there is an aggregate family deductible. And your health insurance plan, it either has one or the other. So with an embedded family health insurance deductible, the out of pocket costs for an individual also have their own deductible and then they also count towards a family deductible. So you can almost think of it as having like two deductibles. Okay. So let me give you an example. Let's say the family health insurance deductible is $4,000, but it has an embedded deductible for each individual. So typically a family embedded deductible is like two individual deductibles. Okay. So what that means is, is that let's say one person has, you can think of it like buckets filling up water in a bucket, right? So one person has $2,000 worth of medical bills that fills up the bucket. And then sort of a copy of that water is then you like copy and paste that water also in the family deductible. You put the $2,000 in the, in the individual's bucket and you put the $2,000 in the big family bucket in the middle. Same thing for person number two, you put $2,000 in their individual bucket and then you copy and paste and you put another, the same $2,000 in the family bucket and they've met their family deductible. Now with an aggregate deductible, it's much more straightforward. You might have two people that each have $2,000 worth of medical bills and all that water just pours down into the same bucket. And once you reach that $4,000, then you've met your family deductible. Now it changes the amount out of pocket that a family pays depending upon if they have an embedded versus an aggregate deductible. So let me give you an example. So this most commonly occurs when like one family member has like a lot of healthcare expenses. It might be a big ER visit or a hospital stay or labor and delivery, having a baby in the hospital. So one person has like a whole bunch of medical expenses. Let's say that one person has like $10,000 in medical expenses. Okay. Well then you've got the $10,000 flowing into the $2,000 bucket. So obviously there's going to be overflow. So there's $8,000 of overflow. All right. Now, again, you still take the $2,000 that went into the original individual deductible bucket and you copy and paste that and you put it into the family deductible. Okay. Right. So they've filled up their family deductible halfway, but they've overflowed their individual deductible bucket by $8,000. So to find out the out of pocket costs, you take the $2,000 individual deductible that the person had to pay. And then as many of you know, you have to pay coinsurance after you've met your deductible. And typically that coinsurance is 20% of the remaining costs. So in this case, for $10,000 of medical expenses, you subtract out the $2,000 of the deductible, which you've already paid. And that leaves you with $8,000 left of overflow. And then you've got to do some math. You multiply the $8,000 of overflow times the 20% of coinsurance, and that gives you $1,600. So then to calculate your out of pocket costs, you take the $2,000 of the deductible that you have to pay plus the $1,600 of coinsurance, and that gets you $3,600 that you have to pay out of pocket for that $10,000 medical expense. And the insurance company pays for the rest. Now let's use that same example for an aggregate deductible. So in this case, all $10,000 flows into the family $4,000 aggregate deductible. So again, it overflows. This time you have $6,000 that has overflowed the family aggregate deductible. So to determine the out of pocket costs, you take the $4,000 that the person had to pay in their deductible, and then you add it to the overflow. So the $6,000, and again, you got to pay coinsurance on that $6,000. So $6,000 times 20% is $1,200. So to figure out your out of pocket costs, you add the $4,000 of the deductible that you've paid, plus the $1,200 of coinsurance, which gives you $5,200 of out of pocket costs. Look at that. The out of pocket cost is totally different if you have an embedded deductible versus an aggregate deductible. If you have an embedded deductible, it's less. It's only $3,600. If you have an aggregate deductible, it's more. It's $5,200. Now, here's where it gets confusing, if it's not confusing enough already. So let's say that there is a second person in the family that also has some medical expenses. Okay. And let's say that second person in the family has $2,000 of medical expenses. Now, in the case of the embedded deductible, you then take the $2,000 and you have to fill up the second person's own individual deductible bucket. And then you copy and paste that and you put that in the family deductible. And only then have you actually then met the family deductible. So in this case, that individual number two has to pay all $2,000 that went into that $2,000 second individual deductible. That's embedded. So to figure out the total cost for the family, you take the $2,000, that person number two had to pay in their deductible, plus the $3,600 that person one had to pay out of pocket. And that gives you $5,600 of total family out of pocket costs for those two people. Now let's use that same person number two in the aggregate deductible example. So in this case, the $4,000 family deductible has been met completely by person number one. So you can think of like a lid is put on bucket, the aggregate bucket, no more water's going into that bucket. So you've got the water coming down and it completely splashes over to the side. All $2,000 splashes over to the side. Okay. Well, you're only paying coinsurance on that $2,000. So $2,000, that's splashing out of the bucket times 20% coinsurance is $400. So to figure out the total out of pocket costs for the aggregate deductible, you take the $400, that person number two had to pay out of pocket, plus the original $5,200 that person number one had to pay out. And that gets you $5,600. Look, it's the exact same amount for the aggregate deductible as the embedded deductible, but only when you have a second person that has medical expenses. So the embedded is less out of pocket when you have one person with a lot of medical expenses. But when you have multiple people, then oftentimes it works out the same. And that's what I wanted to share with you today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic
+[0:04 - 0:08]  is the Family Health Insurance Deductible Explained.
+[0:08 - 0:12]  So family health insurance deductibles are actually pretty complicated.
+[0:12 - 0:14]  So let's start out real basic.
+[0:14 - 0:15]  What's a deductible?
+[0:15 - 0:21]  So the deductible is how much money a family pays out of pocket before the insurance company
+[0:21 - 0:22]  pays.
+[0:22 - 0:26]  And there's actually two different types of family health insurance deductibles.
+[0:26 - 0:31]  There is an embedded family deductible and there is an aggregate family deductible.
+[0:31 - 0:33]  And your health insurance plan, it either has one or the other.
+[0:33 - 0:39]  So with an embedded family health insurance deductible, the out of pocket costs for an
+[0:39 - 0:44]  individual also have their own deductible and then they also count towards a family deductible.
+[0:44 - 0:47]  So you can almost think of it as having like two deductibles.
+[0:47 - 0:48]  Okay.
+[0:48 - 0:49]  So let me give you an example.
+[0:49 - 0:56]  Let's say the family health insurance deductible is $4,000, but it has an embedded
+[0:56 - 0:59]  deductible for each individual.
+[0:59 - 1:04]  So typically a family embedded deductible is like two individual deductibles.
+[1:04 - 1:05]  Okay.
+[1:05 - 1:08]  So what that means is, is that let's say one person has, you can think of it like buckets
+[1:08 - 1:10]  filling up water in a bucket, right?
+[1:10 - 1:15]  So one person has $2,000 worth of medical bills that fills up the bucket.
+[1:15 - 1:20]  And then sort of a copy of that water is then you like copy and paste that water also in the
+[1:20 - 1:21]  family deductible.
+[1:21 - 1:27]  You put the $2,000 in the, in the individual's bucket and you put the $2,000 in the big family
+[1:27 - 1:28]  bucket in the middle.
+[1:28 - 1:33]  Same thing for person number two, you put $2,000 in their individual bucket and then you copy
+[1:33 - 1:38]  and paste and you put another, the same $2,000 in the family bucket and they've met their
+[1:38 - 1:39]  family deductible.
+[1:39 - 1:43]  Now with an aggregate deductible, it's much more straightforward.
+[1:43 - 1:48]  You might have two people that each have $2,000 worth of medical bills and all that water just
+[1:48 - 1:50]  pours down into the same bucket.
+[1:50 - 1:55]  And once you reach that $4,000, then you've met your family deductible.
+[1:55 - 2:03]  Now it changes the amount out of pocket that a family pays depending upon if they have an
+[2:03 - 2:05]  embedded versus an aggregate deductible.
+[2:05 - 2:08]  So let me give you an example.
+[2:08 - 2:13]  So this most commonly occurs when like one family member has like a lot of healthcare
+[2:13 - 2:14]  expenses.
+[2:14 - 2:19]  It might be a big ER visit or a hospital stay or labor and delivery, having a baby in the
+[2:19 - 2:20]  hospital.
+[2:20 - 2:23]  So one person has like a whole bunch of medical expenses.
+[2:23 - 2:26]  Let's say that one person has like $10,000 in medical expenses.
+[2:26 - 2:27]  Okay.
+[2:27 - 2:32]  Well then you've got the $10,000 flowing into the $2,000 bucket.
+[2:32 - 2:33]  So obviously there's going to be overflow.
+[2:33 - 2:36]  So there's $8,000 of overflow.
+[2:36 - 2:37]  All right.
+[2:37 - 2:42]  Now, again, you still take the $2,000 that went into the original individual deductible
+[2:42 - 2:45]  bucket and you copy and paste that and you put it into the family deductible.
+[2:45 - 2:46]  Okay.
+[2:46 - 2:47]  Right.
+[2:47 - 2:51]  So they've filled up their family deductible halfway, but they've overflowed their individual
+[2:51 - 2:54]  deductible bucket by $8,000.
+[2:54 - 2:59]  So to find out the out of pocket costs, you take the $2,000 individual deductible that the
+[2:59 - 3:01]  person had to pay.
+[3:01 - 3:07]  And then as many of you know, you have to pay coinsurance after you've met your deductible.
+[3:07 - 3:12]  And typically that coinsurance is 20% of the remaining costs.
+[3:12 - 3:19]  So in this case, for $10,000 of medical expenses, you subtract out the $2,000 of the deductible,
+[3:19 - 3:20]  which you've already paid.
+[3:20 - 3:24]  And that leaves you with $8,000 left of overflow.
+[3:24 - 3:26]  And then you've got to do some math.
+[3:26 - 3:33]  You multiply the $8,000 of overflow times the 20% of coinsurance, and that gives you $1,600.
+[3:33 - 3:38]  So then to calculate your out of pocket costs, you take the $2,000 of the deductible that you
+[3:38 - 3:47]  have to pay plus the $1,600 of coinsurance, and that gets you $3,600 that you have to pay out of pocket
+[3:47 - 3:49]  for that $10,000 medical expense.
+[3:49 - 3:51]  And the insurance company pays for the rest.
+[3:51 - 3:55]  Now let's use that same example for an aggregate deductible.
+[3:55 - 4:02]  So in this case, all $10,000 flows into the family $4,000 aggregate deductible.
+[4:02 - 4:04]  So again, it overflows.
+[4:04 - 4:10]  This time you have $6,000 that has overflowed the family aggregate deductible.
+[4:10 - 4:16]  So to determine the out of pocket costs, you take the $4,000 that the person had to pay
+[4:16 - 4:19]  in their deductible, and then you add it to the overflow.
+[4:19 - 4:25]  So the $6,000, and again, you got to pay coinsurance on that $6,000.
+[4:25 - 4:30]  So $6,000 times 20% is $1,200.
+[4:30 - 4:35]  So to figure out your out of pocket costs, you add the $4,000 of the deductible that you've paid,
+[4:35 - 4:42]  plus the $1,200 of coinsurance, which gives you $5,200 of out of pocket costs.
+[4:42 - 4:43]  Look at that.
+[4:43 - 4:49]  The out of pocket cost is totally different if you have an embedded deductible versus an aggregate
+[4:49 - 4:50]  deductible.
+[4:50 - 4:52]  If you have an embedded deductible, it's less.
+[4:52 - 4:54]  It's only $3,600.
+[4:54 - 4:56]  If you have an aggregate deductible, it's more.
+[4:56 - 4:59]  It's $5,200.
+[4:59 - 5:04]  Now, here's where it gets confusing, if it's not confusing enough already.
+[5:04 - 5:09]  So let's say that there is a second person in the family that also has some medical expenses.
+[5:09 - 5:09]  Okay.
+[5:09 - 5:14]  And let's say that second person in the family has $2,000 of medical expenses.
+[5:14 - 5:18]  Now, in the case of the embedded deductible,
+[5:18 - 5:26]  you then take the $2,000 and you have to fill up the second person's own individual deductible bucket.
+[5:26 - 5:31]  And then you copy and paste that and you put that in the family deductible.
+[5:31 - 5:35]  And only then have you actually then met the family deductible.
+[5:35 - 5:45]  So in this case, that individual number two has to pay all $2,000 that went into that $2,000 second individual
+[5:45 - 5:45]  deductible.
+[5:45 - 5:46]  That's embedded.
+[5:46 - 5:55]  So to figure out the total cost for the family, you take the $2,000, that person number two had to pay in their deductible,
+[5:55 - 5:59]  plus the $3,600 that person one had to pay out of pocket.
+[5:59 - 6:07]  And that gives you $5,600 of total family out of pocket costs for those two people.
+[6:07 - 6:11]  Now let's use that same person number two in the aggregate deductible example.
+[6:11 - 6:19]  So in this case, the $4,000 family deductible has been met completely by person number one.
+[6:19 - 6:25]  So you can think of like a lid is put on bucket, the aggregate bucket, no more water's going into that bucket.
+[6:25 - 6:29]  So you've got the water coming down and it completely splashes over to the side.
+[6:29 - 6:32]  All $2,000 splashes over to the side.
+[6:32 - 6:33]  Okay.
+[6:33 - 6:36]  Well, you're only paying coinsurance on that $2,000.
+[6:36 - 6:43]  So $2,000, that's splashing out of the bucket times 20% coinsurance is $400.
+[6:43 - 6:49]  So to figure out the total out of pocket costs for the aggregate deductible, you take the $400,
+[6:49 - 6:55]  that person number two had to pay out of pocket, plus the original $5,200
+[6:55 - 7:03]  that person number one had to pay out. And that gets you $5,600. Look, it's the exact same amount
+[7:03 - 7:09]  for the aggregate deductible as the embedded deductible, but only when you have a second
+[7:09 - 7:15]  person that has medical expenses. So the embedded is less out of pocket when you have one person
+[7:15 - 7:22]  with a lot of medical expenses. But when you have multiple people, then oftentimes it works out the
+[7:22 - 7:25]  same. And that's what I wanted to share with you today.
+[7:25 - 7:35]  Thank you for watching A Healthcare Z.

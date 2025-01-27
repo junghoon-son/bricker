@@ -1,0 +1,130 @@
+Title: How Prior Authorization Works (Or Doesn't)
+URL: https://www.youtube.com/watch?v=eU4ELKdlfjo
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing prior authorization or what is sometimes referred to as pre-certification. Now what I have here is a flow chart of how prior authorization works and it's based off of a chart from a company that actually automates this process and I'll leave a link to their blog post in the show notes. Now a doctor will order a specific test or procedure, it might be a lab test, it might be advanced imaging like CT or MRI, it might be that the orthopedist wants to do an arthroscopic knee surgery or knee or hip replacement, then that will then go to the lab or the imaging facility or the hospital and then the hospital or the imaging facility etc will check to see if prior authorization is needed. And that's important because every insurance carrier is different and a lot of the plans within each insurance carrier is different as well because remember especially if you're a self-funded employer then they actually have some degree of like customization that they can do around what does or does not require prior authorization. Okay next the facility then needs to contact the prior authorization vendor. So we'll talk about this later. The insurance company doesn't even handle the authorizations, they've outsourced it to another company. Okay guess how they typically contact, how the facility typically contacts it? By phone! It's the 21st century. It's like a phone tree, you're on hold, I mean this is upwards of like a half an hour to get all this done. And that's just to figure out which form you need for that particular test or procedure. Then that form needs to be filled out by the doc or the hospital office staff. They have to attach documentation typically from the medical record. They have to fax that back right? Because again, healthcare is the only industry that still uses the fax machine and then approval will take anywhere from one to ten days and oh by the way, by the way that's business days right? So you're talking like upwards of two weeks and then it could be denied and then there's an appeal process that might take like upwards of two months. Okay now what's so important about this flow here is that I literally, at Compass we would see this all the time, is that there are process breakdowns in every step along the way. So in other words, the hospital or the lab might not check to see if prior authorization is needed. And even if they check to see if prior authorization is needed, they might not actually contact the PA vendor and they might not actually get the right form, they might not send the right form in and even if they do all their stuff right, again it takes like two weeks for the insurance company to do it. So this doesn't happen like right away, sometimes this takes like a week just for this to happen. And oh by the way, the patient could still potentially go and have their test or procedure done and all that that means is, is that when the hospital or the imaging center or what have you, when they bill the insurance company, they're just gonna deny it because they didn't get the prior authorization. And if they deny it, then the hospital or the facility just automatically bills the patients. So this is where a lot of balance bills come from because if the insurance doesn't pay within like 30 days with a lot of these billing systems, they just automatically bill the patient. Okay, so as you can imagine, this is just a complete mess. Especially for the doctors, the facilities and the patients themselves because it can delay, if you actually wait for this to happen, it can delay a person's care. Okay, now about the outsourcing by the insurance companies. There are very large organizations that most people have never heard of that are the big players in prior authorization. One of them is Evercore. It's a relatively new name of a business because it's a combination of Carecore and MedSolutions. And really MedSolutions used to be the biggest name in prior authorizations. And it was actually bought by their smaller competitor, Carecore, in about 2014. And it's like an over billion dollar organization. It's like a $1.5 billion organization. So this is not a small entity. It is big. Next, we have American Imaging Management, or it's actually called AIM Specialty Health now. And believe it or not, it's actually owned by Anthem. And so it's actually used by not only Anthem, but by a lot of blues plans as well. And then there's NIA for National Imaging Associates. And it's actually owned by Magellan, which is actually a big like mental health company, an important name also to know. It's on the Fortune 500. It's like a $4 billion company. Again, huge. Most people have never heard of it. And then there's Health Help, which is much smaller. But it's owned by a huge Indian outsource company called WNS. Okay. So if your head's not spinning enough, how does this specifically apply to patient care? Okay. It typically is applied to advanced imaging. Again, CT, MRI, PET scans. It's applied to a lot of cardiology for things like stress tests. It's applied to a lot of cancer treatment. It's also applied to a lot of orthopedic surgery. And lastly, for a fair number of sleep studies, it's also applied. Now, that's all for commercial insurance. Medicare is just starting with the whole prior authorization process. Traditional Medicare, I mean. And they have what's referred to as Appropriate Use Criteria or AUC. And they're doing it for things like imaging and nuclear scans. And it is optional as of 2018. Okay. It is going to be just a test period in 2020. And it doesn't go live until January 1 of 2021. Just to show you how slowly the wheels of change in Medicare occur. And that's important because at the end of the day, the way that Medicare goes, this might end up being the standard that all the other insurance carriers either want to or have to go to. But right now, they're really separate. Okay. It's two separate things, Medicare versus commercial insurance. And then lastly, physicians hate this. It is a huge waste of time for them, at least in their minds. Right? So I'm not going to debate whether or not, you know, that's another video for another day, whether or not the prior authorization is necessary, whether physicians are over ordering tests and procedures when they shouldn't or whether the insurance company is over denied. Right? That's not my point of the video today. The point of the video today is that it is a cumbersome process that breaks down. It potentially delays patient care and it costs physicians a lot of time. And the American College of Cardiology is actually fighting back with a prior authorization reporting tool where people can actually go online. Cardiologists can go online and they can report what happened, how much time it took them. And they're going to use that as ammunition to go either back to the insurance carrier or to the government to just show how much this is disrupting. And the reason this is so important is because at the end of the day, who this is really, who's stuck in the middle of all this? It's the patient. And so this absolutely impacts not only patient care, but also the patient's finances. And that's why we're covering it today. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:11]  Today we're going to be discussing prior authorization or what is sometimes referred to as pre-certification.
+[0:11 - 0:16]  Now what I have here is a flow chart of how prior authorization works and it's based off
+[0:16 - 0:20]  of a chart from a company that actually automates this process and I'll leave a link to their
+[0:20 - 0:22]  blog post in the show notes.
+[0:22 - 0:28]  Now a doctor will order a specific test or procedure, it might be a lab test, it might
+[0:28 - 0:34]  be advanced imaging like CT or MRI, it might be that the orthopedist wants to do an arthroscopic
+[0:34 - 0:38]  knee surgery or knee or hip replacement, then that will then go to the lab or the imaging
+[0:38 - 0:44]  facility or the hospital and then the hospital or the imaging facility etc will check to see
+[0:44 - 0:46]  if prior authorization is needed.
+[0:46 - 0:50]  And that's important because every insurance carrier is different and a lot of the plans
+[0:50 - 0:54]  within each insurance carrier is different as well because remember especially if you're
+[0:54 - 0:57]  a self-funded employer then they actually have some degree of like customization that they
+[0:57 - 1:01]  can do around what does or does not require prior authorization.
+[1:01 - 1:07]  Okay next the facility then needs to contact the prior authorization vendor.
+[1:07 - 1:08]  So we'll talk about this later.
+[1:08 - 1:12]  The insurance company doesn't even handle the authorizations, they've outsourced it to another
+[1:12 - 1:13]  company.
+[1:13 - 1:17]  Okay guess how they typically contact, how the facility typically contacts it?
+[1:17 - 1:18]  By phone!
+[1:18 - 1:19]  It's the 21st century.
+[1:19 - 1:23]  It's like a phone tree, you're on hold, I mean this is upwards of like a half an hour to
+[1:23 - 1:24]  get all this done.
+[1:24 - 1:29]  And that's just to figure out which form you need for that particular test or procedure.
+[1:29 - 1:34]  Then that form needs to be filled out by the doc or the hospital office staff.
+[1:34 - 1:37]  They have to attach documentation typically from the medical record.
+[1:37 - 1:40]  They have to fax that back right?
+[1:40 - 1:46]  Because again, healthcare is the only industry that still uses the fax machine and then approval
+[1:46 - 1:52]  will take anywhere from one to ten days and oh by the way, by the way that's business days
+[1:52 - 1:53]  right?
+[1:53 - 1:56]  So you're talking like upwards of two weeks and then it could be denied and then there's
+[1:56 - 2:01]  an appeal process that might take like upwards of two months.
+[2:01 - 2:07]  Okay now what's so important about this flow here is that I literally, at Compass we would
+[2:07 - 2:12]  see this all the time, is that there are process breakdowns in every step along the way.
+[2:12 - 2:17]  So in other words, the hospital or the lab might not check to see if prior authorization
+[2:17 - 2:18]  is needed.
+[2:18 - 2:21]  And even if they check to see if prior authorization is needed, they might not actually contact
+[2:21 - 2:25]  the PA vendor and they might not actually get the right form, they might not send the
+[2:25 - 2:29]  right form in and even if they do all their stuff right, again it takes like two weeks for
+[2:29 - 2:31]  the insurance company to do it.
+[2:31 - 2:35]  So this doesn't happen like right away, sometimes this takes like a week just for this to happen.
+[2:35 - 2:41]  And oh by the way, the patient could still potentially go and have their test or procedure done
+[2:41 - 2:46]  and all that that means is, is that when the hospital or the imaging center or what have
+[2:46 - 2:50]  you, when they bill the insurance company, they're just gonna deny it because they didn't
+[2:50 - 2:52]  get the prior authorization.
+[2:52 - 2:58]  And if they deny it, then the hospital or the facility just automatically bills the patients.
+[2:58 - 3:02]  So this is where a lot of balance bills come from because if the insurance doesn't pay
+[3:02 - 3:06]  within like 30 days with a lot of these billing systems, they just automatically bill the patient.
+[3:06 - 3:11]  Okay, so as you can imagine, this is just a complete mess.
+[3:11 - 3:17]  Especially for the doctors, the facilities and the patients themselves because it can delay,
+[3:17 - 3:21]  if you actually wait for this to happen, it can delay a person's care.
+[3:21 - 3:25]  Okay, now about the outsourcing by the insurance companies.
+[3:25 - 3:29]  There are very large organizations that most people have never heard of that are the big
+[3:29 - 3:32]  players in prior authorization.
+[3:32 - 3:33]  One of them is Evercore.
+[3:33 - 3:37]  It's a relatively new name of a business because it's a combination of Carecore and MedSolutions.
+[3:37 - 3:42]  And really MedSolutions used to be the biggest name in prior authorizations.
+[3:42 - 3:46]  And it was actually bought by their smaller competitor, Carecore, in about 2014.
+[3:46 - 3:48]  And it's like an over billion dollar organization.
+[3:48 - 3:50]  It's like a $1.5 billion organization.
+[3:50 - 3:52]  So this is not a small entity.
+[3:52 - 3:53]  It is big.
+[3:53 - 3:57]  Next, we have American Imaging Management, or it's actually called AIM Specialty Health now.
+[3:57 - 3:59]  And believe it or not, it's actually owned by Anthem.
+[3:59 - 4:05]  And so it's actually used by not only Anthem, but by a lot of blues plans as well.
+[4:05 - 4:08]  And then there's NIA for National Imaging Associates.
+[4:08 - 4:14]  And it's actually owned by Magellan, which is actually a big like mental health company,
+[4:14 - 4:16]  an important name also to know.
+[4:16 - 4:17]  It's on the Fortune 500.
+[4:17 - 4:18]  It's like a $4 billion company.
+[4:18 - 4:19]  Again, huge.
+[4:19 - 4:21]  Most people have never heard of it.
+[4:21 - 4:23]  And then there's Health Help, which is much smaller.
+[4:23 - 4:28]  But it's owned by a huge Indian outsource company called WNS.
+[4:28 - 4:29]  Okay.
+[4:29 - 4:33]  So if your head's not spinning enough, how does this specifically apply to patient care?
+[4:33 - 4:34]  Okay.
+[4:34 - 4:35]  It typically is applied to advanced imaging.
+[4:35 - 4:37]  Again, CT, MRI, PET scans.
+[4:37 - 4:42]  It's applied to a lot of cardiology for things like stress tests.
+[4:42 - 4:44]  It's applied to a lot of cancer treatment.
+[4:44 - 4:46]  It's also applied to a lot of orthopedic surgery.
+[4:46 - 4:51]  And lastly, for a fair number of sleep studies, it's also applied.
+[4:51 - 4:54]  Now, that's all for commercial insurance.
+[4:54 - 4:58]  Medicare is just starting with the whole prior authorization process.
+[4:58 - 4:59]  Traditional Medicare, I mean.
+[4:59 - 5:04]  And they have what's referred to as Appropriate Use Criteria or AUC.
+[5:04 - 5:09]  And they're doing it for things like imaging and nuclear scans.
+[5:09 - 5:12]  And it is optional as of 2018.
+[5:12 - 5:13]  Okay.
+[5:13 - 5:16]  It is going to be just a test period in 2020.
+[5:16 - 5:21]  And it doesn't go live until January 1 of 2021.
+[5:21 - 5:27]  Just to show you how slowly the wheels of change in Medicare occur.
+[5:27 - 5:32]  And that's important because at the end of the day, the way that Medicare goes, this might
+[5:32 - 5:36]  end up being the standard that all the other insurance carriers either want to or have to
+[5:36 - 5:37]  go to.
+[5:37 - 5:38]  But right now, they're really separate.
+[5:38 - 5:39]  Okay.
+[5:39 - 5:42]  It's two separate things, Medicare versus commercial insurance.
+[5:42 - 5:44]  And then lastly, physicians hate this.
+[5:44 - 5:47]  It is a huge waste of time for them, at least in their minds.
+[5:47 - 5:48]  Right?
+[5:48 - 5:52]  So I'm not going to debate whether or not, you know, that's another video for another day,
+[5:52 - 5:57]  whether or not the prior authorization is necessary, whether physicians are over ordering tests and
+[5:57 - 6:00]  procedures when they shouldn't or whether the insurance company is over denied.
+[6:00 - 6:01]  Right?
+[6:01 - 6:02]  That's not my point of the video today.
+[6:02 - 6:07]  The point of the video today is that it is a cumbersome process that breaks down.
+[6:07 - 6:11]  It potentially delays patient care and it costs physicians a lot of time.
+[6:11 - 6:16]  And the American College of Cardiology is actually fighting back with a prior authorization reporting
+[6:16 - 6:18]  tool where people can actually go online.
+[6:18 - 6:22]  Cardiologists can go online and they can report what happened, how much time it took them.
+[6:22 - 6:27]  And they're going to use that as ammunition to go either back to the insurance carrier
+[6:27 - 6:30]  or to the government to just show how much this is disrupting.
+[6:30 - 6:35]  And the reason this is so important is because at the end of the day, who this is really,
+[6:35 - 6:38]  who's stuck in the middle of all this?
+[6:38 - 6:40]  It's the patient.
+[6:40 - 6:45]  And so this absolutely impacts not only patient care, but also the patient's finances.
+[6:45 - 6:46]  And that's why we're covering it today.
+[6:46 - 6:48]  And thank you for watching A Healthcare Z.

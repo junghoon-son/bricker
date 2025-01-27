@@ -1,0 +1,64 @@
+Title: Health Insurance Middlemen: How the Network Effect Makes Them So Powerful
+URL: https://www.youtube.com/watch?v=-lKK-ljxAns
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Doctors, we all know that stocks and publicly traded health insurance carriers have been one of the best performing asset classes in financial markets in recent years. But is all this growth coming at the expense of doctors? Stay tuned to find out. I'm Dr. Eric Bricker and I'm also a healthcare finance expert. I know how doctors get taken advantage of financially and that's why I've partnered with Nomi Health to share with you what I know. This is Healthcare Uncovered. If you have been invested in health insurance company stocks over the past decade or so, lucky you! You've probably made a nice return. Consider this. Since the passage of the Affordable Care Act in 2010, United Health Group's stock price has risen from $32 to over $500 per share. That's a growth rate of 26% per year. That's the same growth rate of Apple, the most valuable company in the world. And it's more than twice the rate of the overall market, which has been about 12% per year since 2010. But it's not just UHG. The stock price at Anthem, which is now called Elevance by the way, has gone from $51 to $520 over the same time period. Cigna has jumped from $31 to $272. CVS, which now owns Aetna, has gone from $27 to $98. But why? What is driving all this growth? Why have they made so much money? One of the main reasons is that health insurance companies are really nothing more than financial intermediaries, similar to Visa and MasterCard. In healthcare, the ultimate holders of the money and the risk are the government and employers. The providers of care are doctors and hospitals and other healthcare providers. The insurance companies are simply the middlemen facilitating the transaction between those who have the money and those providing the care. And being a middleman is highly profitable. Health insurance companies don't even call themselves insurance companies. They call themselves healthcare services companies. The service they provide is that of facilitating the financial transactions for the $4.3 trillion that is spent on healthcare every year in America. But let's take a look and see what's really going on here. Health insurance companies are able to leverage their position as the financial middlemen because of something called the network effect. You may have heard of it in other industries like social media, fintech, or online marketplaces. The underlying power of the network effect is that the value of a given network, in this case the insurance company network, becomes more powerful the more people use it. Insurance companies have tremendous power because so many doctors and hospitals and governments and employers participate in the network. Historically, networks have held tremendous power in other industries as well and have resulted in high prices and exploitation. The railways and railway robber barons had tremendous network power in the 19th century. Cable television had tremendous network power and had high prices and horrible service in the 1980s, 90s, and early 2000s. Health insurance networks today operate in a very similar manner, charging exorbitant fees while providing generally horrible service. Have you ever been on hold and spoken with customer service at an insurance company? Case closed. But all networks have an Achilles heel, a weakness, and that's when they become too expensive or the service gets so bad that people start looking around for a better way to do things. And this eventually leads to disintermediation or disruption. It's why streaming services like Netflix, Hulu, and Apple Plus are enabling millions of Americans to cut the cord and stop paying for basic cable. And usually disintermediation is possible because of, wait for it, innovation. It might be regulatory or technological innovation or something else, but innovation is what enables people to do an end around on an incumbent network. A long time ago people and businesses started using planes, cars, and trucks to go around the railroads just like they are using streaming to go around cable TV. And this is exactly what is beginning to happen in healthcare. Health services companies have gotten far too expensive and are far too often providing poor quality services. And now there are lots of smart minds out there looking for ways to disintermediate health insurance networks. And doctors are a pretty smart bunch, if I may say so myself. One thing doctors have begun doing and should do a lot more of is looking to go around the traditional health insurance networks and provide direct care for governments and employers. This is called direct contracting. And if you've been thinking about how to get going, I recommend learning more about the Nomi Health Open Network. To learn more, check out the link in the video description. I'm Dr. Eric Bricker, and this is Healthcare Uncovered, where we break down a broken system.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Doctors, we all know that stocks and publicly traded health insurance carriers
+[0:04 - 0:08]  have been one of the best performing asset classes in financial markets in
+[0:08 - 0:14]  recent years. But is all this growth coming at the expense of doctors? Stay
+[0:14 - 0:17]  tuned to find out.
+[0:19 - 0:23]  I'm Dr. Eric Bricker and I'm also a healthcare finance expert. I know how
+[0:23 - 0:26]  doctors get taken advantage of financially and that's why I've
+[0:26 - 0:32]  partnered with Nomi Health to share with you what I know. This is Healthcare
+[0:32 - 0:33]  Uncovered.
+[0:35 - 0:38]  If you have been invested in health insurance company stocks over the past
+[0:38 - 0:42]  decade or so, lucky you! You've probably made a nice return.
+[0:42 - 0:47]  Consider this. Since the passage of the Affordable Care Act in 2010, United
+[0:47 - 0:54]  Health Group's stock price has risen from $32 to over $500 per share.
+[0:54 - 1:00]  That's a growth rate of 26% per year. That's the same growth rate of Apple,
+[1:00 - 1:04]  the most valuable company in the world. And it's more than twice the rate of the
+[1:04 - 1:10]  overall market, which has been about 12% per year since 2010. But it's not just UHG.
+[1:10 - 1:17]  The stock price at Anthem, which is now called Elevance by the way, has gone from $51 to $520
+[1:17 - 1:25]  over the same time period. Cigna has jumped from $31 to $272. CVS, which now owns Aetna,
+[1:25 - 1:36]  has gone from $27 to $98. But why? What is driving all this growth? Why have they made so much money?
+[1:37 - 1:42]  One of the main reasons is that health insurance companies are really nothing more than financial
+[1:42 - 1:48]  intermediaries, similar to Visa and MasterCard. In healthcare, the ultimate holders of the money
+[1:48 - 1:54]  and the risk are the government and employers. The providers of care are doctors and hospitals
+[1:54 - 2:00]  and other healthcare providers. The insurance companies are simply the middlemen facilitating
+[2:00 - 2:06]  the transaction between those who have the money and those providing the care. And being a middleman
+[2:06 - 2:12]  is highly profitable. Health insurance companies don't even call themselves insurance companies.
+[2:12 - 2:19]  They call themselves healthcare services companies. The service they provide is that of facilitating
+[2:19 - 2:26]  the financial transactions for the $4.3 trillion that is spent on healthcare every year in America.
+[2:27 - 2:33]  But let's take a look and see what's really going on here. Health insurance companies are able to
+[2:33 - 2:38]  leverage their position as the financial middlemen because of something called the network effect.
+[2:38 - 2:43]  You may have heard of it in other industries like social media, fintech, or online marketplaces.
+[2:43 - 2:47]  The underlying power of the network effect is that the value of a given network,
+[2:47 - 2:53]  in this case the insurance company network, becomes more powerful the more people use it.
+[2:54 - 2:58]  Insurance companies have tremendous power because so many doctors and hospitals and governments and
+[2:58 - 3:04]  employers participate in the network. Historically, networks have held tremendous power in other
+[3:04 - 3:11]  industries as well and have resulted in high prices and exploitation. The railways and railway robber
+[3:11 - 3:17]  barons had tremendous network power in the 19th century. Cable television had tremendous network power and
+[3:17 - 3:24]  had high prices and horrible service in the 1980s, 90s, and early 2000s. Health insurance networks today
+[3:24 - 3:32]  operate in a very similar manner, charging exorbitant fees while providing generally horrible service.
+[3:32 - 3:37]  Have you ever been on hold and spoken with customer service at an insurance company? Case closed.
+[3:38 - 3:46]  But all networks have an Achilles heel, a weakness, and that's when they become too expensive or the service
+[3:46 - 3:52]  gets so bad that people start looking around for a better way to do things. And this eventually leads to
+[3:52 - 3:58]  disintermediation or disruption. It's why streaming services like Netflix, Hulu, and Apple Plus are
+[3:58 - 4:04]  enabling millions of Americans to cut the cord and stop paying for basic cable. And usually disintermediation
+[4:04 - 4:11]  is possible because of, wait for it, innovation. It might be regulatory or technological innovation or
+[4:11 - 4:17]  something else, but innovation is what enables people to do an end around on an incumbent network. A long time
+[4:17 - 4:23]  ago people and businesses started using planes, cars, and trucks to go around the railroads just like
+[4:23 - 4:30]  they are using streaming to go around cable TV. And this is exactly what is beginning to happen in healthcare.
+[4:30 - 4:36]  Health services companies have gotten far too expensive and are far too often providing poor quality
+[4:36 - 4:43]  services. And now there are lots of smart minds out there looking for ways to disintermediate health
+[4:43 - 4:49]  insurance networks. And doctors are a pretty smart bunch, if I may say so myself. One thing doctors
+[4:49 - 4:55]  have begun doing and should do a lot more of is looking to go around the traditional health insurance
+[4:55 - 5:03]  networks and provide direct care for governments and employers. This is called direct contracting.
+[5:03 - 5:08]  And if you've been thinking about how to get going, I recommend learning more about the Nomi Health Open
+[5:08 - 5:13]  Network. To learn more, check out the link in the video description. I'm Dr. Eric Bricker,
+[5:13 - 5:24]  and this is Healthcare Uncovered, where we break down a broken system.

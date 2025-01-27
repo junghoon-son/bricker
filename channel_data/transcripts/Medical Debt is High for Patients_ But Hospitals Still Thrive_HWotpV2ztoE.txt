@@ -1,0 +1,171 @@
+Title: Medical Debt is High for Patients, But Hospitals Still Thrive
+URL: https://www.youtube.com/watch?v=HWotpV2ztoE
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is medical debt being high and hospitals are still thriving. So how is that possible? How could we have a place in America where there's incredibly high medical debt on the part of patients yet the hospitals are doing well even if the patients can't pay their bills? How is that possible? Well, it's a true story and I'm going to tell you that true story right now. So Kaiser Health News recently did a study where they looked at counties that had high rates of medical debt and they looked at adults' credit reports. So this is actually not survey data. This is specifically coming from the credit reports themselves. And they found that the counties, the two counties with the highest rates of medical debt in the entire country were Tarrant County, which is Fort Worth, which oh by the way, Tarrant County in Fort Worth has a million people. So, you know, people call it, you know, Dallas-Fort Worth and a lot of times Fort Worth doesn't get the recognition that it deserves. And Fort Worth is huge and growing. Now, it had the highest rate. 27% of adults in Fort Worth have medical debt. Over a quarter. And Dallas is the number two county. Dallas County, where Dallas the city is, 23% of the adults have medical debt. Now, so again, they looked at their credit reports and the median amount of debt that these adults had was $1,000, which was also super high. Now, let's compare that to other large counties in America. Okay, so Cook County, that's Chicago. That's Chicago. It's 14%. Los Angeles County, 7.6%. And New York, 3%. So look at that. It's like nine times higher than New York in Fort Worth and in Dallas. Now, what are some potential reasons for this? Well, probably one of the biggest ones is that Texas has the highest uninsured rate in the entire country. So 18.4% of Texas adults are uninsured. Now, that compares to the national average of 9.2%. Now, when the Affordable Care Act passed in 2010, there were states that elected to not expand Medicaid. And Texas was one of those states, the largest state, in fact, to not expand Medicaid. And as a result, when everybody else's uninsured rates went down to that 9.2% level on average, Texas has stayed high at 18.4%. So you have lots. And of course, one of the major risk factors for having medical debt is not having health insurance. And so what do we have here in these two, in the Dallas-Fort Worth metro area of Dallas, is very high rates of being uninsured, which then corresponds with high rates of medical debt for large amounts, a median amount of $1,000. Okay, so fine. So you would say, okay, well, you've got all these people without health insurance, and you've got all these people with all this debt that they can't pay off, so the hospitals must not be doing very well in Dallas-Fort Worth. And you would be wrong. You would be totally wrong. And that's the point of this Kaiser Health News article. So the hospitals in the Dallas-Fort Worth area are not hurt by this. So the national average for operating margin for hospital systems across the country is 6%. Now let's look at the hospital systems in Dallas-Fort Worth. Okay, Cook Children's Hospital, 12%, almost twice as much. That's the big children's hospital that's in Fort Worth. HCA, so Hospital Corporation of America, actually has a huge presence in Dallas-Fort Worth. So it's based in Nashville. It's obviously the largest private, publicly traded, for-profit hospital company in America. But like I said, it has a ton of hospitals in Dallas-Fort Worth. They're called the Medical City Hospitals. Their operating margin is 8.5%. Children's Hospital, so the children's hospital actually in Dallas, it's just called Children's Hospital, their operating margin is 8.3%. The huge Baylor-Scott & White hospital system is 7.4% operating margin. And then the Texas Health Resources hospital system has an operating margin of 6% at the national average. So isn't that interesting? You have a for-profit hospital system with an operating margin of 8.5%, and the for-profit hospital doesn't even make the highest operating margin in the area. The children's hospital does, and the huge not-for-profit hospital system has an operating margin that's only one percentage point less than the for-profit one. And they're all above the national average. The operating margins for hospitals in the Dallas-Fort Worth area, where medical debt is so high, all of their operating margins are above the national average. These hospitals financially are doing great. So, this begs the obvious question, why? Why are these hospitals doing so well financially if the uninsured rate is so high, and there's so many patients with medical debt? And the reason is because the prices for these hospitals are super high. In fact, the prices for Dallas-Fort Worth area hospitals are 13% higher than the national average. Now, when we say prices, we have to be like, is that billed charges? No, that is not billed charges. That is the in-network allowed amount that these hospital systems have negotiated with commercial insurance plans of Blue Cross United, Cigna, and Aetna. Those are 13% higher than the national average. Okay, so, why is that? How is that possible that these hospital systems have been able to negotiate such high rates? Well, I will tell you that in Dallas-Fort Worth, the hospital-doctor joint ventures are prolific. They are everywhere. All of these hospital systems have joint ventures in the form of ambulatory surgery centers, outpatient centers, and even specialty hospitals, where the hospital system is the majority owner, but the physicians themselves that practice in those facilities are also part owners of the facilities. Why is that important? Well, when the hospital system is the majority owner, then the hospital system can use its contracting cloud with commercial insurance carriers to get much larger allowed amounts than any physician group could. I mean, typically, a physician group doesn't have much bargaining power with a health insurance company, but a large hospital system, they've got a lot of bargaining power. So these hospital systems are able to get very high reimbursement from the health insurance company. But because the physicians are minority owners in those facilities, the doctors get a cut of the facility fees as well. So they don't just get their professional fees. So when they bill Blue Cross United, Cigna, Aetna, they're getting paid their professional fee, but they're also getting paid potentially 49% of the facility fee, right? I mean, because you could have a joint venture where it's 51% owned by the hospital and 49% owned by the physician group. So the physicians would get 49% of the leftover profit, and the hospital would keep 51% of the leftover profit. So, like I said, the prevalence of these joint ventures is exceedingly high in Dallas-Fort Worth. So the hospitals and the doctors are closely interwoven together financially, especially the specialists that practice at those ambulatory surgery centers and the specialty hospitals, etc. Specialties like cardiology and gastroenterology and neurosurgery and orthopedic surgery, etc. General surgery. So, now, how could you fix this? Of course, many of you are probably familiar with the Jeff Bezos quote, where he said, your margin is my opportunity, right? So if these hospitals have such high operating margins above the national average, then you would think that other hospitals would want to come in and, like, compete away that margin. They would want to enter the Dallas-Fort Worth hospital market because it's so lucrative. They're all making operating margins above the national average. But they really don't, in part because of this tight relationship between the doctors and the hospitals that already exist. All the specialists in Dallas-Fort Worth, not all of them, probably most of them, already have the financial relationship built. So if a new hospital system comes in, they would have to somehow separate the doctor from their existing joint venture with the hospital. That's super hard to do. So if any hospital system wants to come in and compete with any of these hospital systems that are already here, they're going to bring their own doctors. So there you go. That's my advice to you. You're a hospital system. You want to get into the Dallas-Fort Worth market? You've got to bring your own specialists. Not only do you have to bring your own specialists, but you have to make sure that these hospital systems then don't try to go after your specialists and have them join some sort of joint venture agreement where they can then get the facility fees. And guess what? This, I won't let the cat out of the bag, this is starting to happen, specifically in the world of primary care, where primary care groups are bringing their own specialists with them. So it'll be interesting to see what happens. But this is a hugely important economic story in health care, specifically in the fourth largest metropolitan area in America. And that's why I wanted to share it with you today. Thank you for watching a Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:05 - 0:12]  Today's topic is medical debt being high and hospitals are still thriving.
+[0:12 - 0:13]  So how is that possible?
+[0:13 - 0:19]  How could we have a place in America where there's incredibly high medical debt on the part of patients
+[0:19 - 0:23]  yet the hospitals are doing well even if the patients can't pay their bills?
+[0:23 - 0:24]  How is that possible?
+[0:25 - 0:28]  Well, it's a true story and I'm going to tell you that true story right now.
+[0:28 - 0:36]  So Kaiser Health News recently did a study where they looked at counties that had high rates of medical debt
+[0:36 - 0:39]  and they looked at adults' credit reports.
+[0:39 - 0:40]  So this is actually not survey data.
+[0:40 - 0:43]  This is specifically coming from the credit reports themselves.
+[0:43 - 0:51]  And they found that the counties, the two counties with the highest rates of medical debt in the entire country
+[0:51 - 0:57]  were Tarrant County, which is Fort Worth, which oh by the way, Tarrant County in Fort Worth has a million people.
+[0:57 - 1:04]  So, you know, people call it, you know, Dallas-Fort Worth and a lot of times Fort Worth doesn't get the recognition that it deserves.
+[1:04 - 1:07]  And Fort Worth is huge and growing.
+[1:07 - 1:09]  Now, it had the highest rate.
+[1:09 - 1:15]  27% of adults in Fort Worth have medical debt.
+[1:15 - 1:17]  Over a quarter.
+[1:17 - 1:19]  And Dallas is the number two county.
+[1:19 - 1:26]  Dallas County, where Dallas the city is, 23% of the adults have medical debt.
+[1:27 - 1:35]  Now, so again, they looked at their credit reports and the median amount of debt that these adults had was $1,000,
+[1:36 - 1:38]  which was also super high.
+[1:39 - 1:42]  Now, let's compare that to other large counties in America.
+[1:42 - 1:44]  Okay, so Cook County, that's Chicago.
+[1:44 - 1:44]  That's Chicago.
+[1:44 - 1:46]  It's 14%.
+[1:46 - 1:51]  Los Angeles County, 7.6%.
+[1:51 - 1:54]  And New York, 3%.
+[1:54 - 1:55]  So look at that.
+[1:56 - 2:02]  It's like nine times higher than New York in Fort Worth and in Dallas.
+[2:02 - 2:04]  Now, what are some potential reasons for this?
+[2:04 - 2:08]  Well, probably one of the biggest ones is that Texas has the highest uninsured rate in the entire country.
+[2:08 - 2:13]  So 18.4% of Texas adults are uninsured.
+[2:13 - 2:17]  Now, that compares to the national average of 9.2%.
+[2:17 - 2:24]  Now, when the Affordable Care Act passed in 2010, there were states that elected to not expand Medicaid.
+[2:24 - 2:29]  And Texas was one of those states, the largest state, in fact, to not expand Medicaid.
+[2:30 - 2:36]  And as a result, when everybody else's uninsured rates went down to that 9.2% level on average,
+[2:36 - 2:40]  Texas has stayed high at 18.4%.
+[2:40 - 2:41]  So you have lots.
+[2:41 - 2:46]  And of course, one of the major risk factors for having medical debt is not having health insurance.
+[2:46 - 2:52]  And so what do we have here in these two, in the Dallas-Fort Worth metro area of Dallas,
+[2:52 - 2:58]  is very high rates of being uninsured,
+[2:58 - 3:02]  which then corresponds with high rates of medical debt for large amounts,
+[3:02 - 3:03]  a median amount of $1,000.
+[3:03 - 3:05]  Okay, so fine.
+[3:05 - 3:07]  So you would say, okay, well, you've got all these people without health insurance,
+[3:08 - 3:11]  and you've got all these people with all this debt that they can't pay off,
+[3:11 - 3:15]  so the hospitals must not be doing very well in Dallas-Fort Worth.
+[3:15 - 3:16]  And you would be wrong.
+[3:16 - 3:18]  You would be totally wrong.
+[3:18 - 3:20]  And that's the point of this Kaiser Health News article.
+[3:20 - 3:24]  So the hospitals in the Dallas-Fort Worth area are not hurt by this.
+[3:24 - 3:31]  So the national average for operating margin for hospital systems across the country is 6%.
+[3:31 - 3:34]  Now let's look at the hospital systems in Dallas-Fort Worth.
+[3:35 - 3:40]  Okay, Cook Children's Hospital, 12%, almost twice as much.
+[3:40 - 3:42]  That's the big children's hospital that's in Fort Worth.
+[3:42 - 3:47]  HCA, so Hospital Corporation of America, actually has a huge presence in Dallas-Fort Worth.
+[3:48 - 3:49]  So it's based in Nashville.
+[3:49 - 3:55]  It's obviously the largest private, publicly traded, for-profit hospital company in America.
+[3:56 - 3:59]  But like I said, it has a ton of hospitals in Dallas-Fort Worth.
+[3:59 - 4:01]  They're called the Medical City Hospitals.
+[4:01 - 4:04]  Their operating margin is 8.5%.
+[4:04 - 4:08]  Children's Hospital, so the children's hospital actually in Dallas, it's just called Children's Hospital,
+[4:08 - 4:10]  their operating margin is 8.3%.
+[4:10 - 4:15]  The huge Baylor-Scott & White hospital system is 7.4% operating margin.
+[4:16 - 4:21]  And then the Texas Health Resources hospital system has an operating margin of 6% at the national average.
+[4:22 - 4:23]  So isn't that interesting?
+[4:24 - 4:28]  You have a for-profit hospital system with an operating margin of 8.5%,
+[4:28 - 4:33]  and the for-profit hospital doesn't even make the highest operating margin in the area.
+[4:33 - 4:41]  The children's hospital does, and the huge not-for-profit hospital system has an operating margin
+[4:41 - 4:45]  that's only one percentage point less than the for-profit one.
+[4:45 - 4:48]  And they're all above the national average.
+[4:48 - 4:55]  The operating margins for hospitals in the Dallas-Fort Worth area, where medical debt is so high,
+[4:56 - 4:59]  all of their operating margins are above the national average.
+[4:59 - 5:04]  These hospitals financially are doing great.
+[5:04 - 5:07]  So, this begs the obvious question, why?
+[5:07 - 5:12]  Why are these hospitals doing so well financially if the uninsured rate is so high,
+[5:12 - 5:14]  and there's so many patients with medical debt?
+[5:15 - 5:19]  And the reason is because the prices for these hospitals are super high.
+[5:19 - 5:26]  In fact, the prices for Dallas-Fort Worth area hospitals are 13% higher than the national average.
+[5:26 - 5:29]  Now, when we say prices, we have to be like, is that billed charges?
+[5:30 - 5:32]  No, that is not billed charges.
+[5:32 - 5:38]  That is the in-network allowed amount that these hospital systems have negotiated
+[5:38 - 5:41]  with commercial insurance plans of Blue Cross United, Cigna, and Aetna.
+[5:41 - 5:45]  Those are 13% higher than the national average.
+[5:46 - 5:49]  Okay, so, why is that?
+[5:49 - 5:56]  How is that possible that these hospital systems have been able to negotiate such high rates?
+[5:56 - 5:59]  Well, I will tell you that in Dallas-Fort Worth,
+[6:00 - 6:06]  the hospital-doctor joint ventures are prolific.
+[6:06 - 6:08]  They are everywhere.
+[6:08 - 6:13]  All of these hospital systems have joint ventures in the form of ambulatory surgery centers,
+[6:14 - 6:17]  outpatient centers, and even specialty hospitals,
+[6:18 - 6:20]  where the hospital system is the majority owner,
+[6:21 - 6:26]  but the physicians themselves that practice in those facilities
+[6:26 - 6:29]  are also part owners of the facilities.
+[6:30 - 6:31]  Why is that important?
+[6:31 - 6:34]  Well, when the hospital system is the majority owner,
+[6:34 - 6:38]  then the hospital system can use its contracting cloud with commercial insurance carriers
+[6:38 - 6:44]  to get much larger allowed amounts than any physician group could.
+[6:44 - 6:48]  I mean, typically, a physician group doesn't have much bargaining power with a health insurance company,
+[6:48 - 6:52]  but a large hospital system, they've got a lot of bargaining power.
+[6:52 - 6:57]  So these hospital systems are able to get very high reimbursement from the health insurance company.
+[6:57 - 7:05]  But because the physicians are minority owners in those facilities,
+[7:05 - 7:09]  the doctors get a cut of the facility fees as well.
+[7:09 - 7:11]  So they don't just get their professional fees.
+[7:11 - 7:14]  So when they bill Blue Cross United, Cigna, Aetna,
+[7:14 - 7:16]  they're getting paid their professional fee,
+[7:16 - 7:24]  but they're also getting paid potentially 49% of the facility fee, right?
+[7:24 - 7:28]  I mean, because you could have a joint venture where it's 51% owned by the hospital
+[7:28 - 7:30]  and 49% owned by the physician group.
+[7:30 - 7:35]  So the physicians would get 49% of the leftover profit,
+[7:35 - 7:37]  and the hospital would keep 51% of the leftover profit.
+[7:37 - 7:48]  So, like I said, the prevalence of these joint ventures is exceedingly high in Dallas-Fort Worth.
+[7:48 - 7:55]  So the hospitals and the doctors are closely interwoven together financially,
+[7:55 - 7:59]  especially the specialists that practice at those ambulatory surgery centers
+[7:59 - 8:01]  and the specialty hospitals, etc.
+[8:01 - 8:06]  Specialties like cardiology and gastroenterology and neurosurgery and orthopedic surgery, etc.
+[8:06 - 8:09]  General surgery.
+[8:09 - 8:11]  So, now, how could you fix this?
+[8:12 - 8:15]  Of course, many of you are probably familiar with the Jeff Bezos quote,
+[8:15 - 8:17]  where he said,
+[8:17 - 8:20]  your margin is my opportunity, right?
+[8:20 - 8:25]  So if these hospitals have such high operating margins above the national average,
+[8:25 - 8:28]  then you would think that other hospitals would want to come in
+[8:28 - 8:32]  and, like, compete away that margin.
+[8:32 - 8:36]  They would want to enter the Dallas-Fort Worth hospital market
+[8:36 - 8:37]  because it's so lucrative.
+[8:37 - 8:40]  They're all making operating margins above the national average.
+[8:41 - 8:42]  But they really don't,
+[8:42 - 8:44]  in part because of this tight relationship
+[8:44 - 8:48]  between the doctors and the hospitals that already exist.
+[8:48 - 8:50]  All the specialists in Dallas-Fort Worth,
+[8:50 - 8:51]  not all of them,
+[8:51 - 8:52]  probably most of them,
+[8:53 - 8:55]  already have the financial relationship built.
+[8:55 - 8:56]  So if a new hospital system comes in,
+[8:56 - 9:04]  they would have to somehow separate the doctor from their existing joint venture with the hospital.
+[9:04 - 9:05]  That's super hard to do.
+[9:06 - 9:12]  So if any hospital system wants to come in and compete with any of these hospital systems that are already here,
+[9:13 - 9:15]  they're going to bring their own doctors.
+[9:16 - 9:16]  So there you go.
+[9:16 - 9:17]  That's my advice to you.
+[9:17 - 9:18]  You're a hospital system.
+[9:18 - 9:20]  You want to get into the Dallas-Fort Worth market?
+[9:20 - 9:21]  You've got to bring your own specialists.
+[9:21 - 9:23]  Not only do you have to bring your own specialists,
+[9:24 - 9:26]  but you have to make sure that these hospital systems
+[9:26 - 9:28]  then don't try to go after your specialists
+[9:28 - 9:31]  and have them join some sort of joint venture agreement
+[9:31 - 9:33]  where they can then get the facility fees.
+[9:34 - 9:35]  And guess what?
+[9:35 - 9:36]  This,
+[9:36 - 9:38]  I won't let the cat out of the bag,
+[9:38 - 9:41]  this is starting to happen,
+[9:41 - 9:45]  specifically in the world of primary care,
+[9:45 - 9:50]  where primary care groups are bringing their own specialists with them.
+[9:50 - 9:52]  So it'll be interesting to see what happens.
+[9:52 - 9:56]  But this is a hugely important economic story in health care,
+[9:56 - 10:00]  specifically in the fourth largest metropolitan area in America.
+[10:00 - 10:02]  And that's why I wanted to share it with you today.
+[10:02 - 10:04]  Thank you for watching a Healthcare Z.

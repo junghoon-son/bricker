@@ -1,0 +1,135 @@
+Title: Machine Learning for Population Health
+URL: https://www.youtube.com/watch?v=WjBddJEnHcM
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic is machine learning for population health. So before I scare you off with that title, this is for the layman. This is for every man and woman. And this is not hocus pocus about AI. This is very practical application of how it works and how to use it. So here we go. So when we talk about machine learning, which is part of AI, keep in mind, this is not, what is this is not? This is not human generated if then statements, right? So you hear the word algorithm, okay? But a lot of algorithms are just if then statements. And in the 20th century, like we use those all the time. If this happens, then do this. And we would tell the software to do that. I mean, I was literally taught that in computer camp. When I was in the third grade in 1984, and we were using the basic, literally, the computer language was called basic on an IBM PC junior to make a tic-tac-toe game. So I was typing, I was coding if then statements, which was an algorithm, okay? I will tell you, that was not AI, okay? I just will not say that. I'm saying rant. That was not AI, okay? So machine learning is very different, okay? Machine learning is when you create software that just goes and figures it out, right? So the algorithm of an if then statement, the human has to figure it out. But in machine learning, the machine, i.e. the computer, the software, is learning on its own. And it's learning essentially how to create its own if then statements without the programmer having to program them in. And that is a huge difference. And that exists today. So when I think about, this is just me, okay? When I think about quote unquote real AI, I think about machine learning. Like that's what I think about. Okay. So let's apply machine learning to population health, okay? There's a company that does this. It's called Closed Loop AI. It's based in Austin, Texas. It's somewhat of a startup. Guess what it did? It won the CMS AI challenge. That's how good these people are. They beat out 300 other organizations in this CMS challenge, including the likes of IBM, the Mayo Clinic, and Deloitte. It has the former CIO of Humana. It has an MIT computer science guy who used to work on the Human Genome Project. I mean, these people know what they're doing. And they have articulated very well how to apply machine learning to population health. Now, why would you do this? They say this themselves. They say, look, and I'll leave a link in the show notes to the podcast and the videos where I got this information from. Look, you're using quote unquote predictive analytics on data to identify the 5% of people who are going to generate 50% of the costs or have 50% of the adverse outcomes or have 50% of the hospitalizations, whatever you want to use as your metric. Like, that's been going on for forever. Like, that's nothing new. But the point is that we're really bad at it. The historical if-then statement algorithm of trying to identify the 5% of people in advance that are going to generate 50% of the admissions or 50% of the costs or whatever, but it's horribly ineffective. So the point is, instead of having people trying to create if-then statements, you apply machine learning to data in order to identify the 5% of people that are going to drive 50% of the outcome. Again, whether it be cost or hospitalizations, ER visits, whatever. Okay, so why would you want to do this? Because you want to do something about it, right? Not just knowing about it means nothing. You want to know who to contact, right? Who do you want to, like, literally send to the house, like a nurse to go to their house and knock on their door, or a physician to do a home visit, or to send a text message to? The point is that you're going to intervene with these folks to do something. And I'm going to give you a very specific example of how closed-loop AI did this. And, but before I do that, they point out three aspects of machine learning that are super important. Okay, one is explainability. So the point is that machine learning is kind of a black box. I'm like, okay, well, how did the software know to come up with that answer? How did the software know to come up with those particular 5% of the people? And the point is, it has to be explainable. Because it's, you can't convince the people who are going to do the contact, the physician, the nurse, whatever, you can't convince them to effectively do their job if you can't explain to them why it is. Because the historical algorithms of the past were like, hey nurse, you need to go visit Steve. And the nurse would be like, why in the world am I visiting Steve? That makes no sense. Like to me as a nurse, you're showing me Steve's age and all this sort of stuff, his demographics, his diseases. And like, from my point of view, I don't think I should visit Steve. So you have to be able to explain why. And that's the reason that they won the CMS challenge is because they said, look, machine learning is not a black box. It needs to be explainable. And closed loop does a better job of explaining their machine learning than like literally everyone else. They do a better job than 300 other folks. Okay. Two, analyzing population health data has inherently been bias. And it's either been cutting people out who should not have been cut out like entire populations of people, whether it's based on age or income or race or gender, whatever. And it's been put, it's been overemphasizing and putting other people in. So acknowledging that and explicitly programming the machine learning to address those biases is super important. So it needs to be addressed head on, not as an afterthought. Okay. Finally, it's okay to have messy data. People are like so much of machine learning and AI, big data, blah, blah, blah, is like quote unquote cleaning up messy healthcare data. The point is, is that with machine learning, if the data is messy, it's okay. Why is that? Well, if you're a human being and you look at messy data, you're able to make sense of that. And the example that, that the, that the people from closed loop AI use is that look, if you identify, if you're looking at data and you're like, well, I don't see an ICD-10 code for diabetes, but then you see a whole bunch of prescriptions filled for insulin. Guess what? The person probably has diabetes, even if the data is messy and they don't have an ICD-10 code for it. As a human, that's pretty easy for you to figure out. But the point is, is that you actually program the software, be able to figure that out as well. Okay. Now here's the practical application during COVID where, uh, closed loop AI created the COVID-19 vulnerability index that was used by Johns Hopkins, the university of Texas medical branch down in Galveston. It's used by Einstein as well, where they said, Hey, look, can we use machine learning population to identify who would be at high risk of complications for infecting COVID? Not who would get infected, but not where the, not where the virus would be. Would it be in Atlanta? Would it be in Iowa? Not that, but just if you got COVID, what people would be at high risk of serious complications if they got it? And so they looked at 21 measures that were a combination of things like demographic, things like your age and your gender, chronic conditions, like things like, okay, did you have asthma or COPD? Did you have sickle cell? Were you on hemodialysis? And then also they looked at utilization. Had you been in the ER recently? Had you been, uh, admitted to the hospital recently. And they looked at those 21 measures and their, um, machine learning was, was able to predict with 80% sensitivity, whether or not a person was going to be high risk or not when they got, you know, if they got COVID. So if they got COVID, would it be high risk or not? And with 80% sensitivity, they were able to identify that. Now, why would you want to do this? Because if you were a hospital system or a health plan, you would want to target preventive measures specifically for those high risk people. And especially in the early days of COVID, you'd want to do some sort of intervention. What were some of the literal interventions that were done? Again, this is not theory. This was literally done. It was done around food security. They identified people who are at high risk of serious complications of COVID. And they said, you probably don't, we don't want you going to the grocery store where you might pick up COVID. So what we're literally going to arrange for like groceries to be delivered to your house, or we're going to work with your family members to make sure your family members can bring you groceries. Okay. Two, they made sure that these people especially got home delivery of their prescriptions. So they were not leaving their house to get their medications filled or just going out without their prescriptions because they're like, well, I'm too scared going out of the house because of COVID. I'm just not going to get my prescriptions. So they, they said specific interventions that they could do as a result of this model, as a result of applying machine learning to population health. That's totally applicable. That's totally rational and useful. Okay. Now, in one of the videos I'll leave a link to in the show, they also talk about how the COVID-19 pandemic has also caused very specific changes in the application of machine learning to population health. And there are two of them that they point out. One, it's the speed. So literally, closed loop AI created the COVID-19 vulnerability index over a weekend. They did it in a weekend. Now they did that because they already had a platform upon which they could apply data and do things in the programming world of machine learning to make that happen. But the point is, is that if you kind of have the framework in place of how to do this, these projects don't take five weeks or five months, they can take five days. So you can do this faster. Why is that useful? Because new clinical situations come up. New populations come into your organization that you need to address. You need to be able to move fast in terms of how you're going to be addressing specific populations with specific health challenges. And this model allows you to do that. Number two, and I thought this was fascinating. Everybody on this video agreed with this comment. And that was videos experts from closed loop AI, from the health plan in New York they work with, et cetera. I said, look, one of the, the, the limiting reagent, the limiting factor for the application and the implementation of machine learning population health, it's actually not the software. It's not the data. They're like, look, the software and the data, they're kind of there. Like we can do that. Like it's not even like the acumen or the skill of the people doing the programming. They're like, look, here's the problem. The problem is, is that we, as in like the software programming population health people, have a hard time translating this to the organization so that they can see the value and know how and when and where and why to apply it. Guess what that sounds like? That sounds like consulting and it sounds like sales. So, and literally the data scientists on this video use the word persuasion. So what is limiting the wider application of machine learning in population health? It's not the data. It's not even the programming skill for the software. It's the ability to persuade the organizations, whether it be the health plan or the employer or the hospital system, whoever, to actually apply what we already know and the data that we already have in the right place at the right time to help the right people, to send the right nurses, doctors, whatever that intervention is, to do it. Fascinating. Guess what? Many of you watching this video, you could be super helpful in the consulting and the sales side of this. So I wanted to bring all this to your attention today because we need to be able to practically understand the application of machine learning and population health. That's my point for today. Thank you for watching a healthcare scene.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Health Care Z. Today's topic
+[0:05 - 0:12]  is machine learning for population health. So before I scare you off with that title,
+[0:12 - 0:18]  this is for the layman. This is for every man and woman. And this is not hocus pocus
+[0:18 - 0:26]  about AI. This is very practical application of how it works and how to use it. So here
+[0:26 - 0:32]  we go. So when we talk about machine learning, which is part of AI, keep in mind, this is
+[0:32 - 0:40]  not, what is this is not? This is not human generated if then statements, right? So you
+[0:40 - 0:45]  hear the word algorithm, okay? But a lot of algorithms are just if then statements. And
+[0:45 - 0:50]  in the 20th century, like we use those all the time. If this happens, then do this. And
+[0:50 - 0:55]  we would tell the software to do that. I mean, I was literally taught that in computer camp.
+[0:55 - 1:02]  When I was in the third grade in 1984, and we were using the basic, literally, the computer
+[1:02 - 1:09]  language was called basic on an IBM PC junior to make a tic-tac-toe game. So I was typing,
+[1:10 - 1:16]  I was coding if then statements, which was an algorithm, okay? I will tell you, that was
+[1:16 - 1:21]  not AI, okay? I just will not say that. I'm saying rant. That was not AI, okay? So machine
+[1:21 - 1:27]  learning is very different, okay? Machine learning is when you create software that just goes
+[1:27 - 1:33]  and figures it out, right? So the algorithm of an if then statement, the human has to
+[1:33 - 1:38]  figure it out. But in machine learning, the machine, i.e. the computer, the software, is
+[1:38 - 1:44]  learning on its own. And it's learning essentially how to create its own if then statements without
+[1:44 - 1:50]  the programmer having to program them in. And that is a huge difference. And that exists
+[1:50 - 1:54]  today. So when I think about, this is just me, okay? When I think about quote unquote real
+[1:54 - 2:00]  AI, I think about machine learning. Like that's what I think about. Okay. So let's apply machine
+[2:00 - 2:04]  learning to population health, okay? There's a company that does this. It's called Closed
+[2:04 - 2:12]  Loop AI. It's based in Austin, Texas. It's somewhat of a startup. Guess what it did? It won the CMS AI
+[2:12 - 2:20]  challenge. That's how good these people are. They beat out 300 other organizations in this CMS
+[2:20 - 2:30]  challenge, including the likes of IBM, the Mayo Clinic, and Deloitte. It has the former CIO of Humana.
+[2:30 - 2:37]  It has an MIT computer science guy who used to work on the Human Genome Project. I mean, these people
+[2:37 - 2:44]  know what they're doing. And they have articulated very well how to apply machine learning to population
+[2:44 - 2:48]  health. Now, why would you do this? They say this themselves. They say, look, and I'll leave a link
+[2:48 - 2:53]  in the show notes to the podcast and the videos where I got this information from. Look, you're using
+[2:53 - 2:59]  quote unquote predictive analytics on data to identify the 5% of people who are going to generate 50% of
+[2:59 - 3:04]  the costs or have 50% of the adverse outcomes or have 50% of the hospitalizations, whatever you want
+[3:04 - 3:09]  to use as your metric. Like, that's been going on for forever. Like, that's nothing new. But the point
+[3:09 - 3:16]  is that we're really bad at it. The historical if-then statement algorithm of trying to identify the 5% of
+[3:16 - 3:20]  people in advance that are going to generate 50% of the admissions or 50% of the costs or whatever,
+[3:21 - 3:26]  but it's horribly ineffective. So the point is, instead of having people trying to create if-then
+[3:26 - 3:33]  statements, you apply machine learning to data in order to identify the 5% of people that are going to drive
+[3:33 - 3:40]  50% of the outcome. Again, whether it be cost or hospitalizations, ER visits, whatever. Okay, so why would you
+[3:40 - 3:45]  want to do this? Because you want to do something about it, right? Not just knowing about it means nothing.
+[3:45 - 3:52]  You want to know who to contact, right? Who do you want to, like, literally send to the house, like a nurse to go to their house
+[3:52 - 3:58]  and knock on their door, or a physician to do a home visit, or to send a text message to? The point is
+[3:58 - 4:04]  that you're going to intervene with these folks to do something. And I'm going to give you a very specific
+[4:04 - 4:13]  example of how closed-loop AI did this. And, but before I do that, they point out three aspects of
+[4:13 - 4:19]  machine learning that are super important. Okay, one is explainability. So the point is that machine learning
+[4:19 - 4:25]  is kind of a black box. I'm like, okay, well, how did the software know to come up with that answer?
+[4:25 - 4:30]  How did the software know to come up with those particular 5% of the people? And the point is, it has
+[4:30 - 4:36]  to be explainable. Because it's, you can't convince the people who are going to do the contact, the
+[4:36 - 4:42]  physician, the nurse, whatever, you can't convince them to effectively do their job if you can't explain
+[4:42 - 4:48]  to them why it is. Because the historical algorithms of the past were like, hey nurse, you need to go
+[4:48 - 4:54]  visit Steve. And the nurse would be like, why in the world am I visiting Steve? That makes no sense.
+[4:54 - 4:59]  Like to me as a nurse, you're showing me Steve's age and all this sort of stuff, his demographics,
+[4:59 - 5:04]  his diseases. And like, from my point of view, I don't think I should visit Steve. So you have to be able
+[5:04 - 5:13]  to explain why. And that's the reason that they won the CMS challenge is because they said, look,
+[5:13 - 5:19]  machine learning is not a black box. It needs to be explainable. And closed loop does a better job
+[5:19 - 5:22]  of explaining their machine learning than like literally everyone else. They do a better job
+[5:22 - 5:32]  than 300 other folks. Okay. Two, analyzing population health data has inherently been bias.
+[5:32 - 5:39]  And it's either been cutting people out who should not have been cut out like entire populations of
+[5:39 - 5:46]  people, whether it's based on age or income or race or gender, whatever. And it's been put,
+[5:46 - 5:52]  it's been overemphasizing and putting other people in. So acknowledging that and explicitly
+[5:52 - 6:00]  programming the machine learning to address those biases is super important. So it needs to be
+[6:00 - 6:06]  addressed head on, not as an afterthought. Okay. Finally, it's okay to have messy data. People are
+[6:06 - 6:12]  like so much of machine learning and AI, big data, blah, blah, blah, is like quote unquote cleaning up
+[6:12 - 6:17]  messy healthcare data. The point is, is that with machine learning, if the data is messy, it's okay.
+[6:18 - 6:23]  Why is that? Well, if you're a human being and you look at messy data, you're able to make sense of
+[6:23 - 6:29]  that. And the example that, that the, that the people from closed loop AI use is that look,
+[6:29 - 6:33]  if you identify, if you're looking at data and you're like, well, I don't see an ICD-10 code for
+[6:33 - 6:36]  diabetes, but then you see a whole bunch of prescriptions filled for insulin. Guess what?
+[6:37 - 6:42]  The person probably has diabetes, even if the data is messy and they don't have an ICD-10 code for it.
+[6:43 - 6:47]  As a human, that's pretty easy for you to figure out. But the point is, is that you actually program
+[6:47 - 6:52]  the software, be able to figure that out as well. Okay. Now here's the practical application during
+[6:52 - 6:59]  COVID where, uh, closed loop AI created the COVID-19 vulnerability index that was used by
+[6:59 - 7:02]  Johns Hopkins, the university of Texas medical branch down in Galveston. It's used by Einstein
+[7:02 - 7:08]  as well, where they said, Hey, look, can we use machine learning population to identify who would
+[7:08 - 7:13]  be at high risk of complications for infecting COVID? Not who would get infected, but not where the,
+[7:13 - 7:17]  not where the virus would be. Would it be in Atlanta? Would it be in Iowa? Not that,
+[7:18 - 7:24]  but just if you got COVID, what people would be at high risk of serious complications if they got it?
+[7:24 - 7:28]  And so they looked at 21 measures that were a combination of things like demographic,
+[7:28 - 7:33]  things like your age and your gender, chronic conditions, like things like, okay, did you have
+[7:33 - 7:38]  asthma or COPD? Did you have sickle cell? Were you on hemodialysis? And then also they looked at
+[7:38 - 7:43]  utilization. Had you been in the ER recently? Had you been, uh, admitted to the hospital
+[7:43 - 7:50]  recently. And they looked at those 21 measures and their, um, machine learning was, was able to
+[7:50 - 7:58]  predict with 80% sensitivity, whether or not a person was going to be high risk or not when they
+[7:58 - 8:02]  got, you know, if they got COVID. So if they got COVID, would it be high risk or not? And with 80%
+[8:02 - 8:08]  sensitivity, they were able to identify that. Now, why would you want to do this? Because if you were a
+[8:08 - 8:13]  hospital system or a health plan, you would want to target preventive measures specifically for
+[8:13 - 8:17]  those high risk people. And especially in the early days of COVID, you'd want to do some sort of
+[8:17 - 8:21]  intervention. What were some of the literal interventions that were done? Again, this is not
+[8:21 - 8:27]  theory. This was literally done. It was done around food security. They identified people who are at high
+[8:27 - 8:32]  risk of serious complications of COVID. And they said, you probably don't, we don't want you going to
+[8:32 - 8:37]  the grocery store where you might pick up COVID. So what we're literally going to arrange for like
+[8:37 - 8:40]  groceries to be delivered to your house, or we're going to work with your family members to make sure
+[8:40 - 8:45]  your family members can bring you groceries. Okay. Two, they made sure that these people
+[8:45 - 8:51]  especially got home delivery of their prescriptions. So they were not leaving their house to get their
+[8:51 - 8:54]  medications filled or just going out without their prescriptions because they're like, well, I'm too
+[8:54 - 8:58]  scared going out of the house because of COVID. I'm just not going to get my prescriptions. So they,
+[8:58 - 9:05]  they said specific interventions that they could do as a result of this model, as a result of applying
+[9:05 - 9:10]  machine learning to population health. That's totally applicable. That's totally rational and
+[9:10 - 9:17]  useful. Okay. Now, in one of the videos I'll leave a link to in the show, they also talk about how
+[9:17 - 9:23]  the COVID-19 pandemic has also caused very specific changes in the application of machine learning to
+[9:23 - 9:28]  population health. And there are two of them that they point out. One, it's the speed. So literally,
+[9:28 - 9:36]  closed loop AI created the COVID-19 vulnerability index over a weekend. They did it in a weekend.
+[9:36 - 9:42]  Now they did that because they already had a platform upon which they could apply data and do
+[9:42 - 9:47]  things in the programming world of machine learning to make that happen. But the point is, is that if
+[9:47 - 9:54]  you kind of have the framework in place of how to do this, these projects don't take five weeks or five
+[9:54 - 10:01]  months, they can take five days. So you can do this faster. Why is that useful? Because new clinical
+[10:01 - 10:07]  situations come up. New populations come into your organization that you need to address. You need
+[10:07 - 10:12]  to be able to move fast in terms of how you're going to be addressing specific populations with
+[10:12 - 10:18]  specific health challenges. And this model allows you to do that. Number two, and I thought this was
+[10:18 - 10:24]  fascinating. Everybody on this video agreed with this comment. And that was videos experts from
+[10:24 - 10:28]  closed loop AI, from the health plan in New York they work with, et cetera. I said, look,
+[10:29 - 10:34]  one of the, the, the limiting reagent, the limiting factor for the application and the implementation of
+[10:34 - 10:39]  machine learning population health, it's actually not the software. It's not the data. They're like,
+[10:39 - 10:44]  look, the software and the data, they're kind of there. Like we can do that. Like it's not even
+[10:44 - 10:48]  like the acumen or the skill of the people doing the programming. They're like, look, here's the
+[10:48 - 10:55]  problem. The problem is, is that we, as in like the software programming population health people,
+[10:55 - 11:02]  have a hard time translating this to the organization so that they can see the value and know how and when
+[11:02 - 11:07]  and where and why to apply it. Guess what that sounds like? That sounds like consulting and it sounds like
+[11:07 - 11:17]  sales. So, and literally the data scientists on this video use the word persuasion. So what is limiting
+[11:17 - 11:23]  the wider application of machine learning in population health? It's not the data. It's not even
+[11:23 - 11:28]  the programming skill for the software. It's the ability to persuade the organizations, whether it be
+[11:28 - 11:35]  the health plan or the employer or the hospital system, whoever, to actually apply what we already
+[11:35 - 11:39]  know and the data that we already have in the right place at the right time to help the right people,
+[11:39 - 11:45]  to send the right nurses, doctors, whatever that intervention is, to do it. Fascinating.
+[11:46 - 11:51]  Guess what? Many of you watching this video, you could be super helpful in the consulting and the sales
+[11:51 - 11:56]  side of this. So I wanted to bring all this to your attention today because we need to be able to
+[11:56 - 12:00]  practically understand the application of machine learning and population health. That's my point
+[12:00 - 12:02]  for today. Thank you for watching a healthcare scene.

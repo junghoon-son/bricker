@@ -1,0 +1,102 @@
+Title: Reference Based Pricing Explained
+URL: https://www.youtube.com/watch?v=NM3nZ-cTI8k
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing reference-based pricing. So I have received many requests to cover this topic and this will just be the beginning of it. So what is reference-based pricing? So this is where the facility fee paid by the employer is a percent of Medicare reimbursement. So as many of you know, Medicare pays hospitals much less than commercial insurance pays. Therefore, even at 120 to 140 percent of what Medicare would reimburse, it's still much less than what a commercial insurance company would pay. Let me give you an example. For an echocardiogram, which is an ultrasound of the heart performed by a cardiologist, the Medicare reimbursement might only be around $200 for the quote-unquote facility fee for that echocardiogram. Whereas the commercial insurance reimbursement might be upwards of $800. And that's not bill charges, that's the allowed amount after the discount's been applied. So it's literally four times higher on the commercial insurance side versus Medicare reimbursement. Therefore, if you reimburse, let's say 120 percent or 140 percent, then you're talking like $240 of reimbursement for that echocardiogram as opposed to $800. So even paying 20 to 40 percent more than Medicare is still much less than that commercial insurance contracted rate. Okay. Point number one. Point number two. It's not for the physician fees. So it's typically only the facility fees that are reimbursed as a percentage of Medicare, not the physician fees. So the physician fees are typically still associated with a network and the physician reimbursement is then at the rate of the contracted network rate. Okay. So no network for facility fees and yes, typically a network for physician fees. Point number three. This is typically done as a self-funded employer with a TPA. So not a major carrier ASO. And there are many reasons for that, but typically for employers that are using a major carrier ASO, they will need to change to typically a smaller regional or sometimes national third-party administrator in order to make this plan work. Next point number four. Does it work? Yes. In that it does actually decrease health care and cost. And I have literally seen this across my former company, Compass, across some of our clients that use reference-based pricing and speaking with many brokers and employers that actually have reference-based pricing on some of their groups where it can actually decrease their overall health cost. So not just facility spend, but their overall health care spend by 30%. So specifically there was a broker here in Dallas, has a self-funded group of about 1,800 employees on the plan where their health care costs went down by about 30% like eight years ago when they put in this type of plan. And it has stayed down and even gone down even a little bit more on a per-employee basis over the last eight years. Now, here's a couple of issues that need to be thought about in great detail. So one is the issue of balanced billing. So as you can imagine, if you go to a facility and you do not have a network, and then let's say the full billed charges for that echocardiogram are $1,600 and there's a typical 50% discount. So then it gives you a lot amount of $800, but then you go in and you have no network and then you pay them $240. They're going to say, okay, billed charges are $1,600. You paid us $240. You owe us the difference. And that difference is owed by the patient. And so they will go after the patient for that money. Now, whenever anybody goes and receives services, you typically sign a whole bunch of forms. One of those forms that you sign, either the doctor's office or at the hospital, is a form that says that you, the patient, are ultimately responsible for the bill. And they will quote unquote bill your insurance and they'll quote unquote accept payment from that insurance. But if that payment is not commensurate with what they are expecting, then they're going to go after the patient and balance bill them. And so this is where oftentimes a reference-based pricing program will come associated with like a group of attorneys that will literally fight on behalf of the employer and the patient to either reduce or eliminate that balance bill. Now, they actually will sometimes use some fairly quote unquote strong arm tactics. So it'll be things to the effect of, you know, nasty letters. I shouldn't say nasty. Letters, we'll just say. And also in certain situations, there have even been threats of exposing the bill charges to local newspapers and television stations so as to make the doctor or the hospital look bad in that particular situation. So it, you know, those techniques sometimes have worked. As you can imagine, it does one, set up a fairly adversarial relationship between the doc and the hospital and the patient themselves. And then two, it doesn't always work. So in very large hospital systems, there is, they typically are not intimidated by an attorney because they have their own legal staff. They have high-powered attorneys on retainer themselves. So that is one issue. The next issue is that some reference-based pricing program will actually do negotiations prior to service. So in other words, let's just use this echocardiogram example again. So they'll say, okay, well, listen, before the echocardiogram is performed, we will actually say, look, we're going to reimburse 240% of Medicare and the echocardiogram actually will not be performed until the negotiating party, which could be an attorney or it could be an advocacy service, that it would be negotiated up front. So there would not be a balanced billing issue because they would agree to the $240 as opposed to the $800 in advance. Now, full disclosure, my former company, Compass, actually does this for some of our reference-based program employers. So I just want to make you aware of that. Now, there are many other issues that we could discuss with in terms of reference-based pricing, but probably the most important issue that I want to bring up here at the end is, have I seen it work? Absolutely. Have I seen it fail? Absolutely as well. We've actually seen self-funded employers that had a major carrier ASO, they moved to reference-based pricing, it lowered their claims costs. However, there was so much employee pushback and there was so much administrative bureaucracy that frankly was not handled well, as you can imagine, between the the attorney working on balance bills after the fact or the negotiation beforehand that literally, and these are anecdotal stories from brokers and groups that I have worked with where they said that the CFO of a company was literally scheduled for an elected outpatient surgery, shows up all ready for his surgery, not eating anything in the morning, right? Because that's what they tell you to do. And the hospital said, okay, you don't have a network. In order for us to have you move forward the surgery, you need to write us a check for about $6,000. And as you can imagine, the CFO was not interested in doing that and he was rather upset. So he canceled the surgery. And as you can imagine, that employer then was no longer on a reference-based pricing program later on that year. And so again, that's anecdotal evidence. Does that happen on a lot? Does it happen not a lot? It depends upon what your definition of a lot is. As someone who helped run a 300 employee company, I will tell you that a company is its people. And so therefore, if you have a situation where there are employees that are vital to your organization that you might potentially put in a suspect healthcare situation, that might adversely affect the operations of your company. Not necessarily, but it's something to think about prior to moving to a reference-based pricing program. Another point I will add is for the company that was successful in lowering their healthcare costs by 30% and keeping it below that level for over eight years, what happened was, was that they did a tremendous amount of communication. They expected employee noise for not one, not two, but actually upwards of three years. And three, it was actually a fairly highly turnover employer for the quote unquote lower rank and file employees. And so quote unquote benefit satisfaction wasn't necessarily a huge deal in order to attract or retain a workforce. However, for their executives, it was super important that they were on board because there was less turnover with them and that it was communicated with them and that there was a lot of handholding for those people that were in management. So again, I'm not saying that's right or wrong, but I'm just saying that those are the experiences of brokers and employers that have actually moved forward with reference-based pricing. Again, this is only the beginning of discussing this matter, but I appreciate you watching a healthcare Z. Thank you.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're
+[0:04 - 0:09]  going to be discussing reference-based pricing. So I have received many requests to cover
+[0:09 - 0:14]  this topic and this will just be the beginning of it. So what is reference-based pricing?
+[0:14 - 0:20]  So this is where the facility fee paid by the employer is a percent of Medicare reimbursement.
+[0:20 - 0:27]  So as many of you know, Medicare pays hospitals much less than commercial insurance pays.
+[0:27 - 0:32]  Therefore, even at 120 to 140 percent of what Medicare would reimburse, it's still much
+[0:32 - 0:35]  less than what a commercial insurance company would pay.
+[0:35 - 0:39]  Let me give you an example. For an echocardiogram, which is an ultrasound of the heart performed
+[0:39 - 0:45]  by a cardiologist, the Medicare reimbursement might only be around $200 for the quote-unquote
+[0:45 - 0:51]  facility fee for that echocardiogram. Whereas the commercial insurance reimbursement might
+[0:51 - 0:56]  be upwards of $800. And that's not bill charges, that's the allowed amount after the discount's
+[0:56 - 1:01]  been applied. So it's literally four times higher on the commercial insurance side versus
+[1:01 - 1:07]  Medicare reimbursement. Therefore, if you reimburse, let's say 120 percent or 140 percent, then you're
+[1:07 - 1:14]  talking like $240 of reimbursement for that echocardiogram as opposed to $800. So even paying
+[1:14 - 1:19]  20 to 40 percent more than Medicare is still much less than that commercial insurance contracted
+[1:19 - 1:25]  rate. Okay. Point number one. Point number two. It's not for the physician fees. So it's typically
+[1:25 - 1:29]  only the facility fees that are reimbursed as a percentage of Medicare, not the physician
+[1:29 - 1:35]  fees. So the physician fees are typically still associated with a network and the physician
+[1:35 - 1:40]  reimbursement is then at the rate of the contracted network rate. Okay. So no network for facility
+[1:40 - 1:46]  fees and yes, typically a network for physician fees. Point number three. This is typically done
+[1:46 - 1:55]  as a self-funded employer with a TPA. So not a major carrier ASO. And there are many reasons for that,
+[1:55 - 2:00]  but typically for employers that are using a major carrier ASO, they will need to change to typically a
+[2:00 - 2:06]  smaller regional or sometimes national third-party administrator in order to make this plan work.
+[2:06 - 2:11]  Next point number four. Does it work? Yes. In that it does actually decrease health care and cost. And I
+[2:11 - 2:16]  have literally seen this across my former company, Compass, across some of our clients that use
+[2:16 - 2:21]  reference-based pricing and speaking with many brokers and employers that actually have reference-based
+[2:21 - 2:26]  pricing on some of their groups where it can actually decrease their overall health cost. So not just
+[2:26 - 2:34]  facility spend, but their overall health care spend by 30%. So specifically there was a broker here in
+[2:34 - 2:39]  Dallas, has a self-funded group of about 1,800 employees on the plan where their health care costs went down by
+[2:39 - 2:45]  about 30% like eight years ago when they put in this type of plan. And it has stayed down and even
+[2:45 - 2:52]  gone down even a little bit more on a per-employee basis over the last eight years. Now, here's a
+[2:52 - 2:58]  couple of issues that need to be thought about in great detail. So one is the issue of balanced billing.
+[2:58 - 3:04]  So as you can imagine, if you go to a facility and you do not have a network, and then let's say the full
+[3:04 - 3:10]  billed charges for that echocardiogram are $1,600 and there's a typical 50% discount. So then it gives
+[3:10 - 3:17]  you a lot amount of $800, but then you go in and you have no network and then you pay them $240.
+[3:17 - 3:24]  They're going to say, okay, billed charges are $1,600. You paid us $240. You owe us the difference.
+[3:24 - 3:30]  And that difference is owed by the patient. And so they will go after the patient for that money.
+[3:30 - 3:36]  Now, whenever anybody goes and receives services, you typically sign a whole bunch of forms. One of
+[3:36 - 3:40]  those forms that you sign, either the doctor's office or at the hospital, is a form that says
+[3:40 - 3:45]  that you, the patient, are ultimately responsible for the bill. And they will quote unquote bill your
+[3:45 - 3:49]  insurance and they'll quote unquote accept payment from that insurance. But if that payment is not
+[3:49 - 3:53]  commensurate with what they are expecting, then they're going to go after the patient and balance
+[3:53 - 3:59]  bill them. And so this is where oftentimes a reference-based pricing program will come associated with
+[3:59 - 4:06]  like a group of attorneys that will literally fight on behalf of the employer and the patient
+[4:06 - 4:12]  to either reduce or eliminate that balance bill. Now, they actually will sometimes use some fairly
+[4:12 - 4:17]  quote unquote strong arm tactics. So it'll be things to the effect of, you know, nasty letters.
+[4:17 - 4:23]  I shouldn't say nasty. Letters, we'll just say. And also in certain situations, there have even been
+[4:23 - 4:33]  threats of exposing the bill charges to local newspapers and television stations so as to make the doctor
+[4:33 - 4:41]  or the hospital look bad in that particular situation. So it, you know, those techniques sometimes have
+[4:41 - 4:46]  worked. As you can imagine, it does one, set up a fairly adversarial relationship between the doc and the
+[4:46 - 4:53]  hospital and the patient themselves. And then two, it doesn't always work. So in very large hospital
+[4:53 - 5:00]  systems, there is, they typically are not intimidated by an attorney because they have their own legal staff.
+[5:00 - 5:07]  They have high-powered attorneys on retainer themselves. So that is one issue. The next issue is that
+[5:07 - 5:14]  some reference-based pricing program will actually do negotiations prior to service. So in other words,
+[5:14 - 5:18]  let's just use this echocardiogram example again. So they'll say, okay, well, listen,
+[5:18 - 5:25]  before the echocardiogram is performed, we will actually say, look, we're going to reimburse 240%
+[5:25 - 5:30]  of Medicare and the echocardiogram actually will not be performed until the negotiating party,
+[5:30 - 5:37]  which could be an attorney or it could be an advocacy service, that it would be negotiated up front.
+[5:38 - 5:42]  So there would not be a balanced billing issue because they would agree to the $240
+[5:42 - 5:48]  as opposed to the $800 in advance. Now, full disclosure, my former company, Compass,
+[5:48 - 5:54]  actually does this for some of our reference-based program employers. So I just want to make you
+[5:54 - 6:01]  aware of that. Now, there are many other issues that we could discuss with in terms of reference-based
+[6:01 - 6:06]  pricing, but probably the most important issue that I want to bring up here at the end is,
+[6:06 - 6:12]  have I seen it work? Absolutely. Have I seen it fail? Absolutely as well. We've actually seen
+[6:12 - 6:17]  self-funded employers that had a major carrier ASO, they moved to reference-based pricing,
+[6:18 - 6:24]  it lowered their claims costs. However, there was so much employee pushback and there was so much
+[6:24 - 6:29]  administrative bureaucracy that frankly was not handled well, as you can imagine, between the
+[6:29 - 6:37]  the attorney working on balance bills after the fact or the negotiation beforehand that literally,
+[6:37 - 6:43]  and these are anecdotal stories from brokers and groups that I have worked with where they said that
+[6:43 - 6:50]  the CFO of a company was literally scheduled for an elected outpatient surgery, shows up all ready for
+[6:50 - 6:53]  his surgery, not eating anything in the morning, right? Because that's what they tell you to do.
+[6:53 - 6:58]  And the hospital said, okay, you don't have a network. In order for us to have you move forward
+[6:58 - 7:06]  the surgery, you need to write us a check for about $6,000. And as you can imagine, the CFO was not
+[7:06 - 7:11]  interested in doing that and he was rather upset. So he canceled the surgery. And as you can imagine,
+[7:12 - 7:19]  that employer then was no longer on a reference-based pricing program later on that year. And so again,
+[7:19 - 7:23]  that's anecdotal evidence. Does that happen on a lot? Does it happen not a lot? It depends upon what
+[7:23 - 7:31]  your definition of a lot is. As someone who helped run a 300 employee company, I will tell you that
+[7:31 - 7:38]  a company is its people. And so therefore, if you have a situation where there are employees that are
+[7:38 - 7:43]  vital to your organization that you might potentially put in a suspect healthcare situation,
+[7:43 - 7:49]  that might adversely affect the operations of your company. Not necessarily, but it's something to think
+[7:49 - 7:54]  about prior to moving to a reference-based pricing program. Another point I will add is for the
+[7:54 - 8:00]  company that was successful in lowering their healthcare costs by 30% and keeping it below that
+[8:00 - 8:06]  level for over eight years, what happened was, was that they did a tremendous amount of communication.
+[8:06 - 8:12]  They expected employee noise for not one, not two, but actually upwards of three years. And three,
+[8:12 - 8:17]  it was actually a fairly highly turnover employer for the quote unquote lower rank and file employees.
+[8:17 - 8:22]  And so quote unquote benefit satisfaction wasn't necessarily a huge deal in order to attract or
+[8:22 - 8:27]  retain a workforce. However, for their executives, it was super important that they were on board
+[8:27 - 8:32]  because there was less turnover with them and that it was communicated with them and that there was a
+[8:32 - 8:37]  lot of handholding for those people that were in management. So again, I'm not saying that's right
+[8:37 - 8:41]  or wrong, but I'm just saying that those are the experiences of brokers and employers that have
+[8:41 - 8:47]  actually moved forward with reference-based pricing. Again, this is only the beginning of discussing this
+[8:47 - 8:50]  matter, but I appreciate you watching a healthcare Z. Thank you.

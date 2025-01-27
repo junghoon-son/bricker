@@ -1,0 +1,68 @@
+Title: Healthcare Software as Monday Morning Quarterback
+URL: https://www.youtube.com/watch?v=sBX_H8J4cOQ
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is healthcare software and a better Monday morning quarterback. Specifically, this is about AIM Specialty Health, which is a subsidiary. It's owned by Anthem, the nation's largest Blue Cross plant. And the information for our talk today is based upon a video from a conference that the CIO, or Chief Information Officer of AIM Specialty Health, spoke at. So I'll leave a link in the show notes to that conference video. I encourage all of you to watch it. It's not too long, like 20 minutes. It's awesome. Okay. So in it, their CIO talks about how AIM is essentially one of the largest prior authorization companies in America. And they do prior authorization in multiple areas, imaging. So in other words, like CT scans and MRIs, cardiology for a lot of things like stress tests, sleep studies, radiation oncology, which is for like zapping tumors, specifically about the prostate or breast cancer, lung cancer, brain cancers. Those are the typical cancers that have radiation oncology, medical oncology, which is infusing chemotherapy, whether it be for leukemia or lymphoma, or for solid tumors, like colon cancer, et cetera. Okay. Specialty drugs. So that might be like, it's probably infusion related, uh, specialty drugs. Okay. So not going through your PBM, but rather like Remicade is an infusion specialty medication that they might provide the prior off on, uh, genetic testing. And then orthopedics, like, do you actually need that knee replacement? Okay. Now let's look at some of the volumes here. They do 10 million reviews a year and they do 15,000 peer to peer, peer to peer reviews a day. In other words, there are doctors at AIM Specialty Health that get on the phone and talk to another peer physician that is wanting to do one of these things. And essentially AIM is telling the insurance company, don't let them do it. And the doctor's having a peer to peer conversation trying to convince the AIM doctor that they actually do need to do it. Okay. More into the kind of volume that AIM does. They do this for 50 million lives. Okay. That is, that's almost 20% of the U S population. Okay. Their clients include 40% of the fortune 50. So if you work for one of the largest companies in America, there's a high likelihood that AIM Specialty Health does your prior authorizations. They have over just over a hundred doctors from 20 different specialties. Okay. Now I just want to point out that these hundred doctors are probably a hundred of the most powerful physicians in America. Okay. Keep in mind, these hundred plus doctors oversee the 10 million reviews for appropriateness and potential denial for all these different types of services. So I want to ask, who are these hundred physicians? Because they've got a heavy load on their shoulders. Okay. Next up, the specific video talks about the software that AIM uses and how it's incredible, the integrations that they do across their clients, which are the actual different blue cross health plans. Okay. How they've done it through both a combination of public cloud and private cloud, the security measures they have in place for the data, the application development that they do. The speaker is Phil Merrill, who is the CIO of AIM. Like it's an awesome talk. And if we take him and his word, they actually did all the things that they said they did. It's like the coolest thing ever. Like as far as like the actual implement and implementation of technology and software and healthcare, like I would argue that Phil's probably doing one of the best jobs in the entire industry. Now, however, I would argue that it is misplaced. It's misplaced because think about it. Essentially, what prior authorization is doing is it's playing Monday morning quarterback. It is judging the, it's questioning the judgment of the physicians. It's saying essentially like, you're wrong. You shouldn't do this. You either shouldn't do it now or you should do something else. Okay. And as a result of that, like those peer to peer conversations, those are the result of essentially the doctor saying, okay, I've been denied the ability to do this MRI. So I need to get on the phone with the AIM doctor and explain to them why I need to do this MRI. Like they're not having peer to peer conversations to talk about how much they agree. They're having peer to peer conversations to talk about how they disagree. Okay. So if you do the math on it, there are 261 working days in a year times the 1500 peer to peer conversations per day, then you're talking 391,500 peer to peer conversations per year, which if you divide that by the 10 million, that's 4% of all the reviews they do end up in these peer to peer conversations. Okay. That's a lot of technology and a lot of work for something that has really been being done at the wrong place at the wrong time with the wrong incentives in place. All of this software, all of this effort should be done at the doctor's office, at the hospital. All of this software should be built by the hospital. All of the software should be at the doctor's fingertips, not by some prior authorization company at the insurance carrier. So my point for today is, is that if you work in healthcare software and healthcare technology, you know, there's a, there's probably a pretty good chance that like the software you're working on is like Monday morning quarterback software or like super sophisticated, like Titanic deck chair straightening software. And that's just not the best use of your time and your skill. And that's my point for today. Thank you for watching a healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:06]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:06 - 0:14]  healthcare software and a better Monday morning quarterback. Specifically, this is about AIM
+[0:14 - 0:20]  Specialty Health, which is a subsidiary. It's owned by Anthem, the nation's largest Blue Cross plant.
+[0:20 - 0:28]  And the information for our talk today is based upon a video from a conference that the CIO,
+[0:28 - 0:33]  or Chief Information Officer of AIM Specialty Health, spoke at. So I'll leave a link in the
+[0:33 - 0:37]  show notes to that conference video. I encourage all of you to watch it. It's not too long, like 20
+[0:37 - 0:45]  minutes. It's awesome. Okay. So in it, their CIO talks about how AIM is essentially one of the
+[0:45 - 0:52]  largest prior authorization companies in America. And they do prior authorization in multiple areas,
+[0:52 - 0:57]  imaging. So in other words, like CT scans and MRIs, cardiology for a lot of things like stress tests,
+[0:57 - 1:03]  sleep studies, radiation oncology, which is for like zapping tumors, specifically about the prostate or
+[1:03 - 1:07]  breast cancer, lung cancer, brain cancers. Those are the typical cancers that have radiation oncology,
+[1:08 - 1:14]  medical oncology, which is infusing chemotherapy, whether it be for leukemia or lymphoma,
+[1:14 - 1:20]  or for solid tumors, like colon cancer, et cetera. Okay. Specialty drugs. So that might be like,
+[1:20 - 1:24]  it's probably infusion related, uh, specialty drugs. Okay. So not going through your PBM,
+[1:24 - 1:31]  but rather like Remicade is an infusion specialty medication that they might provide the prior off
+[1:31 - 1:35]  on, uh, genetic testing. And then orthopedics, like, do you actually need that knee replacement?
+[1:35 - 1:44]  Okay. Now let's look at some of the volumes here. They do 10 million reviews a year and they do 15,000
+[1:44 - 1:49]  peer to peer, peer to peer reviews a day. In other words, there are doctors at AIM Specialty Health
+[1:49 - 1:55]  that get on the phone and talk to another peer physician that is wanting to do one of these
+[1:55 - 2:00]  things. And essentially AIM is telling the insurance company, don't let them do it. And the doctor's
+[2:00 - 2:06]  having a peer to peer conversation trying to convince the AIM doctor that they actually do need to do it.
+[2:06 - 2:14]  Okay. More into the kind of volume that AIM does. They do this for 50 million lives. Okay. That is,
+[2:14 - 2:22]  that's almost 20% of the U S population. Okay. Their clients include 40% of the fortune 50. So if you work
+[2:22 - 2:27]  for one of the largest companies in America, there's a high likelihood that AIM Specialty Health does your
+[2:27 - 2:32]  prior authorizations. They have over just over a hundred doctors from 20 different specialties. Okay.
+[2:32 - 2:38]  Now I just want to point out that these hundred doctors are probably a hundred of the most powerful
+[2:38 - 2:45]  physicians in America. Okay. Keep in mind, these hundred plus doctors oversee the 10 million reviews
+[2:45 - 2:53]  for appropriateness and potential denial for all these different types of services. So I want to ask,
+[2:53 - 3:01]  who are these hundred physicians? Because they've got a heavy load on their shoulders. Okay. Next up,
+[3:01 - 3:08]  the specific video talks about the software that AIM uses and how it's incredible, the integrations that
+[3:08 - 3:12]  they do across their clients, which are the actual different blue cross health plans. Okay. How
+[3:12 - 3:17]  they've done it through both a combination of public cloud and private cloud, the security measures
+[3:17 - 3:22]  they have in place for the data, the application development that they do. The speaker is Phil
+[3:22 - 3:28]  Merrill, who is the CIO of AIM. Like it's an awesome talk. And if we take him and his word,
+[3:28 - 3:33]  they actually did all the things that they said they did. It's like the coolest thing ever. Like as far as
+[3:33 - 3:38]  like the actual implement and implementation of technology and software and healthcare,
+[3:38 - 3:43]  like I would argue that Phil's probably doing one of the best jobs in the entire industry. Now,
+[3:43 - 3:49]  however, I would argue that it is misplaced. It's misplaced because think about it. Essentially,
+[3:50 - 3:55]  what prior authorization is doing is it's playing Monday morning quarterback. It is judging the,
+[3:55 - 3:59]  it's questioning the judgment of the physicians. It's saying essentially like, you're wrong. You
+[3:59 - 4:03]  shouldn't do this. You either shouldn't do it now or you should do something else. Okay. And as a
+[4:03 - 4:07]  result of that, like those peer to peer conversations, those are the result of essentially
+[4:07 - 4:12]  the doctor saying, okay, I've been denied the ability to do this MRI. So I need to get on the
+[4:12 - 4:16]  phone with the AIM doctor and explain to them why I need to do this MRI. Like they're not having
+[4:16 - 4:19]  peer to peer conversations to talk about how much they agree. They're having peer to peer conversations
+[4:19 - 4:25]  to talk about how they disagree. Okay. So if you do the math on it, there are 261 working days in a year
+[4:25 - 4:33]  times the 1500 peer to peer conversations per day, then you're talking 391,500 peer to peer
+[4:33 - 4:40]  conversations per year, which if you divide that by the 10 million, that's 4% of all the reviews they
+[4:40 - 4:46]  do end up in these peer to peer conversations. Okay. That's a lot of technology and a lot of work
+[4:46 - 4:52]  for something that has really been being done at the wrong place at the wrong time with the wrong
+[4:52 - 4:59]  incentives in place. All of this software, all of this effort should be done at the doctor's office,
+[4:59 - 5:05]  at the hospital. All of this software should be built by the hospital. All of the software should
+[5:05 - 5:10]  be at the doctor's fingertips, not by some prior authorization company at the insurance carrier.
+[5:10 - 5:14]  So my point for today is, is that if you work in healthcare software and healthcare technology,
+[5:15 - 5:19]  you know, there's a, there's probably a pretty good chance that like the software you're working on
+[5:19 - 5:25]  is like Monday morning quarterback software or like super sophisticated, like Titanic deck chair
+[5:25 - 5:30]  straightening software. And that's just not the best use of your time and your skill.
+[5:30 - 5:34]  And that's my point for today. Thank you for watching a healthcare Z.

@@ -1,0 +1,217 @@
+Title: Part 2: How to Build a Healthcare Sales Machine
+URL: https://www.youtube.com/watch?v=F5tzULWJsSw
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is how to build a healthcare sales machine, part two. So this is a continuation after part one and I once heard a very established salesman in the health insurance business say, insurance is never bought, it's sold. Meaning that you gotta sell the health insurance. Now I think this is also true for all healthcare innovation, okay? Healthcare innovation is never bought, it's sold. So we have to talk about the detailed tactics of how healthcare innovation solutions are sold. That's what we're gonna go over today. So part one of how to build a healthcare sales machine talked about the organization structure of how sales reps should report to the sales management, etc, etc, to Korea and the account management should report to other parts of the organization, etc, to create the accountability and the incentives within the organizations to execute. Now, today is about the specific tactics of the people, the process, and the technology to make sales happen. Okay, so the organizational structure is important, but you have to have the people, the process, and the technology in order for your healthcare sales machine to be successful. So one, the people. You gotta have the right people on the bus. Who are the right people to have as sales reps? One, they are good storytellers and they are excellent conversationalists. When I would interview sales people, I'm like, tell me the story of your life, starting with like, I was born in. It's obviously a story they're very familiar with. And they should be able to tell me a very compelling story of their life. If they can't even tell me a compelling story of their life, how in the world are they going to tell a product or a solution story? Okay. They're enthusiastic. They smile. I don't need to pep them up. I don't need to give them a motivational speech. They're internally, naturally motivated. Okay. They're quick learners, which gets us to this point over here. They do not need to have a healthcare background. I have found that the most successful people in healthcare innovation sales did not come from healthcare. They have other backgrounds. Now one lady who was super successful, she was a speech pathologist. So yeah, it was healthcare, but it had nothing to do with sales. And she was a fantastic, hugely successful sales person. Made a ton of money. Okay. So they can be young. They don't have to be some sort of senior healthcare sales executive with decades of experience. No. They can be young. But they need to be able to learn. If they're quick learners, 100% they can be successful. And then finally, they've got to hustle. Okay. They've got to have drive. They've got to hustle. Okay. So with these, I'd say the A number one thing is they need to be able to hustle. What does that mean? That means that, at least in my experience, and I'm talking to a whole bunch of other sales managers in the healthcare industry, look, about half the people that are hired, half the sales people that are hired are going to be a bad fit. And you need to figure that out within about the first six months. If it takes you a year to figure it out, it's probably too long. Okay. So what does that mean? If you need a sales team of five, you need to hire 10 people. If you need a sales team of 10, you need to hire 20 people. Because odds are about half of them aren't going to work out. They're either going to self-select or you're going to need to let them go. Okay. Next up, the process. Okay. So like I said, they don't need to have a healthcare background. They need to be quick learners. So what does that mean? You are going to train them. You don't just say, go forth and sell. That is a recipe for disaster. You absolutely must train them. You must do industry training and you must do product specific training. And it's not just like a one-time thing. You need to do it like every week as part of like your weekly team meetings. You need to have dedicated training sessions throughout the year. If there's, if you know, healthcare sales is largely a seasonal business. We would use the slower times of the season, AKA like November and December are actually kind of slow. So we would do gobs of training in November and December so that we could hit the ground running on January 1st. Okay. Next up. They need to, they, the sales reps need to have measurement of the number of phone calls they're making every day. The number of emails and LinkedIn messages they're sending every day. The number of presentations they're making every week. It needs to be measured and it needs to be tracked and it needs to be reported for every individual sales rep. There needs to be a process around all of these at bats. And that's where the hustle comes in. If they're good stories tellers and they're enthusiastic and they learn a lot, but they just don't have a lot of at bats. They're going to fail. You have to knock on a lot of doors. You have to talk to a lot of people. You have to have a lot of activity. By far the most successful salespeople I worked with who made the most money had a lot of hustle and they had a lot of at bats and they had a lot of activity and we knew it because we measured it. Okay. Now, of course, this is kind of fundamental. All salespeople have to work with a quota and that quota has to go along with an OTE, which is the on target earnings, which is what the salesperson is going to be expected to make once they make a quota. So it's not some sort of huge high base salary with just a little bit of commission in there. What's the right balance of base plus commission? What's the right structure for you? That's highly specific. But overall, there needs to be a quota and there needs to be an OTE. That's kind of sales basics 101. Okay. Finally, the technology. In other words, the software. Okay. It's important to use a CRM. Do not just use an Excel spreadsheet. I have never seen a successful, like a really successful sales organization with just an Excel spreadsheet. And every sales organization that thought they were successful with an Excel spreadsheet always did better once they actually used a CRM. Why? Because all activities are logged. Again, this hustle thing is hugely important. And it allows you to see which of the half of sales reps that you've hired that have low activity levels so you know to need to ask them to move on before they have stayed too long. Because what do all salespeople do? They talk a good game. Well, I pipeline, pipeline, pipeline. Oh, I got a good opportunity. I got a good lead here. Oh, I've almost got this one closed. Right. I'm talking a good game. But then you look at their activity numbers. And if their activity numbers are low, and it's very easy to then set a performance improvement plan, and if they can't meet their performance improvement plan on their activities, then they either self-select or they need to be asked to leave. So it's hugely important to use a CRM in order to track activity. And we wouldn't be super picky about it. Now we would audit it to make sure that they weren't putting fictitious information in there to make sure that the call actually happened, that the presentation didn't actually happen. I would actually be on a lot of the calls and a lot of the presentations with them. So just know that you need a CRM to do that. Using a spreadsheet is highly ineffective. Okay. Now, you're also going to use the CRM to track your broker and consultant leads so that you can see which brokers and consultants, because so much of healthcare sales is to employers and it's done through the broker consultants. You need to see which brokers consultants have been touched recently and which ones haven't. It's remarkable how easy it is for brokers and consultants to fall through the cracks. Oh, you haven't followed up with this person in six months. Oh, well, I just didn't see that part of my spreadsheet. Aha! Don't use a spreadsheet, right? That way you can run reports off the CRM to be like, okay, well, who are the brokers and consultants that you haven't touched recently? And you better go back and touch them. Okay. Same thing with customer leads as well, in terms of tracking who you've sent proposals out to, who you've done presentations to. Again, the CRM is the way to go, not an Excel spreadsheet. Okay. Now, and then also in that CRM, you're going to be able to, you always want to have the salespeople put in the anticipated start date for the group, for the sale, for the customer, because so much of healthcare sales is seasonal. And so it's very important that you're going to use the CRM to then measure your pipeline. Okay. And then you're going to do the estimated annual recurring revenue off of that sale. Most of these sales are subscription models. So there's some degree of annual recurring revenue. And then the VP of sales, to a certain extent, the CEO and the executive team, the chief revenue officer, however you have it structured, they are going over the pipeline weekly. And you stratify it by the largest ARR amounts on top and you go down. You don't go alphabetical. You don't go geographic. You don't go by sales reps. You go with the highest dollar accounts first. And you work your way down to some sort of bottom threshold. If you've got like a thousand groups or 500 groups in the pipeline, maybe you don't review 500 groups every week. But it's like the 80-20 rule. 80% of your revenue is going to be in the top 20% of your pipeline. And it has to be reviewed every week so that you can break. Because you always run into these various barriers and blockades and people not returning calls and emails. And so you have to run the traps and be able to problem solve how to bust through all of those problems. And sometimes it involves working with the sales rep. Sometimes it involves talking to somebody else within your organization or working your Rolodex. There's a gazillion things that you can do to bust through the roadblocks in various stages of the sales cycle. So there you go. How to build a healthcare sales machine part two. Talking all about the people, process, and the technology. That's my point for today. Thank you for watching A Healthcare to See. Thank you.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:04 - 0:10]  Today's topic is how to build a healthcare sales machine, part two.
+[0:10 - 0:18]  So this is a continuation after part one and I once heard a very established salesman in
+[0:18 - 0:24]  the health insurance business say, insurance is never bought, it's sold.
+[0:24 - 0:28]  Meaning that you gotta sell the health insurance.
+[0:28 - 0:33]  Now I think this is also true for all healthcare innovation, okay?
+[0:33 - 0:36]  Healthcare innovation is never bought, it's sold.
+[0:36 - 0:45]  So we have to talk about the detailed tactics of how healthcare innovation solutions are sold.
+[0:45 - 0:46]  That's what we're gonna go over today.
+[0:46 - 0:51]  So part one of how to build a healthcare sales machine talked about the organization structure
+[0:51 - 0:58]  of how sales reps should report to the sales management, etc, etc, to Korea and the account
+[0:58 - 1:03]  management should report to other parts of the organization, etc, to create the accountability
+[1:03 - 1:06]  and the incentives within the organizations to execute.
+[1:06 - 1:14]  Now, today is about the specific tactics of the people, the process, and the technology
+[1:14 - 1:16]  to make sales happen.
+[1:16 - 1:20]  Okay, so the organizational structure is important, but you have to have the people, the process,
+[1:20 - 1:25]  and the technology in order for your healthcare sales machine to be successful.
+[1:25 - 1:26]  So one, the people.
+[1:26 - 1:29]  You gotta have the right people on the bus.
+[1:29 - 1:31]  Who are the right people to have as sales reps?
+[1:31 - 1:37]  One, they are good storytellers and they are excellent conversationalists.
+[1:37 - 1:42]  When I would interview sales people, I'm like, tell me the story of your life, starting with
+[1:42 - 1:44]  like, I was born in.
+[1:44 - 1:47]  It's obviously a story they're very familiar with.
+[1:47 - 1:51]  And they should be able to tell me a very compelling story of their life.
+[1:51 - 1:57]  If they can't even tell me a compelling story of their life, how in the world are they going
+[1:57 - 2:00]  to tell a product or a solution story?
+[2:00 - 2:01]  Okay.
+[2:01 - 2:02]  They're enthusiastic.
+[2:02 - 2:03]  They smile.
+[2:03 - 2:04]  I don't need to pep them up.
+[2:04 - 2:07]  I don't need to give them a motivational speech.
+[2:07 - 2:10]  They're internally, naturally motivated.
+[2:10 - 2:11]  Okay.
+[2:11 - 2:16]  They're quick learners, which gets us to this point over here.
+[2:16 - 2:19]  They do not need to have a healthcare background.
+[2:19 - 2:26]  I have found that the most successful people in healthcare innovation sales did not come
+[2:26 - 2:28]  from healthcare.
+[2:28 - 2:29]  They have other backgrounds.
+[2:29 - 2:33]  Now one lady who was super successful, she was a speech pathologist.
+[2:33 - 2:36]  So yeah, it was healthcare, but it had nothing to do with sales.
+[2:36 - 2:40]  And she was a fantastic, hugely successful sales person.
+[2:40 - 2:41]  Made a ton of money.
+[2:41 - 2:42]  Okay.
+[2:42 - 2:43]  So they can be young.
+[2:43 - 2:49]  They don't have to be some sort of senior healthcare sales executive with decades of experience.
+[2:49 - 2:50]  No.
+[2:50 - 2:51]  They can be young.
+[2:51 - 2:54]  But they need to be able to learn.
+[2:54 - 2:58]  If they're quick learners, 100% they can be successful.
+[2:58 - 3:01]  And then finally, they've got to hustle.
+[3:01 - 3:02]  Okay.
+[3:02 - 3:04]  They've got to have drive.
+[3:04 - 3:06]  They've got to hustle.
+[3:06 - 3:07]  Okay.
+[3:07 - 3:11]  So with these, I'd say the A number one thing is they need to be able to hustle.
+[3:11 - 3:12]  What does that mean?
+[3:12 - 3:15]  That means that, at least in my experience, and I'm talking to a whole bunch of other sales
+[3:15 - 3:20]  managers in the healthcare industry, look, about half the people that are hired, half
+[3:20 - 3:22]  the sales people that are hired are going to be a bad fit.
+[3:22 - 3:25]  And you need to figure that out within about the first six months.
+[3:25 - 3:28]  If it takes you a year to figure it out, it's probably too long.
+[3:28 - 3:28]  Okay.
+[3:28 - 3:29]  So what does that mean?
+[3:29 - 3:32]  If you need a sales team of five, you need to hire 10 people.
+[3:32 - 3:35]  If you need a sales team of 10, you need to hire 20 people.
+[3:35 - 3:38]  Because odds are about half of them aren't going to work out.
+[3:38 - 3:40]  They're either going to self-select or you're going to need to let them go.
+[3:40 - 3:41]  Okay.
+[3:41 - 3:42]  Next up, the process.
+[3:42 - 3:43]  Okay.
+[3:43 - 3:46]  So like I said, they don't need to have a healthcare background.
+[3:46 - 3:47]  They need to be quick learners.
+[3:47 - 3:48]  So what does that mean?
+[3:48 - 3:52]  You are going to train them.
+[3:52 - 3:54]  You don't just say, go forth and sell.
+[3:54 - 3:56]  That is a recipe for disaster.
+[3:56 - 3:58]  You absolutely must train them.
+[3:58 - 4:03]  You must do industry training and you must do product specific training.
+[4:03 - 4:05]  And it's not just like a one-time thing.
+[4:05 - 4:10]  You need to do it like every week as part of like your weekly team meetings.
+[4:10 - 4:13]  You need to have dedicated training sessions throughout the year.
+[4:13 - 4:16]  If there's, if you know, healthcare sales is largely a seasonal business.
+[4:16 - 4:23]  We would use the slower times of the season, AKA like November and December are actually kind
+[4:23 - 4:24]  of slow.
+[4:24 - 4:29]  So we would do gobs of training in November and December so that we could hit the ground
+[4:29 - 4:31]  running on January 1st.
+[4:31 - 4:32]  Okay.
+[4:32 - 4:33]  Next up.
+[4:33 - 4:38]  They need to, they, the sales reps need to have measurement of the number of phone calls
+[4:38 - 4:39]  they're making every day.
+[4:39 - 4:42]  The number of emails and LinkedIn messages they're sending every day.
+[4:42 - 4:45]  The number of presentations they're making every week.
+[4:45 - 4:49]  It needs to be measured and it needs to be tracked and it needs to be reported for every
+[4:49 - 4:50]  individual sales rep.
+[4:50 - 4:54]  There needs to be a process around all of these at bats.
+[4:54 - 4:56]  And that's where the hustle comes in.
+[4:56 - 5:00]  If they're good stories tellers and they're enthusiastic and they learn a lot, but they
+[5:00 - 5:01]  just don't have a lot of at bats.
+[5:01 - 5:03]  They're going to fail.
+[5:03 - 5:05]  You have to knock on a lot of doors.
+[5:05 - 5:08]  You have to talk to a lot of people.
+[5:08 - 5:10]  You have to have a lot of activity.
+[5:10 - 5:17]  By far the most successful salespeople I worked with who made the most money had a lot of
+[5:17 - 5:22]  hustle and they had a lot of at bats and they had a lot of activity and we knew it because
+[5:22 - 5:23]  we measured it.
+[5:23 - 5:24]  Okay.
+[5:24 - 5:26]  Now, of course, this is kind of fundamental.
+[5:26 - 5:31]  All salespeople have to work with a quota and that quota has to go along with an OTE,
+[5:31 - 5:35]  which is the on target earnings, which is what the salesperson is going to be expected
+[5:35 - 5:37]  to make once they make a quota.
+[5:37 - 5:42]  So it's not some sort of huge high base salary with just a little bit of commission in there.
+[5:42 - 5:45]  What's the right balance of base plus commission?
+[5:45 - 5:47]  What's the right structure for you?
+[5:47 - 5:48]  That's highly specific.
+[5:48 - 5:52]  But overall, there needs to be a quota and there needs to be an OTE.
+[5:52 - 5:54]  That's kind of sales basics 101.
+[5:54 - 5:55]  Okay.
+[5:55 - 5:56]  Finally, the technology.
+[5:56 - 5:57]  In other words, the software.
+[5:57 - 5:58]  Okay.
+[5:58 - 6:00]  It's important to use a CRM.
+[6:00 - 6:04]  Do not just use an Excel spreadsheet.
+[6:04 - 6:09]  I have never seen a successful, like a really successful sales organization with just an
+[6:09 - 6:10]  Excel spreadsheet.
+[6:10 - 6:15]  And every sales organization that thought they were successful with an Excel spreadsheet always
+[6:15 - 6:19]  did better once they actually used a CRM.
+[6:19 - 6:20]  Why?
+[6:20 - 6:23]  Because all activities are logged.
+[6:23 - 6:27]  Again, this hustle thing is hugely important.
+[6:27 - 6:34]  And it allows you to see which of the half of sales reps that you've hired that have low
+[6:34 - 6:40]  activity levels so you know to need to ask them to move on before they have stayed too
+[6:40 - 6:41]  long.
+[6:41 - 6:43]  Because what do all salespeople do?
+[6:43 - 6:44]  They talk a good game.
+[6:44 - 6:45]  Well, I pipeline, pipeline, pipeline.
+[6:45 - 6:46]  Oh, I got a good opportunity.
+[6:46 - 6:48]  I got a good lead here.
+[6:48 - 6:50]  Oh, I've almost got this one closed.
+[6:50 - 6:51]  Right.
+[6:51 - 6:52]  I'm talking a good game.
+[6:52 - 6:55]  But then you look at their activity numbers.
+[6:55 - 7:03]  And if their activity numbers are low, and it's very easy to then set a performance improvement
+[7:03 - 7:08]  plan, and if they can't meet their performance improvement plan on their activities, then they
+[7:08 - 7:10]  either self-select or they need to be asked to leave.
+[7:10 - 7:15]  So it's hugely important to use a CRM in order to track activity.
+[7:15 - 7:19]  And we wouldn't be super picky about it.
+[7:19 - 7:23]  Now we would audit it to make sure that they weren't putting fictitious information in
+[7:23 - 7:27]  there to make sure that the call actually happened, that the presentation didn't actually
+[7:27 - 7:28]  happen.
+[7:28 - 7:32]  I would actually be on a lot of the calls and a lot of the presentations with them.
+[7:32 - 7:35]  So just know that you need a CRM to do that.
+[7:35 - 7:37]  Using a spreadsheet is highly ineffective.
+[7:37 - 7:38]  Okay.
+[7:38 - 7:44]  Now, you're also going to use the CRM to track your broker and consultant leads so that you
+[7:44 - 7:48]  can see which brokers and consultants, because so much of healthcare sales is to employers
+[7:48 - 7:50]  and it's done through the broker consultants.
+[7:50 - 7:55]  You need to see which brokers consultants have been touched recently and which ones haven't.
+[7:55 - 8:00]  It's remarkable how easy it is for brokers and consultants to fall through the cracks.
+[8:00 - 8:04]  Oh, you haven't followed up with this person in six months.
+[8:04 - 8:07]  Oh, well, I just didn't see that part of my spreadsheet.
+[8:07 - 8:08]  Aha!
+[8:08 - 8:09]  Don't use a spreadsheet, right?
+[8:09 - 8:14]  That way you can run reports off the CRM to be like, okay, well, who are the brokers and
+[8:14 - 8:15]  consultants that you haven't touched recently?
+[8:15 - 8:17]  And you better go back and touch them.
+[8:17 - 8:18]  Okay.
+[8:18 - 8:22]  Same thing with customer leads as well, in terms of tracking who you've sent proposals
+[8:22 - 8:24]  out to, who you've done presentations to.
+[8:24 - 8:28]  Again, the CRM is the way to go, not an Excel spreadsheet.
+[8:28 - 8:29]  Okay.
+[8:29 - 8:35]  Now, and then also in that CRM, you're going to be able to, you always want to have the
+[8:35 - 8:42]  salespeople put in the anticipated start date for the group, for the sale, for the customer,
+[8:42 - 8:45]  because so much of healthcare sales is seasonal.
+[8:45 - 8:48]  And so it's very important that you're going to use the CRM to then measure your pipeline.
+[8:48 - 8:49]  Okay.
+[8:49 - 8:54]  And then you're going to do the estimated annual recurring revenue off of that sale.
+[8:54 - 8:56]  Most of these sales are subscription models.
+[8:56 - 8:58]  So there's some degree of annual recurring revenue.
+[8:58 - 9:04]  And then the VP of sales, to a certain extent, the CEO and the executive team, the chief revenue
+[9:04 - 9:10]  officer, however you have it structured, they are going over the pipeline weekly.
+[9:10 - 9:14]  And you stratify it by the largest ARR amounts on top and you go down.
+[9:14 - 9:15]  You don't go alphabetical.
+[9:15 - 9:16]  You don't go geographic.
+[9:16 - 9:18]  You don't go by sales reps.
+[9:18 - 9:21]  You go with the highest dollar accounts first.
+[9:21 - 9:24]  And you work your way down to some sort of bottom threshold.
+[9:24 - 9:29]  If you've got like a thousand groups or 500 groups in the pipeline, maybe you don't review
+[9:29 - 9:31]  500 groups every week.
+[9:31 - 9:33]  But it's like the 80-20 rule.
+[9:33 - 9:38]  80% of your revenue is going to be in the top 20% of your pipeline.
+[9:38 - 9:42]  And it has to be reviewed every week so that you can break.
+[9:42 - 9:46]  Because you always run into these various barriers and blockades and people not returning calls
+[9:46 - 9:47]  and emails.
+[9:47 - 9:55]  And so you have to run the traps and be able to problem solve how to bust through all of
+[9:55 - 9:56]  those problems.
+[9:56 - 9:58]  And sometimes it involves working with the sales rep.
+[9:58 - 10:02]  Sometimes it involves talking to somebody else within your organization or working your
+[10:02 - 10:03]  Rolodex.
+[10:03 - 10:10]  There's a gazillion things that you can do to bust through the roadblocks in various stages
+[10:10 - 10:11]  of the sales cycle.
+[10:11 - 10:13]  So there you go.
+[10:13 - 10:16]  How to build a healthcare sales machine part two.
+[10:16 - 10:20]  Talking all about the people, process, and the technology.
+[10:20 - 10:21]  That's my point for today.
+[10:21 - 10:23]  Thank you for watching A Healthcare to See.
+[10:23 - 10:53]  Thank you.

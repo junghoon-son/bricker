@@ -1,0 +1,111 @@
+Title: Pharmacy Benefit Managers (PBMs) Explained - Learn How the Money Flows
+URL: https://www.youtube.com/watch?v=vT0NNXYjQ_Y
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare is E. Today's topic is PBM Money Flow Explained. That's right, we're going to go through this incredibly confusing chart in detail. However, I would argue this is actually probably the most straightforward chart that I have seen of the PBM Money Flow. And it actually comes from a physician who practices in North Carolina and he published it in the Journal of Clinical Oncology around specifically practice management. I'll leave a link in the show notes to the source of this information. It's fantastic, it's a fantastic graphic. I would argue that if you work at employee benefits, you need to understand this flow chart and you need to be able to reproduce it on a napkin. So by the end of this video, my goal is for you to be able to reproduce this on a napkin so that you can actually explain it to somebody who's not in benefits in plain English. Okay, so here are the players that we have on the field when it comes to the PBM Money Flow. You got the plan sponsor, the plan itself, the PBM, the drug manufacturer, the wholesaler, the pharmacy, and the patient. One, two, three, four, five, six, seven. You got to know seven players on the field or seven actors in the play. Next, let's follow the money first. The money is the dotted arrows. Now, where does the money start? With the plan sponsor. Golden rule. He who has the money makes the rules. So just remember that. You as a plan sponsor, you actually make the ultimate rules. Now, next, money goes to the health plan itself. Money then goes from the health plan to the PBM. The PBM then takes that money to pay the pharmacy for the prescriptions. The money then goes to the wholesaler who the pharmacy bought the drug from. And the money goes from the wholesaler to the drug manufacturer to who the wholesaler bought it from. So look at that. So the money goes like this in order to get to the actual maker of the medication. Okay, so you find that's how the money goes. Now, how does out of the drugs flow? The drugs are actually made by the pharmaceutical manufacturer. Then they go to the wholesaler. Then they go to the pharmacy. And then the patient goes and picks up their medication at the pharmacy. And then they ultimately go to the patient. Bam! You're done. Just kidding. You're not done. But that's the most important aspect of this chart to understand. Right? They're the seven players. That's how the money flows. And that's how the drugs flow at a basic level. Full stop. Okay. Now is where it gets fun because there's a lot more arrows on here as well. Now, let's start with the plan sponsor. Pays the health plan. We already went through that. The plan sponsor pays the PBM, but they actually get money back from the PBM as well because they get part of the rebates. Now, they get a service as well. These dotted arrows are services when you see this on here. And that's to manage the prescription benefits. So they pay the health plan not only for the actual cost of the medication going to the pharmacy. They might pay them an admin fee as well. And then in return, they get some of the rebates back. So, you know, maybe some of that comes out in the wash. They get discounts off of that amount, etc. Okay, it's fine. Then you have the PBM. Note here that the PBM is getting money from the drug manufacturers. That's right. The PBM has two customers, right? If you have somebody who gives you money, what are they called? They're called a customer. So just know the PBM has two customers. The PBM's customer is the health plan. The PBM's customer is also the drug manufacturer. The PBM performs a service for that payment. That service's preferred drug placement on their formulary. The payment from the drug manufacturer is, quote unquote, a rebate, some of which anywhere, let's just call it 55 to 80 percent then gets passed on to the plan. But then they keep the difference, right? They're keeping 20 to 45 percent of it. But guess what? The drug manufacturer makes other payments to the PBM as well. They have formulary payments, market penetration payments, and bonus payments. So just know that your PBM, and that's the whole point where they quote unquote transparent PBM. And even if you do make your PBM 100 percent transparent, what you want to know is, does the PBM have another customer besides the health plan? So that's when you're looking for transparency, that's what you want to know. And it's not just transparency about the rebates. Like you want to know about this market share payment and these bonus payments, you want to know about those payments too. Okay, so fine. So the drug manufacturer sends the drugs over to the wholesaler. Note that there's only three major wholesalers in America. There's only McKesson, Amerisource, Burgin, and Cardinal. And note on the PBM side, there's really only three PBMs that control 85 percent of the PBM market. There's only CVS Caremark, Express Scripts Cigna, and OptumRx. So there you've got, I put little stars there, because those are really areas of oligopolies where you have very few options. So I said here, the golden rule for the plan sponsor, he who has the gold makes the rules, or she who has the gold makes the rules. Just know, when it comes to PBMs, you don't have a lot of options. When it comes to the wholesalers, the pharmacy doesn't have a lot of options. Okay, now, so fine. So you got the money that's going there. Now, of course, one of the big areas of money that's important to health plans and employees are co-pay assistance programs. That's why there's a dotted line here from the drug manufacturer all the way around to the patient. Why do they have to do this? And why specifically do they have to do this for specialty pharmacy medications? Right? So specialty pharmacy medications are incredibly expensive. They're so expensive, they can cost tens of thousands of dollars a month, and they can cost the patient thousands of dollars every month in out-of-pocket costs. And so the drug manufacturer is trying to subsidize that amount that the patient would have to pay out. So the patient then has to then pay some sort of co-pay, which could be a very low amount, depending upon the plan design, for like a generic medication, or maybe like 30 or 60 dollars for a brand name. But for a specialty pharmacy medication, they might have to pay a thousand or two thousand dollars for the co-payment or co-insurance for the specialty medication. Again, it's the specialty pharmacy. As we think about this flow, it's the specialty pharmacy that matters because 73 percent of the prescription spend is for specialty pharmacy, for injectables, for even for pills. There are cancer pills and there's HIV-AIDS pills that fall under specialty pharmacy. Sometimes they're referred to as biologic biologics. Okay, so just know that when we talk about addressing this for employers, let's think about it in the terms of specialty pharmacy because that's really where all the money is. Okay, so fine. So there we've got the additional arrows. Now, the patient also has to pay in other places too. They have to pay a premium to the plan, right? It might come out of their paycheck, and part of that premium goes for their prescription coverage as well. It's not just for the medical, but it's also for the pharmacy coverage as well. And then the bubbles coming back to the patient is the coverage, right? They're getting pharmacy coverage in return for the premium that they're paying to the plan. Now, so fine. There's your overview. Again, one, two, three, four, five, six, seven players with the money generally going like this and the drugs generally going like this and a conflict of interest here with very few choices here and here. Now, you also have very few choices here at the drug manufacturer because of patent protection. So there's a fair number of pharmaceutical manufacturers, whether it be Novartis or Pfizer or AstraZeneca or Merck or what have you, but because of patents, especially for specialty pharmacy, you might not have any other options for a particular specialty pharmacy medication because it's on patent and there might not be any other options for the treatment of that cancer, etc. So that leaves you with the PBM. And so the question then becomes for the employer, is it worthwhile to have a transparent pass-through PBM? And is it worthwhile to have a specific specialty pharmacy carve out PBM? And I will tell you that that is a highly controversial subject. There are PBMs themselves, so I'll leave you a link to a paper from OptumRx that talks about how a specialty pharmacy carve out PBM, why it's a bad idea. And I will also leave a link in the show notes to a presentation by Pfizer to the Dallas-Fort Worth Business Group on Health and their self-funded employers about why a specialty pharmacy PBM is a good idea. So just know that this right here, the PBM, is obviously of tremendous importance to the employer and the plan and the fiduciary responsibility of the plan's sponsors. And that PBM exists in an ecosystem. And when you're making these decisions around your PBM, you as an employee benefits professional need to explain this to people outside of employee benefits. And so knowing this chart cold is super important for you. And that's what I wanted to leave you with today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare is E.
+[0:04 - 0:08]  Today's topic is PBM Money Flow Explained.
+[0:08 - 0:13]  That's right, we're going to go through this incredibly confusing chart in detail.
+[0:13 - 0:22]  However, I would argue this is actually probably the most straightforward chart that I have seen of the PBM Money Flow.
+[0:22 - 0:29]  And it actually comes from a physician who practices in North Carolina and he published it in the Journal of Clinical Oncology
+[0:29 - 0:36]  around specifically practice management. I'll leave a link in the show notes to the source of this information.
+[0:36 - 0:40]  It's fantastic, it's a fantastic graphic. I would argue that if you work at employee benefits,
+[0:40 - 0:46]  you need to understand this flow chart and you need to be able to reproduce it on a napkin.
+[0:46 - 0:51]  So by the end of this video, my goal is for you to be able to reproduce this on a napkin
+[0:51 - 0:55]  so that you can actually explain it to somebody who's not in benefits in plain English.
+[0:55 - 1:00]  Okay, so here are the players that we have on the field when it comes to the PBM Money Flow.
+[1:00 - 1:09]  You got the plan sponsor, the plan itself, the PBM, the drug manufacturer, the wholesaler, the pharmacy, and the patient.
+[1:09 - 1:11]  One, two, three, four, five, six, seven.
+[1:11 - 1:16]  You got to know seven players on the field or seven actors in the play.
+[1:16 - 1:21]  Next, let's follow the money first. The money is the dotted arrows.
+[1:21 - 1:27]  Now, where does the money start? With the plan sponsor. Golden rule. He who has the money makes the rules.
+[1:27 - 1:32]  So just remember that. You as a plan sponsor, you actually make the ultimate rules.
+[1:32 - 1:37]  Now, next, money goes to the health plan itself. Money then goes from the health plan to the PBM.
+[1:37 - 1:41]  The PBM then takes that money to pay the pharmacy for the prescriptions.
+[1:41 - 1:45]  The money then goes to the wholesaler who the pharmacy bought the drug from.
+[1:45 - 1:51]  And the money goes from the wholesaler to the drug manufacturer to who the wholesaler bought it from.
+[1:51 - 1:57]  So look at that. So the money goes like this in order to get to the actual maker of the medication.
+[1:57 - 2:01]  Okay, so you find that's how the money goes. Now, how does out of the drugs flow?
+[2:01 - 2:04]  The drugs are actually made by the pharmaceutical manufacturer.
+[2:04 - 2:07]  Then they go to the wholesaler. Then they go to the pharmacy.
+[2:07 - 2:10]  And then the patient goes and picks up their medication at the pharmacy.
+[2:10 - 2:15]  And then they ultimately go to the patient. Bam! You're done. Just kidding. You're not done.
+[2:15 - 2:18]  But that's the most important aspect of this chart to understand. Right?
+[2:18 - 2:22]  They're the seven players. That's how the money flows.
+[2:22 - 2:25]  And that's how the drugs flow at a basic level. Full stop.
+[2:25 - 2:32]  Okay. Now is where it gets fun because there's a lot more arrows on here as well.
+[2:32 - 2:37]  Now, let's start with the plan sponsor. Pays the health plan. We already went through that.
+[2:37 - 2:42]  The plan sponsor pays the PBM, but they actually get money back from the PBM as well
+[2:42 - 2:44]  because they get part of the rebates.
+[2:44 - 2:50]  Now, they get a service as well. These dotted arrows are services when you see this on here.
+[2:50 - 2:56]  And that's to manage the prescription benefits. So they pay the health plan not only for the
+[2:56 - 2:59]  actual cost of the medication going to the pharmacy. They might pay them an admin fee as well.
+[2:59 - 3:04]  And then in return, they get some of the rebates back. So, you know, maybe some of that comes out
+[3:04 - 3:08]  in the wash. They get discounts off of that amount, etc. Okay, it's fine. Then you have the PBM.
+[3:08 - 3:13]  Note here that the PBM is getting money from the drug manufacturers. That's right.
+[3:13 - 3:18]  The PBM has two customers, right? If you have somebody who gives you money, what are they called?
+[3:18 - 3:23]  They're called a customer. So just know the PBM has two customers. The PBM's customer is the health
+[3:23 - 3:29]  plan. The PBM's customer is also the drug manufacturer. The PBM performs a service for that
+[3:29 - 3:36]  payment. That service's preferred drug placement on their formulary. The payment from the drug
+[3:36 - 3:43]  manufacturer is, quote unquote, a rebate, some of which anywhere, let's just call it 55 to 80 percent
+[3:43 - 3:47]  then gets passed on to the plan. But then they keep the difference, right? They're keeping 20 to 45
+[3:47 - 3:53]  percent of it. But guess what? The drug manufacturer makes other payments to the PBM as well.
+[3:53 - 4:03]  They have formulary payments, market penetration payments, and bonus payments. So just know that
+[4:04 - 4:08]  your PBM, and that's the whole point where they quote unquote transparent PBM. And even if you do make
+[4:08 - 4:15]  your PBM 100 percent transparent, what you want to know is, does the PBM have another customer besides
+[4:15 - 4:20]  the health plan? So that's when you're looking for transparency, that's what you want to know.
+[4:20 - 4:24]  And it's not just transparency about the rebates. Like you want to know about this market share
+[4:24 - 4:28]  payment and these bonus payments, you want to know about those payments too. Okay, so fine. So the
+[4:28 - 4:32]  drug manufacturer sends the drugs over to the wholesaler. Note that there's only three major
+[4:32 - 4:38]  wholesalers in America. There's only McKesson, Amerisource, Burgin, and Cardinal. And note on the PBM
+[4:38 - 4:45]  side, there's really only three PBMs that control 85 percent of the PBM market. There's only
+[4:45 - 4:50]  CVS Caremark, Express Scripts Cigna, and OptumRx. So there you've got, I put little stars there,
+[4:50 - 4:56]  because those are really areas of oligopolies where you have very few options. So I said here,
+[4:56 - 5:01]  the golden rule for the plan sponsor, he who has the gold makes the rules, or she who has the gold
+[5:01 - 5:06]  makes the rules. Just know, when it comes to PBMs, you don't have a lot of options. When it comes to
+[5:06 - 5:11]  the wholesalers, the pharmacy doesn't have a lot of options. Okay, now, so fine. So you got the money
+[5:11 - 5:17]  that's going there. Now, of course, one of the big areas of money that's important to
+[5:17 - 5:23]  health plans and employees are co-pay assistance programs. That's why there's a dotted line here
+[5:23 - 5:29]  from the drug manufacturer all the way around to the patient. Why do they have to do this? And why
+[5:29 - 5:36]  specifically do they have to do this for specialty pharmacy medications? Right? So specialty pharmacy
+[5:36 - 5:42]  medications are incredibly expensive. They're so expensive, they can cost tens of thousands of
+[5:42 - 5:48]  dollars a month, and they can cost the patient thousands of dollars every month in out-of-pocket
+[5:48 - 5:53]  costs. And so the drug manufacturer is trying to subsidize that amount that the patient would have
+[5:53 - 6:01]  to pay out. So the patient then has to then pay some sort of co-pay, which could be a very low amount,
+[6:01 - 6:06]  depending upon the plan design, for like a generic medication, or maybe like 30 or 60 dollars for a
+[6:06 - 6:11]  brand name. But for a specialty pharmacy medication, they might have to pay a thousand or two thousand
+[6:11 - 6:18]  dollars for the co-payment or co-insurance for the specialty medication. Again, it's the specialty
+[6:18 - 6:25]  pharmacy. As we think about this flow, it's the specialty pharmacy that matters because 73 percent of the
+[6:25 - 6:33]  prescription spend is for specialty pharmacy, for injectables, for even for pills. There are cancer
+[6:33 - 6:38]  pills and there's HIV-AIDS pills that fall under specialty pharmacy. Sometimes they're referred to
+[6:38 - 6:48]  as biologic biologics. Okay, so just know that when we talk about addressing this for employers,
+[6:48 - 6:53]  let's think about it in the terms of specialty pharmacy because that's really where all the money
+[6:53 - 6:58]  is. Okay, so fine. So there we've got the additional arrows. Now, the patient also has to pay in other places
+[6:58 - 7:02]  too. They have to pay a premium to the plan, right? It might come out of their paycheck,
+[7:02 - 7:06]  and part of that premium goes for their prescription coverage as well. It's not just for the medical,
+[7:06 - 7:13]  but it's also for the pharmacy coverage as well. And then the bubbles coming back to the patient
+[7:13 - 7:17]  is the coverage, right? They're getting pharmacy coverage in return for the premium that they're
+[7:17 - 7:25]  paying to the plan. Now, so fine. There's your overview. Again, one, two, three, four, five, six,
+[7:25 - 7:33]  seven players with the money generally going like this and the drugs generally going like this
+[7:34 - 7:41]  and a conflict of interest here with very few choices here and here. Now, you also have very
+[7:41 - 7:47]  few choices here at the drug manufacturer because of patent protection. So there's a fair number of
+[7:47 - 7:53]  pharmaceutical manufacturers, whether it be Novartis or Pfizer or AstraZeneca or Merck or what have you,
+[7:53 - 7:59]  but because of patents, especially for specialty pharmacy, you might not have any other options
+[7:59 - 8:04]  for a particular specialty pharmacy medication because it's on patent and there might not be any
+[8:04 - 8:15]  other options for the treatment of that cancer, etc. So that leaves you with the PBM. And so the question
+[8:15 - 8:22]  then becomes for the employer, is it worthwhile to have a transparent pass-through PBM? And is it
+[8:22 - 8:32]  worthwhile to have a specific specialty pharmacy carve out PBM? And I will tell you that that is a
+[8:32 - 8:40]  highly controversial subject. There are PBMs themselves, so I'll leave you a link to a paper
+[8:40 - 8:47]  from OptumRx that talks about how a specialty pharmacy carve out PBM, why it's a bad idea. And I will also
+[8:47 - 8:53]  leave a link in the show notes to a presentation by Pfizer to the Dallas-Fort Worth Business Group on
+[8:53 - 9:03]  Health and their self-funded employers about why a specialty pharmacy PBM is a good idea. So just know that
+[9:05 - 9:15]  this right here, the PBM, is obviously of tremendous importance to the employer and the plan and the
+[9:15 - 9:25]  fiduciary responsibility of the plan's sponsors. And that PBM exists in an ecosystem. And when you're
+[9:25 - 9:30]  making these decisions around your PBM, you as an employee benefits professional need to explain this
+[9:30 - 9:39]  to people outside of employee benefits. And so knowing this chart cold is super important for you.
+[9:39 - 9:51]  And that's what I wanted to leave you with today. Thank you for watching A Healthcare Z.

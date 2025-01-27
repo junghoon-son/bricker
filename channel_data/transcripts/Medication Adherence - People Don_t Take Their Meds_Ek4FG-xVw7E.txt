@@ -1,0 +1,56 @@
+Title: Medication Adherence - People Don't Take Their Meds
+URL: https://www.youtube.com/watch?v=Ek4FG-xVw7E
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing people don't take their medications. Now this is a dirty little secret that most physicians know that people do not take their medications as prescribed. So at a basic level we need to understand adherence. So adherence is the term that's used to describe taking medications as prescribed. So it used to be called compliance, but like 10-15 years ago we switched to adherence. So if you hear about non-adherence, it's talking about people not taking their medications as prescribed. Okay, so there's a fantastic review article from Mayo Clinical Proceedings that found that 50% of patients do not take their medications as prescribed. That's right, half. Now, 22% don't even fill the medication at the pharmacy after it's been ordered by the physician, either written on a prescription pad or e-prescribed. So one-fifth to almost a quarter of folks, they don't even pick it up. All right, now, the largest impact on the adherence rate of medication was actually the type of medication. So blood pressure medications, cholesterol medications, and diabetes medications had the lowest adherence rate. The thought being, because they're asymptomatic diseases, it's like, okay, well, if you don't take the medication, you don't feel the immediate reaction, therefore you don't have that sort of immediate feedback loop. Okay, so one particular study found that only about 65% of people took their blood pressure medications as prescribed. Only about 45% of people took their cholesterol medications as prescribed. And they found that if you were on blood pressure and cholesterol medications, which, oh, by the way, most people with coronary artery disease or heart disease are on both, your rates were like as low as 30%. So even if you were prescribed these medications and your doctor and your insurance company, your employer, blah, blah, blah, they all thought you were on it, only about a third of the time were you actually taking it. Okay, and by the way, they only counted adherence as taking it as prescribed 80% of the time. So you didn't even have to be perfect. Like, you could be not on the ball, like, one day out of five, and they would still get it to you. Okay, now, what are the implications of this? So as I've been kind of intimating, this means that any time you see information about gaps in care or closing gaps in care, right, that typically is done based upon either diagnosis or charting. It's not done based upon the actual adherence to the medication. So just because the gap in care was closed related to being prescribed blood pressure medication or prescribed cholesterol medication, that doesn't mean the gap was closed if they're not taking it. So in other words, because, you know, we have such low adherence rates here, I'd say that whatever your gap is, let's say your gap closed to, like, 25% of your plan members were not adherent. Well, the answer might be, it actually might be twice that much, right, because only half the people are actually following through on the gap that you think is closed. Okay, so that's one important implication. Next important implication is this thing called the MAR, okay, which is the Medication Allocation Record. So when any patient is hospitalized, the nurses keep detailed track of all of the medications that are taken by the patient. And they watch the patient take the medication. So there is no outpatient MAR. There is no home MAR. So the only place where we know that the patient is actually taking the medications as prescribed is in the hospital because of the MAR. And as an internist, like, the MAR was, like, my best friend. Like, I would spend hours and hours going through details of the MAR. And guess what happens? There are certain conditions where just hospitalization and strict medication allocation and adherence through the MAR, it fixes you. And those examples are, like, extreme hypertension. We would have people come into the hospital with, like, a blood pressure of, like, 210 over 160. And, like, the biggest thing we had to do was get them back on their blood pressure medications and ensure they actually took them. Next up, diabetics that are on insulin. A lot of people can be incredibly sick with DKA or just very high blood sugars of, you know, 3, 4, 5, 600. And guess what? That's just because they're not taking insulin as prescribed. Okay. Congestive heart failure. You don't see a ton of CHF in the employee population. But this is another example where their diuretic medication, et cetera, if they're not taking it as prescribed, then they might end up hospitalized. And then finally, seizure disorders and also for blood thinner medications. So, my point for today is that while we talk about prescription medications and when we talk about gaps in care and we talk about healthcare quality, just know that there is a huge hole any time I see data around those things because I know that people are not actually taking their medications the way they should. And now you know that too. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:26]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing people don't take their medications. Now this is a dirty little secret that most physicians know that people do not take their medications as prescribed. So at a basic level we need to understand adherence. So adherence is the term that's used to describe taking medications as prescribed.
+[0:26 - 0:36]  So it used to be called compliance, but like 10-15 years ago we switched to adherence. So if you hear about non-adherence, it's talking about people not taking their medications as prescribed.
+[0:36 - 0:49]  Okay, so there's a fantastic review article from Mayo Clinical Proceedings that found that 50% of patients do not take their medications as prescribed. That's right, half.
+[0:49 - 1:07]  Now, 22% don't even fill the medication at the pharmacy after it's been ordered by the physician, either written on a prescription pad or e-prescribed. So one-fifth to almost a quarter of folks, they don't even pick it up.
+[1:07 - 1:22]  All right, now, the largest impact on the adherence rate of medication was actually the type of medication. So blood pressure medications, cholesterol medications, and diabetes medications had the lowest adherence rate.
+[1:22 - 1:33]  The thought being, because they're asymptomatic diseases, it's like, okay, well, if you don't take the medication, you don't feel the immediate reaction, therefore you don't have that sort of immediate feedback loop.
+[1:33 - 1:41]  Okay, so one particular study found that only about 65% of people took their blood pressure medications as prescribed.
+[1:41 - 1:46]  Only about 45% of people took their cholesterol medications as prescribed.
+[1:46 - 1:57]  And they found that if you were on blood pressure and cholesterol medications, which, oh, by the way, most people with coronary artery disease or heart disease are on both, your rates were like as low as 30%.
+[1:57 - 2:07]  So even if you were prescribed these medications and your doctor and your insurance company, your employer, blah, blah, blah, they all thought you were on it, only about a third of the time were you actually taking it.
+[2:07 - 2:14]  Okay, and by the way, they only counted adherence as taking it as prescribed 80% of the time.
+[2:14 - 2:16]  So you didn't even have to be perfect.
+[2:16 - 2:22]  Like, you could be not on the ball, like, one day out of five, and they would still get it to you.
+[2:22 - 2:25]  Okay, now, what are the implications of this?
+[2:25 - 2:36]  So as I've been kind of intimating, this means that any time you see information about gaps in care or closing gaps in care, right, that typically is done based upon either diagnosis or charting.
+[2:36 - 2:41]  It's not done based upon the actual adherence to the medication.
+[2:42 - 2:54]  So just because the gap in care was closed related to being prescribed blood pressure medication or prescribed cholesterol medication, that doesn't mean the gap was closed if they're not taking it.
+[2:54 - 3:07]  So in other words, because, you know, we have such low adherence rates here, I'd say that whatever your gap is, let's say your gap closed to, like, 25% of your plan members were not adherent.
+[3:07 - 3:17]  Well, the answer might be, it actually might be twice that much, right, because only half the people are actually following through on the gap that you think is closed.
+[3:17 - 3:19]  Okay, so that's one important implication.
+[3:19 - 3:24]  Next important implication is this thing called the MAR, okay, which is the Medication Allocation Record.
+[3:24 - 3:32]  So when any patient is hospitalized, the nurses keep detailed track of all of the medications that are taken by the patient.
+[3:32 - 3:35]  And they watch the patient take the medication.
+[3:35 - 3:37]  So there is no outpatient MAR.
+[3:37 - 3:39]  There is no home MAR.
+[3:39 - 3:47]  So the only place where we know that the patient is actually taking the medications as prescribed is in the hospital because of the MAR.
+[3:47 - 3:50]  And as an internist, like, the MAR was, like, my best friend.
+[3:50 - 3:54]  Like, I would spend hours and hours going through details of the MAR.
+[3:54 - 3:55]  And guess what happens?
+[3:55 - 4:05]  There are certain conditions where just hospitalization and strict medication allocation and adherence through the MAR, it fixes you.
+[4:05 - 4:07]  And those examples are, like, extreme hypertension.
+[4:08 - 4:13]  We would have people come into the hospital with, like, a blood pressure of, like, 210 over 160.
+[4:14 - 4:20]  And, like, the biggest thing we had to do was get them back on their blood pressure medications and ensure they actually took them.
+[4:20 - 4:22]  Next up, diabetics that are on insulin.
+[4:22 - 4:29]  A lot of people can be incredibly sick with DKA or just very high blood sugars of, you know, 3, 4, 5, 600.
+[4:30 - 4:31]  And guess what?
+[4:33 - 4:35]  That's just because they're not taking insulin as prescribed.
+[4:35 - 4:35]  Okay.
+[4:35 - 4:36]  Congestive heart failure.
+[4:36 - 4:39]  You don't see a ton of CHF in the employee population.
+[4:39 - 4:46]  But this is another example where their diuretic medication, et cetera, if they're not taking it as prescribed, then they might end up hospitalized.
+[4:46 - 4:50]  And then finally, seizure disorders and also for blood thinner medications.
+[4:50 - 5:00]  So, my point for today is that while we talk about prescription medications and when we talk about gaps in care and we talk about healthcare quality,
+[5:00 - 5:12]  just know that there is a huge hole any time I see data around those things because I know that people are not actually taking their medications the way they should.
+[5:12 - 5:14]  And now you know that too.
+[5:14 - 5:16]  And thank you for watching A Healthcare Z.

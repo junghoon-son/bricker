@@ -1,0 +1,22 @@
+Title: Electronic Medical Record _EMR_ Overview_gYNE0tBJopI
+URL: https://www.youtube.com/watch?v=gYNE0tBJopI
+Language: en
+Duration: 3:43
+Upload Date: Unknown
+
+Transcription:
+
+Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing electronic medical records or as I like to call it, why in the world do we still use a fax machine? Okay, point number one, 80 to 90% of hospitals and physician practices actually use electronic medical records now. So it's the vast majority of healthcare settings. Now, 10, 11 years ago, it was like close to zero. It was very few. So there's been this huge change just within the past 10, 11 years in terms of the adoption of electronic medical records.
+
+Okay, point number two, has it helped with patient care at all? Has it improved outcomes? So one study found that there was actually a 0.09% decrease in mortality for hospitals that used electronic medical records versus hospitals that did not. Okay, so that's like pretty comparable, maybe a little less, maybe there's a little benefit there. Okay, keep in mind when electronic medical records were first started out, they actually caused an 11% increase in mortality. So the doctors and the nurses had a hard time getting used to it, the software wasn't very good.
+
+So just know that we've come a long way and hopefully that trend will continue in the decreased mortality direction. Okay, next up, the electronic medical record marketplace is dominated by two companies, Cerner based in Kansas City and Epic based in Wisconsin. Now Epic's very interesting in that it is a private company. So you don't hear a lot about it in business news, but certainly in the provider world, Epic is a huge deal. Okay, now the other 49% of the electronic medical record marketplace has just gobs and gobs of other eclinical works, Athena, Allscripts, there's tons and tons of other electronic medical records companies out there.
+
+Okay, and that brings us to point number four, which is low interoperability, which means that those systems have a very hard time talking together. And that is the underlying reason for the fax machine, right? Why in the world do we use 30 plus year old technology in healthcare? And the reason is, is because you literally have to print out the report, you've got to fax it over to the other hospital or the other doctor's office, and then you need to look at it or scan it in or hand type it into the other electronic medical record to actually get data across those systems.
+
+Now there's been improvements, but one of the major challenges is that even within a hospital system, on average, they use 16 different EMRs across all the different outpatient facilities and doctor's offices that are affiliated with that hospital system. So that's the classic problem, right? Something that happens in the outpatient setting isn't communicated to the inpatient setting and vice versa. So even if you stay within a hospital system, that can still be a problem. And so EMRs have dramatically impacted patient care as well.
+
+You can see here in point number five, that physicians spent 62% of their time with the electronic medical record during the office visit, and not with the patient. And we've all seen this, right? When you go to see the doctor, they're looking at the screen and not at you. And you're just not feeling that, like that's a fact. So, and guess what? Physicians don't like that. And so as a result, 71% of physicians actually think that EMRs are contributing to physician burnout because the physicians, they want to spend time with their patients.
+
+They want to talk with their patients. And if you've got a 10 minute visit and they're spending six minutes on that EMR instead of talking with you, well, that's not good for the patient and the physician doesn't like it either. Okay. And so if we, as plan sponsors, as employers, as patients want to understand what doctors and hospitals are going through, then it's important for us to understand the electronic medical record. And that's my point for today. Thank you for watching A Healthcare Z..
+

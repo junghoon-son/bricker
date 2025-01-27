@@ -1,0 +1,55 @@
+Title: Charge Capture and the Story of Sepsis: Medical Coding Makes it Rise 300%
+URL: https://www.youtube.com/watch?v=n9IMRLdGMfk
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're going to be discussing charge capture and the story of sepsis. So first off, charge capture is the translation of the chart or the medical record into billing codes. And by the chart of the medical record, I mean literally, and especially in the case of inpatient stays, there's literally a paper chart like this that people still write in it, even though hospitals have electronic medical records, there are still like daily notes that are taken by hand. And when that is done for that person's stay, then it goes to the medical records department where literally coders will read what the doctor has written and they will translate that into the billing codes. And there's very specific rules for what words need to be in the chart in order to have certain billing codes. And that's important because those billing codes then roll up for what are referred to as diagnosis related groups or DRGs. And it's DRG codes that are used for inpatient stays. And it's really the basis not only for Medicare reimbursement, but commercial insurance companies use DRGs for reimbursement as well. Okay. Now, what does that have to do with sepsis? So sepsis is a systemic infection, typically from a bacteria, but it could be fungal or viral as well. And by systemic, I mean, it does things like it gives you a fever, it changes your temperature, it might change your blood pressure, it might drop your blood pressure very low. Sometimes people need to be in the intensive care unit because their blood pressure is so low that they need to be given tons of fluids and special medications. Okay. So you might have like a minor skin infection or even like a bladder infection. And that historically was not considered sepsis because you wouldn't have these dramatic systemic bodily effects. Okay. Now in 2005, there were 518,000 inpatient stays for sepsis across all age groups. And then in 2014, there were 1.5 million. It tripled. Now to put that in an even greater context, overall, inpatient stays in America went down by about 6% during that period of time. And all other causes of inpatient stays went down like heart attack, pneumonia, all went down. The only other category that went up was mental health. And it did not go up, it did not triple the way that sepsis did. So this is very odd and very unique. And oh, by the way, I'll leave the link in the show notes to all the sources. Okay. Now, that's fine. But what about like commercially aged people, commercially insurance stage people? Why can't we care about on this channel? Okay. In 2005 for 18 to 44 year olds, sepsis was not even in the top five for diagnostic categories for inpatient stays. In 2014, it was number three with over 189,000 inpatient stays. In 2005 for 45 to 64 year olds, so older commercially insured folks, again, sepsis was not even in the top five for reasons for inpatient stay. But in 2014, it was number two. There were 441,000 inpatient stays, almost a half a million inpatient stays for something that wasn't even in the top five a few years prior. So what happened? What happened? What happened was the reimbursement for sepsis change, reimbursement for sepsis is became higher than for other infections. And this happened because of the creation of what we're referred to as the MSDRG, or the medical severity diagnosis related groups that happened in 2007. And so this is where, because I was practicing at the hospital at this time, we were literally coached by the case managers, by the hospital administration to change the way that we used specific words in the chart, so that medical records could then use this sepsis code. So you might look at the data here and be like, oh, there's an epidemic of sepsis going on here in America. And in fact, that is not the case. Really, the UTIs and the other infections, could they have gone up? Sure, they could have gone up. I don't think they tripled. And in fact, in the sources, I will leave you quotes from, you know, some of the world's foremost experts in this, like Peter Provost from Johns Hopkins, who I've heard speak on multiple occasions, and they say, yes, it's because of upcoding. And so my point for today is, is one, when you're looking at the medical claims data, beware of medical coding. And then two, also note that changes in reimbursement dramatically change the way that charge capture occurs. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:04]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today we're
+[0:04 - 0:12]  going to be discussing charge capture and the story of sepsis. So first off, charge capture
+[0:12 - 0:19]  is the translation of the chart or the medical record into billing codes. And by the chart
+[0:19 - 0:22]  of the medical record, I mean literally, and especially in the case of inpatient stays,
+[0:22 - 0:27]  there's literally a paper chart like this that people still write in it, even though
+[0:27 - 0:31]  hospitals have electronic medical records, there are still like daily notes that are
+[0:31 - 0:36]  taken by hand. And when that is done for that person's stay, then it goes to the medical records
+[0:36 - 0:41]  department where literally coders will read what the doctor has written and they will translate
+[0:41 - 0:45]  that into the billing codes. And there's very specific rules for what words need to be in
+[0:45 - 0:50]  the chart in order to have certain billing codes. And that's important because those billing codes
+[0:50 - 0:55]  then roll up for what are referred to as diagnosis related groups or DRGs. And it's DRG codes that
+[0:55 - 1:00]  are used for inpatient stays. And it's really the basis not only for Medicare reimbursement,
+[1:00 - 1:05]  but commercial insurance companies use DRGs for reimbursement as well. Okay. Now, what does that
+[1:05 - 1:12]  have to do with sepsis? So sepsis is a systemic infection, typically from a bacteria, but it could
+[1:12 - 1:16]  be fungal or viral as well. And by systemic, I mean, it does things like it gives you a fever,
+[1:16 - 1:20]  it changes your temperature, it might change your blood pressure, it might drop your blood pressure very
+[1:20 - 1:25]  low. Sometimes people need to be in the intensive care unit because their blood pressure is so low
+[1:25 - 1:29]  that they need to be given tons of fluids and special medications. Okay. So you might have
+[1:29 - 1:34]  like a minor skin infection or even like a bladder infection. And that historically was not considered
+[1:34 - 1:43]  sepsis because you wouldn't have these dramatic systemic bodily effects. Okay. Now in 2005, there were
+[1:43 - 1:55]  518,000 inpatient stays for sepsis across all age groups. And then in 2014, there were 1.5 million. It tripled.
+[1:55 - 2:02]  Now to put that in an even greater context, overall, inpatient stays in America went down by about 6% during
+[2:02 - 2:09]  that period of time. And all other causes of inpatient stays went down like heart attack, pneumonia, all went down.
+[2:09 - 2:15]  The only other category that went up was mental health. And it did not go up, it did not triple the way that
+[2:15 - 2:21]  sepsis did. So this is very odd and very unique. And oh, by the way, I'll leave the link in the show notes to all the sources.
+[2:21 - 2:27]  Okay. Now, that's fine. But what about like commercially aged people, commercially insurance
+[2:27 - 2:32]  stage people? Why can't we care about on this channel? Okay. In 2005 for 18 to 44 year olds,
+[2:33 - 2:39]  sepsis was not even in the top five for diagnostic categories for inpatient stays. In 2014, it was number
+[2:39 - 2:48]  three with over 189,000 inpatient stays. In 2005 for 45 to 64 year olds, so older commercially insured folks,
+[2:48 - 2:54]  again, sepsis was not even in the top five for reasons for inpatient stay. But in 2014, it was number
+[2:54 - 3:00]  two. There were 441,000 inpatient stays, almost a half a million inpatient stays for something that
+[3:00 - 3:07]  wasn't even in the top five a few years prior. So what happened? What happened? What happened was
+[3:07 - 3:15]  the reimbursement for sepsis change, reimbursement for sepsis is became higher than for other infections.
+[3:15 - 3:20]  And this happened because of the creation of what we're referred to as the MSDRG, or the medical
+[3:20 - 3:27]  severity diagnosis related groups that happened in 2007. And so this is where, because I was practicing
+[3:27 - 3:33]  at the hospital at this time, we were literally coached by the case managers, by the hospital
+[3:33 - 3:41]  administration to change the way that we used specific words in the chart, so that medical records
+[3:41 - 3:46]  could then use this sepsis code. So you might look at the data here and be like, oh, there's an epidemic
+[3:46 - 3:53]  of sepsis going on here in America. And in fact, that is not the case. Really, the UTIs and the other
+[3:53 - 3:58]  infections, could they have gone up? Sure, they could have gone up. I don't think they tripled. And in fact,
+[3:58 - 4:03]  in the sources, I will leave you quotes from, you know, some of the world's foremost experts in this,
+[4:03 - 4:08]  like Peter Provost from Johns Hopkins, who I've heard speak on multiple occasions, and they say,
+[4:08 - 4:14]  yes, it's because of upcoding. And so my point for today is, is one, when you're looking at the
+[4:14 - 4:21]  medical claims data, beware of medical coding. And then two, also note that changes in reimbursement
+[4:21 - 4:27]  dramatically change the way that charge capture occurs. And thank you for watching A Healthcare Z.

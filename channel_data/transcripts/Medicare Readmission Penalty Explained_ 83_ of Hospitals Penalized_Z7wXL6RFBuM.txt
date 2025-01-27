@@ -1,0 +1,101 @@
+Title: Medicare Readmission Penalty Explained: 83% of Hospitals Penalized
+URL: https://www.youtube.com/watch?v=Z7wXL6RFBuM
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Medicare readmission penalty. So I have to right up front say that I made a previous A Healthcare Z video about how the hospital where I used to work used to treat their Medicare patients differently from their commercially insured patients because of the way that Medicare had a readmission penalty. And I just want to say that the way that I described that penalty was wrong. It totally changed. And so I want to clarify that now. I was totally wrong. I need to change what I said because what I said was essentially out of date because the Affordable Care Act in 2010 changed the penalty methodology for traditional Medicare or what's referred to as fee-for-service Medicare. So we're going to go over that today. So CMS, there's a little bit of a story behind this. CMS contracted with the Yale School of Medicine to create a methodology for how they would measure readmissions and then say whether or not the hospital had like readmissions that were too high and therefore were deserving of a penalty. So this was headed up at Yale by Dr. Leora Horwitz, who like I had never heard of before, maybe you've heard of her before, but she did an incredible thing that has billions and billions of dollars of ramifications associated with it because she was the lead developer of this methodology and of the paper that described it from the Annals of Internal Medicine. And what was fascinating was that she found, it was like eight million visits of Medicare data that she and her colleagues examined, that the readmission rate was almost 16%. It was 15.9% overall. So basically, if there are readmissions in excess, not just readmissions period, and this is readmissions within a 30-day period of time, if there are readmissions in excess of the sort of expected 15.9%, then there would be penalties associated with that. Now again, this is looking for people who are age 65 and over. So for Medicare, they call it all patient readmissions, but it's not really all patients. It's all the Medicare patients, right? So obviously, there's all these commercial insured folks, but they're not measuring that. They're measuring the folks that are over 65. Okay? Now, they break down those readmissions by different categories. Now keep in mind, the readmission rate is risk-adjusted based upon how sick people are in the hospital, right? So you can argue all day long, well, my hospital's patients are sicker, but they tried to, CMS and Yale tried to account for that with this risk adjustment methodology that they use. And they broke it down into different clinical categories. Now this is different from like diagnosis-specific readmissions. So they have it for things like pneumonia. So this is different. This is all cause or all diagnosis readmissions, but they still broke it down by different clinical categories. And the highest clinical category was cardiorespiratory, which is things like congestive heart failure and pneumonia and COPD because they're the most, they broke those out because they're like the most common reasons for Medicare admission to the hospital. And look at that. The readmission rate was 20%, 20.7%. One in five, right? Okay, so it's a little higher than the 16%. But the point is, is that to me, this is the punchline of the video. Oh, by the way, I was never told this. I never told my patients this. I never told my patients' family this. This would have been incredibly helpful. Every time I admitted somebody from Medicare, if I said, hey, you know what, there's about a one in five chance that you're going to be readmitted within the next month. Like, that's an incredibly important expectation to set with patients and family members. Because people get readmitted all the time and people look at it like it's a catastrophe and, or a failure, or, listen, a lot of times it is. The point is, it happens, it is incredibly common. It happens one out of every five times. It is incredibly common. Okay, now, at the low end is for surgery and gynecology at 11.8%. Alright, so, now, the penalty itself, again, is for overall, what appears to me to be Medicare Part A reimbursement. So Medicare CMS is like, hey, we're just going to dock your overall reimbursements based upon these reimbursements. And the average amount that hospitals were docked was 0.69% of their Medicare reimbursement. Okay, now, that's the average for hospitals that they did a penalty for. Now, the penalty maxed out at 3%. They couldn't penalize you more than 3% of your Medicare that you brought in. Now, keep in mind, with these penalties, all of these hospitals have a release valve to address these penalties, and that is their commercially insured patients. So they're like, okay, Medicare is going to penalize us. When we go and we contract with Blue Cross United, Cygnanetna, we just need to finagle things so that these commercial payers pay us enough to make up for this loss in revenue here from Medicare. Right? So, there's more than one way to skin a cat. So, now, they examined their 5,267 hospitals in America. Now, they took out, they being CMS, took out 2,176 hospitals from this readmission penalty. Right? Look at that. That's like almost half. Right? So, not even all hospitals in America, not even close to all hospitals in America, even have this penalty. They don't have this financial incentive or disincentive. They took out all the critical access hospitals, which is a hospital with 25 beds or less, without any other sort of hospital around. It's like rural hospitals. So, just know that if you go to a small hospital in a small town in rural America, they don't have a readmission penalty. For psych hospitals, same thing, yada, yada, yada, other hospitals. So, and they took out a handful of other ones. That gets you down to 3,080 hospitals that are actually assessed for readmission penalties. Okay. 83% of those hospitals were penalized. Not 8%, not 50%. 83% of the hospitals were penalized. What does that mean? That either means that there's a total disconnect between the expectation of Medicare and the hospitals themselves. The, like, best hospitals in America. The Cleveland Clinic, the Mayo Clinic. They were all penalized. Okay? You can actually look up. I'll leave a link in the show notes. There's an awesome Kaiser Health website where you can look up whatever hospital you want in America to see if they were penalized and how much they were penalized. So I looked my area up in the Dallas-Fort Worth area in Texas. The fanciest, most highly, I shouldn't say most highly reputable, but the fanciest and one of the most highly reputable hospitals in the area that mostly does a whole bunch of surgery. So they would have gotten dinged on the surgical penalty more so than on the other things. Okay? We got the max penalty. So it just shows you can't judge a book by its cover. This place got a super fancy lobby. You got max penalty. Okay. Now, here is the original point from my video that I'm trying to correct here, which is, hey, does patient care vary by payer? Okay? And my point was is that hospitals treated Medicare patients differently because that hospital was going to be financially penalized. So they actually treated the Medicare patients better to try to keep them from being readmitted because they would be penalized if they did. But the point is is that does the hospital, because the hospital knows that they're being paid differently depending upon if the patient has traditional Medicare versus Medicare Advantage versus commercial insurance versus Medicaid versus self-pay. And I'll leave a link in the show note that the health affairs study that actually found that there was a higher mortality rate for Medicare patients vis-a-vis commercially insured patients at the same hospital. Again, risk adjusted, yada, yada, yada. But so I'm not here to answer that question today, but it's important to understand the financial pressures that hospitals are under from Medicare, specifically as it relates to financial penalties for readmissions and how they're measured. And that's my point for today. Thank you for watching a Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic
+[0:05 - 0:13]  is Medicare readmission penalty. So I have to right up front say that I made a previous
+[0:13 - 0:20]  A Healthcare Z video about how the hospital where I used to work used to treat their Medicare
+[0:20 - 0:25]  patients differently from their commercially insured patients because of the way that Medicare
+[0:25 - 0:30]  had a readmission penalty. And I just want to say that the way that I described that penalty
+[0:30 - 0:37]  was wrong. It totally changed. And so I want to clarify that now. I was totally wrong. I
+[0:37 - 0:42]  need to change what I said because what I said was essentially out of date because the Affordable
+[0:42 - 0:49]  Care Act in 2010 changed the penalty methodology for traditional Medicare or what's referred
+[0:49 - 0:54]  to as fee-for-service Medicare. So we're going to go over that today. So CMS, there's a little
+[0:54 - 0:59]  bit of a story behind this. CMS contracted with the Yale School of Medicine to create
+[0:59 - 1:05]  a methodology for how they would measure readmissions and then say whether or not the hospital had
+[1:05 - 1:10]  like readmissions that were too high and therefore were deserving of a penalty. So this was headed
+[1:10 - 1:16]  up at Yale by Dr. Leora Horwitz, who like I had never heard of before, maybe you've heard
+[1:16 - 1:22]  of her before, but she did an incredible thing that has billions and billions of dollars of
+[1:22 - 1:27]  ramifications associated with it because she was the lead developer of this methodology and of the
+[1:27 - 1:33]  paper that described it from the Annals of Internal Medicine. And what was fascinating was that she
+[1:33 - 1:41]  found, it was like eight million visits of Medicare data that she and her colleagues examined, that the
+[1:41 - 1:47]  readmission rate was almost 16%. It was 15.9% overall. So basically, if there are readmissions in excess,
+[1:47 - 1:53]  not just readmissions period, and this is readmissions within a 30-day period of time, if there are
+[1:53 - 2:00]  readmissions in excess of the sort of expected 15.9%, then there would be penalties associated with that.
+[2:00 - 2:07]  Now again, this is looking for people who are age 65 and over. So for Medicare, they call it all patient
+[2:07 - 2:11]  readmissions, but it's not really all patients. It's all the Medicare patients, right? So obviously, there's all these
+[2:11 - 2:16]  commercial insured folks, but they're not measuring that. They're measuring the folks that are over 65.
+[2:16 - 2:24]  Okay? Now, they break down those readmissions by different categories. Now keep in mind, the readmission rate is risk-adjusted
+[2:24 - 2:30]  based upon how sick people are in the hospital, right? So you can argue all day long, well, my hospital's patients
+[2:30 - 2:37]  are sicker, but they tried to, CMS and Yale tried to account for that with this risk adjustment methodology that they use.
+[2:37 - 2:46]  And they broke it down into different clinical categories. Now this is different from like diagnosis-specific
+[2:46 - 2:53]  readmissions. So they have it for things like pneumonia. So this is different. This is all cause or all diagnosis
+[2:53 - 3:00]  readmissions, but they still broke it down by different clinical categories. And the highest clinical category was
+[3:00 - 3:06]  cardiorespiratory, which is things like congestive heart failure and pneumonia and COPD because they're the most,
+[3:06 - 3:13]  they broke those out because they're like the most common reasons for Medicare admission to the hospital.
+[3:13 - 3:20]  And look at that. The readmission rate was 20%, 20.7%. One in five, right? Okay, so it's a little higher than the 16%.
+[3:20 - 3:27]  But the point is, is that to me, this is the punchline of the video. Oh, by the way, I was never told this.
+[3:27 - 3:31]  I never told my patients this. I never told my patients' family this. This would have been incredibly helpful.
+[3:31 - 3:40]  Every time I admitted somebody from Medicare, if I said, hey, you know what, there's about a one in five chance that you're going to be readmitted within the next month.
+[3:40 - 3:45]  Like, that's an incredibly important expectation to set with patients and family members.
+[3:45 - 3:54]  Because people get readmitted all the time and people look at it like it's a catastrophe and, or a failure, or, listen, a lot of times it is.
+[3:54 - 4:00]  The point is, it happens, it is incredibly common. It happens one out of every five times. It is incredibly common.
+[4:00 - 4:05]  Okay, now, at the low end is for surgery and gynecology at 11.8%.
+[4:05 - 4:14]  Alright, so, now, the penalty itself, again, is for overall, what appears to me to be Medicare Part A reimbursement.
+[4:14 - 4:20]  So Medicare CMS is like, hey, we're just going to dock your overall reimbursements based upon these reimbursements.
+[4:20 - 4:28]  And the average amount that hospitals were docked was 0.69% of their Medicare reimbursement.
+[4:28 - 4:32]  Okay, now, that's the average for hospitals that they did a penalty for.
+[4:32 - 4:40]  Now, the penalty maxed out at 3%. They couldn't penalize you more than 3% of your Medicare that you brought in.
+[4:40 - 4:46]  Now, keep in mind, with these penalties, all of these hospitals have a release valve to address these penalties,
+[4:46 - 4:48]  and that is their commercially insured patients.
+[4:48 - 4:51]  So they're like, okay, Medicare is going to penalize us.
+[4:51 - 5:01]  When we go and we contract with Blue Cross United, Cygnanetna, we just need to finagle things so that these commercial payers pay us enough to make up for this loss in revenue here from Medicare.
+[5:01 - 5:04]  Right? So, there's more than one way to skin a cat.
+[5:04 - 5:08]  So, now, they examined their 5,267 hospitals in America.
+[5:08 - 5:16]  Now, they took out, they being CMS, took out 2,176 hospitals from this readmission penalty.
+[5:16 - 5:20]  Right? Look at that. That's like almost half. Right?
+[5:20 - 5:28]  So, not even all hospitals in America, not even close to all hospitals in America, even have this penalty.
+[5:28 - 5:31]  They don't have this financial incentive or disincentive.
+[5:31 - 5:37]  They took out all the critical access hospitals, which is a hospital with 25 beds or less, without any other sort of hospital around.
+[5:37 - 5:38]  It's like rural hospitals.
+[5:38 - 5:44]  So, just know that if you go to a small hospital in a small town in rural America, they don't have a readmission penalty.
+[5:44 - 5:47]  For psych hospitals, same thing, yada, yada, yada, other hospitals.
+[5:47 - 5:49]  So, and they took out a handful of other ones.
+[5:49 - 5:54]  That gets you down to 3,080 hospitals that are actually assessed for readmission penalties.
+[5:54 - 6:01]  Okay. 83% of those hospitals were penalized.
+[6:01 - 6:08]  Not 8%, not 50%. 83% of the hospitals were penalized.
+[6:08 - 6:09]  What does that mean?
+[6:09 - 6:16]  That either means that there's a total disconnect between the expectation of Medicare
+[6:16 - 6:18]  and the hospitals themselves.
+[6:18 - 6:21]  The, like, best hospitals in America.
+[6:21 - 6:23]  The Cleveland Clinic, the Mayo Clinic.
+[6:23 - 6:25]  They were all penalized.
+[6:25 - 6:26]  Okay?
+[6:26 - 6:27]  You can actually look up.
+[6:27 - 6:28]  I'll leave a link in the show notes.
+[6:28 - 6:37]  There's an awesome Kaiser Health website where you can look up whatever hospital you want in America to see if they were penalized and how much they were penalized.
+[6:37 - 6:42]  So I looked my area up in the Dallas-Fort Worth area in Texas.
+[6:42 - 6:54]  The fanciest, most highly, I shouldn't say most highly reputable, but the fanciest and one of the most highly reputable hospitals in the area that mostly does a whole bunch of surgery.
+[6:54 - 6:58]  So they would have gotten dinged on the surgical penalty more so than on the other things.
+[6:58 - 6:59]  Okay?
+[6:59 - 7:00]  We got the max penalty.
+[7:00 - 7:03]  So it just shows you can't judge a book by its cover.
+[7:03 - 7:05]  This place got a super fancy lobby.
+[7:05 - 7:06]  You got max penalty.
+[7:06 - 7:07]  Okay.
+[7:07 - 7:16]  Now, here is the original point from my video that I'm trying to correct here, which is, hey, does patient care vary by payer?
+[7:16 - 7:17]  Okay?
+[7:17 - 7:23]  And my point was is that hospitals treated Medicare patients differently because that hospital was going to be financially penalized.
+[7:23 - 7:31]  So they actually treated the Medicare patients better to try to keep them from being readmitted because they would be penalized if they did.
+[7:31 - 7:45]  But the point is is that does the hospital, because the hospital knows that they're being paid differently depending upon if the patient has traditional Medicare versus Medicare Advantage versus commercial insurance versus Medicaid versus self-pay.
+[7:45 - 7:57]  And I'll leave a link in the show note that the health affairs study that actually found that there was a higher mortality rate for Medicare patients vis-a-vis commercially insured patients at the same hospital.
+[7:57 - 8:00]  Again, risk adjusted, yada, yada, yada.
+[8:00 - 8:15]  But so I'm not here to answer that question today, but it's important to understand the financial pressures that hospitals are under from Medicare, specifically as it relates to financial penalties for readmissions and how they're measured.
+[8:15 - 8:16]  And that's my point for today.
+[8:16 - 8:18]  Thank you for watching a Healthcare Z.

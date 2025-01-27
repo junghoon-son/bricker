@@ -1,0 +1,77 @@
+Title: Value Hole in Health Insurance Plan Design
+URL: https://www.youtube.com/watch?v=MJds3srkjh8
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is the value hole in health plan design. Now we're going to talk about two specific parts of plan design today and those are the deductible and the out-of-pocket max because frankly the way the most health plans are designed today the cost share across the plan design is incredibly lumpy. In fact that lumpiness in the cost share actually leads to poor performance of the health plan in terms of both the care and the outcomes for the patient and then also for the overall cost for the plan. Now what do I specifically mean? As it relates to the deductible the lump in terms of the out-of-pocket cost is really front-loaded into the plan right and then in terms of the out-of-pocket max once you reach that out-of-pocket max then that side of the health plan is super low and so that has significant consequences again in terms of the clinical and the financial performance of the plan and let me relate how that relates specifically to the healthcare industry with a couple examples. So the first one is from this GIST Healthcare newsletter and GIST Healthcare is a hospital consulting firm. I'll leave a link to the newsletter in the show notes. It's fantastic. I encourage you to subscribe to it. Now they share their conversations anonymously. They share their conversations with hospital executives and the most recent newsletter talks about how a hospital executive said that listen they totally see an increase in services in the last six months of the year because people have delayed care until they've met their deductible either through their prescriptions or through office visits or what have you and then once they've met their deductible then they get more services in the back half of the year which the hospital is actually saying well that's good for the hospital like we like to see more services and we tend to see more services in the back half of the year. Now here's the problem disease doesn't wait for the second half of the year so for people who have out-of-control diabetes they are waiting for people that have painful degenerative joint disease who need to have some sort of procedure they're waiting for people who potentially have a cancer diagnosis they're waiting and if they had their deductible structure differently i.e less they wouldn't wait and that might be a good thing. Number two, John Toranis who wrote the book the company that solved healthcare that I've spoken about previously and his company Seragraph kept his employee health plan costs flat for nine years. Specifically he had addressed the out-of-pocket max issue because he said look once employees on our plan hit six thousand dollars of out-of-pocket costs then they no longer have any cost share and so they don't care if there's any cost difference for the hugely expensive procedures and he specifically calls out spinal fusion where at one facility it's thirty thousand dollars and at another facility it's fifty four thousand dollars and at both facilities the employee would reach their six thousand dollar out-of-pocket max so they don't care which place they go to and so he then changed the structure of his plan design so that the employees were still incented to seek the lower cost higher value facility for more expensive procedures like spinal fusions. Okay so now let's get into a couple of specific strategies that are used so one is to just lower or even eliminate the deductible in fact I know of a major national employee benefits consulting firm that absolutely uses this strategy it's very popular they win a lot of business with it because of course employers and the employees like they're like great I can lower the deductible people are going to like that and that's done also for clinical purposes because it decreases people preventing or delaying care when they need it in other words you want to catch things and treat things earlier because they're just going to be more expensive down the road if you delay and the university of chicago even did a study about that where they found that 80 percent of patients actually delayed care because of out-of-pocket costs and 79 percent of the space of the patients specifically called out the deductible as the reason why they delayed care so the next approach so okay so fine so in terms of like flattening out that lumpiness in the beginning you can reduce or eliminate the deductible okay but on the back half you don't want to have it be zero you want to have the employees still be cost conscious you don't want to have to have them spend 24 000 but you still want them to be cost conscious as it relates to the cost share for these very high cost procedures and this can be done in a variety of ways so what john tortoise did is he gave cash back he said look if you go to the more cost effective place that's 30 000 instead of 54 000 we'll cut you a check for two thousand dollars so there they are financially rewarded for going to the 30 000 spinal fusion instead of the 54 000 by getting two thousand dollars likewise there are employers that are now structuring their plans so that they have co-pays that are not egregious amount but there are still co-paid differentials that are based upon the overall cost for these high cost procedures in other words it's a lower co-pay for a 30 000 spinal fusion and it is a higher co-pay for a 54 000 spinal fusion so now as it relates to the overall cost of the plan again remember that five percent of the claimants drive 50 of the cost and 80 of the costs are driven by 20 percent of the claimants and they typically fall into three diagnostic categories of musculoskeletal cardiovascular and cancer and so it's those really high cost claims where there's an opportunity especially in the elective musculoskeletal in your joint replacements and in your spinal surgeries to lower the threshold so that people actually get in early and get the care that they need so that it's not this catastrophic disaster and then likewise they are still conscious about conscious about the value differentials that could cost the employer 24 grand through either getting cash back or through variable co-pays and that's much more important than bickering over like 200 office visits because you've got some high deductible or hsa compatible health plan so we're kind of missing the force for the trees here so instead of nickel and diamond folks about 200 office visits then we can structure the plan in a way that actually encourages earlier care which is a good thing and at the same time encourages better stewardship for these large dollar amounts and that's the point i wanted to make today thank you for watching a healthcare scene
+
+Detailed segments with timestamps:
+
+[0:00 - 0:06]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:06 - 0:14]  the value hole in health plan design. Now we're going to talk about two specific parts of plan
+[0:14 - 0:19]  design today and those are the deductible and the out-of-pocket max because frankly the way
+[0:19 - 0:27]  the most health plans are designed today the cost share across the plan design is incredibly lumpy.
+[0:27 - 0:33]  In fact that lumpiness in the cost share actually leads to poor performance of the health plan in
+[0:33 - 0:40]  terms of both the care and the outcomes for the patient and then also for the overall cost for
+[0:40 - 0:45]  the plan. Now what do I specifically mean? As it relates to the deductible the lump in terms of
+[0:45 - 0:50]  the out-of-pocket cost is really front-loaded into the plan right and then in terms of the out-of-pocket
+[0:50 - 0:57]  max once you reach that out-of-pocket max then that side of the health plan is super low and so
+[0:57 - 1:01]  that has significant consequences again in terms of the clinical and the financial performance of
+[1:01 - 1:08]  the plan and let me relate how that relates specifically to the healthcare industry with
+[1:08 - 1:13]  a couple examples. So the first one is from this GIST Healthcare newsletter and GIST Healthcare is a
+[1:13 - 1:18]  hospital consulting firm. I'll leave a link to the newsletter in the show notes. It's fantastic. I
+[1:18 - 1:25]  encourage you to subscribe to it. Now they share their conversations anonymously. They share their
+[1:25 - 1:28]  conversations with hospital executives and the most recent newsletter talks about how a hospital
+[1:28 - 1:35]  executive said that listen they totally see an increase in services in the last six months of the
+[1:35 - 1:41]  year because people have delayed care until they've met their deductible either through their prescriptions
+[1:41 - 1:45]  or through office visits or what have you and then once they've met their deductible then they get more
+[1:45 - 1:49]  services in the back half of the year which the hospital is actually saying well that's good for
+[1:49 - 1:53]  the hospital like we like to see more services and we tend to see more services in the back half of
+[1:53 - 2:00]  the year. Now here's the problem disease doesn't wait for the second half of the year so for people who have
+[2:00 - 2:09]  out-of-control diabetes they are waiting for people that have painful degenerative joint disease who need to
+[2:09 - 2:15]  have some sort of procedure they're waiting for people who potentially have a cancer diagnosis they're waiting
+[2:15 - 2:25]  and if they had their deductible structure differently i.e less they wouldn't wait and that might be a good
+[2:25 - 2:29]  thing. Number two, John Toranis who wrote the book the company that solved healthcare that I've spoken about
+[2:29 - 2:39]  previously and his company Seragraph kept his employee health plan costs flat for nine years. Specifically he had
+[2:39 - 2:44]  addressed the out-of-pocket max issue because he said look once employees on our plan hit six thousand
+[2:44 - 2:50]  dollars of out-of-pocket costs then they no longer have any cost share and so they don't care if there's
+[2:50 - 2:56]  any cost difference for the hugely expensive procedures and he specifically calls out spinal fusion
+[2:56 - 3:00]  where at one facility it's thirty thousand dollars and at another facility it's fifty four thousand dollars
+[3:00 - 3:04]  and at both facilities the employee would reach their six thousand dollar out-of-pocket max so they don't
+[3:04 - 3:10]  care which place they go to and so he then changed the structure of his plan design so that the
+[3:10 - 3:17]  employees were still incented to seek the lower cost higher value facility for more expensive procedures
+[3:17 - 3:25]  like spinal fusions. Okay so now let's get into a couple of specific strategies that are used so one
+[3:25 - 3:31]  is to just lower or even eliminate the deductible in fact I know of a major national employee benefits
+[3:31 - 3:36]  consulting firm that absolutely uses this strategy it's very popular they win a lot of business with
+[3:36 - 3:41]  it because of course employers and the employees like they're like great I can lower the deductible
+[3:41 - 3:48]  people are going to like that and that's done also for clinical purposes because it decreases people
+[3:48 - 3:53]  preventing or delaying care when they need it in other words you want to catch things and treat things
+[3:53 - 3:58]  earlier because they're just going to be more expensive down the road if you delay and the university of
+[3:58 - 4:04]  chicago even did a study about that where they found that 80 percent of patients actually delayed
+[4:04 - 4:10]  care because of out-of-pocket costs and 79 percent of the space of the patients specifically called out
+[4:10 - 4:18]  the deductible as the reason why they delayed care so the next approach so okay so fine so in terms of
+[4:18 - 4:24]  like flattening out that lumpiness in the beginning you can reduce or eliminate the deductible okay but on the
+[4:24 - 4:31]  back half you don't want to have it be zero you want to have the employees still be cost conscious
+[4:31 - 4:37]  you don't want to have to have them spend 24 000 but you still want them to be cost conscious as it
+[4:37 - 4:44]  relates to the cost share for these very high cost procedures and this can be done in a variety of
+[4:44 - 4:52]  ways so what john tortoise did is he gave cash back he said look if you go to the more cost effective place
+[4:52 - 5:00]  that's 30 000 instead of 54 000 we'll cut you a check for two thousand dollars so there they are
+[5:00 - 5:07]  financially rewarded for going to the 30 000 spinal fusion instead of the 54 000 by getting two thousand
+[5:07 - 5:15]  dollars likewise there are employers that are now structuring their plans so that they have co-pays
+[5:15 - 5:23]  that are not egregious amount but there are still co-paid differentials that are based upon the overall
+[5:23 - 5:31]  cost for these high cost procedures in other words it's a lower co-pay for a 30 000 spinal fusion and it
+[5:31 - 5:44]  is a higher co-pay for a 54 000 spinal fusion so now as it relates to the overall cost of the plan again
+[5:44 - 5:50]  remember that five percent of the claimants drive 50 of the cost and 80 of the costs are driven by 20
+[5:50 - 5:55]  percent of the claimants and they typically fall into three diagnostic categories of musculoskeletal
+[5:55 - 6:03]  cardiovascular and cancer and so it's those really high cost claims where there's an opportunity
+[6:03 - 6:09]  especially in the elective musculoskeletal in your joint replacements and in your spinal surgeries to
+[6:09 - 6:15]  lower the threshold so that people actually get in early and get the care that they need so that
+[6:15 - 6:23]  it's not this catastrophic disaster and then likewise they are still conscious about conscious about the
+[6:23 - 6:32]  value differentials that could cost the employer 24 grand through either getting cash back or through
+[6:32 - 6:39]  variable co-pays and that's much more important than bickering over like 200 office
+[6:39 - 6:45]  visits because you've got some high deductible or hsa compatible health plan so we're kind of
+[6:45 - 6:51]  missing the force for the trees here so instead of nickel and diamond folks about 200 office visits
+[6:51 - 7:00]  then we can structure the plan in a way that actually encourages earlier care which is a good thing
+[7:00 - 7:08]  and at the same time encourages better stewardship for these large dollar amounts and that's the point
+[7:08 - 7:12]  i wanted to make today thank you for watching a healthcare scene

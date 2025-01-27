@@ -1,0 +1,110 @@
+Title: How Are Doctors Paid?  Learn the Incentives in Physician Compensation
+URL: https://www.youtube.com/watch?v=WVXiphqmyX0
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is value-based doctor pay equals window dressing. That's right. What do I mean? There is a brand spanking new article from RAND, Research and Development, very famous think tank out in Santa Monica, California, and Harvard that was published on January 28th of 2022. So this is hot off the presses in the Journal of the American Medical Association. Now, I did a video last week reviewing an article from the Journal of the American Medical Association. So like JAMA is on fire. They're like very much focused on like healthcare finance issues right now. So I'm going to bring with you this amazing article. So these researchers looked at 31 physician practices that were owned by 22 different hospital systems across multiple states. And they wanted to say, okay, well, what type of pay structures do the primary care doctors and the specialists have at these physician practices that are owned by hospital systems? And this is what they found. They found that the pay incentivized patient volume. More specifically, 84% of the primary care physicians were paid based upon the volume of patient and services that they saw. Likewise, 93% of the specialists were paid based upon the volume of patients that they saw and the volume of procedures that they did. Now, within the hospitals and the practices themselves, they measure that with these RVUs, relative value units. And I'll leave a link in the show notes explaining in more detail what an RVU is. So in other words, they're paid for doing stuff. They're not paid for outcomes. They're not paid for being cost effective. They're paid for doing services. That's why it's called fee for service. Now, I want to tell you right now, I'm not 100% against some degree of physician compensation being based on doing stuff. I mean, you can't have a doctor just sitting there collecting a salary, not doing anything, right? So to a certain extent, just like in any other job, to a certain extent, like your pay needs to be based upon you actually like doing something as opposed to just sitting there, right? So some of it has to. All right, fine. Now, let's look at the amount of pay that the physicians received based upon being high quality and cost effective. In other words, what portion of their compensation was based upon quality and cost effectiveness? Well, the RAND study looked at that too. And they said, look, 9% of primary care compensation was based upon quality and cost effectiveness. And only 5.3% of specialist care was based on quality and cost effectiveness. What's that called? Not that much. Now, keep in mind, this is for physician practices that were owned by hospital systems. Now, 50, I'll leave a link in the show notes, 50% of doctors in America now work for physician practices that are owned by hospitals, okay? So it's half, all right? So if you go to see a doctor, like there's a 50-50 chance that they work in a practice that's owned by a hospital system, that's called like a high percentage, okay? Now, the article makes a very interesting conclusion, and I'm going to read it straight from the article. So let me get it. So they said, the results of this cross-sectional study suggest that PCPs and specialists, despite receiving value-based reimbursement incentives from payers, the compensation of health system primary care physicians and specialists was dominated by volume-based incentives designed to maximize health system revenue. I'm going to read that last part again. PCPs and specialists compensation was dominated by volume-based incentives designed to maximize health system revenue. So there you have it from the researchers in the Journal of the American Medical Association. Again, one of the most preeminent journals in the world. They have a very vigorous review board. Interestingly, JAMA has a new editor-in-chief who has also done a lot of research about financial conflicts of interest in publications and financial conflicts of interest with doctors. So here you have the editor of JAMA now, who is very attuned to financial issues in health care, and they've published a very serious article about the implications of fee-for-service still being the dominant mode of payment for doctors. Why is this important? I got a picture to show that. Okay, so we've got the federal government and state Medicaid programs and health insurance carriers that are saying, look, we've got all these value-based payment and alternative payment models, etc., etc., etc. We've got all this payment innovation that's going to hospitals. Okay, fine. So you got it. The point of this article is that the relationship between the doctors and how, or the hospitals and how they pay doctors, is not value-based. It is not consistent with the way that the government and the insurance carriers are trying to compensate the hospitals. Instead, you've seen that I've gone around. There's a big X here at this area. They've basically blocked that compensation relationship between the hospitals and the doctors. And instead, they're doing an end-around with still fee-for-service, volume-based reimbursement. Why is that important? How the government and the insurance company, like how they pay the hospital, that's not really what matters. What matters is, is how the doctor performs patient care. It's this relationship here between the doctor and the patient. So as far as that relationship between the doctor and the patient goes, it's still a fee-for-service environment. It is not a volume-based environment. And those doctors are still incentivized for volume, for doing stuff, for RVUs, and not for quality and not for cost-effectiveness. So essentially, all this stuff, that's why I said window dressing. All this stuff up here between the government and the insurance carriers and the hospitals, that's just window dressing when it comes to the actual behaviors and decisions by doctors with their patients. Let's just call a spade a spade. This article points out that disconnect. Now, I want to read you a quote from the GIST newsletter that I've mentioned before. This is a fantastic newsletter. I'll leave a link to it in the show notes. And this is by Hospital Consultants. And they published a quote by a leader at a physician practice owned by a hospital that is very much in line with this research article. I'm going to go to that as well. So, we're doing multimedia here. So let me actually read this quote from a leader at a physician practice that's owned by a hospital. It's very interesting. The honest answer is that we need different things from our primary care docs and specialists. And if we're all in one group tied to the system, i.e. the hospital system, the pressure will always be there to maximize specialist referrals over other goals. It undoubtedly limits our ability to innovate. There you have it. The quote-unquote honest answer. That's what the leader of the... Now, keep in mind, this was said anonymously. I don't know if he or she would put their name out there in terms of saying this. But here you have the leader of a hospital physician group essentially saying the same thing. That, look, that specialist referrals is the ultimate goal of the physician practice. And that blocks innovation, like payment innovation. Okay. So, fine. The reason I'm telling you all this is because it's important for us to follow the Andrew Carnegie quote of not listening to what people say, but watching what they do. And what these practices and hospitals have done is they have continued to pay their physicians the same way they have in the past. In other words, it has not changed. Okay. So, we need to watch what they do, not just listen to what they say. Now, what else is important about this? I'm not just here to present problems without solutions. That means... 50% of doctors who are employed by hospitals, that means that 50% of doctors are still independent. So, arguably... So, arguably... Now, having an independent physician doesn't guarantee that they'll do things based on cost and quality and not based upon volume. But I'm just saying, obviously, I'm biased because I'm the chief medical officer of an independent physician practice. It happens to be a virtual practice, but it's a practice nonetheless that we're independent. It's important to be independent. It's important not to have these types of relationships set up. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:05 - 0:15]  value-based doctor pay equals window dressing. That's right. What do I mean? There is a brand
+[0:15 - 0:21]  spanking new article from RAND, Research and Development, very famous think tank out in
+[0:21 - 0:29]  Santa Monica, California, and Harvard that was published on January 28th of 2022. So this is
+[0:29 - 0:33]  hot off the presses in the Journal of the American Medical Association. Now, I did a video last week
+[0:33 - 0:38]  reviewing an article from the Journal of the American Medical Association. So like JAMA is on
+[0:38 - 0:43]  fire. They're like very much focused on like healthcare finance issues right now. So I'm
+[0:43 - 0:50]  going to bring with you this amazing article. So these researchers looked at 31 physician practices
+[0:50 - 0:59]  that were owned by 22 different hospital systems across multiple states. And they wanted to say,
+[0:59 - 1:05]  okay, well, what type of pay structures do the primary care doctors and the specialists have
+[1:05 - 1:09]  at these physician practices that are owned by hospital systems? And this is what they found.
+[1:09 - 1:20]  They found that the pay incentivized patient volume. More specifically, 84% of the primary care physicians
+[1:20 - 1:29]  were paid based upon the volume of patient and services that they saw. Likewise, 93% of the specialists
+[1:29 - 1:34]  were paid based upon the volume of patients that they saw and the volume of procedures that they did.
+[1:34 - 1:41]  Now, within the hospitals and the practices themselves, they measure that with these RVUs,
+[1:41 - 1:47]  relative value units. And I'll leave a link in the show notes explaining in more detail what an RVU is.
+[1:47 - 1:52]  So in other words, they're paid for doing stuff. They're not paid for outcomes. They're not paid for
+[1:52 - 1:57]  being cost effective. They're paid for doing services. That's why it's called fee for service. Now,
+[1:57 - 2:04]  I want to tell you right now, I'm not 100% against some degree of physician compensation being based
+[2:04 - 2:09]  on doing stuff. I mean, you can't have a doctor just sitting there collecting a salary, not doing
+[2:09 - 2:15]  anything, right? So to a certain extent, just like in any other job, to a certain extent, like your pay
+[2:15 - 2:19]  needs to be based upon you actually like doing something as opposed to just sitting there, right?
+[2:19 - 2:27]  So some of it has to. All right, fine. Now, let's look at the amount of pay that the physicians
+[2:27 - 2:33]  received based upon being high quality and cost effective. In other words, what portion of their
+[2:33 - 2:39]  compensation was based upon quality and cost effectiveness? Well, the RAND study looked at
+[2:39 - 2:48]  that too. And they said, look, 9% of primary care compensation was based upon quality and cost
+[2:48 - 2:57]  effectiveness. And only 5.3% of specialist care was based on quality and cost effectiveness.
+[2:57 - 3:04]  What's that called? Not that much. Now, keep in mind, this is for physician practices that were owned
+[3:04 - 3:12]  by hospital systems. Now, 50, I'll leave a link in the show notes, 50% of doctors in America now work
+[3:12 - 3:17]  for physician practices that are owned by hospitals, okay? So it's half, all right? So if you go to see a
+[3:17 - 3:22]  doctor, like there's a 50-50 chance that they work in a practice that's owned by a hospital system,
+[3:22 - 3:28]  that's called like a high percentage, okay? Now, the article makes a very interesting conclusion,
+[3:28 - 3:35]  and I'm going to read it straight from the article. So let me get it. So they said,
+[3:35 - 3:44]  the results of this cross-sectional study suggest that PCPs and specialists, despite receiving value-based
+[3:44 - 3:53]  reimbursement incentives from payers, the compensation of health system primary care physicians and
+[3:53 - 4:01]  specialists was dominated by volume-based incentives designed to maximize health system revenue.
+[4:01 - 4:02]  I'm going to read that last part again.
+[4:02 - 4:14]  PCPs and specialists compensation was dominated by volume-based incentives designed to maximize health
+[4:14 - 4:23]  system revenue. So there you have it from the researchers in the Journal of the American Medical
+[4:23 - 4:29]  Association. Again, one of the most preeminent journals in the world. They have a very vigorous
+[4:29 - 4:37]  review board. Interestingly, JAMA has a new editor-in-chief who has also done a lot of research
+[4:37 - 4:43]  about financial conflicts of interest in publications and financial conflicts of interest with doctors.
+[4:43 - 4:49]  So here you have the editor of JAMA now, who is very attuned to financial issues in health care,
+[4:49 - 4:57]  and they've published a very serious article about the implications of fee-for-service still being the
+[4:57 - 5:02]  dominant mode of payment for doctors. Why is this important? I got a picture to show that.
+[5:02 - 5:09]  Okay, so we've got the federal government and state Medicaid programs and health insurance carriers that are saying,
+[5:09 - 5:14]  look, we've got all these value-based payment and alternative payment models, etc., etc., etc.
+[5:14 - 5:18]  We've got all this payment innovation that's going to hospitals. Okay, fine. So you got it.
+[5:19 - 5:24]  The point of this article is that the relationship between the doctors and how, or the hospitals and how they pay doctors,
+[5:24 - 5:31]  is not value-based. It is not consistent with the way that the government and the insurance carriers are trying to compensate the hospitals.
+[5:32 - 5:41]  Instead, you've seen that I've gone around. There's a big X here at this area. They've basically blocked that compensation relationship between the hospitals and the doctors.
+[5:41 - 5:47]  And instead, they're doing an end-around with still fee-for-service, volume-based reimbursement.
+[5:47 - 5:53]  Why is that important? How the government and the insurance company, like how they pay the hospital, that's not really what matters.
+[5:53 - 5:59]  What matters is, is how the doctor performs patient care. It's this relationship here between the doctor and the patient.
+[5:59 - 6:04]  So as far as that relationship between the doctor and the patient goes, it's still a fee-for-service environment.
+[6:04 - 6:14]  It is not a volume-based environment. And those doctors are still incentivized for volume, for doing stuff, for RVUs, and not for quality and not for cost-effectiveness.
+[6:14 - 6:21]  So essentially, all this stuff, that's why I said window dressing. All this stuff up here between the government and the insurance carriers and the hospitals,
+[6:21 - 6:28]  that's just window dressing when it comes to the actual behaviors and decisions by doctors with their patients.
+[6:28 - 6:34]  Let's just call a spade a spade. This article points out that disconnect.
+[6:34 - 6:40]  Now, I want to read you a quote from the GIST newsletter that I've mentioned before.
+[6:40 - 6:43]  This is a fantastic newsletter. I'll leave a link to it in the show notes.
+[6:43 - 6:45]  And this is by Hospital Consultants.
+[6:45 - 6:55]  And they published a quote by a leader at a physician practice owned by a hospital that is very much in line with this research article.
+[6:55 - 6:57]  I'm going to go to that as well.
+[6:57 - 7:00]  So, we're doing multimedia here.
+[7:01 - 7:05]  So let me actually read this quote from a leader at a physician practice that's owned by a hospital.
+[7:06 - 7:07]  It's very interesting.
+[7:07 - 7:12]  The honest answer is that we need different things from our primary care docs and specialists.
+[7:12 - 7:17]  And if we're all in one group tied to the system, i.e. the hospital system,
+[7:17 - 7:23]  the pressure will always be there to maximize specialist referrals over other goals.
+[7:23 - 7:26]  It undoubtedly limits our ability to innovate.
+[7:26 - 7:28]  There you have it.
+[7:29 - 7:30]  The quote-unquote honest answer.
+[7:31 - 7:32]  That's what the leader of the...
+[7:32 - 7:35]  Now, keep in mind, this was said anonymously.
+[7:35 - 7:39]  I don't know if he or she would put their name out there in terms of saying this.
+[7:39 - 7:45]  But here you have the leader of a hospital physician group essentially saying the same thing.
+[7:45 - 7:52]  That, look, that specialist referrals is the ultimate goal of the physician practice.
+[7:52 - 7:56]  And that blocks innovation, like payment innovation.
+[7:56 - 7:57]  Okay.
+[7:57 - 7:58]  So, fine.
+[7:59 - 8:06]  The reason I'm telling you all this is because it's important for us to follow the Andrew Carnegie quote of not listening to what people say,
+[8:06 - 8:08]  but watching what they do.
+[8:08 - 8:14]  And what these practices and hospitals have done is they have continued to pay their physicians the same way they have in the past.
+[8:14 - 8:16]  In other words, it has not changed.
+[8:16 - 8:16]  Okay.
+[8:16 - 8:19]  So, we need to watch what they do, not just listen to what they say.
+[8:20 - 8:21]  Now, what else is important about this?
+[8:21 - 8:23]  I'm not just here to present problems without solutions.
+[8:24 - 8:24]  That means...
+[8:24 - 8:28]  50% of doctors who are employed by hospitals, that means that 50% of doctors are still independent.
+[8:28 - 8:29]  So, arguably...
+[8:29 - 8:30]  So, arguably...
+[8:30 - 8:36]  Now, having an independent physician doesn't guarantee that they'll do things based on cost and quality and not based upon volume.
+[8:36 - 8:43]  But I'm just saying, obviously, I'm biased because I'm the chief medical officer of an independent physician practice.
+[8:43 - 8:48]  It happens to be a virtual practice, but it's a practice nonetheless that we're independent.
+[8:48 - 8:49]  It's important to be independent.
+[8:49 - 8:54]  It's important not to have these types of relationships set up.
+[8:54 - 8:55]  And that's my point for today.
+[8:56 - 8:57]  Thank you for watching A Healthcare Z.

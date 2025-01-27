@@ -1,0 +1,95 @@
+Title: Press Ganey Patient Satisfaction Scores Explained
+URL: https://www.youtube.com/watch?v=uSZ2z3UfANg
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Press Ganey Patient Satisfaction Scores Explained. So if you work in healthcare, you really need to know what a Press Ganey Patient Satisfaction Score is. I don't care if you work in employee benefits or if you're a hospital administrator or even if you work in the pharmaceutical industry. You have to know about Press Ganey. Okay, what is Press Ganey? It is a company that has been surveying patients about their healthcare experiences for the past 38 years. It's an American company. It's based in South Bend, Indiana. And over 50% of hospital systems in America use Press Ganey scores to measure patient satisfaction of their physicians. And according to the Press Ganey website, they have survey information relationships with over 41,000 healthcare facilities. So it is like the largest patient survey organization in this country. And it is something that I, as a physician, I had my own Press Ganey scores, right? So a patient sees a doctor, they go home, and Press Ganey mails them a survey. And then they get survey results back. And they ask them about the doctor. Now they ask them about other things too, but we're only going to focus on the 10 questions that they ask specifically about the physician. Now, the 10 things that Press Ganey asks patients about, their specific doctor, Dr. Jones, Dr. Smith, after a visit are, were they friendly? Did they explain things well? Did they show concern for you? Were you the patient included in the decision making? Did they give you information about the medication? Did they give you a follow-up plan? Was their speech clear? Could you just like literally understand them? Do you feel like they spent enough time with you? And do you have a lot of confidence with them? The doctor. Now, and then the final question is, would you recommend this doctor to another person? Now, the scoring for each one of those 10 questions ranges from one to five, where you get a one if it's rated very poor, and then there's poor, and there's fair, and then there's good, and then you get a five if it's very good. Now, interestingly, the way they then, and this is honestly, this is the most important thing about the Press Ganey score, in my opinion, is that the actual Press Ganey score, because you're given a number, one to a hundred, okay? And what is that actual Press Ganey score? That Press Ganey score is the percentage of respondents that gave you the top box. In other words, that gave you a five for that category. So in other words, if you were very poor, poor, fair, or good, like it doesn't count. It only counts if it's measured as the highest ranking possible, a five out of five, a very good for friendliness, how well they explain things, how concerned were they for you, et cetera, et cetera. So then you get, and I would get, a Press Ganey score for each of these 10 categories, but then you would also get an overall Press Ganey score. Now, how do you calculate an overall Press Ganey score? You take the number of fives, the number of very goods, divided by the total number of responses. So let's do a specific example. Now, you need to have a minimum of 30 patient surveys. So 30 patients actually have to fill out a survey for each individual doc for them to get a score, okay? Which means that, okay, if they're asking them 10 questions times the 30 patients, that means that there are 300 responses total. So let's say you get a five on 270 out of the 300 responses. Well, you take the 270, divide it by 300, and that gives you a 90%. So your overall Press Ganey score was a 90%, which means that nine out of every 10 patients rated you, or I shouldn't say it that way. I should say that, look, you got a five out of five on 90% of the 300 possible answers. Like, you got an A on all the possible answers 90% of the time, right? So what's the benchmark for that? Like, how does it range for doctors? Like, if you're like a really bad doctor, if you're like in the bottom fifth percentile, still 70% of the responses are a five out of five. 70% of the responses are very good. If you're in the 90th percentile, in other words, if you're in the top 10%, then 91% of your responses are a five out of five or very good. Let me say that differently. Even the lowest 10% of doctors 70% of their responses are the maximum grade possible. Like, one would argue that even the doctors in the lowest 10% have incredibly high patient satisfaction scores. I mean, that's unbelievable to have 70% of your responses beating maximum score total is actually quite an accomplishment. So if you were to look at it on a histogram with the number of docs on the y-axis and the score on the x-axis, it would look like this. It would be super narrow and super high. It wouldn't be some broad bell-shaped curve where, like, at the very low end would be 70%, at the very high end would be 91%, and the median is 82%. So the overall message is that patients in America are highly satisfied with their doctors. That is super important to understand, and it has major implications. What are some of those implications? One, you can't compete on patient satisfaction because basically all of the patients, and oh, by the way, this holds true for, like, all the specialties. So, like, dermatology is not that different from OBGYN, which is not that different from general surgery, which is not that different from medical oncology, which is not that different from ENT, which is not that different from cardiology. So they all basically look like that. So basically, all patients are basically happy with all doctors, okay? So you can't be like, oh, those terrible surgeons, or oh, those, you know, be like, oh, everybody loves pediatricians. The pediatrician score must be much higher than the orthopedic surgeon score. The answer is no. The vast majority of patients are happy with all the doctors. So what does that mean? You can't compete on satisfaction. Like, if you're a hospital system, you can't be like, well, our doctors satisfy our patients better. Because all the patients at the other hospital system are going to be like, we already love our doctors. Sorry. Okay, so what can you compete on? So you can compete on access. It's super hard to get an appointment. It's super hard to get in the door. You can compete on access. What else can you compete on? You can compete on out-of-pocket cost, right? Because if everybody is satisfied, it's not like the people who pay more for the Gucci bag are more satisfied with their Gucci bag than the people who pay less for their Walmart purse, okay? Basically, everybody is hugely satisfied. So you can compete on out-of-pocket cost. And like, people aren't going to be like unsatisfied with a lower out-of-pocket cost doctor. They're not going to be like, oh, this is some cheap Walmart purse. They're going to be hugely satisfied with their Walmart purse. Okay, so don't even try, implication number two, don't even try to pit patients against their doctor. Sometimes you'll see rhetoric from the insurance industry about your doctor this and your doctor that. Even here on A Healthcare Z, we're like, look, some doctors make questionable, you know, decisions and are not doing things in the best interest of their patients. But guess what? The patients don't care. The patients love their doctors. So at the end of the day, you really cannot pit patients against their doctors because that's where the bond is, okay? That's where the love is, okay? Arguably, it's not the insurance company. It's not the employer. It's not the government. Like, who do they really like? They really like their doctor. Which brings me to implication number three, which is the doc is the conduit. You want to do anything for your plan members? You want to do anything for your employees and their family members? You gotta do it through the doc because the doc is who they like. It's not they like you, the employer. It's not they like you, the insurance company. It's not they like you, the government. It is through the doc. And so the docs have the leverage when it comes to the mind share and the opinion of the patient. And that is measured by Press Ganey and has been measured for 38 years. So if you work in healthcare, you better understand what Press Ganey is and what patient satisfaction scores are. And that's my point for today. Thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:05]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic
+[0:05 - 0:13]  is Press Ganey Patient Satisfaction Scores Explained. So if you work in healthcare, you
+[0:13 - 0:18]  really need to know what a Press Ganey Patient Satisfaction Score is. I don't care if you
+[0:18 - 0:23]  work in employee benefits or if you're a hospital administrator or even if you work in the
+[0:23 - 0:28]  pharmaceutical industry. You have to know about Press Ganey. Okay, what is Press Ganey? It
+[0:28 - 0:34]  is a company that has been surveying patients about their healthcare experiences for the
+[0:34 - 0:41]  past 38 years. It's an American company. It's based in South Bend, Indiana. And over 50% of
+[0:41 - 0:48]  hospital systems in America use Press Ganey scores to measure patient satisfaction of their physicians.
+[0:48 - 0:55]  And according to the Press Ganey website, they have survey information relationships with over
+[0:55 - 1:05]  41,000 healthcare facilities. So it is like the largest patient survey organization in this country.
+[1:06 - 1:14]  And it is something that I, as a physician, I had my own Press Ganey scores, right? So a patient sees a
+[1:14 - 1:20]  doctor, they go home, and Press Ganey mails them a survey. And then they get survey results back.
+[1:20 - 1:25]  And they ask them about the doctor. Now they ask them about other things too, but we're only going
+[1:25 - 1:32]  to focus on the 10 questions that they ask specifically about the physician. Now, the 10
+[1:32 - 1:39]  things that Press Ganey asks patients about, their specific doctor, Dr. Jones, Dr. Smith, after a visit
+[1:39 - 1:48]  are, were they friendly? Did they explain things well? Did they show concern for you? Were you the patient
+[1:48 - 1:55]  included in the decision making? Did they give you information about the medication? Did they give
+[1:55 - 2:03]  you a follow-up plan? Was their speech clear? Could you just like literally understand them? Do you feel
+[2:03 - 2:10]  like they spent enough time with you? And do you have a lot of confidence with them? The doctor. Now,
+[2:11 - 2:18]  and then the final question is, would you recommend this doctor to another person? Now, the scoring for
+[2:18 - 2:26]  each one of those 10 questions ranges from one to five, where you get a one if it's rated very poor,
+[2:26 - 2:31]  and then there's poor, and there's fair, and then there's good, and then you get a five if it's very
+[2:31 - 2:38]  good. Now, interestingly, the way they then, and this is honestly, this is the most important thing
+[2:38 - 2:45]  about the Press Ganey score, in my opinion, is that the actual Press Ganey score, because you're given a
+[2:45 - 2:53]  number, one to a hundred, okay? And what is that actual Press Ganey score? That Press Ganey score
+[2:53 - 3:02]  is the percentage of respondents that gave you the top box. In other words, that gave you a five for that
+[3:02 - 3:09]  category. So in other words, if you were very poor, poor, fair, or good, like it doesn't count.
+[3:09 - 3:16]  It only counts if it's measured as the highest ranking possible, a five out of five, a very good
+[3:16 - 3:22]  for friendliness, how well they explain things, how concerned were they for you, et cetera, et cetera.
+[3:22 - 3:27]  So then you get, and I would get, a Press Ganey score for each of these 10 categories, but then you
+[3:27 - 3:32]  would also get an overall Press Ganey score. Now, how do you calculate an overall Press Ganey score?
+[3:33 - 3:40]  You take the number of fives, the number of very goods, divided by the total number of responses.
+[3:40 - 3:45]  So let's do a specific example. Now, you need to have a minimum of 30 patient surveys. So 30 patients
+[3:45 - 3:50]  actually have to fill out a survey for each individual doc for them to get a score, okay?
+[3:50 - 3:53]  Which means that, okay, if they're asking them 10 questions times the 30 patients, that means that
+[3:53 - 4:04]  there are 300 responses total. So let's say you get a five on 270 out of the 300 responses. Well,
+[4:04 - 4:12]  you take the 270, divide it by 300, and that gives you a 90%. So your overall Press Ganey score was a 90%,
+[4:13 - 4:21]  which means that nine out of every 10 patients rated you, or I shouldn't say it that way. I should say
+[4:21 - 4:29]  that, look, you got a five out of five on 90% of the 300 possible answers. Like, you got an A on all
+[4:29 - 4:36]  the possible answers 90% of the time, right? So what's the benchmark for that? Like, how does it
+[4:36 - 4:43]  range for doctors? Like, if you're like a really bad doctor, if you're like in the bottom fifth percentile,
+[4:43 - 4:55]  still 70% of the responses are a five out of five. 70% of the responses are very good.
+[4:55 - 5:04]  If you're in the 90th percentile, in other words, if you're in the top 10%, then 91% of your responses
+[5:04 - 5:12]  are a five out of five or very good. Let me say that differently. Even the lowest 10% of doctors
+[5:12 - 5:21]  70% of their responses are the maximum grade possible. Like, one would argue that even the
+[5:21 - 5:27]  doctors in the lowest 10% have incredibly high patient satisfaction scores. I mean, that's
+[5:27 - 5:34]  unbelievable to have 70% of your responses beating maximum score total is actually quite an accomplishment.
+[5:34 - 5:38]  So if you were to look at it on a histogram with the number of docs on the y-axis and the score on the
+[5:38 - 5:45]  x-axis, it would look like this. It would be super narrow and super high. It wouldn't be some broad
+[5:45 - 5:50]  bell-shaped curve where, like, at the very low end would be 70%, at the very high end would be 91%, and the
+[5:50 - 6:01]  median is 82%. So the overall message is that patients in America are highly satisfied with their doctors.
+[6:01 - 6:07]  That is super important to understand, and it has major implications. What are some of those
+[6:07 - 6:14]  implications? One, you can't compete on patient satisfaction because basically all of the
+[6:14 - 6:19]  patients, and oh, by the way, this holds true for, like, all the specialties. So, like, dermatology is not
+[6:19 - 6:22]  that different from OBGYN, which is not that different from general surgery, which is not that different
+[6:22 - 6:27]  from medical oncology, which is not that different from ENT, which is not that different from cardiology.
+[6:27 - 6:33]  So they all basically look like that. So basically, all patients are basically happy with all doctors,
+[6:34 - 6:39]  okay? So you can't be like, oh, those terrible surgeons, or oh, those, you know, be like, oh,
+[6:39 - 6:45]  everybody loves pediatricians. The pediatrician score must be much higher than the orthopedic
+[6:45 - 6:50]  surgeon score. The answer is no. The vast majority of patients are happy with all the doctors. So what
+[6:50 - 6:54]  does that mean? You can't compete on satisfaction. Like, if you're a hospital system, you can't be like,
+[6:54 - 6:59]  well, our doctors satisfy our patients better. Because all the patients at the other hospital system are going to be like,
+[6:59 - 7:08]  we already love our doctors. Sorry. Okay, so what can you compete on? So you can compete on access. It's super
+[7:08 - 7:13]  hard to get an appointment. It's super hard to get in the door. You can compete on access. What else can you
+[7:13 - 7:19]  compete on? You can compete on out-of-pocket cost, right? Because if everybody is satisfied, it's not like the people
+[7:19 - 7:25]  who pay more for the Gucci bag are more satisfied with their Gucci bag than the people who pay less
+[7:25 - 7:33]  for their Walmart purse, okay? Basically, everybody is hugely satisfied. So you can compete on out-of-pocket
+[7:33 - 7:39]  cost. And like, people aren't going to be like unsatisfied with a lower out-of-pocket cost doctor.
+[7:40 - 7:44]  They're not going to be like, oh, this is some cheap Walmart purse. They're going to be hugely satisfied
+[7:44 - 7:52]  with their Walmart purse. Okay, so don't even try, implication number two, don't even try to pit
+[7:52 - 7:56]  patients against their doctor. Sometimes you'll see rhetoric from the insurance industry about
+[7:56 - 8:02]  your doctor this and your doctor that. Even here on A Healthcare Z, we're like, look, some doctors make
+[8:02 - 8:06]  questionable, you know, decisions and are not doing things in the best interest of their patients.
+[8:06 - 8:10]  But guess what? The patients don't care. The patients love their doctors. So at the end of the day,
+[8:10 - 8:19]  you really cannot pit patients against their doctors because that's where the bond is, okay?
+[8:19 - 8:24]  That's where the love is, okay? Arguably, it's not the insurance company. It's not the employer.
+[8:24 - 8:29]  It's not the government. Like, who do they really like? They really like their doctor. Which brings me
+[8:29 - 8:37]  to implication number three, which is the doc is the conduit. You want to do anything for your plan
+[8:37 - 8:44]  members? You want to do anything for your employees and their family members? You gotta do it through
+[8:44 - 8:50]  the doc because the doc is who they like. It's not they like you, the employer. It's not they like you,
+[8:50 - 8:57]  the insurance company. It's not they like you, the government. It is through the doc. And so the docs
+[8:57 - 9:06]  have the leverage when it comes to the mind share and the opinion of the patient. And that is measured
+[9:06 - 9:12]  by Press Ganey and has been measured for 38 years. So if you work in healthcare, you better understand
+[9:12 - 9:18]  what Press Ganey is and what patient satisfaction scores are. And that's my point for today. Thank you
+[9:18 - 9:19]  for watching A Healthcare Z.

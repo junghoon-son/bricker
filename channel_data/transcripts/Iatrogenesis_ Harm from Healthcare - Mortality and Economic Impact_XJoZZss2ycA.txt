@@ -1,0 +1,120 @@
+Title: Iatrogenesis: Harm from Healthcare - Mortality and Economic Impact
+URL: https://www.youtube.com/watch?v=XJoZZss2ycA
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is iatrogenesis, which is harm from healthcare. So if we work in healthcare, we have to understand this term iatrogenesis. It's a little funny sounding. It comes from two Greek roots. The first one, iatros, which means physician, and the second one, genesis, which means origin. So this is pain, suffering, side effects, even potentially death as a result of medical care itself. That's what iatrogenesis is. And it's a big deal. So there's a very famous study from several years ago. Frankly, it's highly controversial. We're not here to discuss the controversy, but it was by Dr. Marty McCary from Johns Hopkins found that 250,000 deaths per year in America were caused by iatrogenesis. That's right. They were caused by healthcare itself, whether it be from medications or from surgeries or from hospital stays and adverse events during the hospital stay. 250,000 deaths is the equivalent of the third leading cause of death in America. So it's a huge deal. Now, separate from death, it also just causes a lot of suffering. So let me give you a few examples. One is what is referred to as antibiotic associated diarrhea. So anytime anyone takes antibiotics, it kills the bad bacteria that are causing, let's say, a pneumonia or a skin infection, but it also kills the good bacteria that are in your intestines. You need bacteria in your colon. It's good for you. Now, when that bacteria in your colon gets killed, it can lead to, doesn't always, but it can lead to diarrhea. And you've got stomach pain and you've got potential dehydration. I've seen these cases of, you know, young, healthy 23-year-old woman given antibiotics for a sinus infection, and she was in the hospital like every other week for several months because her diarrhea was so bad and it wouldn't go away. She had like eight CT scans. So it's estimated that about five to 35 percent of people who take antibiotics develop antibiotic-associated diarrhea. Okay, that's iatrogenesis. That's iatrogenesis from the medication itself. It's an unwanted side effect that causes harm, the diarrhea, from the medication itself. Now, it can also take the form of surgical procedures. So there's a surgical procedure called a Nissen Fundoplication. I actually was involved in a case for, I was like the medical student, I was holding, I was being the retractor for a Nissen Fundoplication when I was in medical school. This is done typically by general surgeons as a way of treating really bad heartburn. Guess what they do? They take the stomach and they actually wrap it around. They take part of the stomach and they wrap it around the bottom part of the esophagus. You can kind of see my little, my little cartoon here. And what that does is it prevents the esophagus from slipping up into the chest cavity, which is often the case when people have what's called a hiatal hernia and it's leading to a real bad heartburn and reflux. Well, when they wrap a part of the stomach around the esophagus, if they don't wrap it at just the right degree of tension, then what happens is, is that after the surgery is done, you recover from it, food can get stuck in your esophagus. Essentially, they wrap, it's kind of like putting a hot dog in a bun, the hot dog being your esophagus and your stomach being the bun. Well, if they wrap it too tight, then food can get stuck in your esophagus. That's referred to as dysphagia. Guess what happens? Three to 24 percent, upwards of one in four people who get a Nissen Fundoplication end up having long-term swallowing problems where food gets stuck. Okay, so before a patient has a test or procedure, prescribed medication, then there actually is a process that's referred to as informed consent. The doctors are supposed to go through with patients. Informed consent says, hey, look, you as a physician, you need to go over, okay, what's the condition that you're treating? Two, what is the nature of the treatment? In other words, what's the nature of the surgery or the implantable device like a pacemaker or the medication? Okay, what are the anticipated results? What do we think is going to happen as a result of this? Are there any alternatives to this treatment that we're discussing here? Either other alternatives or just another alternative would be just no treatment at all. What would happen if you didn't get treated at all? Then also the risks of the treatment, the potential complications of the treatment, and also the benefits of the treatment need to be discussed as well. So the point is, is that when the patient is giving you consent to do something medically, it's informed with all these things. Okay, what's being done? Why is it being done? What's the risk of being done? What are the benefits of being done? Okay, I will tell you in practicality that this process of informed consent, sometimes the nurses do it, the doctors don't do it. Two, sometimes an intern who's been a doctor literally for two months will do this, and the attending physician will not do this at all. So you mean to tell me a doctor who's only been a doctor for two months is going to be giving adequate informed consent to a patient? Probably not. Also, there's heavy bias on the part of the doctor to like, make sure the patient gets this done. Because like they're on the OR schedule, or just you want to help the person, and you think that this is like the right thing to do for the person. I had a gastroenterologist tell me that he could quote unquote, consent anyone. He could get anyone to agree to informed consent. Well, arguably, if he could get anyone to agree to informed consent, he was manipulating the informed consent process. Because there are obviously some people who would be like, no, I don't want to have done whatever needs to get done. Okay, so the idea of informed consent as a way for patients to understand iatrogenesis is a good idea. But in practical terms, it's kind of skewed. Okay, now, what are the costs associated with iatrogenesis? Harm from healthcare. So, I'll leave a link in the show notes to this study, but they looked specifically at hospital inpatient iatrogenesis costs. And they found that the hospital itself, when there was a situation of iatrogenesis, when the hospital itself caused harm, or there was a side effect, etc., that it ended up costing the hospital $238 per patient. Not per patient with iatrogenesis itself, just averaged across all their patients. Now, however, that was only the cost that was borne by the hospital. They found that the hospital was able to then transfer, because we've got third-party payment, right? We got Medicare, we got Medicaid, we got commercial insurance, that the hospital was then able to pass on the costs of the error, or the complication, or the side effect, for $1,775 per patient. So, in other words, if you add the two up, the $238 plus the $1,775, it gets you to $2013 total, on average, per patient. That is a result of complications, etc. Again, that's not per patient that suffers iatrogenesis. That's averaged across all of their admits. And so, if you do the math on it, the $1775 divided by the $2013 means that 88% of the costs were then passed on to the third-party payer of Medicare, Medicaid, or commercial insurance. So, now this study was done in 2007. So, that's $2,007. So, in order to make this relatable to today, we got to apply healthcare cost inflation to it. Now, I went to the Bureau of Labor Statistics for that number, and the number that they have on average, so I literally took the healthcare inflation for every single year, and I averaged it out. And on average for that, for the 14-year period between 2007 and today, it's 3.3% per year, which seems kind of low, but we're still going to go with that. So, fine. So, if you apply the 3.3% per year of inflation to the $2013, that gets you up to $3,180 in 2021. Okay, fine. Then again, you take, not all that is borne by the third-party payers. Only 88% of it is borne by Medicare, Medicaid, commercial insurance. So, let's take the $3180, multiply it by 0.88, and that gets you $2,798. Now, not all that, since we deal mostly with employer-sponsored health insurance here on A Healthcare and C, not all that is borne by employers. So, what percent is borne by commercial insurance? Well, again, hospital revenue is typically about 40% commercial insurance, 40% Medicare, and about 10% Medicaid, and then 10% self-pay. So, let's just take the $2798, and then multiply it by 40%, because that would be the part that commercial insurance is bearing, and that gets you to $1,119 per patient. Again, that's per patient across all their admins. So, in the most recent year, I think that's on record, again, I'll leave a link to all this in the show notes, is 2019. There were 36.2 million admins to hospitals in America in that year. So, if you take the $1,119 multiplied by the 36.2 million admins, that gets you $40.5 billion of iatrogenesis costs that are borne by commercial insurance plans, i.e. employers in America, right? Because insurance is just the funding mechanism that processes the transaction for employers, and they're then charging the employers the premium. So, $40.5 billion a year is charged to commercial insurance plans. Well, there's 155 million people on commercial insurance plans in America, according to the most recent Kaiser Family Foundation of 2021. I'll leave a link to that in the show notes as well. So, if you take the $40.5 billion divided by the 155 million people that are on commercial insurance plans, it comes down to $261 per member per year. And on average, there's two members for every one subscriber or employees on the plan. So, if you wanted to get it in terms of per employee per year cost, you take the $261, you multiply it by two. That's $522 per employee per year that employers are paying for inpatient-only hospital iatrogenesis, hospital and doctor-created harm. Cost employers, $522 per employee per employee per year. Divide that by 12, that means employers are paying $44.50 per employee per month for iatrogenesis. What's that called? More than your ASO fee. It's costing you more than a self-funded plan would pay, Blue Cross United, Cigna, or Aetna, to administer their entire plan. And this is just hospital inpatient iatrogenesis. This doesn't take into account any outpatient iatrogenesis. So, when you take into account the potential deaths, the suffering, and the cost from iatrogenesis, especially on a per employee per month level, and it gets hidden, right? Because it's in the claims. You don't see a line item in your reporting from your ASO. Okay, here are your iatrogenesis costs. But it's there, and it's costing you like $44.50 per employee per month. So, if we work in healthcare, we have to understand iatrogenesis. It's a serious topic. Thank you for watching.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:06]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:06 - 0:14]  iatrogenesis, which is harm from healthcare. So if we work in healthcare, we have to understand
+[0:14 - 0:22]  this term iatrogenesis. It's a little funny sounding. It comes from two Greek roots. The
+[0:22 - 0:28]  first one, iatros, which means physician, and the second one, genesis, which means origin.
+[0:28 - 0:38]  So this is pain, suffering, side effects, even potentially death as a result of medical
+[0:38 - 0:46]  care itself. That's what iatrogenesis is. And it's a big deal. So there's a very famous study from
+[0:46 - 0:51]  several years ago. Frankly, it's highly controversial. We're not here to discuss the controversy, but it
+[0:51 - 1:00]  was by Dr. Marty McCary from Johns Hopkins found that 250,000 deaths per year in America were caused
+[1:00 - 1:06]  by iatrogenesis. That's right. They were caused by healthcare itself, whether it be from medications
+[1:06 - 1:13]  or from surgeries or from hospital stays and adverse events during the hospital stay. 250,000 deaths is
+[1:13 - 1:22]  the equivalent of the third leading cause of death in America. So it's a huge deal. Now, separate from
+[1:22 - 1:31]  death, it also just causes a lot of suffering. So let me give you a few examples. One is what is referred
+[1:31 - 1:39]  to as antibiotic associated diarrhea. So anytime anyone takes antibiotics, it kills the bad bacteria
+[1:39 - 1:44]  that are causing, let's say, a pneumonia or a skin infection, but it also kills the good bacteria
+[1:44 - 1:52]  that are in your intestines. You need bacteria in your colon. It's good for you. Now, when that bacteria
+[1:52 - 1:57]  in your colon gets killed, it can lead to, doesn't always, but it can lead to diarrhea. And you've got
+[1:57 - 2:03]  stomach pain and you've got potential dehydration. I've seen these cases of, you know, young, healthy
+[2:03 - 2:09]  23-year-old woman given antibiotics for a sinus infection, and she was in the hospital like every
+[2:09 - 2:15]  other week for several months because her diarrhea was so bad and it wouldn't go away. She had like
+[2:15 - 2:23]  eight CT scans. So it's estimated that about five to 35 percent of people who take antibiotics
+[2:23 - 2:31]  develop antibiotic-associated diarrhea. Okay, that's iatrogenesis. That's iatrogenesis from the medication
+[2:31 - 2:38]  itself. It's an unwanted side effect that causes harm, the diarrhea, from the medication itself. Now,
+[2:39 - 2:44]  it can also take the form of surgical procedures. So there's a surgical procedure called a Nissen
+[2:44 - 2:52]  Fundoplication. I actually was involved in a case for, I was like the medical student, I was holding,
+[2:52 - 2:56]  I was being the retractor for a Nissen Fundoplication when I was in medical school.
+[2:56 - 3:01]  This is done typically by general surgeons as a way of treating really bad heartburn.
+[3:01 - 3:08]  Guess what they do? They take the stomach and they actually wrap it around. They take part of the
+[3:08 - 3:12]  stomach and they wrap it around the bottom part of the esophagus. You can kind of see my little,
+[3:12 - 3:18]  my little cartoon here. And what that does is it prevents the esophagus from slipping up into the
+[3:18 - 3:23]  chest cavity, which is often the case when people have what's called a hiatal hernia and it's leading
+[3:23 - 3:30]  to a real bad heartburn and reflux. Well, when they wrap a part of the stomach around the esophagus,
+[3:30 - 3:36]  if they don't wrap it at just the right degree of tension, then what happens is, is that after the
+[3:36 - 3:41]  surgery is done, you recover from it, food can get stuck in your esophagus. Essentially, they wrap,
+[3:41 - 3:46]  it's kind of like putting a hot dog in a bun, the hot dog being your esophagus and your stomach being
+[3:46 - 3:52]  the bun. Well, if they wrap it too tight, then food can get stuck in your esophagus. That's referred
+[3:52 - 4:00]  to as dysphagia. Guess what happens? Three to 24 percent, upwards of one in four people who get a
+[4:00 - 4:07]  Nissen Fundoplication end up having long-term swallowing problems where food gets stuck. Okay,
+[4:07 - 4:16]  so before a patient has a test or procedure, prescribed medication, then there actually is
+[4:16 - 4:21]  a process that's referred to as informed consent. The doctors are supposed to go through with patients.
+[4:22 - 4:26]  Informed consent says, hey, look, you as a physician, you need to go over, okay, what's the condition that
+[4:26 - 4:32]  you're treating? Two, what is the nature of the treatment? In other words, what's the nature of the
+[4:32 - 4:39]  surgery or the implantable device like a pacemaker or the medication? Okay, what are the anticipated
+[4:39 - 4:45]  results? What do we think is going to happen as a result of this? Are there any alternatives to this
+[4:45 - 4:50]  treatment that we're discussing here? Either other alternatives or just another alternative would be
+[4:50 - 4:55]  just no treatment at all. What would happen if you didn't get treated at all? Then also the risks of
+[4:55 - 5:00]  the treatment, the potential complications of the treatment, and also the benefits of the treatment
+[5:00 - 5:08]  need to be discussed as well. So the point is, is that when the patient is giving you consent to do
+[5:08 - 5:13]  something medically, it's informed with all these things. Okay, what's being done? Why is it being done?
+[5:14 - 5:19]  What's the risk of being done? What are the benefits of being done? Okay, I will tell you in practicality
+[5:19 - 5:27]  that this process of informed consent, sometimes the nurses do it, the doctors don't do it.
+[5:27 - 5:35]  Two, sometimes an intern who's been a doctor literally for two months will do this, and the
+[5:35 - 5:39]  attending physician will not do this at all. So you mean to tell me a doctor who's only been a doctor
+[5:39 - 5:46]  for two months is going to be giving adequate informed consent to a patient? Probably not. Also,
+[5:46 - 5:52]  there's heavy bias on the part of the doctor to like, make sure the patient gets this done.
+[5:52 - 5:56]  Because like they're on the OR schedule, or just you want to help the person, and you think that
+[5:56 - 6:02]  this is like the right thing to do for the person. I had a gastroenterologist tell me that he could
+[6:02 - 6:08]  quote unquote, consent anyone. He could get anyone to agree to informed consent. Well, arguably,
+[6:09 - 6:12]  if he could get anyone to agree to informed consent, he was manipulating the informed consent process.
+[6:12 - 6:16]  Because there are obviously some people who would be like, no, I don't want to have done whatever
+[6:16 - 6:23]  needs to get done. Okay, so the idea of informed consent as a way for patients to understand
+[6:23 - 6:32]  iatrogenesis is a good idea. But in practical terms, it's kind of skewed. Okay, now, what are the costs
+[6:32 - 6:39]  associated with iatrogenesis? Harm from healthcare. So, I'll leave a link in the show notes to this study,
+[6:39 - 6:47]  but they looked specifically at hospital inpatient iatrogenesis costs. And they found that the hospital
+[6:47 - 6:53]  itself, when there was a situation of iatrogenesis, when the hospital itself caused harm, or there was
+[6:53 - 6:59]  a side effect, etc., that it ended up costing the hospital $238 per patient. Not per patient
+[6:59 - 7:07]  with iatrogenesis itself, just averaged across all their patients. Now, however, that was only the cost
+[7:07 - 7:10]  that was borne by the hospital. They found that the hospital was able to then transfer, because we've got
+[7:10 - 7:15]  third-party payment, right? We got Medicare, we got Medicaid, we got commercial insurance, that the hospital
+[7:15 - 7:23]  was then able to pass on the costs of the error, or the complication, or the side effect, for $1,775
+[7:23 - 7:29]  per patient. So, in other words, if you add the two up, the $238 plus the $1,775, it gets you to
+[7:29 - 7:38]  $2013 total, on average, per patient. That is a result of complications, etc. Again, that's not per
+[7:38 - 7:43]  patient that suffers iatrogenesis. That's averaged across all of their admits. And so, if you do the
+[7:43 - 7:50]  math on it, the $1775 divided by the $2013 means that 88% of the costs were then passed on to the
+[7:50 - 7:56]  third-party payer of Medicare, Medicaid, or commercial insurance. So, now this study was done in 2007.
+[7:56 - 8:02]  So, that's $2,007. So, in order to make this relatable to today, we got to apply healthcare
+[8:02 - 8:07]  cost inflation to it. Now, I went to the Bureau of Labor Statistics for that number, and the number
+[8:07 - 8:11]  that they have on average, so I literally took the healthcare inflation for every single year,
+[8:11 - 8:16]  and I averaged it out. And on average for that, for the 14-year period between 2007 and today,
+[8:16 - 8:21]  it's 3.3% per year, which seems kind of low, but we're still going to go with that. So, fine. So,
+[8:21 - 8:32]  if you apply the 3.3% per year of inflation to the $2013, that gets you up to $3,180 in 2021. Okay,
+[8:32 - 8:39]  fine. Then again, you take, not all that is borne by the third-party payers. Only 88% of it is borne
+[8:39 - 8:44]  by Medicare, Medicaid, commercial insurance. So, let's take the $3180, multiply it by 0.88,
+[8:44 - 8:52]  and that gets you $2,798. Now, not all that, since we deal mostly with employer-sponsored health
+[8:52 - 8:58]  insurance here on A Healthcare and C, not all that is borne by employers. So, what percent is borne by
+[8:58 - 9:03]  commercial insurance? Well, again, hospital revenue is typically about 40% commercial insurance,
+[9:03 - 9:11]  40% Medicare, and about 10% Medicaid, and then 10% self-pay. So, let's just take the $2798,
+[9:11 - 9:16]  and then multiply it by 40%, because that would be the part that commercial insurance is bearing,
+[9:17 - 9:25]  and that gets you to $1,119 per patient. Again, that's per patient across all their admins. So,
+[9:25 - 9:29]  in the most recent year, I think that's on record, again, I'll leave a link to all this in the show
+[9:29 - 9:37]  notes, is 2019. There were 36.2 million admins to hospitals in America in that year. So, if you take
+[9:37 - 9:47]  the $1,119 multiplied by the 36.2 million admins, that gets you $40.5 billion of iatrogenesis costs
+[9:47 - 9:53]  that are borne by commercial insurance plans, i.e. employers in America, right? Because insurance is
+[9:53 - 9:58]  just the funding mechanism that processes the transaction for employers, and they're then
+[9:58 - 10:05]  charging the employers the premium. So, $40.5 billion a year is charged to commercial insurance plans.
+[10:05 - 10:11]  Well, there's 155 million people on commercial insurance plans in America, according to the
+[10:11 - 10:15]  most recent Kaiser Family Foundation of 2021. I'll leave a link to that in the show notes as well.
+[10:16 - 10:22]  So, if you take the $40.5 billion divided by the 155 million people that are on commercial insurance
+[10:22 - 10:31]  plans, it comes down to $261 per member per year. And on average, there's two members for every one
+[10:31 - 10:36]  subscriber or employees on the plan. So, if you wanted to get it in terms of per employee per year cost,
+[10:36 - 10:45]  you take the $261, you multiply it by two. That's $522 per employee per year that employers are paying
+[10:45 - 10:57]  for inpatient-only hospital iatrogenesis, hospital and doctor-created harm. Cost employers, $522 per employee per
+[10:57 - 11:04]  employee per year. Divide that by 12, that means employers are paying $44.50 per employee per month for iatrogenesis.
+[11:04 - 11:14]  What's that called? More than your ASO fee. It's costing you more than a self-funded plan would pay, Blue Cross United,
+[11:15 - 11:22]  Cigna, or Aetna, to administer their entire plan. And this is just hospital inpatient iatrogenesis.
+[11:22 - 11:29]  This doesn't take into account any outpatient iatrogenesis. So, when you take into account the
+[11:29 - 11:36]  potential deaths, the suffering, and the cost from iatrogenesis, especially on a per employee per month level,
+[11:36 - 11:40]  and it gets hidden, right? Because it's in the claims. You don't see a line item in your reporting
+[11:40 - 11:48]  from your ASO. Okay, here are your iatrogenesis costs. But it's there, and it's costing you like $44.50
+[11:48 - 11:56]  per employee per month. So, if we work in healthcare, we have to understand iatrogenesis. It's a serious topic.
+[11:56 - 11:59]  Thank you for watching.

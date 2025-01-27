@@ -1,0 +1,180 @@
+Title: Financial Deception in Healthcare Highlights
+URL: https://www.youtube.com/watch?v=Lyxkw5tH-h4
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, good morning everyone. This is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's training topic is deception in healthcare, 30 plus examples. And so before we talk about deception in healthcare, I want to talk about deception in business. And I want to read this quote from the Chicago Booth Review. So the Booth is the business school for the University of Chicago. It's one of the top business schools in the country. And this quote actually comes from a gentleman from the 1940s and 50s who was an economist. And I'm going to blow it up here so that you can see it better as well. He was an economist. His name is Albert Carr. He was also an advisor to multiple presidents. And interestingly, this quote is actually from an article from one of the business ethics professors at the University of Chicago Business School. So I'm going to go ahead and read this quote about deception. Most executives from time to time are almost compelled in the interest of their companies or themselves to practice some form of deception when negotiating with customers, dealers, labor unions, government officials, or even other departments of their companies. By conscious misstatement, concealment of pertinent facts, or exaggeration, in short, by bluffing. They seek to persuade others to agree with them. I think it is fair to say that if the individual executive refuses to bluff from time to time, even if he feels obligated to tell the truth, the whole truth, and nothing but the truth, he is ignoring opportunities permitted under the rules and is at a heavy disadvantage in his business dealings. So there is a very interesting way to look at deception as a business strategy, as a business tactic. And according to Albert Carr, it is a business strategy that, one, is effective, and two, if you don't use it, that you are going to be at a disadvantage compared to your competition. And so as that relates to then healthcare, and this is my own thought here, this is the point of this topic. I'm going to change the view again. So as it relates to financial deception in healthcare, the business of healthcare involves deception, just like any other business to think otherwise is naive. So the point is not of this talk is not to say, oh, healthcare is some corrupt industry that's so much worse than every other industry out there. It's like, no, deception is a common business practice across all types of business. And the business side of healthcare is no different. That we who work in healthcare should not get any sort of moral high horse to say, well, you know, because we're dealing with people's health, because we're dealing in life and death decisions, that we are somehow above the other business practices that other businesses involve, which involve deception. And so I think the reason why people have such a hard time believing that there is deception in healthcare is exactly because of what I just said, because it deals with issues of life and death and suffering. And one would think that the people involved in that would not be involved in deception. But as it comes to the finances, that is not true. And so we're going to go through 30 examples of that. Example number one, and I'm going to do this in sort of blocks. So the first block is deceptive things related to physicians. The next block is deceptive things related to hospitals. The next block is deceptive things related to health insurance company. The next block is deceptive things related to pharmaceutical companies. The next thing is deceptive things related to the government. And then the last thing is deceptive things related to private equity. So we're going to go through all these different categories of deceptive activity. Okay. So number one, for doctors, doctor gifts from pharmaceutical companies. So $2.4 billion a year are given by the pharma and medical device industry to doctors. $2.4 billion a year of that. Interestingly, the majority, $1.8 billion is food. All of those lunches and dinners that they bring for doctors and their staff. Now, pharmaceutical companies and medical device companies actually give physicians stock options as well. And sometimes they will just give them, quote unquote, grants for research or grants for consulting. And this is interesting and deceptive because it is also part of what is given to physicians who are involved in continuing medical education. And so if you look at the education that physicians provide to other physicians, the physicians who are providing that information are oftentimes being paid by the pharmaceutical companies and the medical device companies themselves. One might argue that that may bias what they are saying. All right. Eleven. Charge capture. Okay. So charge capture is the process of taking the chart, whether it be the physical chart at the hospital or the electronic chart, and then coding it. The coding department, which could be in the basement or somebody working at home. The coder then takes all of those different things that were done during the hospitalization, and they translate it into various diagnoses. It could be translated into pneumonia. And a lot of times people have multiple things going on. And so they've got, like, diabetes and acute renal failure and pneumonia and just heart failure, kind of all going on at the same time. So there's multiple diagnoses that are assigned to a hospital stay. Now, Medicare changed its reimbursement for sepsis about 10-plus years ago, where they started dramatically increasing the DRG reimbursement for sepsis. And a lot of the commercial insurance contracts were tied to the Medicare reimbursement, so a lot of the commercial insurance reimbursement also went way up for sepsis. So guess what happened after that reimbursement by CMS and health insurance carriers happened? Sepsis became 300% more common in America. We had this huge epidemic of sepsis like 12 years ago. People were just getting septic all over the place. Of course I'm being facetious. Sepsis didn't go up by 300%. Sepsis coding went up by 300%. So here you had, and I was even coached as a physician. I had the case managers talk to me about how I should record in the medical record so that the coders made sure that they knew that the patient was septic. Now, it's arguable whether that was, quote, unquote, upcoding or not and what they actually meant by sepsis. But the point is, is that sepsis was coded dramatically differently for the, because of the increased reimbursement that happened, not because the actual incidence of sepsis went up. Okay, next up. Insurance deductibles themselves are deceptive. Nobody understands, very few people understand how deductibles in a health insurance policy actually works. I'm going to explain it to you. When you have a health insurance policy for your family, you do not have one deductible. You have four deductibles. Okay. You have an individual deductible for in-network. Let's say it's a thousand bucks. That's what the average is for America. But then you also have an individual out-of-network deductible, which is typically twice the amount of the individual deductible. So in other words, if you go to an in-network doctor and you meet your thousand dollar deductible, but then you go to an out-of-network doctor, you have to start all over again at zero for that out-of-network doctor. Okay. Likewise, for family insurance, it's typically double the individual deductible. So it is for in-network family deductible, it's 2,000. For out-of-network family deductible, it's 4,000. So there's your four deductibles. Now, here's the challenge. That family deductible is not actually for your entire family. What it means is it's referred to as an embedded deductible, which means that two people actually have to reach a thousand dollar deductible in order for it to add up to 2,000. So what that means is in this example here, if you have a mom who has met her thousand dollar deductible, and then you have a dad who has $999 in out-of-pocket costs, and then you have child one with $999 in out-of-pocket costs, and then you have child two with $999 in out-of-pocket costs. That means that the entire family has spent $3,997. Yet, in fact, no one, that family has not met their family deductible yet. Let's say they have a third child. That third child could also have $999 in charges. That would be borne in the out-of-pocket costs by the family. It's the most ridiculous thing ever. Okay. Moving on. Next up. Pharmaceutical brand strategies. Okay. There are, when a brand drug is on patent, it's given a patent of 17 years. But a pharmaceutical company doesn't just put one patent on a medication. They put multiple patents. They put dozens of patents on one medication so that they can extend it out beyond the 17 years. In fact, for Humira, this was done, and its patent was extended well beyond 17 years. So that's one strategy that's used to essentially distort patent law. And the next is, is even when a brand-name medication comes off patent, the generic companies begin to get interested in making that medication generic. And the pharmaceutical company that makes the brand-name medication will literally pay the generic drug company to not make the generic. So the generic drug company essentially has to just threaten to make the brand-name medication. And the brand-name pharmaceutical company will pay them to just not do anything about that threat. It's called pay-to-delay. All right. Finally, private equity owns physician practices. Okay. So there's actually state laws called corporate practice of medicine laws that actually forbid doctors from working for corporations. So how in the world can a private equity firm own a physician practice if the corporate practice of medicine law forbids that from happening? This is how. The private equity firms create shell management companies. And the shell management company owns the physician practice. And that, so doctors can work for other doctors. So they just get a doctor. They just hire a doctor and be like, okay, Dr. Smith, you're going to be the head of this management shell company. And then we, the private equity firm, are going to own you. And then you're going to own the doctors in this practice. So it's just, I mean, like, obviously the lawyers have found that this is technically okay, but it's completely against the spirit of the corporate practice of medicine law. And there's big bucks behind this, right? So the KKR, one of the largest private equity firms in America, bought 25,000 providers. And I say providers because it wasn't just physicians. It was mostly physicians. But it was also physicians assistants and nurse practitioners as well. It's called Envision. They bought that practice for $10 billion. So essentially those 25,000 providers work for KKR. Likewise, Blackstone bought 20,000 providers, docs, physicians assistants, nurse practitioners, at part of Team Health for $6 billion. So there you have 45,000 doctors that work for private equity firms. All right. Here's the home stretch. Here's the take-home point. Deep breath, everybody. Caveat emptor. Buyer beware. We all need to trust, but verify. We need to ask, what else is going on here? So the way that healthcare is today, we need to be our own best advocates. We are in a situation where we cannot be passive. We have to be actively engaged. We have to use our brain. We have to use our eyes and our ears. We have to think independently and think critically. Frankly, that's not a great solution, right? You essentially have to be like on guard, okay? That's exhausting. There's only a certain percentage of the U.S. population that's even capable of doing that when they're in it. And look, when you're in pain and suffering, I mean, you're not necessarily thinking straight and you're emotionally distraught. So it's really hard to do when you're sick. So I just really appreciate all of you being here today. Okay. ... ...
+
+Detailed segments with timestamps:
+
+[0:00 - 0:08]  Hello, good morning everyone. This is Dr. Eric Bricker and thank you for watching A Healthcare Z.
+[0:08 - 0:15]  Today's training topic is deception in healthcare, 30 plus examples.
+[0:16 - 0:23]  And so before we talk about deception in healthcare, I want to talk about deception in business.
+[0:23 - 0:26]  And I want to read this quote from the Chicago Booth Review.
+[0:26 - 0:31]  So the Booth is the business school for the University of Chicago.
+[0:31 - 0:33]  It's one of the top business schools in the country.
+[0:33 - 0:44]  And this quote actually comes from a gentleman from the 1940s and 50s who was an economist.
+[0:44 - 0:48]  And I'm going to blow it up here so that you can see it better as well.
+[0:49 - 0:51]  He was an economist. His name is Albert Carr.
+[0:52 - 0:54]  He was also an advisor to multiple presidents.
+[0:54 - 1:03]  And interestingly, this quote is actually from an article from one of the business ethics professors at the University of Chicago Business School.
+[1:03 - 1:06]  So I'm going to go ahead and read this quote about deception.
+[1:06 - 1:26]  Most executives from time to time are almost compelled in the interest of their companies or themselves to practice some form of deception when negotiating with customers, dealers, labor unions, government officials, or even other departments of their companies.
+[1:26 - 1:35]  By conscious misstatement, concealment of pertinent facts, or exaggeration, in short, by bluffing.
+[1:35 - 1:40]  They seek to persuade others to agree with them.
+[1:40 - 1:56]  I think it is fair to say that if the individual executive refuses to bluff from time to time, even if he feels obligated to tell the truth, the whole truth, and nothing but the truth,
+[1:56 - 2:09]  he is ignoring opportunities permitted under the rules and is at a heavy disadvantage in his business dealings.
+[2:09 - 2:19]  So there is a very interesting way to look at deception as a business strategy, as a business tactic.
+[2:20 - 2:33]  And according to Albert Carr, it is a business strategy that, one, is effective, and two, if you don't use it, that you are going to be at a disadvantage compared to your competition.
+[2:33 - 2:44]  And so as that relates to then healthcare, and this is my own thought here, this is the point of this topic.
+[2:48 - 2:50]  I'm going to change the view again.
+[2:52 - 3:03]  So as it relates to financial deception in healthcare, the business of healthcare involves deception, just like any other business to think otherwise is naive.
+[3:03 - 3:12]  So the point is not of this talk is not to say, oh, healthcare is some corrupt industry that's so much worse than every other industry out there.
+[3:12 - 3:19]  It's like, no, deception is a common business practice across all types of business.
+[3:19 - 3:23]  And the business side of healthcare is no different.
+[3:23 - 3:31]  That we who work in healthcare should not get any sort of moral high horse to say, well, you know, because we're dealing with people's health,
+[3:31 - 3:40]  because we're dealing in life and death decisions, that we are somehow above the other business practices that other businesses involve, which involve deception.
+[3:40 - 3:49]  And so I think the reason why people have such a hard time believing that there is deception in healthcare is exactly because of what I just said,
+[3:49 - 3:53]  because it deals with issues of life and death and suffering.
+[3:53 - 3:58]  And one would think that the people involved in that would not be involved in deception.
+[3:58 - 4:01]  But as it comes to the finances, that is not true.
+[4:02 - 4:05]  And so we're going to go through 30 examples of that.
+[4:06 - 4:08]  Example number one, and I'm going to do this in sort of blocks.
+[4:09 - 4:13]  So the first block is deceptive things related to physicians.
+[4:13 - 4:15]  The next block is deceptive things related to hospitals.
+[4:15 - 4:18]  The next block is deceptive things related to health insurance company.
+[4:18 - 4:21]  The next block is deceptive things related to pharmaceutical companies.
+[4:21 - 4:25]  The next thing is deceptive things related to the government.
+[4:25 - 4:28]  And then the last thing is deceptive things related to private equity.
+[4:28 - 4:34]  So we're going to go through all these different categories of deceptive activity.
+[4:34 - 4:34]  Okay.
+[4:35 - 4:38]  So number one, for doctors, doctor gifts from pharmaceutical companies.
+[4:38 - 4:47]  So $2.4 billion a year are given by the pharma and medical device industry to doctors.
+[4:47 - 4:49]  $2.4 billion a year of that.
+[4:49 - 4:53]  Interestingly, the majority, $1.8 billion is food.
+[4:53 - 4:58]  All of those lunches and dinners that they bring for doctors and their staff.
+[4:58 - 5:06]  Now, pharmaceutical companies and medical device companies actually give physicians stock options as well.
+[5:06 - 5:11]  And sometimes they will just give them, quote unquote, grants for research or grants for consulting.
+[5:13 - 5:28]  And this is interesting and deceptive because it is also part of what is given to physicians who are involved in continuing medical education.
+[5:28 - 5:43]  And so if you look at the education that physicians provide to other physicians, the physicians who are providing that information are oftentimes being paid by the pharmaceutical companies and the medical device companies themselves.
+[5:44 - 5:48]  One might argue that that may bias what they are saying.
+[5:49 - 5:49]  All right.
+[5:50 - 5:50]  Eleven.
+[5:51 - 5:51]  Charge capture.
+[5:51 - 5:52]  Okay.
+[5:53 - 6:01]  So charge capture is the process of taking the chart, whether it be the physical chart at the hospital or the electronic chart, and then coding it.
+[6:02 - 6:05]  The coding department, which could be in the basement or somebody working at home.
+[6:05 - 6:12]  The coder then takes all of those different things that were done during the hospitalization, and they translate it into various diagnoses.
+[6:12 - 6:14]  It could be translated into pneumonia.
+[6:14 - 6:16]  And a lot of times people have multiple things going on.
+[6:16 - 6:22]  And so they've got, like, diabetes and acute renal failure and pneumonia and just heart failure, kind of all going on at the same time.
+[6:22 - 6:25]  So there's multiple diagnoses that are assigned to a hospital stay.
+[6:25 - 6:38]  Now, Medicare changed its reimbursement for sepsis about 10-plus years ago, where they started dramatically increasing the DRG reimbursement for sepsis.
+[6:38 - 6:46]  And a lot of the commercial insurance contracts were tied to the Medicare reimbursement, so a lot of the commercial insurance reimbursement also went way up for sepsis.
+[6:47 - 6:51]  So guess what happened after that reimbursement by CMS and health insurance carriers happened?
+[6:52 - 6:56]  Sepsis became 300% more common in America.
+[6:57 - 7:01]  We had this huge epidemic of sepsis like 12 years ago.
+[7:01 - 7:03]  People were just getting septic all over the place.
+[7:03 - 7:04]  Of course I'm being facetious.
+[7:05 - 7:07]  Sepsis didn't go up by 300%.
+[7:07 - 7:09]  Sepsis coding went up by 300%.
+[7:09 - 7:13]  So here you had, and I was even coached as a physician.
+[7:13 - 7:24]  I had the case managers talk to me about how I should record in the medical record so that the coders made sure that they knew that the patient was septic.
+[7:24 - 7:30]  Now, it's arguable whether that was, quote, unquote, upcoding or not and what they actually meant by sepsis.
+[7:30 - 7:43]  But the point is, is that sepsis was coded dramatically differently for the, because of the increased reimbursement that happened, not because the actual incidence of sepsis went up.
+[7:43 - 7:44]  Okay, next up.
+[7:45 - 7:47]  Insurance deductibles themselves are deceptive.
+[7:48 - 7:53]  Nobody understands, very few people understand how deductibles in a health insurance policy actually works.
+[7:53 - 7:54]  I'm going to explain it to you.
+[7:54 - 7:57]  When you have a health insurance policy for your family, you do not have one deductible.
+[7:57 - 7:59]  You have four deductibles.
+[8:00 - 8:00]  Okay.
+[8:00 - 8:02]  You have an individual deductible for in-network.
+[8:03 - 8:04]  Let's say it's a thousand bucks.
+[8:04 - 8:05]  That's what the average is for America.
+[8:05 - 8:11]  But then you also have an individual out-of-network deductible, which is typically twice the amount of the individual deductible.
+[8:11 - 8:20]  So in other words, if you go to an in-network doctor and you meet your thousand dollar deductible, but then you go to an out-of-network doctor, you have to start all over again at zero for that out-of-network doctor.
+[8:20 - 8:21]  Okay.
+[8:21 - 8:27]  Likewise, for family insurance, it's typically double the individual deductible.
+[8:27 - 8:30]  So it is for in-network family deductible, it's 2,000.
+[8:30 - 8:33]  For out-of-network family deductible, it's 4,000.
+[8:33 - 8:34]  So there's your four deductibles.
+[8:34 - 8:35]  Now, here's the challenge.
+[8:36 - 8:39]  That family deductible is not actually for your entire family.
+[8:39 - 8:50]  What it means is it's referred to as an embedded deductible, which means that two people actually have to reach a thousand dollar deductible in order for it to add up to 2,000.
+[8:51 - 9:07]  So what that means is in this example here, if you have a mom who has met her thousand dollar deductible, and then you have a dad who has $999 in out-of-pocket costs, and then you have child one with $999 in out-of-pocket costs, and then you have child two with $999 in out-of-pocket costs.
+[9:07 - 9:15]  That means that the entire family has spent $3,997.
+[9:16 - 9:20]  Yet, in fact, no one, that family has not met their family deductible yet.
+[9:20 - 9:22]  Let's say they have a third child.
+[9:22 - 9:26]  That third child could also have $999 in charges.
+[9:26 - 9:29]  That would be borne in the out-of-pocket costs by the family.
+[9:30 - 9:31]  It's the most ridiculous thing ever.
+[9:31 - 9:31]  Okay.
+[9:32 - 9:32]  Moving on.
+[9:33 - 9:33]  Next up.
+[9:35 - 9:36]  Pharmaceutical brand strategies.
+[9:36 - 9:37]  Okay.
+[9:37 - 9:46]  There are, when a brand drug is on patent, it's given a patent of 17 years.
+[9:46 - 9:50]  But a pharmaceutical company doesn't just put one patent on a medication.
+[9:50 - 9:51]  They put multiple patents.
+[9:51 - 9:58]  They put dozens of patents on one medication so that they can extend it out beyond the 17 years.
+[9:58 - 10:04]  In fact, for Humira, this was done, and its patent was extended well beyond 17 years.
+[10:05 - 10:09]  So that's one strategy that's used to essentially distort patent law.
+[10:10 - 10:19]  And the next is, is even when a brand-name medication comes off patent, the generic companies begin to get interested in making that medication generic.
+[10:19 - 10:27]  And the pharmaceutical company that makes the brand-name medication will literally pay the generic drug company to not make the generic.
+[10:27 - 10:33]  So the generic drug company essentially has to just threaten to make the brand-name medication.
+[10:33 - 10:39]  And the brand-name pharmaceutical company will pay them to just not do anything about that threat.
+[10:39 - 10:40]  It's called pay-to-delay.
+[10:41 - 10:41]  All right.
+[10:42 - 10:46]  Finally, private equity owns physician practices.
+[10:46 - 10:47]  Okay.
+[10:47 - 10:56]  So there's actually state laws called corporate practice of medicine laws that actually forbid doctors from working for corporations.
+[10:56 - 11:04]  So how in the world can a private equity firm own a physician practice if the corporate practice of medicine law forbids that from happening?
+[11:04 - 11:05]  This is how.
+[11:06 - 11:10]  The private equity firms create shell management companies.
+[11:11 - 11:14]  And the shell management company owns the physician practice.
+[11:14 - 11:17]  And that, so doctors can work for other doctors.
+[11:17 - 11:18]  So they just get a doctor.
+[11:18 - 11:25]  They just hire a doctor and be like, okay, Dr. Smith, you're going to be the head of this management shell company.
+[11:25 - 11:27]  And then we, the private equity firm, are going to own you.
+[11:27 - 11:30]  And then you're going to own the doctors in this practice.
+[11:32 - 11:36]  So it's just, I mean, like, obviously the lawyers have found that this is technically okay,
+[11:36 - 11:40]  but it's completely against the spirit of the corporate practice of medicine law.
+[11:41 - 11:42]  And there's big bucks behind this, right?
+[11:42 - 11:49]  So the KKR, one of the largest private equity firms in America, bought 25,000 providers.
+[11:49 - 11:51]  And I say providers because it wasn't just physicians.
+[11:51 - 11:52]  It was mostly physicians.
+[11:52 - 11:55]  But it was also physicians assistants and nurse practitioners as well.
+[11:56 - 11:58]  It's called Envision.
+[11:58 - 12:00]  They bought that practice for $10 billion.
+[12:01 - 12:05]  So essentially those 25,000 providers work for KKR.
+[12:05 - 12:10]  Likewise, Blackstone bought 20,000 providers, docs, physicians assistants, nurse practitioners,
+[12:11 - 12:12]  at part of Team Health for $6 billion.
+[12:13 - 12:18]  So there you have 45,000 doctors that work for private equity firms.
+[12:18 - 12:19]  All right.
+[12:19 - 12:20]  Here's the home stretch.
+[12:21 - 12:23]  Here's the take-home point.
+[12:24 - 12:25]  Deep breath, everybody.
+[12:29 - 12:30]  Caveat emptor.
+[12:30 - 12:31]  Buyer beware.
+[12:31 - 12:36]  We all need to trust, but verify.
+[12:37 - 12:42]  We need to ask, what else is going on here?
+[12:42 - 12:51]  So the way that healthcare is today, we need to be our own best advocates.
+[12:52 - 12:56]  We are in a situation where we cannot be passive.
+[12:56 - 12:59]  We have to be actively engaged.
+[13:00 - 13:02]  We have to use our brain.
+[13:02 - 13:05]  We have to use our eyes and our ears.
+[13:05 - 13:08]  We have to think independently and think critically.
+[13:09 - 13:14]  Frankly, that's not a great solution, right?
+[13:14 - 13:17]  You essentially have to be like on guard, okay?
+[13:17 - 13:19]  That's exhausting.
+[13:19 - 13:23]  There's only a certain percentage of the U.S. population that's even capable of doing that
+[13:23 - 13:24]  when they're in it.
+[13:24 - 13:28]  And look, when you're in pain and suffering, I mean, you're not necessarily thinking straight
+[13:28 - 13:30]  and you're emotionally distraught.
+[13:30 - 13:34]  So it's really hard to do when you're sick.
+[13:35 - 13:41]  So I just really appreciate all of you being here today.
+[13:41 - 13:41]  Okay.
+[13:41 - 13:44]  ...
+[13:44 - 14:10]  ...

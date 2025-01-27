@@ -1,0 +1,151 @@
+Title: CMS Healthcare Price-Transparency Regulation Explained
+URL: https://www.youtube.com/watch?v=kLv3636yLI4
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker with A Healthcare Z, and today's topic is the CMS Price Transparency Regulation. We're going to go over how it works. It's super complicated, but hang in there because it's super exciting. Okay, so as of January 1st of 2021, hospitals have to provide price transparency. They have to expose the prices for their billed charges, their minimum and maximum negotiated rates with commercial insurance carriers like Blue Cross United, Cigna, Aetna. They have to show their cash rates that they would give to people if they didn't have insurance. And then they need to provide payer-specific rates. So not just the minimum and maximum, but what they would provide for Blue Cross, United, Cigna, Aetna, and other networks like PHCS and First Health. So, it needs to be in two formats. Machine readable, machine being a computer. And then there needs to be 300 shoppable services that are shown in a consumer-friendly format. And 70 of those 300 shoppable services are dictated by CMS. And 230 of them are of the hospital's choice. Now, of those 70 that are dictated by CMS, there are 13 that are evaluation and management codes. So, E&M codes are like an office visit. Typically, they start with 99. And by the way, they have the associated CPT codes. That's how you can identify them. There's 14 labs, like a complete blood count, comprehensive metabolic panel, pretty basic stuff. There's 13 radiology services, MRI, CT scan, etc., plain x-ray. And then there's 30 medical and surgical ones. Things ranging from cataract surgeries to joint replacements to laparoscopic cholecystectomies, which is a gallbladder surgery, upper endoscopies, colonoscopies, etc. So, that's a pretty good list. Honestly, if I put together a list of the 70, I think CMS did a pretty good job of picking the 70. Now, interestingly, I'm going to tell hospitals right now how you can be compliant with the other 230, in my opinion. Because you can choose, right? So, what would you do if you're like, oh, I don't have to do this. It's such a pain. Okay, just pick 230 more lab tests, right? Because they're not a lot of money. You've got a gazillion labs that you order. It's pretty easy just to pull another 230 labs and post the prices for the labs. And, like, people can go into the hospital, even if they're not an inpatient, and get their blood drawn there. I mean, our families have that done a gazillion times, right? So, anyway, that's when you could be compliant with the other 230. I say that sort of tongue-in-cheek. Okay, now, there actually have been hospitals that have been starting to post this now, right? Because if you don't comply, you get put on a Medicare website as being non-compliant, which, by the way, is not up yet. They're only going to start looking into enforcing this later on in January. But, basically, if you're not compliant, you're going to get fined $300 a day, right? That's a minuscule amount of money for the hospital. So, I'll leave a link in the show notes to a fantastic American College of Healthcare Executives video. It says, look, they're not really concerned about the $300 as much as they don't really want the black eye of being on this CMS list of being non-compliant. It doesn't make them look good as a hospital. Okay, however, hospitals are starting to do this. And I want to thank Scott Bennett at Maestro for bringing to my attention the Baptist Health South Florida hospital system in the Miami, Coral Gables, Boca Raton area. Because they actually have a file. I'll leave a link in the show notes to the website so you can look at it, right? It's a 141 megabit file. It has 62,000 rows on it. It's an Excel file, right? And then there's 90 tabs. And it's a little misleading because 45 of the tabs are for outpatient and 45 of the tabs are for inpatient. So, it's really like 45 tabs. And then those 45 tabs are broken down by Aetna, Blue Cross, United, Cigna, PHCS, First Health. And then it has the different networks or contracts that they would have, right? So, there's a Blue Cross HMO. There's a Blue Cross PPO. There's POS plans, likewise for Aetna. There's HMO. There's PPO and Cigna. There's HMO combined POS. And there's a separate PPO one for United. And then they have the Medicare Advantage ones that separate. So, when you add all those permutations and combinations together, you have to put about 45 different tabs, right? But what's interesting is that let's actually do this experiment. Let's say that you needed an MRI of the lumbar spine or you were an employer, you were paying for this. You want to actually look this up. I went ahead and did that for us, right? So, MRI of the lumbar spine without IV contrast. Very shoppable service. Chronic low back pain. Need to go in and see if you've got a slipped disc or spinal stenosis, etc. Super common. Super shoppable. Don't ever tell me this is not shoppable, okay? 72148 is a CPT code. It's almost always done without contrast. You don't need to worry about the whole contrast thing, right? So, look up the file. For Aetna, they've got billed charges of $4,627. They've got a minimum allowed amount of $1,665. They don't have to say who that's to. They just have to say that's the minimum. They've got a max allowed amount of $4,164. They've got a cash price of $3,007. And then the payer specific for Aetna is for their HMO, their allowed amount is $2,359. And then their allowed amount for the PPO plan is $3,701. And that kind of makes sense, right? Because of steerage, the hospital's more likely to give them a better allowed amount than the PPO where they can't do any, you know, steerage to them. So it makes sense that the PPO rate is higher than the HMO rate. And a couple other interesting things. Look, the cash price is less than the PPO rate. So they give people cash deals that are better than the Aetna deal, okay? Now, if you go through the other payer tabs, Cigna Blue Cross United, of course, the bill charges, min, max, and cash prices are all the same in those fields. And they are, right? You would expect that to be pretty consistent. However, for Cigna, the HMO for the payer specific one, it says NA. It does not give the allowed amount for the Cigna HMO. It gives it for the PPO. PPO is $3,701. Same as the Aetna amount. In other words, this hospital system gives the Aetna PPO and the Cigna PPO the same deal. They give them the same amount. Then things get real interesting when we get to Blue Cross and United, which are arguably the, you know, Florida. Florida Blue is huge. It's the 800-pound gorilla. And then from a national contracting perspective, United is the other 800-pound gorilla nationwide. Again, same for bill, min, max, and cash for Blue Cross and United. Now, for Blue Cross and A, they don't give any Blue Cross allowed amount information. None. Next, for United, same. Bill, min, max, cash, right? Consistent. United. They don't give any allowed amount information for United. I scratch my head. It's kind of weird. Why don't they give some of the information for Edna and Cigna? And oh, by the way, if you look up PHCS and First Health and Molina and all the other ones, like, they give the information. So United and Blue Cross definitely stick out as having these NAs for the allowed amounts. So I'm like, okay, well, maybe that's just because of the lumbar spine. So I looked up, I pressed that biopsy, which is also on the CMS list, CPT code 55700, exact same thing. So I'm like, okay, well, it's just two. Let me try a third one. So I try a CT in the head. CPT code 70450, exact same thing. Allowed amounts for Aetna and Cigna, PHCS, Molina, et cetera. No allowed amounts for Blue Cross and United. So, you know, maybe I'm not reading this right. I'm not here saying that Baptist Health is or is not, you know, in compliance. But I'm just saying, when you look at the data in detail, it's very interesting to know. Because as a consumer, the vast majority of people that have commercial insurance in Florida have Blue Cross and United. Like those are the major players down there. And you can't get to the information. You can't get to the information. At least not on this file. So there you have it. A quick rundown of the CMS Price Transparency Regulation. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:01 - 0:08]  Hello, this is Dr. Eric Bricker with A Healthcare Z, and today's topic is the CMS Price Transparency Regulation.
+[0:08 - 0:14]  We're going to go over how it works. It's super complicated, but hang in there because it's super exciting.
+[0:14 - 0:20]  Okay, so as of January 1st of 2021, hospitals have to provide price transparency.
+[0:20 - 0:29]  They have to expose the prices for their billed charges, their minimum and maximum negotiated rates with commercial insurance carriers like Blue Cross United, Cigna, Aetna.
+[0:29 - 0:33]  They have to show their cash rates that they would give to people if they didn't have insurance.
+[0:33 - 0:36]  And then they need to provide payer-specific rates.
+[0:36 - 0:45]  So not just the minimum and maximum, but what they would provide for Blue Cross, United, Cigna, Aetna, and other networks like PHCS and First Health.
+[0:45 - 0:49]  So, it needs to be in two formats. Machine readable, machine being a computer.
+[0:50 - 0:56]  And then there needs to be 300 shoppable services that are shown in a consumer-friendly format.
+[0:56 - 1:03]  And 70 of those 300 shoppable services are dictated by CMS.
+[1:04 - 1:06]  And 230 of them are of the hospital's choice.
+[1:07 - 1:12]  Now, of those 70 that are dictated by CMS, there are 13 that are evaluation and management codes.
+[1:12 - 1:14]  So, E&M codes are like an office visit. Typically, they start with 99.
+[1:15 - 1:18]  And by the way, they have the associated CPT codes. That's how you can identify them.
+[1:18 - 1:23]  There's 14 labs, like a complete blood count, comprehensive metabolic panel, pretty basic stuff.
+[1:23 - 1:30]  There's 13 radiology services, MRI, CT scan, etc., plain x-ray.
+[1:30 - 1:33]  And then there's 30 medical and surgical ones.
+[1:33 - 1:39]  Things ranging from cataract surgeries to joint replacements to laparoscopic cholecystectomies, which is a gallbladder surgery,
+[1:40 - 1:42]  upper endoscopies, colonoscopies, etc.
+[1:42 - 1:48]  So, that's a pretty good list. Honestly, if I put together a list of the 70, I think CMS did a pretty good job of picking the 70.
+[1:48 - 1:55]  Now, interestingly, I'm going to tell hospitals right now how you can be compliant with the other 230, in my opinion.
+[1:55 - 1:56]  Because you can choose, right?
+[1:56 - 1:59]  So, what would you do if you're like, oh, I don't have to do this. It's such a pain.
+[2:00 - 2:03]  Okay, just pick 230 more lab tests, right?
+[2:04 - 2:07]  Because they're not a lot of money. You've got a gazillion labs that you order.
+[2:07 - 2:12]  It's pretty easy just to pull another 230 labs and post the prices for the labs.
+[2:12 - 2:17]  And, like, people can go into the hospital, even if they're not an inpatient, and get their blood drawn there.
+[2:17 - 2:19]  I mean, our families have that done a gazillion times, right?
+[2:19 - 2:21]  So, anyway, that's when you could be compliant with the other 230.
+[2:21 - 2:23]  I say that sort of tongue-in-cheek.
+[2:23 - 2:26]  Okay, now, there actually have been hospitals that have been starting to post this now, right?
+[2:26 - 2:30]  Because if you don't comply, you get put on a Medicare website as being non-compliant,
+[2:30 - 2:32]  which, by the way, is not up yet.
+[2:33 - 2:36]  They're only going to start looking into enforcing this later on in January.
+[2:36 - 2:40]  But, basically, if you're not compliant, you're going to get fined $300 a day, right?
+[2:40 - 2:42]  That's a minuscule amount of money for the hospital.
+[2:42 - 2:46]  So, I'll leave a link in the show notes to a fantastic American College of Healthcare Executives video.
+[2:47 - 2:51]  It says, look, they're not really concerned about the $300 as much as they don't really want the black eye
+[2:51 - 2:54]  of being on this CMS list of being non-compliant.
+[2:54 - 2:55]  It doesn't make them look good as a hospital.
+[2:56 - 2:58]  Okay, however, hospitals are starting to do this.
+[2:58 - 3:05]  And I want to thank Scott Bennett at Maestro for bringing to my attention the Baptist Health South Florida hospital system
+[3:05 - 3:09]  in the Miami, Coral Gables, Boca Raton area.
+[3:09 - 3:11]  Because they actually have a file.
+[3:11 - 3:14]  I'll leave a link in the show notes to the website so you can look at it, right?
+[3:14 - 3:16]  It's a 141 megabit file.
+[3:16 - 3:20]  It has 62,000 rows on it.
+[3:20 - 3:21]  It's an Excel file, right?
+[3:21 - 3:23]  And then there's 90 tabs.
+[3:23 - 3:28]  And it's a little misleading because 45 of the tabs are for outpatient and 45 of the tabs are for inpatient.
+[3:29 - 3:31]  So, it's really like 45 tabs.
+[3:31 - 3:38]  And then those 45 tabs are broken down by Aetna, Blue Cross, United, Cigna, PHCS, First Health.
+[3:38 - 3:44]  And then it has the different networks or contracts that they would have, right?
+[3:44 - 3:46]  So, there's a Blue Cross HMO.
+[3:46 - 3:47]  There's a Blue Cross PPO.
+[3:48 - 3:50]  There's POS plans, likewise for Aetna.
+[3:50 - 3:51]  There's HMO.
+[3:51 - 3:52]  There's PPO and Cigna.
+[3:52 - 3:54]  There's HMO combined POS.
+[3:55 - 3:57]  And there's a separate PPO one for United.
+[3:57 - 3:59]  And then they have the Medicare Advantage ones that separate.
+[3:59 - 4:05]  So, when you add all those permutations and combinations together, you have to put about 45 different tabs, right?
+[4:05 - 4:09]  But what's interesting is that let's actually do this experiment.
+[4:09 - 4:13]  Let's say that you needed an MRI of the lumbar spine or you were an employer, you were paying for this.
+[4:13 - 4:15]  You want to actually look this up.
+[4:15 - 4:17]  I went ahead and did that for us, right?
+[4:17 - 4:19]  So, MRI of the lumbar spine without IV contrast.
+[4:20 - 4:21]  Very shoppable service.
+[4:21 - 4:22]  Chronic low back pain.
+[4:22 - 4:25]  Need to go in and see if you've got a slipped disc or spinal stenosis, etc.
+[4:25 - 4:26]  Super common.
+[4:26 - 4:28]  Super shoppable.
+[4:28 - 4:30]  Don't ever tell me this is not shoppable, okay?
+[4:31 - 4:32]  72148 is a CPT code.
+[4:32 - 4:34]  It's almost always done without contrast.
+[4:34 - 4:37]  You don't need to worry about the whole contrast thing, right?
+[4:37 - 4:39]  So, look up the file.
+[4:39 - 4:42]  For Aetna, they've got billed charges of $4,627.
+[4:42 - 4:46]  They've got a minimum allowed amount of $1,665.
+[4:46 - 4:47]  They don't have to say who that's to.
+[4:48 - 4:49]  They just have to say that's the minimum.
+[4:49 - 4:52]  They've got a max allowed amount of $4,164.
+[4:53 - 4:55]  They've got a cash price of $3,007.
+[4:55 - 5:01]  And then the payer specific for Aetna is for their HMO, their allowed amount is $2,359.
+[5:01 - 5:04]  And then their allowed amount for the PPO plan is $3,701.
+[5:04 - 5:06]  And that kind of makes sense, right?
+[5:06 - 5:11]  Because of steerage, the hospital's more likely to give them a better allowed amount than the PPO
+[5:11 - 5:13]  where they can't do any, you know, steerage to them.
+[5:13 - 5:17]  So it makes sense that the PPO rate is higher than the HMO rate.
+[5:17 - 5:19]  And a couple other interesting things.
+[5:19 - 5:23]  Look, the cash price is less than the PPO rate.
+[5:23 - 5:27]  So they give people cash deals that are better than the Aetna deal, okay?
+[5:27 - 5:31]  Now, if you go through the other payer tabs, Cigna Blue Cross United, of course, the bill
+[5:31 - 5:35]  charges, min, max, and cash prices are all the same in those fields.
+[5:35 - 5:35]  And they are, right?
+[5:36 - 5:37]  You would expect that to be pretty consistent.
+[5:38 - 5:42]  However, for Cigna, the HMO for the payer specific one, it says NA.
+[5:42 - 5:44]  It does not give the allowed amount for the Cigna HMO.
+[5:45 - 5:46]  It gives it for the PPO.
+[5:46 - 5:48]  PPO is $3,701.
+[5:48 - 5:50]  Same as the Aetna amount.
+[5:50 - 5:55]  In other words, this hospital system gives the Aetna PPO and the Cigna PPO the same deal.
+[5:55 - 5:56]  They give them the same amount.
+[5:56 - 6:00]  Then things get real interesting when we get to Blue Cross and United, which are arguably
+[6:00 - 6:01]  the, you know, Florida.
+[6:01 - 6:02]  Florida Blue is huge.
+[6:02 - 6:03]  It's the 800-pound gorilla.
+[6:03 - 6:08]  And then from a national contracting perspective, United is the other 800-pound gorilla nationwide.
+[6:08 - 6:12]  Again, same for bill, min, max, and cash for Blue Cross and United.
+[6:12 - 6:20]  Now, for Blue Cross and A, they don't give any Blue Cross allowed amount information.
+[6:21 - 6:22]  None.
+[6:22 - 6:24]  Next, for United, same.
+[6:24 - 6:25]  Bill, min, max, cash, right?
+[6:25 - 6:26]  Consistent.
+[6:26 - 6:26]  United.
+[6:27 - 6:31]  They don't give any allowed amount information for United.
+[6:31 - 6:32]  I scratch my head.
+[6:32 - 6:32]  It's kind of weird.
+[6:33 - 6:35]  Why don't they give some of the information for Edna and Cigna?
+[6:35 - 6:39]  And oh, by the way, if you look up PHCS and First Health and Molina and all the other ones,
+[6:39 - 6:41]  like, they give the information.
+[6:41 - 6:47]  So United and Blue Cross definitely stick out as having these NAs for the allowed amounts.
+[6:47 - 6:50]  So I'm like, okay, well, maybe that's just because of the lumbar spine.
+[6:50 - 6:59]  So I looked up, I pressed that biopsy, which is also on the CMS list, CPT code 55700, exact same thing.
+[6:59 - 7:00]  So I'm like, okay, well, it's just two.
+[7:00 - 7:01]  Let me try a third one.
+[7:01 - 7:02]  So I try a CT in the head.
+[7:03 - 7:07]  CPT code 70450, exact same thing.
+[7:07 - 7:12]  Allowed amounts for Aetna and Cigna, PHCS, Molina, et cetera.
+[7:12 - 7:15]  No allowed amounts for Blue Cross and United.
+[7:16 - 7:19]  So, you know, maybe I'm not reading this right.
+[7:19 - 7:23]  I'm not here saying that Baptist Health is or is not, you know, in compliance.
+[7:24 - 7:29]  But I'm just saying, when you look at the data in detail, it's very interesting to know.
+[7:29 - 7:34]  Because as a consumer, the vast majority of people that have commercial insurance in Florida have Blue Cross and United.
+[7:34 - 7:36]  Like those are the major players down there.
+[7:36 - 7:38]  And you can't get to the information.
+[7:38 - 7:39]  You can't get to the information.
+[7:39 - 7:41]  At least not on this file.
+[7:42 - 7:43]  So there you have it.
+[7:43 - 7:46]  A quick rundown of the CMS Price Transparency Regulation.
+[7:46 - 7:48]  And thank you for watching A Healthcare Z.

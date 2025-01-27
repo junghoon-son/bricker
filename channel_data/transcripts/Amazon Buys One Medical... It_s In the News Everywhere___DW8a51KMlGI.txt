@@ -1,0 +1,223 @@
+Title: Amazon Buys One Medical... It's In the News Everywhere!!
+URL: https://www.youtube.com/watch?v=DW8a51KMlGI
+Author: AHealthcareZ - Healthcare Finance Explained
+Language: en
+
+Transcription:
+ Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is Amazon Buys One Medical. It is all over the news and so I want to share with you some observations that I have about Amazon buying One Medical because I actually do think it brings into focus many important ideas. Now first of all, what is One Medical? It's an advanced primary care company that is essentially a digital health startup. It went public back in March of 2020 during the very beginning of the pandemic and they've got clinics in 17 major cities across America, places like San Francisco, Los Angeles, Phoenix, Dallas, Houston, Atlanta and they have about 188 clinics total. Now as it relates to the transaction between Amazon and One Medical, Amazon bought One Medical for $3.9 billion at One Medical's publicly traded company for $18 a share. Now interestingly, when One Medical IPO'd back in March of 2020, it had a share price of $14. So here we are two years and about three months later and their share price has only gone up $4. Now let me tell you, that is not the whole story. This here is a very small graph of what One Medical stock price has done. So it started here at $14 a share. It went up to $60 a share and now Amazon is buying it at $18 a share. Well, going from $60 a share to $18 a share, that is a 70% decrease in their share price. So just know that the overall trajectory of the One Medical stock was down and it's been going down. It really peaked there in about an early 2021. So it's been going down continuously for like over a year. Now, if you happen to get in at the IPO at $14, then you would have made a compounded annual growth rate over the two years and three months of about 11.8%. Okay, so that's not horrible. But keep in mind, in terms of overall shareholder value, shareholder value, it has dramatically been reduced in the previous 12 months by One Medical. Now, One Medical provides these primary care services. Ironically, One Medical is not one business. It's actually kind of two business. Now they say it's one business, but what happened was is that One Medical bought another advanced primary care company called Iora, which actually is a very different business. And I'm going to explain why. So across those two businesses, One Medical and Iora now combined, they have 767,000 people that they provide their primary care services to. Now, 728,000 of those people are the quote unquote enterprise clients where One Medical contracts directly with employers or individual consumers can just sign up for One Medical as well. And they basically pay a subscription fee, but it's still fee for service. So One Medical is still billing the insurance for that individual. Now, for 39,000 people, and that was the Iora business, they take Medicare Advantage risk, a la Chen Med. So they go to these various Medicare Advantage plans and they say, hey, give us your members and we'll be on the hook completely financially for them. And our primary care physicians will prevent their chronic diseases and manage their chronic diseases and keep them out of the hospital and make them as healthy as possible. And to the extent that they come and it's fully capitated. So to the extent that they lower the healthcare costs, then the cost of the company gets to keep the difference. So note here that in the first quarter of 2022, so I went back and I listened to the earnings call for One Medical, they brought in about $250 million in revenue in the first quarter. Now, $130 million of that million was from their enterprise business from the 728,000 people, and almost the same amount of revenue, $120 million, was from only 39,000 people. So in other words, the revenue per member from the previous Iora business, in other words, where the company takes on risk for Medicare Advantage members, drives much more revenue per member than contracting with the same amount of revenue per member. And contracting with employers. How much more? Well, if you run the math on it, it works out to about $12,300 per member per year for the capitated Medicare Advantage members, whereas for the enterprise members, it's only $714. That means that one medical makes 17 times more revenue per member through its capitated Medicare Advantage people as compared to its enterprise members. Look at that. It's almost equal revenue, and it takes 720,000 people on the enterprise side, and it only takes 39,000 people on the Medicare Advantage side. So obviously, the Medicare Advantage business drives much more revenue per member. Now, keep in mind, while all this was happening, one medical has only been able to achieve 28% year-over-year growth in its members. And it's done so by losing money every single quarter. So it lost $28 million in Q1 of 2022. So here you have, now, its quote-unquote revenue, like, doubled compared to year-over-year. And the reason was because in the previous year, they didn't have Iora. So they didn't have the $120 million. So now they got so much more. So you look at the sales growth, and you're like, oh, the revenue doubled. But that's because they acquired Iora. But they only organically grew the membership by 28%. And even within Iora, Iora only grew its membership by 18%. And these are money-losing businesses. Now, look, these businesses are intentionally money-losing. Like, they are intentionally... But the point is, is that, is losing money intentionally, is that more than made up for by organic growth of 28% or 18% on the Medicare Advantage side? And, eh, kinda. I mean, high-growth businesses are really in excess of 30% per year. And you really want to see high-growth businesses in excess of 40% per year. So to a certain extent, one might say that for a money-losing business, the growth rate still wasn't as steep as it should be. And arguably, the board of directors for One Medical kind of agreed. Because at the end of the day, the board of directors said, hey, look. You know, we've got management here who's had our share price go down from 60 to 18. And someone's willing to buy us at 18. But it's essentially, to a certain extent, like really a sort of a... It's kinda like throwing in the towel. They're like, look. We, you know, here we've destroyed all this shareholder value for all these people on the way down. And, of course, they would like to turn that around. But instead of turning it around, they just kinda cut their losses and said, well, we're just gonna sell the business at 18. Okay? So I'm not trying to be overly harsh. I'm just saying that, look. As they've been growing at 28% in terms of their membership, Wall Street's reaction to that has been very negative. Okay? So I'm not, again, I'm not trying to be overly critical here. It's very hard to run a business. But that, I mean, you gotta call a spade a spade. That has been the overall direction for One Medical. Okay? So then let's flip the side and let's look at Amazon Care. Well, at the end of the day, Amazon Care hasn't been hitting it out of the park either. Okay? So Amazon Care is essentially the digital health, like, telemedicine services that they provide for their own employees. And they start offering it to other employers as well. And, of course, they've only announced, like, three major employer customers that they had. The biggest one of which was really recent. It was at the end of 2021. It was Hilton Hotels for, like, 120,000 or 140,000 of their employees. That's kind of a big deal. But before that, the other employers that they publicly announced were kind of small. Like, one company made bicycles. It was bought by Peloton. I mean, it was, like, several hundred employees. So, and I will tell you that the main challenge that Amazon Care has been having in the marketplace is they really have an undifferentiated offering vis-a-vis the telemedicine incumbents. Like, literally every single employer in America already has telemedicine. And the vast majority of them get it through their carrier. And so Amazon Care comes in. And they're like, well, we already kind of get this through our carrier or through one of the major telemedicine providers. And so the value proposition they really couldn't have. You know, in order to unseat the incumbent, you kind of have to have, like, a 10x better value proposition. And frankly, they really didn't have it. And they were trying. But believe me, if they had it, they would not have bought one medical. So to a certain extent, there are product people within every organization that are like, look, you don't need to acquire some other mouse trap or solution. We can build it. And at the end of the day, the Amazon folks are like, no, we kind of got to buy it. And, you know, listen, Amazon's a huge company. But at the end of the day, $3.9 billion is a lot of money to spend on an acquisition. And I'm going to put that in context here in a minute. So they really had this, and listen, I used to be the chief medical officer of a telemedicine. And we would see Amazon, they were a competitor of ours. We would see Amazon Care in the marketplace. And the overall market reaction was not a feeding frenzy. I mean, it was pretty slow. So here you have one medical that was not firing on all cylinders. And here you have Amazon Care that is also not firing on all cylinders. And to put that acquisition in context, AWS, which is the 8,000 pound gorilla, Amazon Web Services, which is the 8,000 pound gorilla of Amazon, which had more than $62 billion in revenue last year and makes up the majority of the profit for Amazon. Amazon makes more money, more profit off of Amazon Web Services by far than all of their other online business stuff that they do. Okay, so Amazon Web Services, they've made acquisitions too. The total acquisitions by Amazon Web Services have only, Amazon has only spent $546 million on acquisitions for Amazon Web Services. Vis-a-vis the $3.9 billion that they just spent on one medical. Look at that. They spent seven times more on acquisitions for, on the acquisition for one medical than they spent in its entirety for the acquisitions for Amazon Web Services. Why? Because Amazon Web Services was firing on all cylinders. It's been growing like a rocket. If you're growing like a rocket, you don't have to make acquisitions. So, what's the point here? All is not lost. I actually think this is a fantastic opportunity for Amazon and Amazon Care. And what is that opportunity? It's an opportunity for a pivot. Okay? It's an opportunity to start fresh. And you can take what you've learned in Amazon Care so far. You can take what one medical has learned so far. And you can pivot it into something that's much more meaningful to Amazon as an organization and to Amazon shareholders. And what is that? It's like, look, one medical's got two businesses. Like I said, it's got its enterprise business, the companies, and it's got its Medicare Advantage where it takes on risk in the form of capitation. Now, that enterprise business arguably needs to be de-emphasized slash sunset it. That's gotten rid of. And why is it just not successful? They even say it. One medical even says it in their earnings call. They only get about 40% quote-unquote activation. Utilization is the Achilles heel of every single employer program. I'm going to say that again. For digital health, the A number one problem that every single solution has is utilization, which is the same thing as activation. Now, is activation, is it visits? Is it phone calls? Is it telemedicine visits? Is it just clicking on an email? Who knows? But it's only 40% of the employee population. If you're missing 60% of the folks and you only have 5% of the employees that are driving 50% of the healthcare costs, you could completely miss those 5%ers across that only 40% of which you're engaging with. So, utilization is problematic for everybody. And it's problematic for one medical too. This is no different. Versus, with the Medicare Advantage business, that's where all the money is. I mean, I made, I'll leave a link to it in the show notes. I made a video that was so, I mean, it was an unfair title on my part. I mean, I called the video, Why Amazon Care Will Fail. And here's the reason why Amazon Care, why I said it would fail. I said, look, it's because healthcare costs by age, for 19 to 44 year olds, they only spend $4,400 per year. For 45 to 64 year olds, they only spend $8,400 per year. For people that are 65 plus, they spend $18,400 per person, per year. Okay, what's working age? 19 to 64. Working age people is not where the healthcare money is. The money's in the older people. It's in the seniors. It's in the people that are on Medicare Advantage plans. And as a comparison for that, that's where ChenMet, as a private company, I made multiple previous videos about ChenMet. You can go back to the watch those. And even Oak Street, okay? Oak Street is an advanced primary care practice, very similar to One Medical, but they only do Medicare Advantage where they take capitated risk for those Medicare Advantage beneficiaries. They only do it for 114,000 people. I mean, that's like three times as many as the 39,000 from One Medical. And they've got $1.4 billion in annual revenue. Whereas you're only looking at, you know, you're talking maybe a billion in revenue here for One Medical. So here it is. They only do it for 114,000 people because the Medicare Advantage folks have so much more revenue per person, like they talked about with the legacy Iora folks. So this is a tremendous opportunity for Amazon to actually pivot into a much more revenue-generating business. Which the people at Amazon are incredibly smart. I'm not telling them anything that they don't already know. They know all about ChenMed. They know all about Oak Street. They know exactly what they're doing. And this is a fantastic opportunity for them to pivot. And I think they can do it. And I don't think this is problematic for any digital health company. I mean, if anything, the folks that are really going to need to watch out for this is to see if Amazon actually does pivot. So ChenMed and Oak Street need to watch out to see if Amazon actually does pivot in this direction. Because then that absolutely is going to be head-to-head competition for them. Now, I want to summarize what I've said by saying, look, advanced primary care should be monetized through high utilizers who tend to be your sicker people, who tend to be by definition your older people. Older people are the people who tend to be sicker, who tend to use health care, who have higher health care costs. So the way to monetize advanced primary care is through capitated payments from Medicare Advantage beneficiaries. That's really the way to do it. So will Amazon Care pivot? Will they? I don't know. I can't predict the future. But at the end of the day, this is still good news for all health care startups that are out there. Because health care is so big. I mean, it's almost 20% of the U.S. economy. It is so big that if any company, including Amazon, can just carve out a niche within it, then it can be an incredibly viable business that brings a lot of value to people. Listen, this is not making money for the sake of making money. This is making money because you've actually brought value to people, which you can do. It's doable. Like I've talked about with ChenMed a gazillion times. So Amazon buys one medical. There you have it. And thank you for watching A Healthcare Z.
+
+Detailed segments with timestamps:
+
+[0:00 - 0:06]  Hello, this is Dr. Eric Bricker and thank you for watching A Healthcare Z. Today's topic is
+[0:06 - 0:13]  Amazon Buys One Medical. It is all over the news and so I want to share with you some observations
+[0:13 - 0:20]  that I have about Amazon buying One Medical because I actually do think it brings into
+[0:20 - 0:25]  focus many important ideas. Now first of all, what is One Medical? It's an advanced primary
+[0:25 - 0:36]  care company that is essentially a digital health startup. It went public back in March of 2020 during
+[0:36 - 0:43]  the very beginning of the pandemic and they've got clinics in 17 major cities across America,
+[0:43 - 0:50]  places like San Francisco, Los Angeles, Phoenix, Dallas, Houston, Atlanta and they have about 188
+[0:50 - 0:57]  clinics total. Now as it relates to the transaction between Amazon and One Medical, Amazon bought One
+[0:57 - 1:06]  Medical for $3.9 billion at One Medical's publicly traded company for $18 a share. Now interestingly,
+[1:07 - 1:17]  when One Medical IPO'd back in March of 2020, it had a share price of $14. So here we are
+[1:17 - 1:27]  two years and about three months later and their share price has only gone up $4. Now let me tell
+[1:27 - 1:33]  you, that is not the whole story. This here is a very small graph of what One Medical stock price has
+[1:33 - 1:45]  done. So it started here at $14 a share. It went up to $60 a share and now Amazon is buying it at $18 a share.
+[1:45 - 1:57]  Well, going from $60 a share to $18 a share, that is a 70% decrease in their share price. So just know that the overall
+[1:57 - 2:07]  trajectory of the One Medical stock was down and it's been going down. It really peaked there in about
+[2:07 - 2:33]  an early 2021. So it's been going down continuously for like over a year. Now, if you happen to get in at the IPO at $14, then you would have made a compounded annual growth rate over the two years and three months of about 11.8%. Okay, so that's not horrible. But keep in mind, in terms of overall shareholder value,
+[2:33 - 2:50]  shareholder value, it has dramatically been reduced in the previous 12 months by One Medical. Now, One Medical provides these primary care services. Ironically, One Medical is not one business. It's actually kind of two business. Now they say it's one business, but what happened was
+[2:50 - 3:03]  is that One Medical bought another advanced primary care company called Iora, which actually is a very different business. And I'm going to explain why. So across those two businesses, One Medical and Iora now combined,
+[3:03 - 3:32]  they have 767,000 people that they provide their primary care services to. Now, 728,000 of those people are the quote unquote enterprise clients where One Medical contracts directly with employers or individual consumers can just sign up for One Medical as well. And they basically pay a subscription fee, but it's still fee for service. So One Medical is still billing the insurance for that individual. Now, for 39,000 people, and that was the Iora business,
+[3:32 - 4:02]  they take Medicare Advantage risk, a la Chen Med. So they go to these various Medicare Advantage plans and they say, hey, give us your members and we'll be on the hook completely financially for them. And our primary care physicians will prevent their chronic diseases and manage their chronic diseases and keep them out of the hospital and make them as healthy as possible. And to the extent that they come and it's fully capitated. So to the extent that they lower the healthcare costs, then the cost of the
+[4:02 - 4:16]  company gets to keep the difference. So note here that in the first quarter of 2022, so I went back and I listened to the earnings call for One Medical, they brought in about $250 million in revenue in the first quarter.
+[4:16 - 4:45]  Now, $130 million of that million was from their enterprise business from the 728,000 people, and almost the same amount of revenue, $120 million, was from only 39,000 people. So in other words, the revenue per member from the previous Iora business, in other words, where the company takes on risk for Medicare Advantage members, drives much more revenue per member than
+[4:45 - 5:08]  contracting with the same amount of revenue per member. And contracting with employers. How much more? Well, if you run the math on it, it works out to about $12,300 per member per year for the capitated Medicare Advantage members, whereas for the enterprise members, it's only $714.
+[5:08 - 5:29]  That means that one medical makes 17 times more revenue per member through its capitated Medicare Advantage people as compared to its enterprise members. Look at that. It's almost equal revenue, and it takes 720,000 people on the enterprise side, and it only takes 39,000 people on the Medicare Advantage side.
+[5:29 - 5:51]  So obviously, the Medicare Advantage business drives much more revenue per member. Now, keep in mind, while all this was happening, one medical has only been able to achieve 28% year-over-year growth in its members. And it's done so by losing money every single quarter.
+[5:51 - 6:12]  So it lost $28 million in Q1 of 2022. So here you have, now, its quote-unquote revenue, like, doubled compared to year-over-year. And the reason was because in the previous year, they didn't have Iora. So they didn't have the $120 million.
+[6:12 - 6:18]  So now they got so much more. So you look at the sales growth, and you're like, oh, the revenue doubled. But that's because they acquired Iora.
+[6:18 - 6:29]  But they only organically grew the membership by 28%. And even within Iora, Iora only grew its membership by 18%.
+[6:29 - 6:35]  And these are money-losing businesses. Now, look, these businesses are intentionally money-losing. Like, they are intentionally...
+[6:35 - 6:48]  But the point is, is that, is losing money intentionally, is that more than made up for by organic growth of 28% or 18% on the Medicare Advantage side?
+[6:49 - 6:54]  And, eh, kinda. I mean, high-growth businesses are really in excess of 30% per year.
+[6:55 - 6:59]  And you really want to see high-growth businesses in excess of 40% per year.
+[6:59 - 7:09]  So to a certain extent, one might say that for a money-losing business, the growth rate still wasn't as steep as it should be.
+[7:09 - 7:14]  And arguably, the board of directors for One Medical kind of agreed.
+[7:14 - 7:17]  Because at the end of the day, the board of directors said, hey, look.
+[7:17 - 7:23]  You know, we've got management here who's had our share price go down from 60 to 18.
+[7:23 - 7:26]  And someone's willing to buy us at 18.
+[7:27 - 7:33]  But it's essentially, to a certain extent, like really a sort of a...
+[7:33 - 7:34]  It's kinda like throwing in the towel.
+[7:35 - 7:35]  They're like, look.
+[7:35 - 7:40]  We, you know, here we've destroyed all this shareholder value for all these people on the way down.
+[7:40 - 7:43]  And, of course, they would like to turn that around.
+[7:44 - 7:49]  But instead of turning it around, they just kinda cut their losses and said, well, we're just gonna sell the business at 18.
+[7:49 - 7:50]  Okay?
+[7:50 - 7:51]  So I'm not trying to be overly harsh.
+[7:51 - 7:52]  I'm just saying that, look.
+[7:53 - 7:59]  As they've been growing at 28% in terms of their membership, Wall Street's reaction to that has been very negative.
+[7:59 - 7:59]  Okay?
+[7:59 - 8:02]  So I'm not, again, I'm not trying to be overly critical here.
+[8:02 - 8:03]  It's very hard to run a business.
+[8:04 - 8:06]  But that, I mean, you gotta call a spade a spade.
+[8:07 - 8:09]  That has been the overall direction for One Medical.
+[8:10 - 8:10]  Okay?
+[8:10 - 8:13]  So then let's flip the side and let's look at Amazon Care.
+[8:13 - 8:17]  Well, at the end of the day, Amazon Care hasn't been hitting it out of the park either.
+[8:17 - 8:17]  Okay?
+[8:17 - 8:22]  So Amazon Care is essentially the digital health, like, telemedicine services that they provide for their own employees.
+[8:23 - 8:24]  And they start offering it to other employers as well.
+[8:25 - 8:29]  And, of course, they've only announced, like, three major employer customers that they had.
+[8:29 - 8:31]  The biggest one of which was really recent.
+[8:31 - 8:32]  It was at the end of 2021.
+[8:32 - 8:36]  It was Hilton Hotels for, like, 120,000 or 140,000 of their employees.
+[8:36 - 8:37]  That's kind of a big deal.
+[8:37 - 8:43]  But before that, the other employers that they publicly announced were kind of small.
+[8:43 - 8:44]  Like, one company made bicycles.
+[8:44 - 8:45]  It was bought by Peloton.
+[8:45 - 8:47]  I mean, it was, like, several hundred employees.
+[8:48 - 8:53]  So, and I will tell you that the main challenge that Amazon Care has been having in the marketplace
+[8:53 - 8:59]  is they really have an undifferentiated offering vis-a-vis the telemedicine incumbents.
+[8:59 - 9:02]  Like, literally every single employer in America already has telemedicine.
+[9:02 - 9:04]  And the vast majority of them get it through their carrier.
+[9:05 - 9:07]  And so Amazon Care comes in.
+[9:07 - 9:12]  And they're like, well, we already kind of get this through our carrier or through one of the major telemedicine providers.
+[9:13 - 9:16]  And so the value proposition they really couldn't have.
+[9:16 - 9:21]  You know, in order to unseat the incumbent, you kind of have to have, like, a 10x better value proposition.
+[9:21 - 9:23]  And frankly, they really didn't have it.
+[9:23 - 9:24]  And they were trying.
+[9:25 - 9:29]  But believe me, if they had it, they would not have bought one medical.
+[9:29 - 9:33]  So to a certain extent, there are product people within every organization that are like,
+[9:33 - 9:37]  look, you don't need to acquire some other mouse trap or solution.
+[9:37 - 9:38]  We can build it.
+[9:39 - 9:43]  And at the end of the day, the Amazon folks are like, no, we kind of got to buy it.
+[9:44 - 9:46]  And, you know, listen, Amazon's a huge company.
+[9:46 - 9:51]  But at the end of the day, $3.9 billion is a lot of money to spend on an acquisition.
+[9:52 - 9:54]  And I'm going to put that in context here in a minute.
+[9:54 - 9:58]  So they really had this, and listen, I used to be the chief medical officer of a telemedicine.
+[9:59 - 10:01]  And we would see Amazon, they were a competitor of ours.
+[10:02 - 10:03]  We would see Amazon Care in the marketplace.
+[10:04 - 10:08]  And the overall market reaction was not a feeding frenzy.
+[10:08 - 10:10]  I mean, it was pretty slow.
+[10:11 - 10:15]  So here you have one medical that was not firing on all cylinders.
+[10:15 - 10:18]  And here you have Amazon Care that is also not firing on all cylinders.
+[10:18 - 10:27]  And to put that acquisition in context, AWS, which is the 8,000 pound gorilla, Amazon Web Services,
+[10:27 - 10:34]  which is the 8,000 pound gorilla of Amazon, which had more than $62 billion in revenue last year
+[10:34 - 10:37]  and makes up the majority of the profit for Amazon.
+[10:37 - 10:41]  Amazon makes more money, more profit off of Amazon Web Services by far
+[10:41 - 10:45]  than all of their other online business stuff that they do.
+[10:45 - 10:48]  Okay, so Amazon Web Services, they've made acquisitions too.
+[10:48 - 10:57]  The total acquisitions by Amazon Web Services have only, Amazon has only spent $546 million
+[10:57 - 11:00]  on acquisitions for Amazon Web Services.
+[11:01 - 11:04]  Vis-a-vis the $3.9 billion that they just spent on one medical.
+[11:04 - 11:04]  Look at that.
+[11:04 - 11:09]  They spent seven times more on acquisitions for, on the acquisition for one medical
+[11:09 - 11:14]  than they spent in its entirety for the acquisitions for Amazon Web Services.
+[11:14 - 11:15]  Why?
+[11:15 - 11:18]  Because Amazon Web Services was firing on all cylinders.
+[11:18 - 11:19]  It's been growing like a rocket.
+[11:19 - 11:23]  If you're growing like a rocket, you don't have to make acquisitions.
+[11:24 - 11:26]  So, what's the point here?
+[11:26 - 11:28]  All is not lost.
+[11:28 - 11:32]  I actually think this is a fantastic opportunity for Amazon and Amazon Care.
+[11:32 - 11:33]  And what is that opportunity?
+[11:33 - 11:35]  It's an opportunity for a pivot.
+[11:35 - 11:35]  Okay?
+[11:36 - 11:38]  It's an opportunity to start fresh.
+[11:38 - 11:42]  And you can take what you've learned in Amazon Care so far.
+[11:42 - 11:44]  You can take what one medical has learned so far.
+[11:44 - 11:50]  And you can pivot it into something that's much more meaningful to Amazon as an organization
+[11:50 - 11:51]  and to Amazon shareholders.
+[11:51 - 11:52]  And what is that?
+[11:52 - 11:54]  It's like, look, one medical's got two businesses.
+[11:54 - 11:58]  Like I said, it's got its enterprise business, the companies, and it's got its Medicare Advantage
+[11:58 - 12:00]  where it takes on risk in the form of capitation.
+[12:00 - 12:07]  Now, that enterprise business arguably needs to be de-emphasized slash sunset it.
+[12:07 - 12:07]  That's gotten rid of.
+[12:08 - 12:10]  And why is it just not successful?
+[12:10 - 12:10]  They even say it.
+[12:11 - 12:12]  One medical even says it in their earnings call.
+[12:13 - 12:15]  They only get about 40% quote-unquote activation.
+[12:16 - 12:20]  Utilization is the Achilles heel of every single employer program.
+[12:20 - 12:22]  I'm going to say that again.
+[12:23 - 12:32]  For digital health, the A number one problem that every single solution has is utilization,
+[12:32 - 12:34]  which is the same thing as activation.
+[12:34 - 12:36]  Now, is activation, is it visits?
+[12:36 - 12:37]  Is it phone calls?
+[12:37 - 12:38]  Is it telemedicine visits?
+[12:39 - 12:40]  Is it just clicking on an email?
+[12:41 - 12:42]  Who knows?
+[12:42 - 12:44]  But it's only 40% of the employee population.
+[12:45 - 12:53]  If you're missing 60% of the folks and you only have 5% of the employees that are driving
+[12:53 - 12:58]  50% of the healthcare costs, you could completely miss those 5%ers across that only 40% of which
+[12:58 - 12:59]  you're engaging with.
+[13:00 - 13:04]  So, utilization is problematic for everybody.
+[13:04 - 13:06]  And it's problematic for one medical too.
+[13:06 - 13:07]  This is no different.
+[13:07 - 13:12]  Versus, with the Medicare Advantage business, that's where all the money is.
+[13:12 - 13:16]  I mean, I made, I'll leave a link to it in the show notes.
+[13:17 - 13:21]  I made a video that was so, I mean, it was an unfair title on my part.
+[13:22 - 13:24]  I mean, I called the video, Why Amazon Care Will Fail.
+[13:25 - 13:27]  And here's the reason why Amazon Care, why I said it would fail.
+[13:28 - 13:32]  I said, look, it's because healthcare costs by age, for 19 to 44 year olds, they only spend
+[13:32 - 13:34]  $4,400 per year.
+[13:34 - 13:38]  For 45 to 64 year olds, they only spend $8,400 per year.
+[13:38 - 13:45]  For people that are 65 plus, they spend $18,400 per person, per year.
+[13:45 - 13:46]  Okay, what's working age?
+[13:47 - 13:48]  19 to 64.
+[13:48 - 13:52]  Working age people is not where the healthcare money is.
+[13:52 - 13:55]  The money's in the older people.
+[13:55 - 13:56]  It's in the seniors.
+[13:56 - 14:01]  It's in the people that are on Medicare Advantage plans.
+[14:01 - 14:06]  And as a comparison for that, that's where ChenMet, as a private company, I made multiple
+[14:06 - 14:08]  previous videos about ChenMet.
+[14:08 - 14:09]  You can go back to the watch those.
+[14:09 - 14:11]  And even Oak Street, okay?
+[14:11 - 14:17]  Oak Street is an advanced primary care practice, very similar to One Medical, but they only do
+[14:17 - 14:22]  Medicare Advantage where they take capitated risk for those Medicare Advantage beneficiaries.
+[14:22 - 14:25]  They only do it for 114,000 people.
+[14:25 - 14:30]  I mean, that's like three times as many as the 39,000 from One Medical.
+[14:31 - 14:34]  And they've got $1.4 billion in annual revenue.
+[14:35 - 14:41]  Whereas you're only looking at, you know, you're talking maybe a billion in revenue here for One Medical.
+[14:41 - 14:42]  So here it is.
+[14:42 - 14:47]  They only do it for 114,000 people because the Medicare Advantage folks have so much more
+[14:47 - 14:52]  revenue per person, like they talked about with the legacy Iora folks.
+[14:52 - 15:02]  So this is a tremendous opportunity for Amazon to actually pivot into a much more revenue-generating
+[15:02 - 15:03]  business.
+[15:04 - 15:07]  Which the people at Amazon are incredibly smart.
+[15:07 - 15:10]  I'm not telling them anything that they don't already know.
+[15:10 - 15:11]  They know all about ChenMed.
+[15:11 - 15:13]  They know all about Oak Street.
+[15:13 - 15:15]  They know exactly what they're doing.
+[15:15 - 15:18]  And this is a fantastic opportunity for them to pivot.
+[15:19 - 15:21]  And I think they can do it.
+[15:22 - 15:26]  And I don't think this is problematic for any digital health company.
+[15:27 - 15:31]  I mean, if anything, the folks that are really going to need to watch out for this is to see
+[15:31 - 15:32]  if Amazon actually does pivot.
+[15:32 - 15:36]  So ChenMed and Oak Street need to watch out to see if Amazon actually does pivot in this
+[15:36 - 15:36]  direction.
+[15:36 - 15:40]  Because then that absolutely is going to be head-to-head competition for them.
+[15:40 - 15:47]  Now, I want to summarize what I've said by saying, look, advanced primary care should
+[15:47 - 15:54]  be monetized through high utilizers who tend to be your sicker people, who tend to be by
+[15:54 - 15:56]  definition your older people.
+[15:56 - 16:00]  Older people are the people who tend to be sicker, who tend to use health care, who have
+[16:00 - 16:01]  higher health care costs.
+[16:02 - 16:10]  So the way to monetize advanced primary care is through capitated payments from Medicare
+[16:10 - 16:11]  Advantage beneficiaries.
+[16:12 - 16:13]  That's really the way to do it.
+[16:13 - 16:16]  So will Amazon Care pivot?
+[16:16 - 16:17]  Will they?
+[16:17 - 16:18]  I don't know.
+[16:18 - 16:19]  I can't predict the future.
+[16:19 - 16:25]  But at the end of the day, this is still good news for all health care startups that are
+[16:25 - 16:26]  out there.
+[16:26 - 16:28]  Because health care is so big.
+[16:28 - 16:31]  I mean, it's almost 20% of the U.S. economy.
+[16:31 - 16:39]  It is so big that if any company, including Amazon, can just carve out a niche within it,
+[16:40 - 16:45]  then it can be an incredibly viable business that brings a lot of value to people.
+[16:45 - 16:47]  Listen, this is not making money for the sake of making money.
+[16:48 - 16:53]  This is making money because you've actually brought value to people, which you can do.
+[16:53 - 16:54]  It's doable.
+[16:54 - 16:56]  Like I've talked about with ChenMed a gazillion times.
+[16:57 - 16:59]  So Amazon buys one medical.
+[16:59 - 17:00]  There you have it.
+[17:01 - 17:02]  And thank you for watching A Healthcare Z.
